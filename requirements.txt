@@ -3,4 +3,4 @@ fastapi
 uvicorn
 google-cloud-aiplatform
 google-cloud-texttospeech
-pydantic-settings  # Usaremos esto para cargar el .env
+pydantic-settings  # Usaremos esto para cargar el .envpython-multipart

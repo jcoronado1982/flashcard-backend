@@ -1,148 +1,148 @@
 [
-  {
-    "name": "run out",
-    "phonetic": "/rʌn aʊt/",
-    "spoken_phonetic_us": "/rʌ 'naʊt/",
-    "search_term": "phrasal verb/exhaust/supply/finish",
-    "is_phrasal_verb": true,
-    "learned": false,
-    "force_generation": false,
-    "definitions": [
-      {
-        "meaning": "Agotarse, quedarse sin (algo)",
-        "usage_example": "We ran out of milk this morning.",
-        "pronunciation_guide_es": "/ui_ran_AUT_ov_MILK_dis_MORning/",
-        "alternative_example": "We exhausted our supply of milk this morning.",
-        "usage_example_es": "Nos quedamos sin leche esta mañana.",
-        "char_count": "one",
-        "usage_context_en": "supplies/shortage",
-        "usage_context_es": "suministros/escasez"
-      }
-    ]
-  },
-  {
-    "name": "run into",
-    "phonetic": "/rʌn ˈɪntu/",
-    "spoken_phonetic_us": "/rʌn ˈɪndu/",
-    "search_term": "phrasal verb/meet unexpectedly/collide",
-    "is_phrasal_verb": true,
-    "learned": false,
-    "force_generation": false,
-    "definitions": [
-      {
-        "meaning": "Encontrarse con (alguien) por casualidad",
-        "usage_example": "I ran into my old teacher at the store.",
-        "pronunciation_guide_es": "/ai_ran_INdu_mai_OLD_TIcher_at_de_STOR/",
-        "alternative_example": "I met my old teacher unexpectedly at the store.",
-        "usage_example_es": "Me encontré con mi antiguo profesor en la tienda.",
-        "char_count": "one",
-        "usage_context_en": "unexpected meeting",
-        "usage_context_es": "encuentro inesperado"
-      },
-      {
-        "meaning": "Chocar con (algo)",
-        "usage_example": "He ran into a tree with his bike.",
-        "pronunciation_guide_es": "/hi_ran_INdu_a_TRI_uith_his_BAIK/",
-        "alternative_example": "He collided with a tree with his bike.",
-        "usage_example_es": "Chocó contra un árbol con su bicicleta.",
-        "char_count": "one",
-        "usage_context_en": "collision/accident",
-        "usage_context_es": "colisión/accidente"
-      }
-    ]
-  },
-  {
-    "name": "run over",
-    "phonetic": "/rʌn ˈoʊvər/",
-    "spoken_phonetic_us": "/rʌn ˈoʊvər/",
-    "search_term": "phrasal verb/hit with vehicle/exceed time",
-    "is_phrasal_verb": true,
-    "learned": false,
-    "force_generation": false,
-    "definitions": [
-      {
-        "meaning": "Atropellar (con un vehículo)",
-        "usage_example": "A bus ran over his bicycle.",
-        "pronunciation_guide_es": "/a_BAS_ran_Over_his_BAIsikol/",
-        "alternative_example": "A bus hit his bicycle.",
-        "usage_example_es": "Un autobús atropelló su bicicleta.",
-        "char_count": "one",
-        "usage_context_en": "driving/accident",
-        "usage_context_es": "conducir/accidente"
-      },
-      {
-        "meaning": "Excederse (del tiempo), pasarse",
-        "usage_example": "The meeting ran over by 10 minutes.",
-        "pronunciation_guide_es": "/de_MIring_ran_Over_bai_TEN_MInits/",
-        "alternative_example": "The meeting exceeded the time by 10 minutes.",
-        "usage_example_es": "La reunión se pasó 10 minutos.",
-        "char_count": "one",
-        "usage_context_en": "time/schedule",
-        "usage_context_es": "tiempo/horario"
-      }
-    ]
-  },
-  {
-    "name": "run away",
-    "phonetic": "/rʌn əˈweɪ/",
-    "spoken_phonetic_us": "/rʌn əˈweɪ/",
-    "search_term": "phrasal verb/escape/flee",
-    "is_phrasal_verb": true,
-    "learned": false,
-    "force_generation": false,
-    "definitions": [
-      {
-        "meaning": "Escapar, huir (especialmente de casa)",
-        "usage_example": "The dog ran away, but we found him.",
-        "pronunciation_guide_es": "/de_DOG_ran_aUEI, bat_ui_FAUND_him/",
-        "alternative_example": "The dog escaped, but we found him.",
-        "usage_example_es": "El perro se escapó, pero lo encontramos.",
-        "char_count": "one",
-        "usage_context_en": "escape/fleeing",
-        "usage_context_es": "escape/huida"
-      }
-    ]
-  },
-  {
-    "name": "run through",
-    "phonetic": "/rʌn θru/",
-    "spoken_phonetic_us": "/rʌn θru/",
-    "search_term": "phrasal verb/review/rehearse/practice",
-    "is_phrasal_verb": true,
-    "learned": false,
-    "force_generation": false,
-    "definitions": [
-      {
-        "meaning": "Repasar, ensayar (rápidamente)",
-        "usage_example": "Let's run through the plan one more time.",
-        "pronunciation_guide_es": "/lets_ran_THRU_de_PLAN_uan_MOR_TAIM/",
-        "alternative_example": "Let's review the plan one more time.",
-        "usage_example_es": "Repasemos el plan una vez más.",
-        "char_count": "one",
-        "usage_context_en": "practice/rehearsal",
-        "usage_context_es": "práctica/ensayo"
-      }
-    ]
-  },
-  {
-    "name": "run by",
-    "phonetic": "/rʌn baɪ/",
-    "spoken_phonetic_us": "/rʌn baɪ/",
-    "search_term": "phrasal verb/consult/get opinion",
-    "is_phrasal_verb": true,
-    "learned": false,
-    "force_generation": false,
-    "definitions": [
-      {
-        "meaning": "Consultar (una idea) con (alguien)",
-        "usage_example": "Can I run this idea by you quickly?",
-        "pronunciation_guide_es": "/kæn_ai_RAN_dis_aiDIa_BAI_iu_KUIKli/",
-        "alternative_example": "Can I tell you this idea for your opinion?",
-        "usage_example_es": "¿Puedo consultarte esta idea rápidamente?",
-        "char_count": "one",
-        "usage_context_en": "work/getting opinion",
-        "usage_context_es": "trabajo/pedir opinión"
-      }
-    ]
-  }
+    {
+        "name": "run out",
+        "phonetic": "/rʌn aʊt/",
+        "spoken_phonetic_us": "/rʌ 'naʊt/",
+        "search_term": "phrasal verb/exhaust/supply/finish",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Agotarse, quedarse sin (algo)",
+                "usage_example": "We ran out of milk this morning.",
+                "pronunciation_guide_es": "/ui_ran_AUT_ov_MILK_dis_MORning/",
+                "alternative_example": "We exhausted our supply of milk this morning.",
+                "usage_example_es": "Nos quedamos sin leche esta mañana.",
+                "char_count": "one",
+                "usage_context_en": "supplies/shortage",
+                "usage_context_es": "suministros/escasez"
+            }
+        ]
+    },
+    {
+        "name": "run into",
+        "phonetic": "/rʌn ˈɪntu/",
+        "spoken_phonetic_us": "/rʌn ˈɪndu/",
+        "search_term": "phrasal verb/meet unexpectedly/collide",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Encontrarse con (alguien) por casualidad",
+                "usage_example": "I ran into my old teacher at the store.",
+                "pronunciation_guide_es": "/ai_ran_INdu_mai_OLD_TIcher_at_de_STOR/",
+                "alternative_example": "I met my old teacher unexpectedly at the store.",
+                "usage_example_es": "Me encontré con mi antiguo profesor en la tienda.",
+                "char_count": "one",
+                "usage_context_en": "unexpected meeting",
+                "usage_context_es": "encuentro inesperado"
+            },
+            {
+                "meaning": "Chocar con (algo)",
+                "usage_example": "He ran into a tree with his bike.",
+                "pronunciation_guide_es": "/hi_ran_INdu_a_TRI_uith_his_BAIK/",
+                "alternative_example": "He collided with a tree with his bike.",
+                "usage_example_es": "Chocó contra un árbol con su bicicleta.",
+                "char_count": "one",
+                "usage_context_en": "collision/accident",
+                "usage_context_es": "colisión/accidente"
+            }
+        ]
+    },
+    {
+        "name": "run over",
+        "phonetic": "/rʌn ˈoʊvər/",
+        "spoken_phonetic_us": "/rʌn ˈoʊvər/",
+        "search_term": "phrasal verb/hit with vehicle/exceed time",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Atropellar (con un vehículo)",
+                "usage_example": "A bus ran over his bicycle.",
+                "pronunciation_guide_es": "/a_BAS_ran_Over_his_BAIsikol/",
+                "alternative_example": "A bus hit his bicycle.",
+                "usage_example_es": "Un autobús atropelló su bicicleta.",
+                "char_count": "one",
+                "usage_context_en": "driving/accident",
+                "usage_context_es": "conducir/accidente"
+            },
+            {
+                "meaning": "Excederse (del tiempo), pasarse",
+                "usage_example": "The meeting ran over by 10 minutes.",
+                "pronunciation_guide_es": "/de_MIring_ran_Over_bai_TEN_MInits/",
+                "alternative_example": "The meeting exceeded the time by 10 minutes.",
+                "usage_example_es": "La reunión se pasó 10 minutos.",
+                "char_count": "one",
+                "usage_context_en": "time/schedule",
+                "usage_context_es": "tiempo/horario"
+            }
+        ]
+    },
+    {
+        "name": "run away",
+        "phonetic": "/rʌn əˈweɪ/",
+        "spoken_phonetic_us": "/rʌn əˈweɪ/",
+        "search_term": "phrasal verb/escape/flee",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Escapar, huir (especialmente de casa)",
+                "usage_example": "The dog ran away, but we found him.",
+                "pronunciation_guide_es": "/de_DOG_ran_aUEI, bat_ui_FAUND_him/",
+                "alternative_example": "The dog escaped, but we found him.",
+                "usage_example_es": "El perro se escapó, pero lo encontramos.",
+                "char_count": "one",
+                "usage_context_en": "escape/fleeing",
+                "usage_context_es": "escape/huida"
+            }
+        ]
+    },
+    {
+        "name": "run through",
+        "phonetic": "/rʌn θru/",
+        "spoken_phonetic_us": "/rʌn θru/",
+        "search_term": "phrasal verb/review/rehearse/practice",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Repasar, ensayar (rápidamente)",
+                "usage_example": "Let's run through the plan one more time.",
+                "pronunciation_guide_es": "/lets_ran_THRU_de_PLAN_uan_MOR_TAIM/",
+                "alternative_example": "Let's review the plan one more time.",
+                "usage_example_es": "Repasemos el plan una vez más.",
+                "char_count": "one",
+                "usage_context_en": "practice/rehearsal",
+                "usage_context_es": "práctica/ensayo"
+            }
+        ]
+    },
+    {
+        "name": "run by",
+        "phonetic": "/rʌn baɪ/",
+        "spoken_phonetic_us": "/rʌn baɪ/",
+        "search_term": "phrasal verb/consult/get opinion",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Consultar (una idea) con (alguien)",
+                "usage_example": "Can I run this idea by you quickly?",
+                "pronunciation_guide_es": "/kæn_ai_RAN_dis_aiDIa_BAI_iu_KUIKli/",
+                "alternative_example": "Can I tell you this idea for your opinion?",
+                "usage_example_es": "¿Puedo consultarte esta idea rápidamente?",
+                "char_count": "one",
+                "usage_context_en": "work/getting opinion",
+                "usage_context_es": "trabajo/pedir opinión"
+            }
+        ]
+    }
 ]

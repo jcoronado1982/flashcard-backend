@@ -5,7 +5,7 @@
         "spoken_phonetic_us": "/biː/",
         "search_term": "verb/to be/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -36,7 +36,7 @@
         "spoken_phonetic_us": "/hæv/",
         "search_term": "verb/ownership/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -67,7 +67,7 @@
         "spoken_phonetic_us": "/duː/",
         "search_term": "verb/action/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -98,7 +98,7 @@
         "spoken_phonetic_us": "/seɪ/",
         "search_term": "verb/speech/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -129,7 +129,7 @@
         "spoken_phonetic_us": "/ɡɛt/",
         "search_term": "verb/obtain/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -160,7 +160,7 @@
         "spoken_phonetic_us": "/meɪk/",
         "search_term": "verb/create/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -191,7 +191,7 @@
         "spoken_phonetic_us": "/ɡoʊ/",
         "search_term": "verb/movement/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -222,7 +222,7 @@
         "spoken_phonetic_us": "/noʊ/",
         "search_term": "verb/knowledge/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -253,7 +253,7 @@
         "spoken_phonetic_us": "/teɪk/",
         "search_term": "verb/transport/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -284,7 +284,7 @@
         "spoken_phonetic_us": "/siː/",
         "search_term": "verb/vision/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -315,7 +315,7 @@
         "spoken_phonetic_us": "/θɪŋk/",
         "search_term": "verb/opinion/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -346,7 +346,7 @@
         "spoken_phonetic_us": "/kʌm/",
         "search_term": "verb/movement/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -377,7 +377,7 @@
         "spoken_phonetic_us": "/ɡɪv/",
         "search_term": "verb/transfer/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -408,7 +408,7 @@
         "spoken_phonetic_us": "/juːz/",
         "search_term": "verb/utility/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -439,7 +439,7 @@
         "spoken_phonetic_us": "/faɪnd/",
         "search_term": "verb/discover/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -470,7 +470,7 @@
         "spoken_phonetic_us": "/wɑːnt/",
         "search_term": "verb/desire/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -501,7 +501,7 @@
         "spoken_phonetic_us": "/tɛl/",
         "search_term": "verb/inform/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -532,7 +532,7 @@
         "spoken_phonetic_us": "/pʊt/",
         "search_term": "verb/place/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -563,7 +563,7 @@
         "spoken_phonetic_us": "/miːn/",
         "search_term": "verb/signify/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -594,7 +594,7 @@
         "spoken_phonetic_us": "/wɜːrk/",
         "search_term": "verb/employment/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -625,7 +625,7 @@
         "spoken_phonetic_us": "/niːd/",
         "search_term": "verb/necessity/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -656,7 +656,7 @@
         "spoken_phonetic_us": "/fiːl/",
         "search_term": "verb/emotion/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -687,7 +687,7 @@
         "spoken_phonetic_us": "/kɔːl/",
         "search_term": "verb/name/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -718,7 +718,7 @@
         "spoken_phonetic_us": "/æsk/",
         "search_term": "verb/question/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -749,7 +749,7 @@
         "spoken_phonetic_us": "/traɪ/",
         "search_term": "verb/attempt/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -780,7 +780,7 @@
         "spoken_phonetic_us": "/kiːp/",
         "search_term": "verb/retain/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -811,7 +811,7 @@
         "spoken_phonetic_us": "/lɛt/",
         "search_term": "verb/allow/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -842,7 +842,7 @@
         "spoken_phonetic_us": "/bɪˈɡɪn/",
         "search_term": "verb/start/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -873,7 +873,7 @@
         "spoken_phonetic_us": "/siːm/",
         "search_term": "verb/appear/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -904,7 +904,7 @@
         "spoken_phonetic_us": "/hɛlp/",
         "search_term": "verb/assist/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -935,7 +935,7 @@
         "spoken_phonetic_us": "/tɜːrn/",
         "search_term": "verb/rotate/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -966,7 +966,7 @@
         "spoken_phonetic_us": "/stɑːrt/",
         "search_term": "verb/begin/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -997,7 +997,7 @@
         "spoken_phonetic_us": "/ʃoʊ/",
         "search_term": "verb/display/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1028,7 +1028,7 @@
         "spoken_phonetic_us": "/hɪər/",
         "search_term": "verb/sound/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1059,7 +1059,7 @@
         "spoken_phonetic_us": "/pleɪ/",
         "search_term": "verb/game/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1090,7 +1090,7 @@
         "spoken_phonetic_us": "/rʌn/",
         "search_term": "verb/move/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1121,7 +1121,7 @@
         "spoken_phonetic_us": "/muːv/",
         "search_term": "verb/change position/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1152,7 +1152,7 @@
         "spoken_phonetic_us": "/laɪk/",
         "search_term": "verb/preference/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1183,7 +1183,7 @@
         "spoken_phonetic_us": "/lɪv/",
         "search_term": "verb/reside/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1214,7 +1214,7 @@
         "spoken_phonetic_us": "/tɔːk/",
         "search_term": "verb/speak/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1245,7 +1245,7 @@
         "spoken_phonetic_us": "/hoʊld/",
         "search_term": "verb/grasp/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1288,7 +1288,7 @@
                 "char_count": "one",
                 "usage_context_en": "delivery/transport",
                 "usage_context_es": "entrega/transporte",
-                "imagePath": "/card_images/verbs/1-basic/1-basic_card_41_def0.jpg"
+                "imagePath": null
             },
             {
                 "meaning": "Causar/Generar",
@@ -1299,7 +1299,7 @@
                 "char_count": "one",
                 "usage_context_en": "cause/result",
                 "usage_context_es": "causa/resultado",
-                "imagePath": "/card_images/verbs/1-basic/1-basic_card_41_def1.jpg"
+                "imagePath": null
             }
         ]
     },
@@ -1309,7 +1309,7 @@
         "spoken_phonetic_us": "/ˈhæpən/",
         "search_term": "verb/occur/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1340,7 +1340,7 @@
         "spoken_phonetic_us": "/raɪt/",
         "search_term": "verb/compose/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1371,7 +1371,7 @@
         "spoken_phonetic_us": "/sɪt/",
         "search_term": "verb/rest/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1402,7 +1402,7 @@
         "spoken_phonetic_us": "/stænd/",
         "search_term": "verb/position/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1433,7 +1433,7 @@
         "spoken_phonetic_us": "/peɪ/",
         "search_term": "verb/money/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1464,7 +1464,7 @@
         "spoken_phonetic_us": "/miːt/",
         "search_term": "verb/encounter/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1495,7 +1495,7 @@
         "spoken_phonetic_us": "/wɔːk/",
         "search_term": "verb/move/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1526,7 +1526,7 @@
         "spoken_phonetic_us": "/weɪt/",
         "search_term": "verb/delay/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1557,7 +1557,7 @@
         "spoken_phonetic_us": "/bɪˈkʌm/",
         "search_term": "verb/change/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1588,7 +1588,7 @@
         "spoken_phonetic_us": "/liːv/",
         "search_term": "verb/depart/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1619,7 +1619,7 @@
         "spoken_phonetic_us": "/bɪˈliːv/",
         "search_term": "verb/faith/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1650,7 +1650,7 @@
         "spoken_phonetic_us": "/ˈoʊpən/",
         "search_term": "verb/unseal/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1681,7 +1681,7 @@
         "spoken_phonetic_us": "/riːd/",
         "search_term": "verb/literature/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1712,7 +1712,7 @@
         "spoken_phonetic_us": "/wɑːʧ/",
         "search_term": "verb/observe/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1743,7 +1743,7 @@
         "spoken_phonetic_us": "/ˈfɑːloʊ/",
         "search_term": "verb/pursue/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1774,7 +1774,7 @@
         "spoken_phonetic_us": "/stɑːp/",
         "search_term": "verb/cease/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1805,7 +1805,7 @@
         "spoken_phonetic_us": "/lɜːrn/",
         "search_term": "verb/acquire knowledge/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1836,7 +1836,7 @@
         "spoken_phonetic_us": "/ʧeɪnʤ/",
         "search_term": "verb/modify/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1867,7 +1867,7 @@
         "spoken_phonetic_us": "/wɪn/",
         "search_term": "verb/succeed/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1898,7 +1898,7 @@
         "spoken_phonetic_us": "/luːz/",
         "search_term": "verb/misplace/essentials",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1929,7 +1929,7 @@
         "spoken_phonetic_us": "/daɪ/",
         "search_term": "verb/cease life/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1960,7 +1960,7 @@
         "spoken_phonetic_us": "/sɛnd/",
         "search_term": "verb/dispatch/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -1991,7 +1991,7 @@
         "spoken_phonetic_us": "/fɔːl/",
         "search_term": "verb/drop/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -2022,7 +2022,7 @@
         "spoken_phonetic_us": "/kʌt/",
         "search_term": "verb/separate/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -2053,7 +2053,7 @@
         "spoken_phonetic_us": "/pæs/",
         "search_term": "verb/go by/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -2084,7 +2084,7 @@
         "spoken_phonetic_us": "/sɛl/",
         "search_term": "verb/trade/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
@@ -2127,7 +2127,7 @@
                 "char_count": "one",
                 "usage_context_en": "doors/force",
                 "usage_context_es": "puertas/fuerza",
-                "imagePath": "/card_images/verbs/1-basic/1-basic_card_68_def0.jpg"
+                "imagePath": null
             },
             {
                 "meaning": "Extraer/Sacar",
@@ -2138,7 +2138,7 @@
                 "char_count": "one",
                 "usage_context_en": "extraction/rescue",
                 "usage_context_es": "extracción/rescate",
-                "imagePath": "/card_images/verbs/1-basic/1-basic_card_68_def1.jpg"
+                "imagePath": null
             }
         ]
     },
@@ -2160,7 +2160,7 @@
                 "char_count": "one",
                 "usage_context_en": "force/buttons",
                 "usage_context_es": "fuerza/botones",
-                "imagePath": "/card_images/verbs/1-basic/1-basic_card_69_def0.jpg"
+                "imagePath": null
             },
             {
                 "meaning": "Impulsar/Animar",
@@ -2171,7 +2171,7 @@
                 "char_count": "one",
                 "usage_context_en": "motivation/wind",
                 "usage_context_es": "motivación/viento",
-                "imagePath": "/card_images/verbs/1-basic/1-basic_card_69_def1.jpg"
+                "imagePath": null
             }
         ]
     },
@@ -2181,7 +2181,7 @@
         "spoken_phonetic_us": "/hoʊp/",
         "search_term": "verb/wish/level_up",
         "is_verb": true,
-        "learned": true,
+        "learned": false,
         "force_generation": false,
         "definitions": [
             {
