@@ -1,0 +1,701 @@
+[
+    {
+        "name": "very",
+        "phonetic": "/ˈvɛri/",
+        "spoken_phonetic_us": "/ˈvɛri/",
+        "search_term": "adverb/degree",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Degree",
+        "definitions": [
+            {
+                "meaning": "Muy",
+                "usage_example": "It is very hot today.",
+                "pronunciation_guide_es": "/it_is_VE-ri_HOT_tu-DEI/",
+                "usage_example_es": "Hace mucho calor hoy.",
+                "char_count": "5",
+                "usage_context_en": "Used to intensify an adjective or adverb.",
+                "usage_context_es": "Usado para intensificar un adjetivo o adverbio."
+            }
+        ]
+    },
+    {
+        "name": "really",
+        "phonetic": "/ˈriːəli/",
+        "spoken_phonetic_us": "/ˈriːli/",
+        "search_term": "adverb/degree",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Degree",
+        "definitions": [
+            {
+                "meaning": "Realmente / Muy",
+                "usage_example": "This food is really good.",
+                "pronunciation_guide_es": "/dis_FUD_is_RI-li_GUD/",
+                "usage_example_es": "Esta comida es realmente buena (muy buena).",
+                "char_count": "5",
+                "usage_context_en": "Used to mean 'very' or to emphasize a statement.",
+                "usage_context_es": "Usado para significar 'muy' o para enfatizar una declaración."
+            }
+        ]
+    },
+    {
+        "name": "well",
+        "phonetic": "/wɛl/",
+        "spoken_phonetic_us": "/wɛl/",
+        "search_term": "adverb/manner",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Manner",
+        "definitions": [
+            {
+                "meaning": "Bien",
+                "usage_example": "You speak English well.",
+                "pronunciation_guide_es": "/iu_SPIK_ING-glish_UEL/",
+                "usage_example_es": "Hablas bien inglés.",
+                "char_count": "4",
+                "usage_context_en": "The adverb form of 'good'; in a satisfactory way.",
+                "usage_context_es": "La forma adverbial de 'good'; de manera satisfactoria."
+            }
+        ]
+    },
+    {
+        "name": "slowly",
+        "phonetic": "/ˈsloʊli/",
+        "spoken_phonetic_us": "/ˈsloʊli/",
+        "search_term": "adverb/manner",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Manner",
+        "definitions": [
+            {
+                "meaning": "Lentamente / Despacio",
+                "usage_example": "He walks very slowly.",
+                "pronunciation_guide_es": "/hi_UOKS_VE-ri_SLOU-li/",
+                "usage_example_es": "Él camina muy despacio.",
+                "char_count": "4",
+                "usage_context_en": "At a slow speed.",
+                "usage_context_es": "A baja velocidad."
+            }
+        ]
+    },
+    {
+        "name": "quickly",
+        "phonetic": "/ˈkwɪkli/",
+        "spoken_phonetic_us": "/ˈkwɪkli/",
+        "search_term": "adverb/manner",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Manner",
+        "definitions": [
+            {
+                "meaning": "Rápidamente / Rápido",
+                "usage_example": "She finished the test quickly.",
+                "pronunciation_guide_es": "/shi_FI-nisht_de_TEST_CUIK-li/",
+                "usage_example_es": "Ella terminó el examen rápidamente.",
+                "char_count": "5",
+                "usage_context_en": "At a fast speed; fast.",
+                "usage_context_es": "A alta velocidad; rápido."
+            }
+        ]
+    },
+    {
+        "name": "badly",
+        "phonetic": "/ˈbædli/",
+        "spoken_phonetic_us": "/ˈbædli/",
+        "search_term": "adverb/manner",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Manner",
+        "definitions": [
+            {
+                "meaning": "Mal / Malamente",
+                "usage_example": "He sings badly.",
+                "pronunciation_guide_es": "/hi_SINGS_BAD-li/",
+                "usage_example_es": "Él canta mal.",
+                "char_count": "3",
+                "usage_context_en": "The adverb form of 'bad'; in an unsatisfactory or poor way.",
+                "usage_context_es": "La forma adverbial de 'bad'; de manera insatisfactoria o pobre.",
+                "imagePath": "/card_images/adverbs/1-basic/1-basic_card_5_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "always",
+        "phonetic": "/ˈɔːlweɪz/",
+        "spoken_phonetic_us": "/ˈɔlweɪz/",
+        "search_term": "adverb/frequency",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Frequency",
+        "definitions": [
+            {
+                "meaning": "Siempre",
+                "usage_example": "I always wake up early.",
+                "pronunciation_guide_es": "/ai_OL-ueis_UEIK_OP_ER-li/",
+                "usage_example_es": "Siempre me despierto temprano.",
+                "char_count": "5",
+                "usage_context_en": "At all times; on every occasion (100% of the time).",
+                "usage_context_es": "En todo momento; en cada ocasión (100% del tiempo)."
+            }
+        ]
+    },
+    {
+        "name": "usually",
+        "phonetic": "/ˈjuːʒuəli/",
+        "spoken_phonetic_us": "/ˈjuːʒuəli/",
+        "search_term": "adverb/frequency",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Frequency",
+        "definitions": [
+            {
+                "meaning": "Usualmente / Generalmente",
+                "usage_example": "I usually drink coffee.",
+                "pronunciation_guide_es": "/ai_IU-shu-a-li_DRINK_CO-fi/",
+                "usage_example_es": "Usualmente tomo café.",
+                "char_count": "4",
+                "usage_context_en": "Under normal conditions; generally (approx. 80-90% of the time).",
+                "usage_context_es": "Bajo condiciones normales; generalmente (aprox. 80-90% del tiempo)."
+            }
+        ]
+    },
+    {
+        "name": "often",
+        "phonetic": "/ˈɒfən/",
+        "spoken_phonetic_us": "/ˈɔfən/",
+        "search_term": "adverb/frequency",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Frequency",
+        "definitions": [
+            {
+                "meaning": "A menudo / Frecuentemente",
+                "usage_example": "I often go to the gym.",
+                "pronunciation_guide_es": "/ai_OF-en_GOU_tu_de_YIM/",
+                "usage_example_es": "Voy al gimnasio a menudo.",
+                "char_count": "6",
+                "usage_context_en": "Frequently; many times (approx. 60-70% of the time).",
+                "usage_context_es": "Frecuentemente; muchas veces (aprox. 60-70% del tiempo)."
+            }
+        ]
+    },
+    {
+        "name": "sometimes",
+        "phonetic": "/ˈsʌmtaɪmz/",
+        "spoken_phonetic_us": "/ˈsʌmtaɪmz/",
+        "search_term": "adverb/frequency",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Frequency",
+        "definitions": [
+            {
+                "meaning": "A veces",
+                "usage_example": "I sometimes work late.",
+                "pronunciation_guide_es": "/ai_SOM-taims_UORK_LEIT/",
+                "usage_example_es": "A veces trabajo hasta tarde.",
+                "char_count": "4",
+                "usage_context_en": "Occasionally; not always (approx. 20-40% of the time).",
+                "usage_context_es": "Ocasionalmente; no siempre (aprox. 20-40% del tiempo)."
+            }
+        ]
+    },
+    {
+        "name": "never",
+        "phonetic": "/ˈnɛvər/",
+        "spoken_phonetic_us": "/ˈnɛvər/",
+        "search_term": "adverb/frequency",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Frequency",
+        "definitions": [
+            {
+                "meaning": "Nunca",
+                "usage_example": "I never eat meat.",
+                "pronunciation_guide_es": "/ai_NE-ver_IT_MIT/",
+                "usage_example_es": "Nunca como carne.",
+                "char_count": "4",
+                "usage_context_en": "At no time in the past or future; not ever (0% of the time).",
+                "usage_context_es": "En ningún momento en el pasado o futuro; jamás (0% del tiempo)."
+            }
+        ]
+    },
+    {
+        "name": "now",
+        "phonetic": "/naʊ/",
+        "spoken_phonetic_us": "/naʊ/",
+        "search_term": "adverb/time",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Time",
+        "definitions": [
+            {
+                "meaning": "Ahora",
+                "usage_example": "I have to leave now.",
+                "pronunciation_guide_es": "/ai_HAV_tu_LIV_NAU/",
+                "usage_example_es": "Tengo que irme ahora.",
+                "char_count": 5,
+                "usage_context_en": "At the present time or moment.",
+                "usage_context_es": "En el tiempo o momento presente."
+            }
+        ]
+    },
+    {
+        "name": "then",
+        "phonetic": "/ðɛn/",
+        "spoken_phonetic_us": "/ðɛn/",
+        "search_term": "adverb/time/sequence",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Adverbs: Time",
+        "definitions": [
+            {
+                "meaning": "Entonces / En ese momento",
+                "usage_example": "I was young then.",
+                "pronunciation_guide_es": "/ai_uas_IONG_DEN/",
+                "usage_example_es": "Yo era joven en ese momento.",
+                "char_count": 4,
+                "usage_context_en": "Referring to a specific time in the past or future.",
+                "usage_context_es": "Refiriéndose a un tiempo específico en el pasado o futuro.",
+                "imagePath": "/card_images/adverbs/1-basic/1-basic_card_12_def0.jpg"
+            },
+            {
+                "meaning": "Luego / Después",
+                "usage_example": "First I work, then I rest.",
+                "pronunciation_guide_es": "/FIRST_ai_UORK_den_ai_REST/",
+                "usage_example_es": "Primero trabajo, luego descanso.",
+                "char_count": 5,
+                "usage_context_en": "Used to indicate what happens next in a sequence.",
+                "usage_context_es": "Usado para indicar lo que sucede a continuación en una secuencia.",
+                "imagePath": "/card_images/adverbs/1-basic/1-basic_card_12_def1.jpg"
+            }
+        ]
+    },
+    {
+        "name": "today",
+        "phonetic": "/təˈdeɪ/",
+        "spoken_phonetic_us": "/təˈdeɪ/",
+        "search_term": "adverb/time",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Time",
+        "definitions": [
+            {
+                "meaning": "Hoy",
+                "usage_example": "I have to work today.",
+                "pronunciation_guide_es": "/ai_HAV_tu_UORK_tu-DEI/",
+                "usage_example_es": "Tengo que trabajar hoy.",
+                "char_count": 5,
+                "usage_context_en": "On or during this present day.",
+                "usage_context_es": "En o durante este día presente."
+            }
+        ]
+    },
+    {
+        "name": "yesterday",
+        "phonetic": "/ˈjɛstərdeɪ/",
+        "spoken_phonetic_us": "/ˈjɛstərdeɪ/",
+        "search_term": "adverb/time",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Time",
+        "definitions": [
+            {
+                "meaning": "Ayer",
+                "usage_example": "I saw him yesterday.",
+                "pronunciation_guide_es": "/ai_SO_him_IES-ter-dei/",
+                "usage_example_es": "Lo vi ayer.",
+                "char_count": 4,
+                "usage_context_en": "On the day before today.",
+                "usage_context_es": "En el día antes de hoy."
+            }
+        ]
+    },
+    {
+        "name": "tomorrow",
+        "phonetic": "/təˈmɒroʊ/",
+        "spoken_phonetic_us": "/təˈmɑːroʊ/",
+        "search_term": "adverb/time",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Time",
+        "definitions": [
+            {
+                "meaning": "Mañana",
+                "usage_example": "See you tomorrow.",
+                "pronunciation_guide_es": "/SI_iu_tu-MO-rou/",
+                "usage_example_es": "Nos vemos mañana.",
+                "char_count": 3,
+                "usage_context_en": "On the day after today.",
+                "usage_context_es": "En el día después de hoy."
+            }
+        ]
+    },
+    {
+        "name": "here",
+        "phonetic": "/hɪər/",
+        "spoken_phonetic_us": "/hɪr/",
+        "search_term": "adverb/place",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Place",
+        "definitions": [
+            {
+                "meaning": "Aquí / Acá",
+                "usage_example": "Please come here.",
+                "pronunciation_guide_es": "/PLIS_com_HIR/",
+                "usage_example_es": "Por favor, ven aquí.",
+                "char_count": 3,
+                "usage_context_en": "In, at, or to this present place.",
+                "usage_context_es": "En, o a este lugar presente."
+            }
+        ]
+    },
+    {
+        "name": "there",
+        "phonetic": "/ðɛər/",
+        "spoken_phonetic_us": "/ðɛr/",
+        "search_term": "adverb/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Adverbs: Place",
+        "definitions": [
+            {
+                "meaning": "Allí / Allá",
+                "usage_example": "The book is over there.",
+                "pronunciation_guide_es": "/de_BUK_is_OU-ver_DER/",
+                "usage_example_es": "El libro está allá.",
+                "char_count": 5,
+                "usage_context_en": "In, at, or to that place (not here).",
+                "usage_context_es": "En, o a ese lugar (no aquí).",
+                "imagePath": "/card_images/adverbs/1-basic/1-basic_card_17_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "inside",
+        "phonetic": "/ɪnˈsaɪd/",
+        "spoken_phonetic_us": "/ɪnˈsaɪd/",
+        "search_term": "adverb/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Adverbs: Place",
+        "definitions": [
+            {
+                "meaning": "Adentro",
+                "usage_example": "It's cold. Let's go inside.",
+                "pronunciation_guide_es": "/its_COLD_lets_gou_in-SAID/",
+                "usage_example_es": "Hace frío. Vayamos adentro.",
+                "char_count": 5,
+                "usage_context_en": "Used as an adverb to mean 'on or in the interior'.",
+                "usage_context_es": "Usado como adverbio para significar 'en o en el interior'.",
+                "imagePath": "/card_images/adverbs/1-basic/1-basic_card_18_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "outside",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "spoken_phonetic_us": "/ˌaʊtˈsaɪd/",
+        "search_term": "adverb/place",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Place",
+        "definitions": [
+            {
+                "meaning": "Afuera",
+                "usage_example": "The children are playing outside.",
+                "pronunciation_guide_es": "/de_CHIL-dren_ar_PLEI-ing_aut-SAID/",
+                "usage_example_es": "Los niños están jugando afuera.",
+                "char_count": 5,
+                "usage_context_en": "Used as an adverb to mean 'on or in the exterior'.",
+                "usage_context_es": "Usado como adverbio para significar 'en o en el exterior'."
+            }
+        ]
+    },
+    {
+        "name": "up",
+        "phonetic": "/ʌp/",
+        "spoken_phonetic_us": "/ʌp/",
+        "search_term": "adverb/direction",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Place",
+        "definitions": [
+            {
+                "meaning": "Arriba",
+                "usage_example": "Look up at the sky.",
+                "pronunciation_guide_es": "/luk_OP_at_de_SKAI/",
+                "usage_example_es": "Mira hacia arriba, al cielo.",
+                "char_count": 5,
+                "usage_context_en": "Towards a higher place or position.",
+                "usage_context_es": "Hacia un lugar o posición más alta."
+            }
+        ]
+    },
+    {
+        "name": "down",
+        "phonetic": "/daʊn/",
+        "spoken_phonetic_us": "/daʊn/",
+        "search_term": "adverb/direction",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Place",
+        "definitions": [
+            {
+                "meaning": "Abajo",
+                "usage_example": "He sat down on the chair.",
+                "pronunciation_guide_es": "/hi_SAT_DAUN_on_de_CHER/",
+                "usage_example_es": "Él se sentó en la silla.",
+                "char_count": 6,
+                "usage_context_en": "Towards a lower place or position.",
+                "usage_context_es": "Hacia un lugar o posición más baja."
+            }
+        ]
+    },
+    {
+        "name": "early",
+        "phonetic": "/ˈɜːrli/",
+        "spoken_phonetic_us": "/ˈɜrli/",
+        "search_term": "adverb/time",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Time",
+        "definitions": [
+            {
+                "meaning": "Temprano",
+                "usage_example": "He arrived early for the meeting.",
+                "pronunciation_guide_es": "/hi_a-RAIVD_ER-li_for_de_MI-ting/",
+                "usage_example_es": "Él llegó temprano a la reunión.",
+                "char_count": 6,
+                "usage_context_en": "Before the usual or expected time.",
+                "usage_context_es": "Antes de la hora habitual o esperada."
+            }
+        ]
+    },
+    {
+        "name": "late",
+        "phonetic": "/leɪt/",
+        "spoken_phonetic_us": "/leɪt/",
+        "search_term": "adverb/time",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Time",
+        "definitions": [
+            {
+                "meaning": "Tarde",
+                "usage_example": "He arrived late for the meeting.",
+                "pronunciation_guide_es": "/hi_a-RAIVD_LEIT_for_de_MI-ting/",
+                "usage_example_es": "Él llegó tarde a la reunión.",
+                "char_count": 6,
+                "usage_context_en": "After the usual or expected time.",
+                "usage_context_es": "Después de la hora habitual o esperada."
+            }
+        ]
+    },
+    {
+        "name": "soon",
+        "phonetic": "/suːn/",
+        "spoken_phonetic_us": "/suːn/",
+        "search_term": "adverb/time",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Time",
+        "definitions": [
+            {
+                "meaning": "Pronto",
+                "usage_example": "I will be home soon.",
+                "pronunciation_guide_es": "/ai_uil_bi_HOUM_SUN/",
+                "usage_example_es": "Estaré en casa pronto.",
+                "char_count": 5,
+                "usage_context_en": "In or after a short time.",
+                "usage_context_es": "En o después de un corto tiempo."
+            }
+        ]
+    },
+    {
+        "name": "just",
+        "phonetic": "/dʒʌst/",
+        "spoken_phonetic_us": "/dʒʌst/",
+        "search_term": "adverb/time/manner",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Adverbs: Time",
+        "definitions": [
+            {
+                "meaning": "Recién / Acabar de",
+                "usage_example": "I have just arrived.",
+                "pronunciation_guide_es": "/ai_hav_YOST_a-RAIVD/",
+                "usage_example_es": "Recién llegué. (Acabo de llegar).",
+                "char_count": 4,
+                "usage_context_en": "Used to indicate a very recent past action.",
+                "usage_context_es": "Usado para indicar una acción en el pasado muy reciente.",
+                "imagePath": "/card_images/adverbs/1-basic/1-basic_card_25_def0.jpg"
+            },
+            {
+                "meaning": "Solo / Solamente",
+                "usage_example": "It is just a game.",
+                "pronunciation_guide_es": "/it_is_YOST_a_GUEIM/",
+                "usage_example_es": "Es solo un juego.",
+                "char_count": 5,
+                "usage_context_en": "Used to mean 'only' or 'simply'.",
+                "usage_context_es": "Usado para significar 'solamente' o 'simplemente'.",
+                "imagePath": "/card_images/adverbs/1-basic/1-basic_card_25_def1.jpg"
+            }
+        ]
+    },
+    {
+        "name": "already",
+        "phonetic": "/ɔːlˈrɛdi/",
+        "spoken_phonetic_us": "/ɔlˈrɛdi/",
+        "search_term": "adverb/time",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Time",
+        "definitions": [
+            {
+                "meaning": "Ya",
+                "usage_example": "I have already eaten.",
+                "pronunciation_guide_es": "/ai_hav_ol-RE-di_I-ten/",
+                "usage_example_es": "Ya he comido.",
+                "char_count": 4,
+                "usage_context_en": "Before or by now; sooner than expected.",
+                "usage_context_es": "Antes o por ahora; más pronto de lo esperado."
+            }
+        ]
+    },
+    {
+        "name": "still",
+        "phonetic": "/stɪl/",
+        "spoken_phonetic_us": "/stɪl/",
+        "search_term": "adverb/time",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Adverbs: Time",
+        "definitions": [
+            {
+                "meaning": "Todavía / Aún",
+                "usage_example": "Are you still here?",
+                "pronunciation_guide_es": "/ar_iu_STIL_HIR/",
+                "usage_example_es": "¿Todavía estás aquí?",
+                "char_count": 4,
+                "usage_context_en": "Continuing to happen or be in a situation up to the present time.",
+                "usage_context_es": "Que continúa sucediendo o estando en una situación hasta el tiempo presente.",
+                "imagePath": "/card_images/adverbs/1-basic/1-basic_card_27_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "together",
+        "phonetic": "/təˈɡɛðər/",
+        "spoken_phonetic_us": "/təˈɡɛðər/",
+        "search_term": "adverb/manner",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Adverbs: Manner",
+        "definitions": [
+            {
+                "meaning": "Juntos/as",
+                "usage_example": "We work together.",
+                "pronunciation_guide_es": "/ui_UORK_tu-GUE-der/",
+                "usage_example_es": "Trabajamos juntos.",
+                "char_count": 3,
+                "usage_context_en": "With or in proximity to another person or people.",
+                "usage_context_es": "Con o en proximidad a otra persona o personas."
+            }
+        ]
+    },
+    {
+        "name": "away",
+        "phonetic": "/əˈweɪ/",
+        "spoken_phonetic_us": "/əˈweɪ/",
+        "search_term": "adverb/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Adverbs: Place",
+        "definitions": [
+            {
+                "meaning": "Lejos / Fuera",
+                "usage_example": "The house is far away.",
+                "pronunciation_guide_es": "/de jáus is far a-UEI/",
+                "usage_example_es": "La casa está lejos.",
+                "char_count": 5,
+                "usage_context_en": "Used to say something is at a distance.",
+                "usage_context_es": "Se usa para decir que algo está a una distancia.",
+                "imagePath": "/card_images/adverbs/1-basic/1-basic_card_29_def0.jpg"
+            },
+            {
+                "meaning": "No aquí / Ausente",
+                "usage_example": "She is away today.",
+                "pronunciation_guide_es": "/shi is a-UEI tudei/",
+                "usage_example_es": "Ella está fuera hoy.",
+                "char_count": 4,
+                "usage_context_en": "Used when someone is not present in a place.",
+                "usage_context_es": "Se usa cuando alguien no está presente en un lugar.",
+                "imagePath": "/card_images/adverbs/1-basic/1-basic_card_29_def1.jpg"
+            },
+            {
+                "meaning": "A una distancia en tiempo o espacio",
+                "usage_example": "The beach is 10 minutes away.",
+                "pronunciation_guide_es": "/de bich is ten mínits a-UEI/",
+                "usage_example_es": "La playa está a 10 minutos.",
+                "char_count": 5,
+                "usage_context_en": "Indicates distance in time or space.",
+                "usage_context_es": "Indica distancia en tiempo o espacio.",
+                "imagePath": "/card_images/adverbs/1-basic/1-basic_card_29_def2.jpg"
+            }
+        ]
+    },
+    {
+        "name": "again",
+        "phonetic": "/əˈɡɛn/",
+        "spoken_phonetic_us": "/əˈɡɛn/",
+        "search_term": "adverb/frequency",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Adverbs: Frequency",
+        "definitions": [
+            {
+                "meaning": "Otra vez / De nuevo",
+                "usage_example": "He did it again.",
+                "pronunciation_guide_es": "/hi_DID_it_a-GUEN/",
+                "usage_example_es": "Lo hizo otra vez.",
+                "char_count": 4,
+                "usage_context_en": "One more time; on another occasion.",
+                "usage_context_es": "Una vez más; en otra ocasión.",
+                "imagePath": "/card_images/adverbs/1-basic/1-basic_card_30_def0.jpg"
+            }
+        ]
+    }
+]

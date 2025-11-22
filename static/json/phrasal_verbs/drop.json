@@ -1,0 +1,106 @@
+[
+  {
+    "name": "drop off",
+    "phonetic": "/drɑp ɔf/",
+    "spoken_phonetic_us": "/drɑp ɔf/",
+    "search_term": "phrasal verb/deliver/leave/decrease/sleep",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Dejar (a alguien o algo) en un lugar",
+        "usage_example": "Can you drop me off at the next corner?",
+        "pronunciation_guide_es": "/kæn_iu_DROP_mi_OF_at_de_NEKST_KORner/",
+        "alternative_example": "Can you leave me at the next corner?",
+        "usage_example_es": "¿Puedes dejarme en la próxima esquina?",
+        "char_count": "one",
+        "usage_context_en": "transport/giving a ride",
+        "usage_context_es": "transporte/llevar a alguien"
+      },
+      {
+        "meaning": "Disminuir, caer (ventas, asistencia)",
+        "usage_example": "Sales always drop off after Christmas.",
+        "pronunciation_guide_es": "/seils_OLueis_drop_OF_AFter_KRISmas/",
+        "alternative_example": "Sales always decrease after Christmas.",
+        "usage_example_es": "Las ventas siempre caen después de Navidad.",
+        "char_count": "one",
+        "usage_context_en": "business/statistics",
+        "usage_context_es": "negocios/estadísticas"
+      },
+      {
+        "meaning": "Quedarse dormido (informal)",
+        "usage_example": "I dropped off during the boring movie.",
+        "pronunciation_guide_es": "/ai_DROPT_of_DUring_de_BORing_MUvi/",
+        "alternative_example": "I fell asleep during the boring movie.",
+        "usage_example_es": "Me quedé dormido durante la película aburrida.",
+        "char_count": "one",
+        "usage_context_en": "sleep (informal)",
+        "usage_context_es": "dormir (informal)"
+      }
+    ]
+  },
+  {
+    "name": "drop out (of)",
+    "phonetic": "/drɑp aʊt/",
+    "spoken_phonetic_us": "/drɑ 'paʊt/",
+    "search_term": "phrasal verb/quit/school/abandon",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Abandonar (estudios, una carrera)",
+        "usage_example": "He dropped out of college after one semester.",
+        "pronunciation_guide_es": "/hi_DROPT_aut_ov_KOley_AFter_uan_seMESter/",
+        "alternative_example": "He quit college after one semester.",
+        "usage_example_es": "Él abandonó la universidad después de un semestre.",
+        "char_count": "one",
+        "usage_context_en": "school/education/quit",
+        "usage_context_es": "colegio/educación/abandonar"
+      }
+    ]
+  },
+  {
+    "name": "drop by",
+    "phonetic": "/drɑp baɪ/",
+    "spoken_phonetic_us": "/drɑp baɪ/",
+    "search_term": "phrasal verb/visit/social/informal",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Visitar (a alguien) de pasada, sin avisar",
+        "usage_example": "I'll drop by your office later today.",
+        "pronunciation_guide_es": "/ail_DROP_bai_iur_OFis_LEIrer_tuDEI/",
+        "alternative_example": "I'll visit your office informally later today.",
+        "usage_example_es": "Pasaré por tu oficina más tarde hoy.",
+        "char_count": "one",
+        "usage_context_en": "informal visit/social",
+        "usage_context_es": "visita informal/social"
+      }
+    ]
+  },
+  {
+    "name": "drop in",
+    "phonetic": "/drɑp ɪn/",
+    "spoken_phonetic_us": "/drɑp ɪn/",
+    "search_term": "phrasal verb/visit/social/informal",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Visitar (de pasada, similar a 'drop by')",
+        "usage_example": "Feel free to drop in anytime you're in town.",
+        "pronunciation_guide_es": "/fil_FRI_tu_drop_IN_Enitaim_iur_in_TAUN/",
+        "alternative_example": "Feel free to visit informally anytime you're in town.",
+        "usage_example_es": "Siéntete libre de pasar a visitar cuando estés en la ciudad.",
+        "char_count": "one",
+        "usage_context_en": "informal visit/social",
+        "usage_context_es": "visita informal/social"
+      }
+    ]
+  }
+]

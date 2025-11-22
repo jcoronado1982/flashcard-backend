@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Flashcards Dinámicas con IA</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+<div class="flashcard-container">
+    <div class="card" id="flashcard" onclick="flipCard()">
+
+        <div class="card-front">
+            <button id="soundButton" onclick="playPhonetic(event)">🔊</button>
+            
+            <h2 id="name">Cargando...</h2>
+            
+            <div class="phonetic-container">
+                <p class="phonetic" id="phonetic"></p>
+                <button id="ipaChartBtn" title="Mostrar tabla de vocales IPA">📖</button>
+            </div>
+            
+            <div id="allExamplesContainer" style="margin-top: 15px; text-align: left;">
+                <p>Cargando ejemplos...</p>
+            </div>
+            
+            <div id="imagePlaceholder"> 
+                <button id="deleteImageButton" onclick="deleteImage(event)">🗑️</button> 
+                <img id="loadingGif" src="/static/loading.gif" alt="Cargando imagen de IA">
+                <img id="image" src="" alt="Imagen generada por IA">
+            </div>
+        </div>
+
+        <div class="card-back">
+            <div id="exampleBackContainer" style="padding: 10px; text-align: left;">
+                <p>Cargando lista de definiciones...</p> 
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div id="controls">
+    <button class="nav" id="prevCardBtn" onclick="prevCard()" title="Anterior">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="15 18 9 12 15 6"></polyline>
+        </svg>
+    </button>
+
+    <button id="resetButton" class="action-btn" onclick="resetAllCards()" title="Resetear todo el progreso">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="23 4 23 10 17 10"></polyline><polyline points="1 20 1 14 7 14"></polyline>
+            <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+        </svg>
+    </button>
+
+    <div id="cardCounter">? / ?</div>
+
+    <button id="correctButton" class="action-btn" onclick="markAsLearned(event)" title="Marcar como Aprendida y Siguiente">
+        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="20 6 9 17 4 12"></polyline>
+        </svg>
+    </button>
+
+    <button class="nav" id="nextCardBtn" onclick="nextCard()" title="Siguiente">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+    </button>
+</div>
+
+<p id="message"></p>
+
+<div id="ipaModal" class="modal">
+    <div class="modal-content">
+        <span class="close-button">&times;</span>
+        <div id="ipa-chart">
+            <button id="ipa-i-long" class="ipa-btn">i:</button>
+            <button id="ipa-i-short" class="ipa-btn">ɪ</button>
+            <button id="ipa-e" class="ipa-btn">e</button>
+            <button id="ipa-ae" class="ipa-btn">æ</button>
+            <button id="ipa-a-long" class="ipa-btn">ɑ:</button>
+            <button id="ipa-uh" class="ipa-btn">ʌ</button>
+            <button id="ipa-schwa" class="ipa-btn">ə</button>
+            <button id="ipa-o-long" class="ipa-btn">ɔ:</button>
+            <button id="ipa-o-short" class="ipa-btn">ɒ</button>
+            <button id="ipa-u-long" class="ipa-btn">u:</button>
+            <button id="ipa-u-short" class="ipa-btn">ʊ</button>
+            <button id="ipa-er" class="ipa-btn">ɜ:</button>
+        </div>
+    </div>
+</div>
+
+<script src="/static/script.js"></script> 
+
+</body>
+</html>

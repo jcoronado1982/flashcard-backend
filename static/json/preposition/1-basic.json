@@ -1,0 +1,536 @@
+[
+    {
+        "name": "in",
+        "phonetic": "/ɪn/",
+        "spoken_phonetic_us": "/ɪn/",
+        "search_term": "preposition/place/time",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "En (lugar)",
+                "usage_example": "The keys are in the box.",
+                "pronunciation_guide_es": "/de_KIS_ar_in_de_BOX/",
+                "usage_example_es": "Las llaves están en la caja.",
+                "char_count": "6",
+                "usage_context_en": "Used for enclosed spaces (cities, countries, rooms, boxes).",
+                "usage_context_es": "Usado para espacios cerrados (ciudades, países, cuartos, cajas).",
+                "imagePath": "/card_images/preposition/1-basic/1-basic_card_0_def0.jpg"
+            },
+            {
+                "meaning": "En (tiempo)",
+                "usage_example": "My birthday is in October.",
+                "pronunciation_guide_es": "/mai_BERZ-dei_is_in_ok-TOU-ber/",
+                "usage_example_es": "Mi cumpleaños es en octubre.",
+                "char_count": "5",
+                "usage_context_en": "Used for non-specific time (months, years, seasons).",
+                "usage_context_es": "Usado para tiempo no específico (meses, años, estaciones).",
+                "imagePath": "/card_images/preposition/1-basic/1-basic_card_0_def1.jpg"
+            }
+        ]
+    },
+    {
+        "name": "on",
+        "phonetic": "/ɒn/",
+        "spoken_phonetic_us": "/ɑn/",
+        "search_term": "preposition/place/time",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "En / Sobre (lugar)",
+                "usage_example": "The book is on the table.",
+                "pronunciation_guide_es": "/de_BUK_is_on_de_TEI-bol/",
+                "usage_example_es": "El libro está sobre la mesa.",
+                "char_count": "6",
+                "usage_context_en": "Used for surfaces (tables, floors, walls, streets).",
+                "usage_context_es": "Usado para superficies (mesas, pisos, paredes, calles).",
+                "imagePath": "/card_images/preposition/1-basic/1-basic_card_1_def0.jpg"
+            },
+            {
+                "meaning": "En / El (tiempo)",
+                "usage_example": "The meeting is on Friday.",
+                "pronunciation_guide_es": "/de_MI-ting_is_on_FRAI-dei/",
+                "usage_example_es": "La reunión es el viernes.",
+                "char_count": "5",
+                "usage_context_en": "Used for specific days and dates.",
+                "usage_context_es": "Usado para días y fechas específicos.",
+                "imagePath": "/card_images/preposition/1-basic/1-basic_card_1_def1.jpg"
+            }
+        ]
+    },
+    {
+        "name": "at",
+        "phonetic": "/æt/",
+        "spoken_phonetic_us": "/æt/",
+        "search_term": "preposition/place/time",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "En (lugar específico)",
+                "usage_example": "I will meet you at the station.",
+                "pronunciation_guide_es": "/ai_uil_MIT_iu_at_de_STEI-shon/",
+                "usage_example_es": "Te veré en la estación.",
+                "char_count": "7",
+                "usage_context_en": "Used for specific points or locations (the station, the corner, home).",
+                "usage_context_es": "Usado para puntos o lugares específicos (la estación, la esquina, casa).",
+                "imagePath": "/card_images/preposition/1-basic/1-basic_card_2_def0.jpg"
+            },
+            {
+                "meaning": "A (tiempo)",
+                "usage_example": "The movie starts at 9 PM.",
+                "pronunciation_guide_es": "/de_MU-vi_STARTS_at_NAIN_pi-EM/",
+                "usage_example_es": "La película empieza a las 9 PM.",
+                "char_count": "6",
+                "usage_context_en": "Used for a specific time on the clock.",
+                "usage_context_es": "Usado para una hora específica del reloj.",
+                "imagePath": "/card_images/preposition/1-basic/1-basic_card_2_def1.jpg"
+            }
+        ]
+    },
+    {
+        "name": "to",
+        "phonetic": "/tu/",
+        "spoken_phonetic_us": "/tu/",
+        "search_term": "preposition/direction",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "A / Hacia (dirección)",
+                "usage_example": "I am going to the store.",
+                "pronunciation_guide_es": "/ai_am_GOU-ing_tu_de_STOR/",
+                "usage_example_es": "Voy a la tienda.",
+                "char_count": "6",
+                "usage_context_en": "Used to indicate movement or direction toward a destination.",
+                "usage_context_es": "Usado para indicar movimiento o dirección hacia un destino.",
+                "imagePath": "/card_images/preposition/1-basic/1-basic_card_3_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "from",
+        "phonetic": "/frɒm/",
+        "spoken_phonetic_us": "/frʌm/",
+        "search_term": "preposition/origin",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "De / Desde (origen)",
+                "usage_example": "I am from Colombia.",
+                "pronunciation_guide_es": "/ai_am_FROM_co-LOM-bia/",
+                "usage_example_es": "Soy de Colombia.",
+                "char_count": "4",
+                "usage_context_en": "Used to indicate the point of origin or source.",
+                "usage_context_es": "Usado para indicar el punto de origen o la fuente."
+            }
+        ]
+    },
+    {
+        "name": "for",
+        "phonetic": "/fɔr/",
+        "spoken_phonetic_us": "/fɔr/",
+        "search_term": "preposition/purpose/duration",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Para (propósito / destinatario)",
+                "usage_example": "This gift is for you.",
+                "pronunciation_guide_es": "/dis_GUIFT_is_for_IU/",
+                "usage_example_es": "Este regalo es para ti.",
+                "char_count": "5",
+                "usage_context_en": "Used to indicate purpose or the recipient of an action.",
+                "usage_context_es": "Usado para indicar propósito o el destinatario de una acción.",
+                "imagePath": "/card_images/preposition/1-basic/1-basic_card_5_def0.jpg"
+            },
+            {
+                "meaning": "Por / Durante (tiempo)",
+                "usage_example": "I studied for two hours.",
+                "pronunciation_guide_es": "/ai_STO-did_for_TU_AU-ers/",
+                "usage_example_es": "Estudié por (durante) dos horas.",
+                "char_count": "5",
+                "usage_context_en": "Used to indicate a duration of time.",
+                "usage_context_es": "Usado para indicar una duración de tiempo.",
+                "imagePath": "/card_images/preposition/1-basic/1-basic_card_5_def1.jpg"
+            }
+        ]
+    },
+    {
+        "name": "with",
+        "phonetic": "/wɪð/",
+        "spoken_phonetic_us": "/wɪð/",
+        "search_term": "preposition/accompaniment/tool",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Con (compañía)",
+                "usage_example": "I am with my friend.",
+                "pronunciation_guide_es": "/ai_am_UIZ_mai_FREND/",
+                "usage_example_es": "Estoy con mi amigo.",
+                "char_count": "5",
+                "usage_context_en": "Used to indicate accompaniment or being together.",
+                "usage_context_es": "Usado para indicar acompañamiento o estar juntos."
+            },
+            {
+                "meaning": "Con (herramienta)",
+                "usage_example": "I write with a pen.",
+                "pronunciation_guide_es": "/ai_RAIT_UIZ_a_PEN/",
+                "usage_example_es": "Escribo con un bolígrafo.",
+                "char_count": "5",
+                "usage_context_en": "Used to indicate the tool or instrument used.",
+                "usage_context_es": "Usado para indicar la herramienta o instrumento utilizado."
+            }
+        ]
+    },
+    {
+        "name": "about",
+        "phonetic": "/əˈbaʊt/",
+        "spoken_phonetic_us": "/əˈbaʊt/",
+        "search_term": "preposition/topic",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Sobre / Acerca de",
+                "usage_example": "We are talking about music.",
+                "pronunciation_guide_es": "/ui_ar_TO-king_a-BAUT_MIU-sik/",
+                "usage_example_es": "Estamos hablando sobre música.",
+                "char_count": "5",
+                "usage_context_en": "Used to indicate the topic or subject.",
+                "usage_context_es": "Usado para indicar el tema o asunto."
+            }
+        ]
+    },
+    {
+        "name": "of",
+        "phonetic": "/ɒv/",
+        "spoken_phonetic_us": "/əv/",
+        "search_term": "preposition/possession",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "De (posesión / relación)",
+                "usage_example": "The color of the sky.",
+                "pronunciation_guide_es": "/de_CO-lor_of_de_SKAI/",
+                "usage_example_es": "El color del cielo.",
+                "char_count": "5",
+                "usage_context_en": "Used to show possession, origin, or relation.",
+                "usage_context_es": "Usado para mostrar posesión, origen o relación."
+            }
+        ]
+    },
+    {
+        "name": "by",
+        "phonetic": "/baɪ/",
+        "spoken_phonetic_us": "/baɪ/",
+        "search_term": "preposition/agent/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Por (agente pasivo)",
+                "usage_example": "The book was written by him.",
+                "pronunciation_guide_es": "/de_BUK_uas_RI-ten_BAI_HIM/",
+                "usage_example_es": "El libro fue escrito por él.",
+                "char_count": "6",
+                "usage_context_en": "Used to indicate the agent in a passive sentence.",
+                "usage_context_es": "Usado para indicar el agente en una oración pasiva."
+            },
+            {
+                "meaning": "Al lado de / Cerca de",
+                "usage_example": "The house is by the river.",
+                "pronunciation_guide_es": "/de_HAUS_is_bai_de_RI-ver/",
+                "usage_example_es": "La casa está al lado del río.",
+                "char_count": "6",
+                "usage_context_en": "Used to mean 'near' or 'next to'.",
+                "usage_context_es": "Usado para significar 'cerca de' o 'al lado de'."
+            }
+        ]
+    },
+    {
+        "name": "under",
+        "phonetic": "/ˈʌndər/",
+        "spoken_phonetic_us": "/ˈʌndər/",
+        "search_term": "preposition/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Debajo de",
+                "usage_example": "The cat is under the table.",
+                "pronunciation_guide_es": "/de_CAT_is_ON-der_de_TEI-bol/",
+                "usage_example_es": "El gato está debajo de la mesa.",
+                "char_count": "6",
+                "usage_context_en": "In a position lower than (and often covered by) something.",
+                "usage_context_es": "En una posición más baja que (y a menudo cubierto por) algo."
+            }
+        ]
+    },
+    {
+        "name": "over",
+        "phonetic": "/ˈoʊvər/",
+        "spoken_phonetic_us": "/ˈoʊvər/",
+        "search_term": "preposition/place/quantity",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Sobre / Por encima de",
+                "usage_example": "The plane flies over the city.",
+                "pronunciation_guide_es": "/de_PLEIN_FLAIS_OU-ver_de_SI-ti/",
+                "usage_example_es": "El avión vuela por encima de la ciudad.",
+                "char_count": "6",
+                "usage_context_en": "In a position higher than something, often implying movement.",
+                "usage_context_es": "En una posición más alta que algo, a menudo implicando movimiento."
+            },
+            {
+                "meaning": "Más de",
+                "usage_example": "It costs over 100 dollars.",
+                "pronunciation_guide_es": "/it_COSTS_OU-ver_uan_HON-dred_DO-lars/",
+                "usage_example_es": "Cuesta más de 100 dólares.",
+                "char_count": "5",
+                "usage_context_en": "Used to mean 'more than' a certain number or amount.",
+                "usage_context_es": "Usado para significar 'más de' un cierto número o cantidad."
+            }
+        ]
+    },
+    {
+        "name": "between",
+        "phonetic": "/bɪˈtwin/",
+        "spoken_phonetic_us": "/bɪˈtwin/",
+        "search_term": "preposition/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Entre (dos cosas)",
+                "usage_example": "I am between my two friends.",
+                "pronunciation_guide_es": "/ai_am_bi-TUIN_mai_TU_FRENDS/",
+                "usage_example_es": "Estoy entre mis dos amigos.",
+                "char_count": "6",
+                "usage_context_en": "In the space separating two objects, people, or points.",
+                "usage_context_es": "En el espacio que separa dos objetos, personas o puntos."
+            }
+        ]
+    },
+    {
+        "name": "behind",
+        "phonetic": "/bɪˈhaɪnd/",
+        "spoken_phonetic_us": "/bɪˈhaɪnd/",
+        "search_term": "preposition/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Detrás de",
+                "usage_example": "The cat is behind the door.",
+                "pronunciation_guide_es": "/de_CAT_is_bi-HAIND_de_DOR/",
+                "usage_example_es": "El gato está detrás de la puerta.",
+                "char_count": "6",
+                "usage_context_en": "At the back of; in the rear of.",
+                "usage_context_es": "En la parte posterior de."
+            }
+        ]
+    },
+    {
+        "name": "in front of",
+        "phonetic": "/ɪn frʌnt ɒv/",
+        "spoken_phonetic_us": "/ɪn frʌnt əv/",
+        "search_term": "preposition/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Delante de / En frente de",
+                "usage_example": "The car is in front of the house.",
+                "pronunciation_guide_es": "/de_CAR_is_in_FRONT_of_de_HAUS/",
+                "usage_example_es": "El carro está en frente de la casa.",
+                "char_count": "8",
+                "usage_context_en": "Positioned directly ahead or at the front of something.",
+                "usage_context_es": "Posicionado directamente adelante o al frente de algo."
+            }
+        ]
+    },
+    {
+        "name": "next to",
+        "phonetic": "/nɛkst tu/",
+        "spoken_phonetic_us": "/nɛkst tu/",
+        "search_term": "preposition/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Al lado de",
+                "usage_example": "The bank is next to the pharmacy.",
+                "pronunciation_guide_es": "/de_BANK_is_NEKST_tu_de_FAR-ma-si/",
+                "usage_example_es": "El banco está al lado de la farmacia.",
+                "char_count": "7",
+                "usage_context_en": "Positioned immediately to the side of something.",
+                "usage_context_es": "Posicionado inmediatamente al lado de algo."
+            }
+        ]
+    },
+    {
+        "name": "beside",
+        "phonetic": "/bɪˈsaɪd/",
+        "spoken_phonetic_us": "/bɪˈsaɪd/",
+        "search_term": "preposition/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Al lado de / Junto a",
+                "usage_example": "She sat beside me.",
+                "pronunciation_guide_es": "/shi_SAT_bi-SAID_mi/",
+                "usage_example_es": "Ella se sentó junto a mí.",
+                "char_count": "4",
+                "usage_context_en": "A synonym for 'next to'; at the side of.",
+                "usage_context_es": "Un sinónimo de 'next to'; al lado de."
+            }
+        ]
+    },
+    {
+        "name": "above",
+        "phonetic": "/əˈbʌv/",
+        "spoken_phonetic_us": "/əˈbʌv/",
+        "search_term": "preposition/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Por encima de",
+                "usage_example": "The lamp is above the table.",
+                "pronunciation_guide_es": "/de_LAMP_is_a-BOV_de_TEI-bol/",
+                "usage_example_es": "La lámpara está por encima de la mesa.",
+                "char_count": "6",
+                "usage_context_en": "In a higher position, but not necessarily directly touching (compare 'on').",
+                "usage_context_es": "En una posición más alta, pero no necesariamente tocando (compara con 'on')."
+            }
+        ]
+    },
+    {
+        "name": "below",
+        "phonetic": "/bɪˈloʊ/",
+        "spoken_phonetic_us": "/bɪˈloʊ/",
+        "search_term": "preposition/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Por debajo de",
+                "usage_example": "The temperature is below zero.",
+                "pronunciation_guide_es": "/de_TEM-pre-cher_is_bi-LOU_SI-ro/",
+                "usage_example_es": "La temperatura está por debajo de cero.",
+                "char_count": "5",
+                "usage_context_en": "In a lower position than something (compare 'under').",
+                "usage_context_es": "En una posición más baja que algo (compara con 'under')."
+            }
+        ]
+    },
+    {
+        "name": "near",
+        "phonetic": "/nɪər/",
+        "spoken_phonetic_us": "/nɪr/",
+        "search_term": "preposition/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Cerca de",
+                "usage_example": "I live near the park.",
+                "pronunciation_guide_es": "/ai_LIV_nir_de_PARK/",
+                "usage_example_es": "Vivo cerca del parque.",
+                "char_count": "5",
+                "usage_context_en": "At a short distance from; close to.",
+                "usage_context_es": "A corta distancia de; cercano a."
+            }
+        ]
+    },
+    {
+        "name": "inside",
+        "phonetic": "/ɪnˈsaɪd/",
+        "spoken_phonetic_us": "/ɪnˈsaɪd/",
+        "search_term": "preposition/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Dentro de",
+                "usage_example": "What is inside the box?",
+                "pronunciation_guide_es": "/uat_is_in-SAID_de_BOX/",
+                "usage_example_es": "¿Qué hay dentro de la caja?",
+                "char_count": "5",
+                "usage_context_en": "The inner part or interior of something; a stronger version of 'in'.",
+                "usage_context_es": "La parte interna o interior de algo; una versión más fuerte de 'in'."
+            }
+        ]
+    },
+    {
+        "name": "outside",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "spoken_phonetic_us": "/ˌaʊtˈsaɪd/",
+        "search_term": "preposition/place",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Prepositions",
+        "definitions": [
+            {
+                "meaning": "Fuera de",
+                "usage_example": "Please wait outside the room.",
+                "pronunciation_guide_es": "/PLIS_ueit_aut-SAID_de_RUM/",
+                "usage_example_es": "Por favor espera fuera del cuarto.",
+                "char_count": "5",
+                "usage_context_en": "The outer side or exterior of something.",
+                "usage_context_es": "El lado externo o exterior de algo."
+            }
+        ]
+    }
+]

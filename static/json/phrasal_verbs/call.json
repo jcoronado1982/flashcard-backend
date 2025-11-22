@@ -1,0 +1,138 @@
+[
+    {
+        "name": "call off",
+        "phonetic": "/kɔl ɔf/",
+        "spoken_phonetic_us": "/kɔl ɔf/",
+        "search_term": "phrasal verb/cancel/stop",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Cancelar (un evento)",
+                "usage_example": "We had to call off the game due to rain.",
+                "pronunciation_guide_es": "/ui_HAD_tu_kol_OF_de_GUEIM_du_tu_REIN/",
+                "alternative_example": "We had to cancel the game due to rain.",
+                "usage_example_es": "Tuvimos que cancelar el partido debido a la lluvia.",
+                "char_count": "one",
+                "usage_context_en": "events/plans",
+                "usage_context_es": "eventos/planes",
+                "imagePath": "/card_images/phrasal_verbs/call/call_card_0_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "call back",
+        "phonetic": "/kɔl bæk/",
+        "spoken_phonetic_us": "/kɔl bæk/",
+        "search_term": "phrasal verb/phone/return call",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Devolver una llamada telefónica",
+                "usage_example": "I'm busy now. Can I call you back later?",
+                "pronunciation_guide_es": "/aim_BIsi_NAU. kæn_ai_KOL_iu_BAK_LEIrer?/",
+                "alternative_example": "I'm busy now. Can I return your call later?",
+                "usage_example_es": "Estoy ocupado ahora. ¿Te puedo devolver la llamada luego?",
+                "char_count": "one",
+                "usage_context_en": "phone conversation",
+                "usage_context_es": "conversación telefónica"
+            }
+        ]
+    },
+    {
+        "name": "call on",
+        "phonetic": "/kɔl ɑn/",
+        "spoken_phonetic_us": "/kɔl ɑn/",
+        "search_term": "phrasal verb/ask/visit",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Recurrir (a alguien) para pedir ayuda",
+                "usage_example": "I can always call on my friends for help.",
+                "pronunciation_guide_es": "/ai_kan_OLueis_kol_ON_mai_FRENDS_for_HELP/",
+                "alternative_example": "I can always ask my friends for help.",
+                "usage_example_es": "Siempre puedo recurrir a mis amigos por ayuda.",
+                "char_count": "one",
+                "usage_context_en": "asking for help",
+                "usage_context_es": "pedir ayuda"
+            },
+            {
+                "meaning": "Visitar (a alguien) brevemente",
+                "usage_example": "We should call on your grandma this weekend.",
+                "pronunciation_guide_es": "/ui_shud_kol_ON_iur_GRANma_dis_UIkend/",
+                "alternative_example": "We should visit your grandma this weekend.",
+                "usage_example_es": "Deberíamos visitar a tu abuela este fin de semana.",
+                "char_count": "one",
+                "usage_context_en": "visiting people",
+                "usage_context_es": "visitar personas"
+            }
+        ]
+    },
+    {
+        "name": "call for",
+        "phonetic": "/kɔl fɔr/",
+        "spoken_phonetic_us": "/kɔl fər/",
+        "search_term": "phrasal verb/require/demand",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Requerir, necesitar",
+                "usage_example": "This recipe calls for three eggs.",
+                "pronunciation_guide_es": "/dis_REsipi_kols_FOR_thri_EGS/",
+                "alternative_example": "This recipe requires three eggs.",
+                "usage_example_es": "Esta receta requiere tres huevos.",
+                "char_count": "one",
+                "usage_context_en": "instructions/recipes",
+                "usage_context_es": "instrucciones/recetas"
+            },
+            {
+                "meaning": "Pedir, exigir (públicamente)",
+                "usage_example": "The protesters are calling for change.",
+                "pronunciation_guide_es": "/de_proTEStors_ar_KOling_for_CHEINY/",
+                "alternative_example": "The protesters are demanding change.",
+                "usage_example_es": "Los manifestantes están pidiendo un cambio.",
+                "char_count": "one",
+                "usage_context_en": "public demand",
+                "usage_context_es": "exigencia pública"
+            }
+        ]
+    },
+    {
+        "name": "call in",
+        "phonetic": "/kɔl ɪn/",
+        "spoken_phonetic_us": "/kɔl ɪn/",
+        "search_term": "phrasal verb/phone/work",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Llamar (al trabajo) para avisar",
+                "usage_example": "He had to call in sick today.",
+                "pronunciation_guide_es": "/hi_HAD_tu_kol_IN_SIK_tuDEI/",
+                "alternative_example": "He had to phone work to say he is sick.",
+                "usage_example_es": "Él tuvo que llamar (al trabajo) para reportarse enfermo hoy.",
+                "char_count": "one",
+                "usage_context_en": "work/sickness",
+                "usage_context_es": "trabajo/enfermedad"
+            },
+            {
+                "meaning": "Llamar (a un experto) para ayudar",
+                "usage_example": "We need to call in a plumber.",
+                "pronunciation_guide_es": "/ui_NID_tu_kol_IN_a_PLAmer/",
+                "alternative_example": "We need to request a plumber's help.",
+                "usage_example_es": "Necesitamos llamar a un plomero (fontanero).",
+                "char_count": "one",
+                "usage_context_en": "requesting service",
+                "usage_context_es": "solicitar servicio"
+            }
+        ]
+    }
+]

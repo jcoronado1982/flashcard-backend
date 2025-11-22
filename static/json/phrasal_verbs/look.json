@@ -1,0 +1,211 @@
+[
+  {
+    "name": "look for",
+    "phonetic": "/lʊk fɔr/",
+    "spoken_phonetic_us": "/lʊk fər/",
+    "search_term": "phrasal verb/search/find",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Buscar (algo o a alguien)",
+        "usage_example": "I'm looking for my keys. Have you seen them?",
+        "pronunciation_guide_es": "/aim_LUKing_for_mai_KIS. hav_iu_SIN_dem/",
+        "alternative_example": "I'm searching for my keys.",
+        "usage_example_es": "Estoy buscando mis llaves. ¿Las has visto?",
+        "char_count": "one",
+        "usage_context_en": "searching for items",
+        "usage_context_es": "buscar objetos"
+      }
+    ]
+  },
+  {
+    "name": "look forward to",
+    "phonetic": "/lʊk ˈfɔrwərd tu/",
+    "spoken_phonetic_us": "/lʊk ˈfɔrwərd tə/",
+    "search_term": "phrasal verb/anticipate/excitement",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Tener ganas de, esperar con ilusión",
+        "usage_example": "I'm looking forward to the weekend.",
+        "pronunciation_guide_es": "/aim_LUKing_FORuard_tu_de_UIkend/",
+        "alternative_example": "I'm excited about the weekend.",
+        "usage_example_es": "Tengo muchas ganas de que llegue el fin de semana.",
+        "char_count": "one",
+        "usage_context_en": "anticipating plans/events",
+        "usage_context_es": "anticipar planes/eventos"
+      }
+    ]
+  },
+  {
+    "name": "look after",
+    "phonetic": "/lʊk ˈæftər/",
+    "spoken_phonetic_us": "/lʊk ˈæfɾər/",
+    "search_term": "phrasal verb/take care of/babysit",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Cuidar (a alguien o algo)",
+        "usage_example": "Can you look after my cat while I'm away?",
+        "pronunciation_guide_es": "/kæn_iu_luk_AFter_mai_KAT_uail_aim_aUEI/",
+        "alternative_example": "Can you take care of my cat while I'm away?",
+        "usage_example_es": "¿Puedes cuidar a mi gato mientras estoy fuera?",
+        "char_count": "one",
+        "usage_context_en": "taking care of/babysitting",
+        "usage_context_es": "cuidar de/vigilar"
+      }
+    ]
+  },
+  {
+    "name": "look up",
+    "phonetic": "/lʊk ʌp/",
+    "spoken_phonetic_us": "/lʊk ʌp/",
+    "search_term": "phrasal verb/information/search/improve",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Buscar (información en un listado, web)",
+        "usage_example": "If you don't know the word, look it up.",
+        "pronunciation_guide_es": "/if_iu_dont_NOU_de_UORD, luk_it_AP/",
+        "alternative_example": "If you don't know the word, search for it.",
+        "usage_example_es": "Si no sabes la palabra, búscala.",
+        "char_count": "one",
+        "usage_context_en": "finding information/research",
+        "usage_context_es": "buscar información/investigar"
+      },
+      {
+        "meaning": "Mejorar (una situación)",
+        "usage_example": "Things are finally looking up for our team.",
+        "pronunciation_guide_es": "/things_ar_FAInali_LUKing_AP_for_aur_TIM/",
+        "alternative_example": "Things are finally improving for our team.",
+        "usage_example_es": "Las cosas finalmente están mejorando para nuestro equipo.",
+        "char_count": "one",
+        "usage_context_en": "situation improving",
+        "usage_context_es": "situación mejorando"
+      }
+    ]
+  },
+  {
+    "name": "look out",
+    "phonetic": "/lʊk aʊt/",
+    "spoken_phonetic_us": "/lʊ 'kaʊt/",
+    "search_term": "phrasal verb/be careful/warning",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "¡Cuidado!, ¡Atención! (para advertir)",
+        "usage_example": "Look out! There's a car coming.",
+        "pronunciation_guide_es": "/luk_AUT! ders_a_CAR_KAming/",
+        "alternative_example": "Be careful! There's a car coming.",
+        "usage_example_es": "¡Cuidado! Viene un auto.",
+        "char_count": "one",
+        "usage_context_en": "warning of danger",
+        "usage_context_es": "advertir de peligro"
+      }
+    ]
+  },
+  {
+    "name": "look at",
+    "phonetic": "/lʊk æt/",
+    "spoken_phonetic_us": "/lʊ 'kæt/",
+    "search_term": "phrasal verb/view/examine/consider",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Mirar (algo/a alguien)",
+        "usage_example": "Look at that beautiful sunset.",
+        "pronunciation_guide_es": "/luk_AT_dat_BIUtiful_SANset/",
+        "alternative_example": "See that beautiful sunset.",
+        "usage_example_es": "Mira esa hermosa puesta de sol.",
+        "char_count": "one",
+        "usage_context_en": "viewing/directing eyes",
+        "usage_context_es": "ver/dirigir la mirada"
+      },
+      {
+        "meaning": "Considerar, examinar (un problema, una idea)",
+        "usage_example": "We need to look at all the options.",
+        "pronunciation_guide_es": "/ui_NID_tu_luk_AT_ol_di_OPshens/",
+        "alternative_example": "We need to consider all the options.",
+        "usage_example_es": "Necesitamos considerar todas las opciones.",
+        "char_count": "one",
+        "usage_context_en": "considering/examining",
+        "usage_context_es": "considerar/examinar"
+      }
+    ]
+  },
+  {
+    "name": "look into",
+    "phonetic": "/lʊk ˈɪntu/",
+    "spoken_phonetic_us": "/lʊk ˈɪndu/",
+    "search_term": "phrasal verb/investigate/examine",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Investigar, examinar (un problema, asunto)",
+        "usage_example": "The boss will look into the complaint.",
+        "pronunciation_guide_es": "/de_BOS_uil_luk_INdu_de_komPLEINT/",
+        "alternative_example": "The boss will investigate the complaint.",
+        "usage_example_es": "El jefe investigará la queja.",
+        "char_count": "one",
+        "usage_context_en": "work/problem solving/investigate",
+        "usage_context_es": "trabajo/resolver problemas/investigar"
+      }
+    ]
+  },
+  {
+    "name": "look up to",
+    "phonetic": "/lʊk ʌp tu/",
+    "spoken_phonetic_us": "/lʊk ʌp tə/",
+    "search_term": "phrasal verb/admire/respect",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Admirar, respetar (a alguien)",
+        "usage_example": "I really look up to my older sister.",
+        "pronunciation_guide_es": "/ai_RIli_luk_AP_tu_mai_OLder_SIster/",
+        "alternative_example": "I really admire my older sister.",
+        "usage_example_es": "Realmente admiro a mi hermana mayor.",
+        "char_count": "one",
+        "usage_context_en": "admiration/respect",
+        "usage_context_es": "admiración/respeto"
+      }
+    ]
+  },
+  {
+    "name": "look down on",
+    "phonetic": "/lʊk daʊn ɑn/",
+    "spoken_phonetic_us": "/lʊk daʊn ɑn/",
+    "search_term": "phrasal verb/despise/feel superior",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Menospreciar, mirar por encima del hombro",
+        "usage_example": "She looks down on people who didn't go to college.",
+        "pronunciation_guide_es": "/shi_luks_DAUN_on_PIpol_hu_DIdent_go_tu_KOley/",
+        "alternative_example": "She feels superior to people who didn't go to college.",
+        "usage_example_es": "Ella menosprecia a la gente que no fue a la universidad.",
+        "char_count": "one",
+        "usage_context_en": "attitude/judgement",
+        "usage_context_es": "actitud/juicio"
+      }
+    ]
+  }
+]

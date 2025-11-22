@@ -1,0 +1,188 @@
+[
+    {
+        "name": "break up",
+        "phonetic": "/breɪk ʌp/",
+        "spoken_phonetic_us": "/breɪk ʌp/",
+        "search_term": "phrasal verb/relationships/separation",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Terminar una relación (romántica)",
+                "usage_example": "They decided to break up last month.",
+                "pronunciation_guide_es": "/dey_diSAIred_tu_breik_AP_last_month/",
+                "alternative_example": "They decided to end their relationship.",
+                "usage_example_es": "Ellos decidieron terminar el mes pasado.",
+                "char_count": "one",
+                "usage_context_en": "relationships",
+                "usage_context_es": "relaciones",
+                "imagePath": null
+            },
+            {
+                "meaning": "Terminar las clases (por vacaciones)",
+                "usage_example": "When does school break up for summer?",
+                "pronunciation_guide_es": "/uen_das_SKUL_breik_AP_for_SAmer/",
+                "alternative_example": "When does school end for summer?",
+                "usage_example_es": "¿Cuándo terminan las clases por el verano?",
+                "char_count": "one",
+                "usage_context_en": "school/holidays",
+                "usage_context_es": "colegio/vacaciones"
+            },
+            {
+                "meaning": "Separarse (un grupo), disolverse",
+                "usage_example": "The party broke up at midnight.",
+                "pronunciation_guide_es": "/de_PARi_brouk_AP_at_MIDnait/",
+                "alternative_example": "The party ended at midnight.",
+                "usage_example_es": "La fiesta se disolvió a medianoche.",
+                "char_count": "one",
+                "usage_context_en": "social events",
+                "usage_context_es": "eventos sociales"
+            }
+        ]
+    },
+    {
+        "name": "break down",
+        "phonetic": "/breɪk daʊn/",
+        "spoken_phonetic_us": "/breɪk daʊn/",
+        "search_term": "phrasal verb/failure/emotions",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Dejar de funcionar (un auto, una máquina)",
+                "usage_example": "My car broke down on the highway.",
+                "pronunciation_guide_es": "/mai_KAR_brouk_DAUN_on_de_HAIuey/",
+                "alternative_example": "My car stopped working on the highway.",
+                "usage_example_es": "Mi auto se descompuso en la autopista.",
+                "char_count": "one",
+                "usage_context_en": "machines/vehicles",
+                "usage_context_es": "máquinas/vehículos"
+            },
+            {
+                "meaning": "Derrumbarse (emocionalmente), romper a llorar",
+                "usage_example": "He broke down and cried after the news.",
+                "pronunciation_guide_es": "/hi_BROUK_daun_and_KRAID_after_de_NUS/",
+                "alternative_example": "He lost emotional control and cried.",
+                "usage_example_es": "Él se derrumbó y lloró después de la noticia.",
+                "char_count": "one",
+                "usage_context_en": "emotions",
+                "usage_context_es": "emociones"
+            },
+            {
+                "meaning": "Desglosar, explicar en partes",
+                "usage_example": "Can you break down the problem for me?",
+                "pronunciation_guide_es": "/kan_iu_breik_DAUN_de_PROblem_for_mi/",
+                "alternative_example": "Can you explain the problem in parts?",
+                "usage_example_es": "¿Puedes desglosar el problema para mí?",
+                "char_count": "one",
+                "usage_context_en": "explanation/analysis",
+                "usage_context_es": "explicación/análisis"
+            }
+        ]
+    },
+    {
+        "name": "break in",
+        "phonetic": "/breɪk ɪn/",
+        "spoken_phonetic_us": "/breɪk ɪn/",
+        "search_term": "phrasal verb/crime/entry",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Entrar a la fuerza (robar)",
+                "usage_example": "Someone tried to break in last night.",
+                "pronunciation_guide_es": "/SOMuan_TRAID_tu_breik_IN_last_NAIT/",
+                "alternative_example": "Someone tried to enter by force.",
+                "usage_example_es": "Alguien intentó entrar a la fuerza anoche.",
+                "char_count": "one",
+                "usage_context_en": "crime",
+                "usage_context_es": "crimen"
+            },
+            {
+                "meaning": "Amansar, domar (zapatos, un caballo)",
+                "usage_example": "I need to break in these new shoes.",
+                "pronunciation_guide_es": "/ai_NID_tu_breik_IN_dis_NU_SHUS/",
+                "alternative_example": "I need to wear these new shoes until they are comfortable.",
+                "usage_example_es": "Necesito amansar estos zapatos nuevos.",
+                "char_count": "one",
+                "usage_context_en": "clothing/use",
+                "usage_context_es": "ropa/uso"
+            }
+        ]
+    },
+    {
+        "name": "break out",
+        "phonetic": "/breɪk aʊt/",
+        "spoken_phonetic_us": "/breɪ 'kaʊt/",
+        "search_term": "phrasal verb/escape/start suddenly",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Escapar (de la cárcel)",
+                "usage_example": "Two prisoners broke out of jail.",
+                "pronunciation_guide_es": "/tu_PRIsoners_brouk_AUT_of_YEIL/",
+                "alternative_example": "Two prisoners escaped from jail.",
+                "usage_example_es": "Dos prisioneros escaparon de la cárcel.",
+                "char_count": "one",
+                "usage_context_en": "escape/crime",
+                "usage_context_es": "escape/crimen"
+            },
+            {
+                "meaning": "Tener un brote (de acné, sarpullido)",
+                "usage_example": "I always break out when I'm stressed.",
+                "pronunciation_guide_es": "/ai_OLueis_breik_AUT_uen_aim_STREST/",
+                "alternative_example": "I always get pimples when I'm stressed.",
+                "usage_example_es": "Siempre me sale acné cuando estoy estresado.",
+                "char_count": "one",
+                "usage_context_en": "health/skin",
+                "usage_context_es": "salud/piel"
+            },
+            {
+                "meaning": "Estallar (una guerra, un incendio)",
+                "usage_example": "A fire broke out in the building.",
+                "pronunciation_guide_es": "/a_FAier_brouk_AUT_in_de_BILding/",
+                "alternative_example": "A fire started suddenly in the building.",
+                "usage_example_es": "Estalló un incendio en el edificio.",
+                "char_count": "one",
+                "usage_context_en": "emergencies/events",
+                "usage_context_es": "emergencias/eventos"
+            }
+        ]
+    },
+    {
+        "name": "break into",
+        "phonetic": "/breɪk ˈɪntu/",
+        "spoken_phonetic_us": "/breɪk ˈɪndu/",
+        "search_term": "phrasal verb/crime/entry",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Entrar a la fuerza (a un lugar específico)",
+                "usage_example": "They broke into the house and stole the TV.",
+                "pronunciation_guide_es": "/dey_BROUK_indu_de_HAUS_and_STOL_de_tiVI/",
+                "alternative_example": "They entered the house by force.",
+                "usage_example_es": "Entraron a la fuerza a la casa y robaron la TV.",
+                "char_count": "one",
+                "usage_context_en": "crime",
+                "usage_context_es": "crimen"
+            },
+            {
+                "meaning": "Empezar a hacer algo de repente",
+                "usage_example": "She broke into a run when she saw the bus.",
+                "pronunciation_guide_es": "/shi_BROUK_indu_a_RAN_uen_shi_SO_de_BAS/",
+                "alternative_example": "She suddenly started running.",
+                "usage_example_es": "Echó a correr cuando vio el autobús.",
+                "char_count": "one",
+                "usage_context_en": "sudden action",
+                "usage_context_es": "acción repentina"
+            }
+        ]
+    }
+]

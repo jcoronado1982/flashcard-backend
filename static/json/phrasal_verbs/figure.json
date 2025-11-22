@@ -1,0 +1,43 @@
+[
+  {
+    "name": "figure out",
+    "phonetic": "/ˈfɪɡjər aʊt/",
+    "spoken_phonetic_us": "/ˈfɪɡjər aʊt/",
+    "search_term": "phrasal verb/solve/understand/calculate",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Resolver, entender, descifrar (un problema)",
+        "usage_example": "I need to figure out how this new software works.",
+        "pronunciation_guide_es": "/ai_NID_tu_FIGiur_AUT_hau_dis_NU_SOFTuer_UORKS/",
+        "alternative_example": "I need to understand how this new software works.",
+        "usage_example_es": "Necesito entender (descifrar) cómo funciona este nuevo software.",
+        "char_count": "one",
+        "usage_context_en": "problem solving/understanding",
+        "usage_context_es": "resolver problemas/entender"
+      },
+      {
+        "meaning": "Calcular (un costo, una cantidad)",
+        "usage_example": "Can you figure out the total cost for me?",
+        "pronunciation_guide_es": "/kæn_iu_FIGiur_AUT_de_TOtal_COST_for_MI/",
+        "alternative_example": "Can you calculate the total cost for me?",
+        "usage_example_es": "¿Puedes calcular el costo total por mí?",
+        "char_count": "one",
+        "usage_context_en": "calculating/math",
+        "usage_context_es": "calcular/matemáticas"
+      },
+      {
+        "meaning": "Entender (a una persona, su comportamiento)",
+        "usage_example": "I can't figure him out. He's very quiet.",
+        "pronunciation_guide_es": "/ai_KANT_FIGiur_him_AUT. his_VERi_KUAIet/",
+        "alternative_example": "I can't understand him. He's very quiet.",
+        "usage_example_es": "No puedo entenderlo (descifrarlo). Es muy callado.",
+        "char_count": "one",
+        "usage_context_en": "understanding people/behavior",
+        "usage_context_es": "entender a la gente/comportamiento"
+      }
+    ]
+  }
+]

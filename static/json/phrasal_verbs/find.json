@@ -1,0 +1,33 @@
+[
+  {
+    "name": "find out",
+    "phonetic": "/faɪnd aʊt/",
+    "spoken_phonetic_us": "/faɪn 'daʊt/",
+    "search_term": "phrasal verb/discover/information",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Descubrir, averiguar (información)",
+        "usage_example": "I need to find out what time the store closes.",
+        "pronunciation_guide_es": "/ai_NID_tu_fain_DAUT_uat_TAIM_de_STOR_KLOses/",
+        "alternative_example": "I need to discover what time the store closes.",
+        "usage_example_es": "Necesito averiguar a qué hora cierra la tienda.",
+        "char_count": "one",
+        "usage_context_en": "getting information",
+        "usage_context_es": "obtener información"
+      },
+      {
+        "meaning": "Enterarse (de un secreto o noticia)",
+        "usage_example": "He found out that she was lying.",
+        "pronunciation_guide_es": "/hi_faun_DAUT_dat_shi_uas_LAI-ing/",
+        "alternative_example": "He learned that she was lying.",
+        "usage_example_es": "Él descubrió que ella estaba mintiendo.",
+        "char_count": "one",
+        "usage_context_en": "discovering truth",
+        "usage_context_es": "descubrir la verdad"
+      }
+    ]
+  }
+]

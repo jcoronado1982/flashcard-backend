@@ -1,0 +1,198 @@
+[
+  {
+    "name": "put on",
+    "phonetic": "/pʊt ɑn/",
+    "spoken_phonetic_us": "/pʊt ɑn/",
+    "search_term": "phrasal verb/clothing/wear/pretend/gain weight",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Ponerse (ropa)",
+        "usage_example": "Put on your jacket. It's cold outside.",
+        "pronunciation_guide_es": "/put_ON_iur_YAket. its_KOLD_autSAID/",
+        "alternative_example": "Wear your jacket. It's cold outside.",
+        "usage_example_es": "Ponte la chaqueta. Hace frío afuera.",
+        "char_count": "one",
+        "usage_context_en": "clothing/daily routine",
+        "usage_context_es": "ropa/rutina diaria"
+      },
+      {
+        "meaning": "Poner (música, un programa)",
+        "usage_example": "Can you put on some music?",
+        "pronunciation_guide_es": "/kæn_iu_put_ON_sam_MIUsik/",
+        "alternative_example": "Can you play some music?",
+        "usage_example_es": "¿Puedes poner algo de música?",
+        "char_count": "one",
+        "usage_context_en": "media/entertainment",
+        "usage_context_es": "medios/entretenimiento"
+      },
+      {
+        "meaning": "Ganar (peso)",
+        "usage_example": "He put on 10 pounds over the holidays.",
+        "pronunciation_guide_es": "/hi_put_ON_ten_PAUNDS_Over_de_HOlides/",
+        "alternative_example": "He gained 10 pounds over the holidays.",
+        "usage_example_es": "Él ganó 10 libras (kilos) durante las vacaciones.",
+        "char_count": "one",
+        "usage_context_en": "health/weight",
+        "usage_context_es": "salud/peso"
+      },
+      {
+        "meaning": "Fingir (una emoción)",
+        "usage_example": "She wasn't really sad. She just put it on.",
+        "pronunciation_guide_es": "/shi_UAsent_RIli_SAD. shi_yost_PU_rit_ON/",
+        "alternative_example": "She wasn't really sad. She just pretended.",
+        "usage_example_es": "No estaba realmente triste. Solo lo fingió.",
+        "char_count": "one",
+        "usage_context_en": "emotions/pretending",
+        "usage_context_es": "emociones/fingir"
+      }
+    ]
+  },
+  {
+    "name": "put off",
+    "phonetic": "/pʊt ɔf/",
+    "spoken_phonetic_us": "/pʊt ɔf/",
+    "search_term": "phrasal verb/postpone/delay/procrastinate",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Pospasicr, aplazar",
+        "usage_example": "Never put off until tomorrow what you can do today.",
+        "pronunciation_guide_es": "/NEver_put_OF_anTIL_tuMORou_uat_iu_kan_DU_tuDEI/",
+        "alternative_example": "Never postpone until tomorrow what you can do today.",
+        "usage_example_es": "Nunca dejes para mañana lo que puedes hacer hoy.",
+        "char_count": "one",
+        "usage_context_en": "procrastination/planning",
+        "usage_context_es": "procrastinación/planificación"
+      },
+      {
+        "meaning": "Desanimar, disuadir (a alguien)",
+        "usage_example": "The bad smell put me off the food.",
+        "pronunciation_guide_es": "/de_BAD_smel_PUT_mi_OF_de_FUD/",
+        "alternative_example": "The bad smell discouraged me from eating the food.",
+        "usage_example_es": "El mal olor me quitó las ganas de comer.",
+        "char_count": "one",
+        "usage_context_en": "feelings/dislike",
+        "usage_context_es": "sentimientos/disgusto"
+      }
+    ]
+  },
+  {
+    "name": "put out",
+    "phonetic": "/pʊt aʊt/",
+    "spoken_phonetic_us": "/pʊ 'taʊt/",
+    "search_term": "phrasal verb/extinguish/publish/inconvenience",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Apagar (un fuego, un cigarrillo)",
+        "usage_example": "The firefighters put out the fire quickly.",
+        "pronunciation_guide_es": "/de_FAIRfaiters_put_AUT_de_FAIR_KUIKli/",
+        "alternative_example": "The firefighters extinguished the fire quickly.",
+        "usage_example_es": "Los bomberos apagaron el fuego rápidamente.",
+        "char_count": "one",
+        "usage_context_en": "fire/extinguish",
+        "usage_context_es": "fuego/apagar"
+      },
+      {
+        "meaning": "Sacar (la basura)",
+        "usage_example": "Don't forget to put out the trash.",
+        "pronunciation_guide_es": "/dont_forGUET_tu_put_AUT_de_TRASH/",
+        "alternative_example": "Don't forget to take the trash outside.",
+        "usage_example_es": "No olvides sacar la basura.",
+        "char_count": "one",
+        "usage_context_en": "chores/household",
+        "usage_context_es": "quehaceres/hogar"
+      }
+    ]
+  },
+  {
+    "name": "put up with",
+    "phonetic": "/pʊt ʌp wɪθ/",
+    "spoken_phonetic_us": "/pʊt ʌp wɪθ/",
+    "search_term": "phrasal verb/tolerate/endure",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Soportar, aguantar (algo o a alguien)",
+        "usage_example": "I can't put up with his excuses anymore.",
+        "pronunciation_guide_es": "/ai_KANT_put_AP_uith_his_eksKIUses_eniMOR/",
+        "alternative_example": "I can't tolerate his excuses anymore.",
+        "usage_example_es": "Ya no puedo soportar sus excusas.",
+        "char_count": "one",
+        "usage_context_en": "tolerance/frustration",
+        "usage_context_es": "tolerancia/frustración"
+      }
+    ]
+  },
+  {
+    "name": "put away",
+    "phonetic": "/pʊt əˈweɪ/",
+    "spoken_phonetic_us": "/pʊt əˈweɪ/",
+    "search_term": "phrasal verb/tidy/store/save money",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Guardar (algo en su lugar)",
+        "usage_example": "Please put away your toys now.",
+        "pronunciation_guide_es": "/plis_put_aUEI_iur_TOIS_NAU/",
+        "alternative_example": "Please store your toys in their proper place.",
+        "usage_example_es": "Por favor, guarda tus juguetes ahora.",
+        "char_count": "one",
+        "usage_context_en": "tidying up/chores",
+        "usage_context_es": "ordenar/quehaceres"
+      }
+    ]
+  },
+  {
+    "name": "put down",
+    "phonetic": "/pʊt daʊn/",
+    "spoken_phonetic_us": "/pʊt daʊn/",
+    "search_term": "phrasal verb/place/insult/euthanize",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Poner (algo) en el suelo, soltar",
+        "usage_example": "You can put down your bag here.",
+        "pronunciation_guide_es": "/iu_kan_put_DAUN_iur_BAG_HIR/",
+        "alternative_example": "You can place your bag here.",
+        "usage_example_es": "Puedes dejar tu bolso aquí.",
+        "char_count": "one",
+        "usage_context_en": "physical action/placing",
+        "usage_context_es": "acción física/colocar"
+      },
+      {
+        "meaning": "Menospreciar, humillar (a alguien)",
+        "usage_example": "He always puts down his coworkers.",
+        "pronunciation_guide_es": "/hi_OLueis_puts_DAUN_his_KOuorkers/",
+        "alternative_example": "He always insults his coworkers.",
+        "usage_example_es": "Él siempre menosprecia a sus compañeros de trabajo.",
+        "char_count": "one",
+        "usage_context_en": "insult/criticism",
+        "usage_context_es": "insulto/crítica"
+      },
+      {
+        "meaning": "Sacrificar (un animal), dormirlo",
+        "usage_example": "We had to put our old cat down.",
+        "pronunciation_guide_es": "/ui_HAD_tu_put_aur_OLD_KAT_daun/",
+        "alternative_example": "We had to euthanize our old cat.",
+        "usage_example_es": "Tuvimos que sacrificar a nuestro viejo gato.",
+        "char_count": "one",
+        "usage_context_en": "pets/euthanasia",
+        "usage_context_es": "mascotas/eutanasia"
+      }
+    ]
+  }
+]

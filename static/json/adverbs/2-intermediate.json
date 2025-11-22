@@ -1,0 +1,659 @@
+[
+  {
+    "name": "carefully",
+    "phonetic": "/ˈkɛəfəli/",
+    "spoken_phonetic_us": "/ˈkɛrfəli/",
+    "search_term": "adverb/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Cuidadosamente / Con cuidado",
+        "usage_example": "Please drive carefully.",
+        "pronunciation_guide_es": "/PLIS_DRAIV_KER-fu-li/",
+        "usage_example_es": "Por favor, conduce con cuidado.",
+        "char_count": "3",
+        "usage_context_en": "In a way that avoids potential harm or mistakes.",
+        "usage_context_es": "De una manera que evita daño o errores potenciales."
+      }
+    ]
+  },
+  {
+    "name": "easily",
+    "phonetic": "/ˈiːzɪli/",
+    "spoken_phonetic_us": "/ˈiːzɪli/",
+    "search_term": "adverb/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Fácilmente",
+        "usage_example": "He passed the test easily.",
+        "pronunciation_guide_es": "/hi_PAST_de_TEST_I-si-li/",
+        "usage_example_es": "Él pasó el examen fácilmente.",
+        "char_count": "5",
+        "usage_context_en": "Without difficulty or effort.",
+        "usage_context_es": "Sin dificultad o esfuerzo."
+      }
+    ]
+  },
+  {
+    "name": "hard",
+    "phonetic": "/hɑːrd/",
+    "spoken_phonetic_us": "/hɑrd/",
+    "search_term": "adverb/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Duro / Con esfuerzo",
+        "usage_example": "She works very hard.",
+        "pronunciation_guide_es": "/shi_UORKS_VE-ri_HARD/",
+        "usage_example_es": "Ella trabaja muy duro.",
+        "char_count": "4",
+        "usage_context_en": "With a great deal of effort.",
+        "usage_context_es": "Con una gran cantidad de esfuerzo."
+      }
+    ]
+  },
+  {
+    "name": "fast",
+    "phonetic": "/fæst/",
+    "spoken_phonetic_us": "/fæst/",
+    "search_term": "adverb/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Rápido / Rápidamente",
+        "usage_example": "She runs very fast.",
+        "pronunciation_guide_es": "/shi_RONS_VE-ri_FAST/",
+        "usage_example_es": "Ella corre muy rápido.",
+        "char_count": "4",
+        "usage_context_en": "At high speed (adverb form is the same as the adjective).",
+        "usage_context_es": "A alta velocidad (la forma adverbial es igual al adjetivo)."
+      }
+    ]
+  },
+  {
+    "name": "quietly",
+    "phonetic": "/ˈkwaɪətli/",
+    "spoken_phonetic_us": "/ˈkwaɪətli/",
+    "search_term": "adverb/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Silenciosamente / En voz baja",
+        "usage_example": "He closed the door quietly.",
+        "pronunciation_guide_es": "/hi_CLOUSD_de_DOR_CUAI-et-li/",
+        "usage_example_es": "Él cerró la puerta silenciosamente.",
+        "char_count": "5",
+        "usage_context_en": "Making little or no noise.",
+        "usage_context_es": "Haciendo poco o nada de ruido."
+      }
+    ]
+  },
+  {
+    "name": "loudly",
+    "phonetic": "/ˈlaʊdli/",
+    "spoken_phonetic_us": "/ˈlaʊdli/",
+    "search_term": "adverb/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Ruidosamente / En voz alta",
+        "usage_example": "She laughed loudly.",
+        "pronunciation_guide_es": "/shi_LAFT_LAUD-li/",
+        "usage_example_es": "Ella se rio ruidosamente.",
+        "char_count": "3",
+        "usage_context_en": "Making a lot of noise.",
+        "usage_context_es": "Haciendo mucho ruido."
+      }
+    ]
+  },
+  {
+    "name": "nearly",
+    "phonetic": "/ˈnɪərli/",
+    "spoken_phonetic_us": "/ˈnɪrli/",
+    "search_term": "adverb/degree",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Degree",
+    "definitions": [
+      {
+        "meaning": "Casi",
+        "usage_example": "I am nearly finished.",
+        "pronunciation_guide_es": "/ai_am_NIR-li_FI-nisht/",
+        "usage_example_es": "Casi he terminado.",
+        "char_count": "4",
+        "usage_context_en": "Very close to; almost.",
+        "usage_context_es": "Muy cerca de; casi."
+      }
+    ]
+  },
+  {
+    "name": "almost",
+    "phonetic": "/ˈɔːlmoʊst/",
+    "spoken_phonetic_us": "/ˈɔlmoʊst/",
+    "search_term": "adverb/degree",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Degree",
+    "definitions": [
+      {
+        "meaning": "Casi",
+        "usage_example": "The food is almost ready.",
+        "pronunciation_guide_es": "/de_FUD_is_OL-moust_RE-di/",
+        "usage_example_es": "La comida está casi lista.",
+        "char_count": "5",
+        "usage_context_en": "Very nearly; not completely.",
+        "usage_context_es": "Muy cerca de; no completamente."
+      }
+    ]
+  },
+  {
+    "name": "probably",
+    "phonetic": "/ˈprɒbəbli/",
+    "spoken_phonetic_us": "/ˈprɑbəbli/",
+    "search_term": "adverb/certainty",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Certainty",
+    "definitions": [
+      {
+        "meaning": "Probablemente",
+        "usage_example": "It will probably rain tomorrow.",
+        "pronunciation_guide_es": "/it_uil_PRO-ba-bli_REIN_tu-MO-rou/",
+        "usage_example_es": "Probablemente lloverá mañana.",
+        "char_count": "5",
+        "usage_context_en": "Almost certainly; as far as one knows or can tell.",
+        "usage_context_es": "Casi con seguridad; por lo que uno sabe o puede decir."
+      }
+    ]
+  },
+  {
+    "name": "exactly",
+    "phonetic": "/ɪɡˈzæktli/",
+    "spoken_phonetic_us": "/ɪɡˈzæktli/",
+    "search_term": "adverb/degree/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Degree",
+    "definitions": [
+      {
+        "meaning": "Exactamente / Exacto",
+        "usage_example": "That is exactly what I mean.",
+        "pronunciation_guide_es": "/dat_is_eg-ZAKT-li_uat_ai_MIN/",
+        "usage_example_es": "Eso es exactamente lo que quiero decir.",
+        "char_count": "6",
+        "usage_context_en": "Used to emphasize precision or correctness.",
+        "usage_context_es": "Usado para enfatizar precisión o corrección."
+      }
+    ]
+  },
+  {
+    "name": "especially",
+    "phonetic": "/ɪˈspɛʃəli/",
+    "spoken_phonetic_us": "/ɪˈspɛʃəli/",
+    "search_term": "adverb/degree",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Degree",
+    "definitions": [
+      {
+        "meaning": "Especialmente / Sobre todo",
+        "usage_example": "I like all fruits, especially apples.",
+        "pronunciation_guide_es": "/ai_LAIK_ol_FRUTS_es-PE-sha-li_A-pols/",
+        "usage_example_es": "Me gustan todas las frutas, especialmente las manzanas.",
+        "char_count": "6",
+        "usage_context_en": "To a great extent; very much; above all.",
+        "usage_context_es": "En gran medida; muchísimo; sobre todo."
+      }
+    ]
+  },
+  {
+    "name": "finally",
+    "phonetic": "/ˈfaɪnəli/",
+    "spoken_phonetic_us": "/ˈfaɪnəli/",
+    "search_term": "adverb/time/sequence",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Time",
+    "definitions": [
+      {
+        "meaning": "Por último / Finalmente (secuencia)",
+        "usage_example": "First, mix the flour. Finally, bake the cake.",
+        "pronunciation_guide_es": "/FIRST_miks_de_FLAUR_FAI-na-li_BEIK_de_KEIK/",
+        "usage_example_es": "Primero, mezcla la harina. Por último, hornea el pastel.",
+        "char_count": "7",
+        "usage_context_en": "Used to introduce the last item in a sequence.",
+        "usage_context_es": "Usado para introducir el último ítem en una secuencia."
+      },
+      {
+        "meaning": "Por fin / Finalmente (resultado)",
+        "usage_example": "After three hours, he finally arrived.",
+        "pronunciation_guide_es": "/AF-ter_ZRI_AU-ers_hi_FAI-na-li_a-RAIVD/",
+        "usage_example_es": "Después de tres horas, por fin llegó.",
+        "char_count": "6",
+        "usage_context_en": "After a long time, typically after difficulty or delay.",
+        "usage_context_es": "Después de mucho tiempo, típicamente después de dificultad o retraso."
+      }
+    ]
+  },
+  {
+    "name": "certainly",
+    "phonetic": "/ˈsɜːrtənli/",
+    "spoken_phonetic_us": "/ˈsɜrtənli/",
+    "search_term": "adverb/certainty",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Certainty",
+    "definitions": [
+      {
+        "meaning": "Ciertamente / Sin duda",
+        "usage_example": "He will certainly win.",
+        "pronunciation_guide_es": "/hi_uil_SER-ten-li_UIN/",
+        "usage_example_es": "Él sin duda ganará.",
+        "char_count": "4",
+        "usage_context_en": "Without doubt; surely.",
+        "usage_context_es": "Sin duda; seguramente."
+      }
+    ]
+  },
+  {
+    "name": "clearly",
+    "phonetic": "/ˈklɪərli/",
+    "spoken_phonetic_us": "/ˈklɪrli/",
+    "search_term": "adverb/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Claramente",
+        "usage_example": "Please speak clearly.",
+        "pronunciation_guide_es": "/PLIS_SPIK_CLIR-li/",
+        "usage_example_es": "Por favor habla claramente.",
+        "char_count": "3",
+        "usage_context_en": "In a way that is easy to see, hear, or understand.",
+        "usage_context_es": "De una manera que es fácil de ver, oír o entender."
+      }
+    ]
+  },
+  {
+    "name": "quickly",
+    "phonetic": "/ˈkwɪkli/",
+    "spoken_phonetic_us": "/ˈkwɪkli/",
+    "search_term": "adverb/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Rápidamente / Rápido",
+        "usage_example": "She answered quickly.",
+        "pronunciation_guide_es": "/shi_AN-serd_CUIK-li/",
+        "usage_example_es": "Ella respondió rápidamente.",
+        "char_count": "3",
+        "usage_context_en": "At a fast speed; fast.",
+        "usage_context_es": "A alta velocidad; rápido."
+      }
+    ]
+  },
+  {
+    "name": "slowly",
+    "phonetic": "/ˈsloʊli/",
+    "spoken_phonetic_us": "/ˈsloʊli/",
+    "search_term": "adverb/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Lentamente / Despacio",
+        "usage_example": "He is eating slowly.",
+        "pronunciation_guide_es": "/hi_is_I-ting_SLOU-li/",
+        "usage_example_es": "Él está comiendo despacio.",
+        "char_count": "4",
+        "usage_context_en": "At a slow speed.",
+        "usage_context_es": "A baja velocidad."
+      }
+    ]
+  },
+  {
+    "name": "simply",
+    "phonetic": "/ˈsɪmpli/",
+    "spoken_phonetic_us": "/ˈsɪmpli/",
+    "search_term": "adverb/manner/degree",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Simplemente / Sencillamente",
+        "usage_example": "It is simply a matter of time.",
+        "pronunciation_guide_es": "/it_is_SIM-pli_a_MA-ter_of_TAIM/",
+        "usage_example_es": "Es simplemente una cuestión de tiempo.",
+        "char_count": "6",
+        "usage_context_en": "Used to mean 'only', 'just', or 'in a simple way'.",
+        "usage_context_es": "Usado para significar 'solo', 'solamente' o 'de manera simple'."
+      }
+    ]
+  },
+  {
+    "name": "luckily",
+    "phonetic": "/ˈlʌkɪli/",
+    "spoken_phonetic_us": "/ˈlʌkɪli/",
+    "search_term": "adverb/sentence",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Sentence",
+    "definitions": [
+      {
+        "meaning": "Afortunadamente / Por suerte",
+        "usage_example": "Luckily, I found my keys.",
+        "pronunciation_guide_es": "/LO-ki-li_ai_FAUND_mai_KIS/",
+        "usage_example_es": "Afortunadamente, encontré mis llaves.",
+        "char_count": "4",
+        "usage_context_en": "It is fortunate that; by good luck.",
+        "usage_context_es": "Es afortunado que; por buena suerte."
+      }
+    ]
+  },
+  {
+    "name": "unfortunately",
+    "phonetic": "/ʌnˈfɔːrtʃənətli/",
+    "spoken_phonetic_us": "/ʌnˈfɔrtʃənətli/",
+    "search_term": "adverb/sentence",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Sentence",
+    "definitions": [
+      {
+        "meaning": "Desafortunadamente / Lamentablemente",
+        "usage_example": "Unfortunately, the store was closed.",
+        "pronunciation_guide_es": "/on-FOR-chu-net-li_de_STOR_uas_CLOUSD/",
+        "usage_example_es": "Desafortunadamente, la tienda estaba cerrada.",
+        "char_count": "5",
+        "usage_context_en": "It is unfortunate that; by bad luck.",
+        "usage_context_es": "Es desafortunado que; por mala suerte."
+      }
+    ]
+  },
+  {
+    "name": "recently",
+    "phonetic": "/ˈriːsəntli/",
+    "spoken_phonetic_us": "/ˈriːsəntli/",
+    "search_term": "adverb/time",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Time",
+    "definitions": [
+      {
+        "meaning": "Recientemente / Hace poco",
+        "usage_example": "I saw him recently.",
+        "pronunciation_guide_es": "/ai_SO_him_RI-sent-li/",
+        "usage_example_es": "Lo vi recientemente.",
+        "char_count": "4",
+        "usage_context_en": "At a recent time; not long ago.",
+        "usage_context_es": "En un tiempo reciente; no hace mucho."
+      }
+    ]
+  },
+  {
+    "name": "rarely",
+    "phonetic": "/ˈrɛərli/",
+    "spoken_phonetic_us": "/ˈrɛrli/",
+    "search_term": "adverb/frequency",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Frequency",
+    "definitions": [
+      {
+        "meaning": "Rara vez / Casi nunca",
+        "usage_example": "He rarely goes to the cinema.",
+        "pronunciation_guide_es": "/hi_RER-li_GOUS_tu_de_SI-ne-ma/",
+        "usage_example_es": "Él rara vez va al cine.",
+        "char_count": "6",
+        "usage_context_en": "Not often; seldom (approx. 5-10% of the time).",
+        "usage_context_es": "No a menudo; pocas veces (aprox. 5-10% del tiempo)."
+      }
+    ]
+  },
+  {
+    "name": "suddenly",
+    "phonetic": "/ˈsʌdənli/",
+    "spoken_phonetic_us": "/ˈsʌdənli/",
+    "search_term": "adverb/time/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "De repente / Súbitamente",
+        "usage_example": "Suddenly, the lights went out.",
+        "pronunciation_guide_es": "/SO-den-li_de_LAITS_uent_AUT/",
+        "usage_example_es": "De repente, las luces se apagaron.",
+        "char_count": "5",
+        "usage_context_en": "Quickly and unexpectedly.",
+        "usage_context_es": "Rápida e inesperadamente."
+      }
+    ]
+  },
+  {
+    "name": "gradually",
+    "phonetic": "/ˈɡrædʒuəli/",
+    "spoken_phonetic_us": "/ˈɡrædʒuəli/",
+    "search_term": "adverb/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Gradualmente / Poco a poco",
+        "usage_example": "The weather is gradually improving.",
+        "pronunciation_guide_es": "/de_UE-der_is_GRA-du-a-li_im-PRU-ving/",
+        "usage_example_es": "El clima está mejorando gradualmente.",
+        "char_count": "5",
+        "usage_context_en": "In a slow and steady way over time.",
+        "usage_context_es": "De manera lenta y constante a lo largo del tiempo."
+      }
+    ]
+  },
+  {
+    "name": "honestly",
+    "phonetic": "/ˈɒnɪstli/",
+    "spoken_phonetic_us": "/ˈɑnɪstli/",
+    "search_term": "adverb/manner/sentence",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Sentence",
+    "definitions": [
+      {
+        "meaning": "Honestamente / En serio",
+        "usage_example": "Honestly, I don't know the answer.",
+        "pronunciation_guide_es": "/O-nest-li_ai_DONT_NOU_di_AN-ser/",
+        "usage_example_es": "Honestamente, no sé la respuesta.",
+        "char_count": "6",
+        "usage_context_en": "Used to emphasize the truth or sincerity of a statement.",
+        "usage_context_es": "Usado para enfatizar la verdad o sinceridad de una declaración."
+      }
+    ]
+  },
+  {
+    "name": "definitely",
+    "phonetic": "/ˈdɛfɪnətli/",
+    "spoken_phonetic_us": "/ˈdɛfɪnətli/",
+    "search_term": "adverb/certainty",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Certainty",
+    "definitions": [
+      {
+        "meaning": "Definitivamente / Sin duda",
+        "usage_example": "I will definitely be there.",
+        "pronunciation_guide_es": "/ai_uil_DE-fi-net-li_bi_DER/",
+        "usage_example_es": "Definitivamente estaré allí.",
+        "char_count": "5",
+        "usage_context_en": "Without any doubt; certainly.",
+        "usage_context_es": "Sin ninguna duda; ciertamente."
+      }
+    ]
+  },
+  {
+    "name": "seriously",
+    "phonetic": "/ˈsɪəriəsli/",
+    "spoken_phonetic_us": "/ˈsɪriəsli/",
+    "search_term": "adverb/manner/sentence",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Seriamente / Gravemente",
+        "usage_example": "He was seriously injured.",
+        "pronunciation_guide_es": "/hi_uas_SI-ri-os-li_IN-yurd/",
+        "usage_example_es": "Él resultó gravemente herido.",
+        "char_count": "4",
+        "usage_context_en": "In a serious manner; gravely.",
+        "usage_context_es": "De manera seria; gravemente."
+      },
+      {
+        "meaning": "En serio (pregunta/énfasis)",
+        "usage_example": "Seriously, what are you doing?",
+        "pronunciation_guide_es": "/SI-ri-os-li_UAT_ar_iu_DU-ing/",
+        "usage_example_es": "En serio, ¿qué estás haciendo?",
+        "char_count": "5",
+        "usage_context_en": "Used to ask if someone is joking or to emphasize a point.",
+        "usage_context_es": "Usado para preguntar si alguien bromea o para enfatizar un punto."
+      }
+    ]
+  },
+  {
+    "name": "naturally",
+    "phonetic": "/ˈnætʃərəli/",
+    "spoken_phonetic_us": "/ˈnætʃərəli/",
+    "search_term": "adverb/manner/sentence",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Naturalmente / Por supuesto",
+        "usage_example": "Naturally, I was happy to help.",
+        "pronunciation_guide_es": "/NA-chu-ra-li_ai_uas_HA-pi_tu_HELP/",
+        "usage_example_es": "Naturalmente (por supuesto), estuve feliz de ayudar.",
+        "char_count": "6",
+        "usage_context_en": "As you would expect; of course.",
+        "usage_context_es": "Como era de esperar; por supuesto."
+      },
+      {
+        "meaning": "De forma natural",
+        "usage_example": "Her hair is naturally curly.",
+        "pronunciation_guide_es": "/her_HER_is_NA-chu-ra-li_KER-li/",
+        "usage_example_es": "Su cabello es rizado de forma natural.",
+        "char_count": "5",
+        "usage_context_en": "In a way that is not artificial; without intervention.",
+        "usage_context_es": "De una manera que no es artificial; sin intervención."
+      }
+    ]
+  },
+  {
+    "name": "personally",
+    "phonetic": "/ˈpɜːrsənəli/",
+    "spoken_phonetic_us": "/ˈpɜrsənəli/",
+    "search_term": "adverb/sentence",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Sentence",
+    "definitions": [
+      {
+        "meaning": "Personalmente / En mi opinión",
+        "usage_example": "Personally, I disagree.",
+        "pronunciation_guide_es": "/PER-so-na-li_ai_dis-a-GRI/",
+        "usage_example_es": "Personalmente, no estoy de acuerdo.",
+        "char_count": "3",
+        "usage_context_en": "Used to express one's own opinion.",
+        "usage_context_es": "Usado para expresar la opinión propia."
+      }
+    ]
+  },
+  {
+    "name": "eventually",
+    "phonetic": "/ɪˈvɛntʃuəli/",
+    "spoken_phonetic_us": "/ɪˈvɛntʃuəli/",
+    "search_term": "adverb/time",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Time",
+    "definitions": [
+      {
+        "meaning": "Finalmente / Al final",
+        "usage_example": "He eventually found his keys.",
+        "pronunciation_guide_es": "/hi_e-VEN-chu-a-li_FAUND_his_KIS/",
+        "usage_example_es": "Él finalmente encontró sus llaves.",
+        "char_count": "5",
+        "usage_context_en": "In the end, especially after a long time or much effort.",
+        "usage_context_es": "Al final, especialmente después de mucho tiempo o mucho esfuerzo."
+      }
+    ]
+  },
+  {
+    "name": "forever",
+    "phonetic": "/fərˈɛvər/",
+    "spoken_phonetic_us": "/fərˈɛvər/",
+    "search_term": "adverb/time",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Time",
+    "definitions": [
+      {
+        "meaning": "Para siempre",
+        "usage_example": "I will love you forever.",
+        "pronunciation_guide_es": "/ai_uil_LOV_iu_for-E-ver/",
+        "usage_example_es": "Te amaré para siempre.",
+        "char_count": "5",
+        "usage_context_en": "For all future time; for eternity.",
+        "usage_context_es": "Por todo el tiempo futuro; por la eternidad."
+      }
+    ]
+  }
+]

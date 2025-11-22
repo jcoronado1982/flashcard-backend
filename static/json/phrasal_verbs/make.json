@@ -1,0 +1,147 @@
+[
+  {
+    "name": "make up",
+    "phonetic": "/meɪk ʌp/",
+    "spoken_phonetic_us": "/meɪk ʌp/",
+    "search_term": "phrasal verb/invent/reconcile/cosmetics/compose",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Inventar (una historia, una excusa)",
+        "usage_example": "He made up a story about why he was late.",
+        "pronunciation_guide_es": "/hi_meid_AP_a_STORi_aBAUT_uai_hi_uas_LEIT/",
+        "alternative_example": "He invented a story about why he was late.",
+        "usage_example_es": "Él inventó una historia de por qué llegó tarde.",
+        "char_count": "one",
+        "usage_context_en": "inventing/lying",
+        "usage_context_es": "inventar/mentir"
+      },
+      {
+        "meaning": "Hacer las paces, reconciliarse",
+        "usage_example": "They argued last night, but they made up.",
+        "pronunciation_guide_es": "/dey_ARguid_last_NAIT, bat_dey_meid_AP/",
+        "alternative_example": "They argued last night, but they reconciled.",
+        "usage_example_es": "Discutieron anoche, pero hicieron las paces.",
+        "char_count": "one",
+        "usage_context_en": "relationships/reconcile",
+        "usage_context_es": "relaciones/reconciliarse"
+      },
+      {
+        "meaning": "Maquillarse",
+        "usage_example": "She is in the bathroom making up her face.",
+        "pronunciation_guide_es": "/shis_in_de_BATHrum_MEIking_AP_her_FEIS/",
+        "alternative_example": "She is applying cosmetics to her face.",
+        "usage_example_es": "Ella está en el baño maquillándose la cara.",
+        "char_count": "one",
+        "usage_context_en": "cosmetics/beauty",
+        "usage_context_es": "cosméticos/belleza"
+      },
+      {
+        "meaning": "Componer, constituir",
+        "usage_example": "This class is made up of 20 students.",
+        "pronunciation_guide_es": "/dis_KLAS_is_meid_AP_ov_TUENti_STUdents/",
+        "alternative_example": "This class is composed of 20 students.",
+        "usage_example_es": "Esta clase está compuesta por 20 estudiantes.",
+        "char_count": "one",
+        "usage_context_en": "composition/parts",
+        "usage_context_es": "composición/partes"
+      }
+    ]
+  },
+  {
+    "name": "make up for",
+    "phonetic": "/meɪk ʌp fɔr/",
+    "spoken_phonetic_us": "/meɪk ʌp fər/",
+    "search_term": "phrasal verb/compensate/atone",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Compensar (por algo malo o una falta)",
+        "usage_example": "I'll make up for being late. I promise.",
+        "pronunciation_guide_es": "/ail_meik_AP_for_BIing_LEIT. ai_PROmis/",
+        "alternative_example": "I'll compensate for being late. I promise.",
+        "usage_example_es": "Compensaré por llegar tarde. Lo prometo.",
+        "char_count": "one",
+        "usage_context_en": "compensation/apology",
+        "usage_context_es": "compensación/disculpa"
+      }
+    ]
+  },
+  {
+    "name": "make out",
+    "phonetic": "/meɪk aʊt/",
+    "spoken_phonetic_us": "/meɪ 'kaʊt/",
+    "search_term": "phrasal verb/kissing/decipher/discern",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Besarse (apasionadamente)",
+        "usage_example": "I saw them making out in the car.",
+        "pronunciation_guide_es": "/ai_SO_dem_MEIking_AUT_in_de_CAR/",
+        "alternative_example": "I saw them kissing passionately in the car.",
+        "usage_example_es": "Los vi besándose en el auto.",
+        "char_count": "one",
+        "usage_context_en": "romance/kissing",
+        "usage_context_es": "romance/besarse"
+      },
+      {
+        "meaning": "Distinguir, descifrar (con dificultad)",
+        "usage_example": "It's too dark. I can't make out the license plate.",
+        "pronunciation_guide_es": "/its_TU_dark. ai_KANT_meik_AUT_de_LAIsens_PLEIT/",
+        "alternative_example": "It's too dark. I can't discern the license plate.",
+        "usage_example_es": "Está muy oscuro. No puedo distinguir la matrícula.",
+        "char_count": "one",
+        "usage_context_en": "vision/hearing/understanding",
+        "usage_context_es": "visión/oído/entendimiento"
+      }
+    ]
+  },
+  {
+    "name": "make of",
+    "phonetic": "/meɪk ʌv/",
+    "spoken_phonetic_us": "/meɪk əv/",
+    "search_term": "phrasal verb/understand/interpret/opinion",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Entender, opinar sobre (interpretar)",
+        "usage_example": "What do you make of this email?",
+        "pronunciation_guide_es": "/uat_du_iu_MEIK_ov_dis_Imeil/",
+        "alternative_example": "How do you interpret this email?",
+        "usage_example_es": "¿Qué entiendes de este email? / ¿Qué opinas?",
+        "char_count": "one",
+        "usage_context_en": "opinion/interpretation",
+        "usage_context_es": "opinión/interpretación"
+      }
+    ]
+  },
+  {
+    "name": "make for",
+    "phonetic": "/meɪk fɔr/",
+    "spoken_phonetic_us": "/meɪk fər/",
+    "search_term": "phrasal verb/go towards/movement",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Dirigirse hacia (un lugar)",
+        "usage_example": "When the rain started, we made for the house.",
+        "pronunciation_guide_es": "/uen_de_REIN_STARred, ui_MEID_for_de_HAUS/",
+        "alternative_example": "When the rain started, we went towards the house.",
+        "usage_example_es": "Cuando empezó la lluvia, nos dirigimos a la casa.",
+        "char_count": "one",
+        "usage_context_en": "direction/movement",
+        "usage_context_es": "dirección/movimiento"
+      }
+    ]
+  }
+]

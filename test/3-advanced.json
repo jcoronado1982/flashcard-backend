@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "abundance",
+    "phonetic": "/əˈbʌndəns/",
+    "spoken_phonetic_us": "/əˈbʌndəns/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Abundancia",
+        "usage_example": "There is an abundance of food.",
+        "pronunciation_guide_es": "/der_is_an_a-BON-dans_of_FUD/",
+        "usage_example_es": "Hay abundancia de comida.",
+        "char_count": "6",
+        "usage_context_en": "A very large quantity of something.",
+        "usage_context_es": "Una cantidad muy grande de algo."
+      }
+    ]
+  },
+  {
+    "name": "accessibility",
+    "phonetic": "/əkˌsɛsəˈbɪləti/",
+    "spoken_phonetic_us": "/əkˌsɛsəˈbɪləti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Accesibilidad",
+        "usage_example": "Accessibility is important for the website.",
+        "pronunciation_guide_es": "/ak-se-si-BI-li-ti_is_im-POR-tant_for_de_WEB-sait/",
+        "usage_example_es": "La accesibilidad es importante para el sitio web.",
+        "char_count": "6",
+        "usage_context_en": "The quality of being easy to approach, enter, or use.",
+        "usage_context_es": "La cualidad de ser fácil de abordar, entrar o usar."
+      }
+    ]
+  },
+  {
+    "name": "accountability",
+    "phonetic": "/əˌkaʊntəˈbɪləti/",
+    "spoken_phonetic_us": "/əˌkaʊntəˈbɪləti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Responsabilidad (de rendir cuentas)",
+        "usage_example": "We need accountability in government.",
+        "pronunciation_guide_es": "/ui_nid_a-caun-ta-BI-li-ti_in_GO-vern-ment/",
+        "usage_example_es": "Necesitamos responsabilidad en el gobierno.",
+        "char_count": "5",
+        "usage_context_en": "The fact or condition of being responsible for one's actions.",
+        "usage_context_es": "El hecho o la condición de ser responsable por las propias acciones."
+      }
+    ]
+  },
+  {
+    "name": "acquaintance",
+    "phonetic": "/əˈkweɪntəns/",
+    "spoken_phonetic_us": "/əˈkweɪntəns/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Conocido/a",
+        "usage_example": "He is just an acquaintance.",
+        "pronunciation_guide_es": "/hi_is_yost_an_a-CUEIN-tans/",
+        "usage_example_es": "Él es solo un conocido.",
+        "char_count": "5",
+        "usage_context_en": "A person one knows slightly, but who is not a close friend.",
+        "usage_context_es": "Una persona que uno conoce ligeramente, pero que no es un amigo cercano."
+      }
+    ]
+  },
+  {
+    "name": "adaptation",
+    "phonetic": "/ˌædæpˈteɪʃən/",
+    "spoken_phonetic_us": "/ˌædæpˈteɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Adaptación",
+        "usage_example": "Adaptation to change is hard.",
+        "pronunciation_guide_es": "/a-dap-TEI-shon_tu_CHEINCH_is_HARD/",
+        "usage_example_es": "La adaptación al cambio es difícil.",
+        "char_count": "5",
+        "usage_context_en": "The process of changing to suit new conditions.",
+        "usage_context_es": "El proceso de cambiar para ajustarse a nuevas condiciones."
+      }
+    ]
+  },
+  {
+    "name": "advocate",
+    "phonetic": "/ˈædvəkət/",
+    "spoken_phonetic_us": "/ˈædvəkət/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Defensor / Partidario",
+        "usage_example": "She is an advocate for free speech.",
+        "pronunciation_guide_es": "/shi_is_an_AD-vo-ket_for_FRI_SPICH/",
+        "usage_example_es": "Ella es una defensora de la libertad de expresión.",
+        "char_count": "7",
+        "usage_context_en": "A person who publicly supports or recommends a particular cause or policy.",
+        "usage_context_es": "Una persona que apoya públicamente o recomienda una causa o política particular."
+      }
+    ]
+  },
+  {
+    "name": "aesthetic",
+    "phonetic": "/ɛsˈθɛtɪk/",
+    "spoken_phonetic_us": "/ɛsˈθɛtɪk/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Estética",
+        "usage_example": "I like the aesthetic of this room.",
+        "pronunciation_guide_es": "/ai_LAIK_di_es-ZE-tik_of_dis_RUM/",
+        "usage_example_es": "Me gusta la estética de esta habitación.",
+        "char_count": "7",
+        "usage_context_en": "The set of principles concerned with the nature and appreciation of beauty.",
+        "usage_context_es": "El conjunto de principios relacionados con la naturaleza y apreciación de la belleza."
+      }
+    ]
+  },
+  {
+    "name": "agenda",
+    "phonetic": "/əˈdʒɛndə/",
+    "spoken_phonetic_us": "/əˈdʒɛndə/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Agenda / Orden del día",
+        "usage_example": "What is on the agenda today?",
+        "pronunciation_guide_es": "/uat_is_on_di_a-YEN-da_tu-DEI/",
+        "usage_example_es": "¿Qué hay en la agenda hoy?",
+        "char_count": "6",
+        "usage_context_en": "A list of items to be discussed at a formal meeting.",
+        "usage_context_es": "Una lista de temas a discutir en una reunión formal."
+      }
+    ]
+  },
+  {
+    "name": "allegation",
+    "phonetic": "/ˌæləˈɡeɪʃən/",
+    "spoken_phonetic_us": "/ˌæləˈɡeɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Acusación / Alegato",
+        "usage_example": "He denied the serious allegation.",
+        "pronunciation_guide_es": "/hi_de-NAID_de_SI-ri-us_a-le-GUEI-shon/",
+        "usage_example_es": "Él negó la grave acusación.",
+        "char_count": "5",
+        "usage_context_en": "A claim or assertion that someone has done something illegal or wrong, typically made without proof.",
+        "usage_context_es": "Una afirmación o aserción de que alguien ha hecho algo ilegal o incorrecto, típicamente hecha sin pruebas."
+      }
+    ]
+  },
+  {
+    "name": "appeal",
+    "phonetic": "/əˈpil/",
+    "spoken_phonetic_us": "/əˈpil/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Atractivo",
+        "usage_example": "The idea has a lot of appeal.",
+        "pronunciation_guide_es": "/di_ai-DI-a_has_a_lot_of_a-PIL/",
+        "usage_example_es": "La idea tiene mucho atractivo.",
+        "char_count": "7",
+        "usage_context_en": "The quality of being attractive or interesting.",
+        "usage_context_es": "La cualidad de ser atractivo o interesante."
+      },
+      {
+        "meaning": "Apelación (legal)",
+        "usage_example": "He filed an appeal.",
+        "pronunciation_guide_es": "/hi_FAIL_an_a-PIL/",
+        "usage_example_es": "Él presentó una apelación.",
+        "char_count": "4",
+        "usage_context_en": "An application to a higher court for a decision to be reversed.",
+        "usage_context_es": "Una solicitud a un tribunal superior para que se revoque una decisión."
+      }
+    ]
+  },
+  {
+    "name": "applicant",
+    "phonetic": "/ˈæplɪkənt/",
+    "spoken_phonetic_us": "/ˈæplɪkənt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Solicitante / Candidato",
+        "usage_example": "There are many applicants for the job.",
+        "pronunciation_guide_es": "/der_ar_ME-ni_A-pli-cants_for_de_YOB/",
+        "usage_example_es": "Hay muchos solicitantes para el trabajo.",
+        "char_count": "7",
+        "usage_context_en": "A person who formally requests or applies for something, such as a job.",
+        "usage_context_es": "Una persona que solicita formalmente algo, como un trabajo."
+      }
+    ]
+  },
+  {
+    "name": "appreciation",
+    "phonetic": "/əˌpriʃiˈeɪʃən/",
+    "spoken_phonetic_us": "/əˌpriʃiˈeɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Aprecio / Agradecimiento",
+        "usage_example": "He showed his appreciation.",
+        "pronunciation_guide_es": "/hi_SHOUD_his_a-pri-shi-EI-shon/",
+        "usage_example_es": "Él mostró su agradecimiento.",
+        "char_count": "4",
+        "usage_context_en": "Recognition and enjoyment of the good qualities of someone or something.",
+        "usage_context_es": "Reconocimiento y disfrute de las buenas cualidades de alguien o algo."
+      }
+    ]
+  },
+  {
+    "name": "architecture",
+    "phonetic": "/ˈɑrkɪˌtɛktʃər/",
+    "spoken_phonetic_us": "/ˈɑrkɪˌtɛktʃər/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Arts & Media",
+    "definitions": [
+      {
+        "meaning": "Arquitectura",
+        "usage_example": "I admire modern architecture.",
+        "pronunciation_guide_es": "/ai_ad-MAIR_MO-dern_AR-ki-tek-cher/",
+        "usage_example_es": "Admiro la arquitectura moderna.",
+        "char_count": "4",
+        "usage_context_en": "The art or practice of designing and constructing buildings.",
+        "usage_context_es": "El arte o la práctica de diseñar y construir edificios."
+      }
+    ]
+  },
+  {
+    "name": "assessment",
+    "phonetic": "/əˈsɛsmənt/",
+    "spoken_phonetic_us": "/əˈsɛsmənt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Evaluación / Valoración",
+        "usage_example": "We need to do an assessment.",
+        "pronunciation_guide_es": "/ui_NID_tu_du_an_a-SES-ment/",
+        "usage_example_es": "Necesitamos hacer una evaluación.",
+        "char_count": "6",
+        "usage_context_en": "The evaluation or estimation of the nature, quality, or ability of someone or something.",
+        "usage_context_es": "La evaluación o estimación de la naturaleza, calidad o habilidad de alguien o algo."
+      }
+    ]
+  },
+  {
+    "name": "assistance",
+    "phonetic": "/əˈsɪstəns/",
+    "spoken_phonetic_us": "/əˈsɪstəns/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Asistencia / Ayuda",
+        "usage_example": "Do you need assistance?",
+        "pronunciation_guide_es": "/du_iu_nid_a-SIS-tans/",
+        "usage_example_es": "¿Necesitas asistencia?",
+        "char_count": "4",
+        "usage_context_en": "The action of helping someone with a job or task.",
+        "usage_context_es": "La acción de ayudar a alguien con un trabajo o tarea."
+      }
+    ]
+  },
+  {
+    "name": "atmosphere",
+    "phonetic": "/ˈætməsfɪr/",
+    "spoken_phonetic_us": "/ˈætməsfɪr/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Atmósfera (aire)",
+        "usage_example": "The atmosphere is thin at high altitudes.",
+        "pronunciation_guide_es": "/di_AT-mos-fir_is_ZIN_at_HAI_AL-ti-tuds/",
+        "usage_example_es": "La atmósfera es delgada a grandes altitudes.",
+        "char_count": "7",
+        "usage_context_en": "The gases surrounding the earth or another planet.",
+        "usage_context_es": "Los gases que rodean la tierra u otro planeta."
+      },
+      {
+        "meaning": "Ambiente (de un lugar)",
+        "usage_example": "The restaurant has a good atmosphere.",
+        "pronunciation_guide_es": "/de_RES-to-rant_has_a_gud_AT-mos-fir/",
+        "usage_example_es": "El restaurante tiene un buen ambiente.",
+        "char_count": "6",
+        "usage_context_en": "The pervading tone or mood of a place or situation.",
+        "usage_context_es": "El tono o estado de ánimo dominante de un lugar o situación."
+      }
+    ]
+  },
+  {
+    "name": "awareness",
+    "phonetic": "/əˈwɛrnəs/",
+    "spoken_phonetic_us": "/əˈwɛrnəs/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Conciencia / Conocimiento (de algo)",
+        "usage_example": "We need to raise awareness.",
+        "pronunciation_guide_es": "/ui_nid_tu_REIS_a-UER-nes/",
+        "usage_example_es": "Necesitamos crear conciencia.",
+        "char_count": "5",
+        "usage_context_en": "Knowledge or perception of a situation or fact.",
+        "usage_context_es": "Conocimiento o percepción de una situación o hecho."
+      }
+    ]
+  },
+  {
+    "name": "barrier",
+    "phonetic": "/ˈbæriər/",
+    "spoken_phonetic_us": "/ˈbæriər/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Barrera / Obstáculo",
+        "usage_example": "Language can be a barrier.",
+        "pronunciation_guide_es": "/LANG-guich_can_bi_a_BA-ri-er/",
+        "usage_example_es": "El idioma puede ser una barrera.",
+        "char_count": "5",
+        "usage_context_en": "A fence or obstacle that prevents movement or access.",
+        "usage_context_es": "Una valla u obstáculo que impide el movimiento o el acceso."
+      }
+    ]
+  },
+  {
+    "name": "beneficiary",
+    "phonetic": "/ˌbɛnəˈfɪʃiˌɛri/",
+    "spoken_phonetic_us": "/ˌbɛnəˈfɪʃiˌɛri/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Beneficiario",
+        "usage_example": "She is the sole beneficiary.",
+        "pronunciation_guide_es": "/shi_is_de_SOUL_be-ne-FI-shi-e-ri/",
+        "usage_example_es": "Ella es la única beneficiaria.",
+        "char_count": "5",
+        "usage_context_en": "A person who derives advantage from something, especially a trust, will, or life insurance policy.",
+        "usage_context_es": "Una persona que obtiene ventaja de algo, especialmente un fideicomiso, testamento o póliza de seguro de vida."
+      }
+    ]
+  },
+  {
+    "name": "bias",
+    "phonetic": "/ˈbaɪəs/",
+    "spoken_phonetic_us": "/ˈbaɪəs/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Sesgo / Prejuicio",
+        "usage_example": "The article has a political bias.",
+        "pronunciation_guide_es": "/di_AR-ti-col_has_a_po-LI-ti-cal_BAI-as/",
+        "usage_example_es": "El artículo tiene un sesgo político.",
+        "char_count": "6",
+        "usage_context_en": "Prejudice in favor of or against one thing, person, or group compared with another.",
+        "usage_context_es": "Prejuicio a favor o en contra de una cosa, persona o grupo en comparación con otro."
+      }
+    ]
+  },
+  {
+    "name": "boundary",
+    "phonetic": "/ˈbaʊndəri/",
+    "spoken_phonetic_us": "/ˈbaʊndri/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Límite / Frontera",
+        "usage_example": "We must respect personal boundaries.",
+        "pronunciation_guide_es": "/ui_most_ris-PEKT_PER-so-nal_BAUN-dris/",
+        "usage_example_es": "Debemos respetar los límites personales.",
+        "char_count": "5",
+        "usage_context_en": "A line that marks the limits of an area; a dividing line.",
+        "usage_context_es": "Una línea que marca los límites de un área; una línea divisoria."
+      }
+    ]
+  },
+  {
+    "name": "breakthrough",
+    "phonetic": "/ˈbreɪkˌθru/",
+    "spoken_phonetic_us": "/ˈbreɪkˌθru/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Avance / Hito / Logro",
+        "usage_example": "It was a major scientific breakthrough.",
+        "pronunciation_guide_es": "/it_uas_a_MEI-yor_sai-en-TI-fik_BREIK-zru/",
+        "usage_example_es": "Fue un importante avance científico.",
+        "char_count": "6",
+        "usage_context_en": "A sudden, dramatic, and important discovery or development.",
+        "usage_context_es": "Un descubrimiento o desarrollo repentino, dramático e importante."
+      }
+    ]
+  },
+  {
+    "name": "burden",
+    "phonetic": "/ˈbɜrdn/",
+    "spoken_phonetic_us": "/ˈbɜrdn/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Carga / Fardo",
+        "usage_example": "I don't want to be a burden.",
+        "pronunciation_guide_es": "/ai_dont_UANT_tu_bi_a_BER-den/",
+        "usage_example_es": "No quiero ser una carga.",
+        "char_count": "7",
+        "usage_context_en": "A load, typically a heavy one, or a source of worry or stress.",
+        "usage_context_es": "Una carga, típicamente pesada, o una fuente de preocupación o estrés."
+      }
+    ]
+  },
+  {
+    "name": "capability",
+    "phonetic": "/ˌkeɪpəˈbɪləti/",
+    "spoken_phonetic_us": "/ˌkeɪpəˈbɪləti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Capacidad / Aptitud",
+        "usage_example": "She has the capability to succeed.",
+        "pronunciation_guide_es": "/shi_HAS_de_kei-pa-BI-li-ti_tu_sok-SID/",
+        "usage_example_es": "Ella tiene la capacidad de triunfar.",
+        "char_count": "6",
+        "usage_context_en": "The power or ability to do something.",
+        "usage_context_es": "El poder o la habilidad de hacer algo."
+      }
+    ]
+  },
+  {
+    "name": "caution",
+    "phonetic": "/ˈkɔʃən/",
+    "spoken_phonetic_us": "/ˈkɔʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Precaución / Cautela",
+        "usage_example": "Use caution when driving.",
+        "pronunciation_guide_es": "/ius_CO-shon_uen_DRAI-ving/",
+        "usage_example_es": "Use precaución al conducir.",
+        "char_count": "4",
+        "usage_context_en": "Care taken to avoid danger or mistakes.",
+        "usage_context_es": "Cuidado que se toma para evitar peligros o errores."
+      }
+    ]
+  },
+  {
+    "name": "clarity",
+    "phonetic": "/ˈklærəti/",
+    "spoken_phonetic_us": "/ˈklærəti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Claridad",
+        "usage_example": "I need clarity on this issue.",
+        "pronunciation_guide_es": "/ai_nid_CLA-ri-ti_on_dis_I-shu/",
+        "usage_example_es": "Necesito claridad sobre este asunto.",
+        "char_count": "6",
+        "usage_context_en": "The quality of being coherent and intelligible; the quality of being easy to see or hear.",
+        "usage_context_es": "La cualidad de ser coherente e inteligible; la cualidad de ser fácil de ver u oír."
+      }
+    ]
+  },
+  {
+    "name": "clientele",
+    "phonetic": "/ˌkliənˈtɛl/",
+    "spoken_phonetic_us": "/ˌkliənˈtɛl/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Clientela",
+        "usage_example": "The shop has a wealthy clientele.",
+        "pronunciation_guide_es": "/de_SHOP_has_a_UEL-zi_cli-en-TEL/",
+        "usage_example_es": "La tienda tiene una clientela adinerada.",
+        "char_count": "6",
+        "usage_context_en": "All the clients of a business or professional person collectively.",
+        "usage_context_es": "Todos los clientes de un negocio o profesional colectivamente."
+      }
+    ]
+  },
+  {
+    "name": "commitment",
+    "phonetic": "/kəˈmɪtmənt/",
+    "spoken_phonetic_us": "/kəˈmɪtmənt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Compromiso",
+        "usage_example": "Marriage is a big commitment.",
+        "pronunciation_guide_es": "/MA-rich_is_a_big_co-MIT-ment/",
+        "usage_example_es": "El matrimonio es un gran compromiso.",
+        "char_count": "5",
+        "usage_context_en": "The state or quality of being dedicated to a cause, activity, or person.",
+        "usage_context_es": "El estado o cualidad de estar dedicado a una causa, actividad o persona."
+      }
+    ]
+  },
+  {
+    "name": "commodity",
+    "phonetic": "/kəˈmɒdəti/",
+    "spoken_phonetic_us": "/kəˈmɑdəti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Producto / Mercancía",
+        "usage_example": "Oil is a valuable commodity.",
+        "pronunciation_guide_es": "/OIL_is_a_VA-liu-bol_co-MO-di-ti/",
+        "usage_example_es": "El petróleo es un producto valioso.",
+        "char_count": "5",
+        "usage_context_en": "A raw material or primary agricultural product that can be bought and sold.",
+        "usage_context_es": "Una materia prima o producto agrícola primario que se puede comprar y vender."
+      }
+    ]
+  },
+  {
+    "name": "compassion",
+    "phonetic": "/kəmˈpæʃən/",
+    "spoken_phonetic_us": "/kəmˈpæʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Feelings & Emotions",
+    "definitions": [
+      {
+        "meaning": "Compasión",
+        "usage_example": "Show a little compassion.",
+        "pronunciation_guide_es": "/SHOU_a_LI-tol_com-PA-shon/",
+        "usage_example_es": "Muestra un poco de compasión.",
+        "char_count": "4",
+        "usage_context_en": "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+        "usage_context_es": "Lástima y preocupación solidaria por los sufrimientos o desgracias de los demás."
+      }
+    ]
+  },
+  {
+    "name": "competence",
+    "phonetic": "/ˈkɒmpɪtəns/",
+    "spoken_phonetic_us": "/ˈkɑmpɪtəns/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Competencia / Capacidad",
+        "usage_example": "I doubt his competence for the job.",
+        "pronunciation_guide_es": "/ai_DAUT_his_COM-pi-tens_for_de_YOB/",
+        "usage_example_es": "Dudo de su competencia para el trabajo.",
+        "char_count": "7",
+        "usage_context_en": "The ability to do something successfully or efficiently.",
+        "usage_context_es": "La habilidad de hacer algo con éxito o eficientemente."
+      }
+    ]
+  },
+  {
+    "name": "complexity",
+    "phonetic": "/kəmˈplɛksəti/",
+    "spoken_phonetic_us": "/kəmˈplɛksəti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Complejidad",
+        "usage_example": "The complexity of the problem.",
+        "pronunciation_guide_es": "/de_com-PLE-xi-ti_of_de_PRO-blem/",
+        "usage_example_es": "La complejidad del problema.",
+        "char_count": "5",
+        "usage_context_en": "The state or quality of being intricate or complicated.",
+        "usage_context_es": "El estado o cualidad de ser intrincado o complicado."
+      }
+    ]
+  },
+  {
+    "name": "compromise",
+    "phonetic": "/ˈkɒmprəmaɪz/",
+    "spoken_phonetic_us": "/ˈkɑmprəmaɪz/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Acuerdo / Consenso",
+        "usage_example": "We need to reach a compromise.",
+        "pronunciation_guide_es": "/ui_nid_tu_RICH_a_COM-pro-mais/",
+        "usage_example_es": "Necesitamos llegar a un acuerdo.",
+        "char_count": "6",
+        "usage_context_en": "An agreement or settlement of a dispute that is reached by each side making concessions.",
+        "usage_context_es": "Un acuerdo o arreglo de una disputa que se alcanza cuando cada lado hace concesiones."
+      }
+    ]
+  },
+  {
+    "name": "concentration",
+    "phonetic": "/ˌkɒnsənˈtreɪʃən/",
+    "spoken_phonetic_us": "/ˌkɑnsənˈtreɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Concentración",
+        "usage_example": "This task requires concentration.",
+        "pronunciation_guide_es": "/dis_TASK_ri-CUAIRS_con-sen-TREI-shon/",
+        "usage_example_es": "Esta tarea requiere concentración.",
+        "char_count": "4",
+        "usage_context_en": "The action or power of focusing one's attention or mental effort.",
+        "usage_context_es": "La acción o poder de enfocar la atención o el esfuerzo mental."
+      }
+    ]
+  },
+  {
+    "name": "concern",
+    "phonetic": "/kənˈsɜrn/",
+    "spoken_phonetic_us": "/kənˈsɜrn/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Feelings & Emotions",
+    "definitions": [
+      {
+        "meaning": "Preocupación / Inquietud",
+        "usage_example": "This is a major concern.",
+        "pronunciation_guide_es": "/dis_is_a_MEI-yor_con-SERN/",
+        "usage_example_es": "Esta es una preocupación importante.",
+        "char_count": "5",
+        "usage_context_en": "Anxiety; worry.",
+        "usage_context_es": "Ansiedad; preocupación."
+      }
+    ]
+  },
+  {
+    "name": "conduct",
+    "phonetic": "/ˈkɒndʌkt/",
+    "spoken_phonetic_us": "/ˈkɑndʌkt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Conducta / Comportamiento",
+        "usage_example": "His conduct was unprofessional.",
+        "pronunciation_guide_es": "/his_CON-dokt_uas_on-pro-FE-sho-nal/",
+        "usage_example_es": "Su conducta fue poco profesional.",
+        "char_count": "4",
+        "usage_context_en": "The manner in which a person behaves, especially in a particular place or situation.",
+        "usage_context_es": "La manera en que una persona se comporta, especialmente en un lugar o situación particular."
+      }
+    ]
+  },
+  {
+    "name": "consequence",
+    "phonetic": "/ˈkɒnsɪkwəns/",
+    "spoken_phonetic_us": "/ˈkɑnsəkwəns/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Consecuencia",
+        "usage_example": "Every action has a consequence.",
+        "pronunciation_guide_es": "/E-vri_AK-shon_has_a_CON-se-cuens/",
+        "usage_example_es": "Toda acción tiene una consecuencia.",
+        "char_count": "5",
+        "usage_context_en": "A result or effect of an action or condition.",
+        "usage_contex_es": "Un resultado o efecto de una acción o condición."
+      }
+    ]
+  },
+  {
+    "name": "consistency",
+    "phonetic": "/kənˈsɪstənsi/",
+    "spoken_phonetic_us": "/kənˈsɪstənsi/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Consistencia / Coherencia",
+        "usage_example": "Consistency is key to learning.",
+        "pronunciation_guide_es": "/con-SIS-ten-si_is_KI_tu_LER-ning/",
+        "usage_example_es": "La consistencia es clave para aprender.",
+        "char_count": "5",
+        "usage_context_en": "Doing something in the same way over time to achieve accuracy or fairness.",
+        "usage_context_es": "Hacer algo de la misma manera a lo largo del tiempo para lograr precisión o justicia."
+      }
+    ]
+  },
+  {
+    "name": "constraint",
+    "phonetic": "/kənˈstreɪnt/",
+    "spoken_phonetic_us": "/kənˈstreɪnt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Restricción / Limitación",
+        "usage_example": "We have a time constraint.",
+        "pronunciation_guide_es": "/ui_HAV_a_TAIM_con-STREINT/",
+        "usage_example_es": "Tenemos una limitación de tiempo.",
+        "char_count": "5",
+        "usage_context_en": "A limitation or restriction.",
+        "usage_context_es": "Una limitación o restricción."
+      }
+    ]
+  },
+  {
+    "name": "consultation",
+    "phonetic": "/ˌkɒnsəlˈteɪʃən/",
+    "spoken_phonetic_us": "/ˌkɑnsəlˈteɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Consulta",
+        "usage_example": "I have a consultation with the doctor.",
+        "pronunciation_guide_es": "/ai_HAV_a_con-sol-TEI-shon_uiz_de_DOK-tor/",
+        "usage_example_es": "Tengo una consulta con el doctor.",
+        "char_count": "7",
+        "usage_context_en": "A meeting with an expert, such as a doctor, in order to seek advice.",
+        "usage_context_es": "Una reunión con un experto, como un médico, para buscar consejo."
+      }
+    ]
+  },
+  {
+    "name": "controversy",
+    "phonetic": "/ˈkɒntrəˌvɜrsi/",
+    "spoken_phonetic_us": "/ˈkɑntrəˌvɜrsi/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Controversia / Polémica",
+        "usage_example": "The decision caused a controversy.",
+        "pronunciation_guide_es": "/de_de-SI-shon_COSD_a_CON-tro-ver-si/",
+        "usage_example_es": "La decisión causó una controversia.",
+        "char_count": "5",
+        "usage_context_en": "Prolonged public disagreement or heated debate.",
+        "usage_context_es": "Desacuerdo público prolongado o debate acalorado."
+      }
+    ]
+  },
+  {
+    "name": "convenience",
+    "phonetic": "/kənˈvinjəns/",
+    "spoken_phonetic_us": "/kənˈvinjəns/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Conveniencia / Comodidad",
+        "usage_example": "I use it for convenience.",
+        "pronunciation_guide_es": "/ai_IUS_it_for_con-VI-ni-ens/",
+        "usage_example_es": "Lo uso por conveniencia.",
+        "char_count": "5",
+        "usage_context_en": "The state of being able to proceed with something with little effort or difficulty.",
+        "usage_context_es": "El estado de poder proceder con algo con poco esfuerzo o dificultad."
+      }
+    ]
+  },
+  {
+    "name": "coordination",
+    "phonetic": "/koʊˌɔrdnˈeɪʃən/",
+    "spoken_phonetic_us": "/koʊˌɔrdnˈeɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Coordinación",
+        "usage_example": "Good coordination is required.",
+        "pronunciation_guide_es": "/GUD_co-or-di-NEI-shon_is_ri-CUAI-erd/",
+        "usage_example_es": "Se requiere buena coordinación.",
+        "char_count": "4",
+        "usage_context_en": "The organization of the different elements of a complex body or activity so as to enable them to work together effectively.",
+        "usage_context_es": "La organización de los diferentes elementos de un cuerpo o actividad compleja para permitirles trabajar juntos eficazmente."
+      }
+    ]
+  },
+  {
+    "name": "credibility",
+    "phonetic": "/ˌkrɛdəˈbɪləti/",
+    "spoken_phonetic_us": "/ˌkrɛdəˈbɪləti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Credibilidad",
+        "usage_example": "The report lacks credibility.",
+        "pronunciation_guide_es": "/de_ri-PORT_LAKS_cre-di-BI-li-ti/",
+        "usage_example_es": "El informe carece de credibilidad.",
+        "char_count": "4",
+        "usage_context_en": "The quality of being trusted and believed in.",
+        "usage_context_es": "La cualidad de ser confiable y creíble."
+      }
+    ]
+  },
+  {
+    "name": "criticism",
+    "phonetic": "/ˈkrɪtɪˌsɪzəm/",
+    "spoken_phonetic_us": "/ˈkrɪtɪˌsɪzəm/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Crítica",
+        "usage_example": "He does not accept criticism.",
+        "pronunciation_guide_es": "/hi_DOS_not_ak-SEPT_CRI-ti-si-som/",
+        "usage_example_es": "Él no acepta las críticas.",
+        "char_count": "5",
+        "usage_context_en": "The expression of disapproval of someone or something based on perceived faults or mistakes.",
+        "usage_context_es": "La expresión de desaprobación de alguien o algo basada en fallas o errores percibidos."
+      }
+    ]
+  },
+  {
+    "name": "currency",
+    "phonetic": "/ˈkɜrənsi/",
+    "spoken_phonetic_us": "/ˈkɜrənsi/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Moneda / Divisa",
+        "usage_example": "What is the local currency?",
+        "pronunciation_guide_es": "/uat_is_de_LOU-cal_CO-ren-si/",
+        "usage_example_es": "¿Cuál es la moneda local?",
+        "char_count": "5",
+        "usage_context_en": "A system of money in general use in a particular country.",
+        "usage_context_es": "Un sistema de dinero en uso general en un país en particular."
+      }
+    ]
+  },
+  {
+    "name": "damage",
+    "phonetic": "/ˈdæmɪdʒ/",
+    "spoken_phonetic_us": "/ˈdæmɪdʒ/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Daño",
+        "usage_example": "The storm caused a lot of damage.",
+        "pronunciation_guide_es": "/de_STORM_COSD_a_lot_of_DA-mich/",
+        "usage_example_es": "La tormenta causó mucho daño.",
+        "char_count": "7",
+        "usage_context_en": "Physical harm caused to something in such a way as to impair its value or usefulness.",
+        "usage_context_es": "Daño físico causado a algo de tal manera que perjudica su valor o utilidad."
+      }
+    ]
+  },
+  {
+    "name": "debate",
+    "phonetic": "/dɪˈbeɪt/",
+    "spoken_phonetic_us": "/dɪˈbeɪt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Debate",
+        "usage_example": "There was a long debate.",
+        "pronunciation_guide_es": "/der_UAS_a_long_di-BEIT/",
+        "usage_example_es": "Hubo un largo debate.",
+        "char_count": "5",
+        "usage_context_en": "A formal discussion on a particular topic in a public meeting or legislative assembly.",
+        "usage_context_es": "Una discusión formal sobre un tema particular en una reunión pública o asamblea legislativa."
+      }
+    ]
+  },
+  {
+    "name": "dedication",
+    "phonetic": "/ˌdɛdɪˈkeɪʃən/",
+    "spoken_phonetic_us": "/ˌdɛdɪˈkeɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Dedicación",
+        "usage_example": "Her dedication to the job is impressive.",
+        "pronunciation_guide_es": "/her_de-di-KEI-shon_tu_de_YOB_is_im-PRE-siv/",
+        "usage_example_es": "Su dedicación al trabajo es impresionante.",
+        "char_count": "7",
+        "usage_context_en": "The quality of being committed to a task or purpose.",
+        "usage_context_es": "La cualidad de estar comprometido con una tarea o propósito."
+      }
+    ]
+  },
+  {
+    "name": "deficiency",
+    "phonetic": "/dɪˈfɪʃənsi/",
+    "spoken_phonetic_us": "/dɪˈfɪʃənsi/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Deficiencia / Carencia",
+        "usage_example": "He has a vitamin deficiency.",
+        "pronunciation_guide_es": "/hi_HAS_a_VAI-ta-min_de-FI-shen-si/",
+        "usage_example_es": "Él tiene una deficiencia de vitaminas.",
+        "char_count": "5",
+        "usage_context_en": "A lack or shortage of something.",
+        "usage_context_es": "Una falta o escasez de algo."
+      }
+    ]
+  },
+  {
+    "name": "heritage",
+    "phonetic": "/ˈhɛrɪtɪdʒ/",
+    "spoken_phonetic_us": "/ˈhɛrɪtɪdʒ/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Herencia / Patrimonio",
+        "usage_example": "We must protect our cultural heritage.",
+        "pronunciation_guide_es": "/ui_most_pro-TEKT_aur_COL-chu-ral_HE-ri-tich/",
+        "usage_example_es": "Debemos proteger nuestro patrimonio cultural.",
+        "char_count": "6",
+        "usage_context_en": "Features belonging to the culture of a particular society, such as traditions or buildings.",
+        "usage_context_es": "Rasgos pertenecientes a la cultura de una sociedad, como tradiciones o edificios."
+      }
+    ]
+  },
+  {
+    "name": "highlight",
+    "phonetic": "/ˈhaɪˌlaɪt/",
+    "spoken_phonetic_us": "/ˈhaɪˌlaɪt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Lo más destacado / Punto culminante",
+        "usage_example": "The highlight of the trip was the concert.",
+        "pronunciation_guide_es": "/de_HAI-lait_of_de_TRIP_uas_de_CON-sert/",
+        "usage_example_es": "Lo más destacado del viaje fue el concierto.",
+        "char_count": "8",
+        "usage_context_en": "The best or most exciting part of an event or period of time.",
+        "usage_context_es": "La mejor o más emocionante parte de un evento o período de tiempo."
+      },
+      {
+        "meaning": "Reflejo / Mecha (pelo)",
+        "usage_example": "She got highlights in her hair.",
+        "pronunciation_guide_es": "/shi_GOT_HAI-laits_in_her_HER/",
+        "usage_example_es": "Ella se hizo reflejos en el pelo.",
+        "char_count": "6",
+        "usage_context_en": "A strand of hair that is dyed a lighter color than the rest.",
+        "usage_context_es": "Un mechón de pelo teñido de un color más claro que el resto."
+      }
+    ]
+  },
+  {
+    "name": "hypothesis",
+    "phonetic": "/haɪˈpɒθəsɪs/",
+    "spoken_phonetic_us": "/haɪˈpɑθəsɪs/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Hipótesis",
+        "usage_example": "We need to test this hypothesis.",
+        "pronunciation_guide_es": "/ui_NID_tu_TEST_dis_hai-PO-ze-sis/",
+        "usage_example_es": "Necesitamos probar esta hipótesis.",
+        "char_count": "6",
+        "usage_context_en": "A supposition or proposed explanation made on the basis of limited evidence as a starting point.",
+        "usage_context_es": "Una suposición o explicación propuesta sobre la base de evidencia limitada como punto de partida."
+      }
+    ]
+  },
+  {
+    "name": "implementation",
+    "phonetic": "/ˌɪmpləmɛnˈteɪʃən/",
+    "spoken_phonetic_us": "/ˌɪmpləmɛnˈteɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Implementación / Ejecución",
+        "usage_example": "The implementation of the plan failed.",
+        "pronunciation_guide_es": "/di_im-ple-men-TEI-shon_of_de_PLAN_FEILD/",
+        "usage_example_es": "La implementación del plan fracasó.",
+        "char_count": "6",
+        "usage_context_en": "The process of putting a decision or plan into effect.",
+        "usage_context_es": "El proceso de poner en efecto una decisión o plan."
+      }
+    ]
+  },
+  {
+    "name": "implication",
+    "phonetic": "/ˌɪmplɪˈkeɪʃən/",
+    "spoken_phonetic_us": "/ˌɪmplɪˈkeɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Implicación / Consecuencia",
+        "usage_example": "What are the implications of this decision?",
+        "pronunciation_guide_es": "/uat_AR_de_im-pli-KEI-shons_of_dis_de-SI-shon/",
+        "usage_example_es": "¿Cuáles son las implicaciones de esta decisión?",
+        "char_count": "7",
+        "usage_context_en": "The conclusion that can be drawn from something; a likely consequence.",
+        "usage_context_es": "La conclusión que se puede sacar de algo; una consecuencia probable."
+      }
+    ]
+  },
+  {
+    "name": "incentive",
+    "phonetic": "/ɪnˈsɛntɪv/",
+    "spoken_phonetic_us": "/ɪnˈsɛntɪv/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Incentivo",
+        "usage_example": "The bonus is an incentive to work hard.",
+        "pronunciation_guide_es": "/de_BOU-nos_is_an_in-SEN-tiv_tu_UORK_HARD/",
+        "usage_example_es": "El bono es un incentivo para trabajar duro.",
+        "char_count": "8",
+        "usage_context_en": "A thing that motivates or encourages one to do something.",
+        "usage_context_es": "Algo que motiva o alienta a uno a hacer algo."
+      }
+    ]
+  },
+  {
+    "name": "incident",
+    "phonetic": "/ˈɪnsɪdənt/",
+    "spoken_phonetic_us": "/ˈɪnsɪdənt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Incidente",
+        "usage_example": "It was an unfortunate incident.",
+        "pronunciation_guide_es": "/it_uas_an_on-FOR-chu-net_IN-si-dent/",
+        "usage_example_es": "Fue un incidente desafortunado.",
+        "char_count": "4",
+        "usage_context_en": "An event or occurrence, typically one that is unusual or unpleasant.",
+        "usage_context_es": "Un evento o suceso, típicamente uno que es inusual o desagradable."
+      }
+    ]
+  },
+  {
+    "name": "income",
+    "phonetic": "/ˈɪnkʌm/",
+    "spoken_phonetic_us": "/ˈɪnkʌm/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Ingresos / Renta",
+        "usage_example": "He has a high monthly income.",
+        "pronunciation_guide_es": "/hi_HAS_a_HAI_MONZ-li_IN-com/",
+        "usage_example_es": "Él tiene unos ingresos mensuales altos.",
+        "char_count": "6",
+        "usage_context_en": "Money received, especially on a regular basis, for work or through investments.",
+        "usage_context_es": "Dinero recibido, especialmente de forma regular, por trabajo o a través de inversiones."
+      }
+    ]
+  },
+  {
+    "name": "independence",
+    "phonetic": "/ˌɪndɪˈpɛndəns/",
+    "spoken_phonetic_us": "/ˌɪndɪˈpɛndəns/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Independencia",
+        "usage_example": "The country gained its independence.",
+        "pronunciation_guide_es": "/de_CON-tri_GUEIND_its_in-di-PEN-dens/",
+        "usage_example_es": "El país obtuvo su independencia.",
+        "char_count": "5",
+        "usage_context_en": "The state of being free from the control, influence, support, or aid of others.",
+        "usage_context_es": "El estado de estar libre del control, influencia, apoyo o ayuda de otros."
+      }
+    ]
+  },
+  {
+    "name": "indicator",
+    "phonetic": "/ˈɪndɪˌkeɪtər/",
+    "spoken_phonetic_us": "/ˈɪndɪˌkeɪtər/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Indicador",
+        "usage_example": "This is a key indicator of success.",
+        "pronunciation_guide_es": "/dis_is_a_KI_IN-di-kei-tor_of_sok-SES/",
+        "usage_example_es": "Este es un indicador clave de éxito.",
+        "char_count": "7",
+        "usage_context_en": "A thing that shows the state or level of something.",
+        "usage_context_es": "Algo que muestra el estado o nivel de algo."
+      }
+    ]
+  },
+  {
+    "name": "individual",
+    "phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+    "spoken_phonetic_us": "/ˌɪndɪˈvɪdʒuəl/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Individuo / Persona",
+        "usage_example": "Each individual must sign the form.",
+        "pronunciation_guide_es": "/ICH_in-di-VI-du-al_most_SAIN_de_FORM/",
+        "usage_example_es": "Cada individuo debe firmar el formulario.",
+        "char_count": "6",
+        "usage_context_en": "A single human being as distinct from a group.",
+        "usage_context_es": "Un solo ser humano distinto de un grupo."
+      }
+    ]
+  },
+  {
+    "name": "inequality",
+    "phonetic": "/ˌɪnɪˈkwɒləti/",
+    "spoken_phonetic_us": "/ˌɪnɪˈkwɑləti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Desigualdad",
+        "usage_example": "We must fight social inequality.",
+        "pronunciation_guide_es": "/ui_most_FAIT_SOU-shal_in-i-CUA-li-ti/",
+        "usage_example_es": "Debemos combatir la desigualdad social.",
+        "char_count": "5",
+        "usage_context_en": "Difference in size, degree, circumstances, etc.; lack of equality.",
+        "usage_context_es": "Diferencia en tamaño, grado, circunstancias, etc.; falta de igualdad."
+      }
+    ]
+  },
+  {
+    "name": "initiative",
+    "phonetic": "/ɪˈnɪʃətɪv/",
+    "spoken_phonetic_us": "/ɪˈnɪʃətɪv/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Iniciativa",
+        "usage_example": "She showed great initiative.",
+        "pronunciation_guide_es": "/shi_SHOUD_GREIT_i-NI-sha-tiv/",
+        "usage_example_es": "Ella mostró gran iniciativa.",
+        "char_count": "4",
+        "usage_context_en": "The ability to assess and start things independently.",
+        "usage_context_es": "La habilidad de evaluar y comenzar cosas de forma independiente."
+      }
+    ]
+  },
+  {
+    "name": "innovation",
+    "phonetic": "/ˌɪnəˈveɪʃən/",
+    "spoken_phonetic_us": "/ˌɪnəˈveɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Innovación",
+        "usage_example": "We encourage innovation.",
+        "pronunciation_guide_es": "/ui_en-CO-rech_in-o-VEI-shon/",
+        "usage_example_es": "Fomentamos la innovación.",
+        "char_count": "3",
+        "usage_context_en": "A new method, idea, or product.",
+        "usage_context_es": "Un nuevo método, idea o producto."
+      }
+    ]
+  },
+  {
+    "name": "insight",
+    "phonetic": "/ˈɪnsaɪt/",
+    "spoken_phonetic_us": "/ˈɪnsaɪt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Perspicacia / Comprensión profunda",
+        "usage_example": "The book provides new insights.",
+        "pronunciation_guide_es": "/de_BUK_pro-VAIDS_niu_IN-saits/",
+        "usage_example_es": "El libro aporta nuevas percepciones.",
+        "char_count": "5",
+        "usage_context_en": "The capacity to gain an accurate and deep understanding of someone or something.",
+        "usage_context_es": "La capacidad de obtener una comprensión precisa y profunda de alguien o algo."
+      }
+    ]
+  },
+  {
+    "name": "inspection",
+    "phonetic": "/ɪnˈspɛkʃən/",
+    "spoken_phonetic_us": "/ɪnˈspɛkʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Inspección",
+        "usage_example": "The car failed the safety inspection.",
+        "pronunciation_guide_es": "/de_CAR_FEILD_de_SEIF-ti_in-SPEK-shon/",
+        "usage_example_es": "El coche no pasó la inspección de seguridad.",
+        "char_count": "6",
+        "usage_context_en": "Careful examination or scrutiny.",
+        "usage_context_es": "Examen cuidadoso o escrutinio."
+      }
+    ]
+  },
+  {
+    "name": "interaction",
+    "phonetic": "/ˌɪntərˈækʃən/",
+    "spoken_phonetic_us": "/ˌɪntərˈækʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Interacción",
+        "usage_example": "We need more social interaction.",
+        "pronunciation_guide_es": "/ui_NID_mor_SOU-shal_in-ter-AK-shon/",
+        "usage_example_es": "Necesitamos más interacción social.",
+        "char_count": "5",
+        "usage_context_en": "Communication or direct involvement with someone or something.",
+        "usage_context_es": "Comunicación o participación directa con alguien o algo."
+      }
+    ]
+  },
+  {
+    "name": "interest",
+    "phonetic": "/ˈɪntrəst/",
+    "spoken_phonetic_us": "/ˈɪntrəst/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Interés (curiosidad)",
+        "usage_example": "I have an interest in history.",
+        "pronunciation_guide_es": "/ai_HAV_an_IN-trest_in_HIS-to-ri/",
+        "usage_example_es": "Tengo interés en la historia.",
+        "char_count": "6",
+        "usage_context_en": "The feeling of wanting to know or learn about something.",
+        "usage_context_es": "El sentimiento de querer saber o aprender sobre algo."
+      },
+      {
+        "meaning": "Interés (financiero)",
+        "usage_example": "The bank pays high interest.",
+        "pronunciation_guide_es": "/de_BANK_peis_HAI_IN-trest/",
+        "usage_example_es": "El banco paga un interés alto.",
+        "char_count": "5",
+        "usage_context_en": "Money paid regularly at a particular rate for the use of money lent.",
+        "usage_context_es": "Dinero pagado regularmente a una tasa particular por el uso de dinero prestado."
+      }
+    ]
+  },
+  {
+    "name": "interpretation",
+    "phonetic": "/ɪnˌtɜrprɪˈteɪʃən/",
+    "spoken_phonetic_us": "/ɪnˌtɜrprɪˈteɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Interpretación",
+        "usage_example": "What is your interpretation of the poem?",
+        "pronunciation_guide_es": "/uat_is_iur_in-ter-pri-TEI-shon_of_de_POU-em/",
+        "usage_example_es": "¿Cuál es tu interpretación del poema?",
+        "char_count": "7",
+        "usage_context_en": "The action of explaining the meaning of something.",
+        "usage_context_es": "La acción de explicar el significado de algo."
+      }
+    ]
+  },
+  {
+    "name": "intervention",
+    "phonetic": "/ˌɪntərˈvɛnʃən/",
+    "spoken_phonetic_us": "/ˌɪntərˈvɛnʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Intervención",
+        "usage_example": "The government's intervention was necessary.",
+        "pronunciation_guide_es": "/de_GO-vern-ments_in-ter-VEN-shon_uas_NE-se-se-ri/",
+        "usage_example_es": "La intervención del gobierno fue necesaria.",
+        "char_count": "5",
+        "usage_context_en": "The action or process of becoming involved in a difficult situation in order to improve it.",
+        "usage_context_es": "La acción o proceso de involucrarse en una situación difícil para mejorarla."
+      }
+    ]
+  },
+  {
+    "name": "judgment",
+    "phonetic": "/ˈdʒʌdʒmənt/",
+    "spoken_phonetic_us": "/ˈdʒʌdʒmənt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Juicio / Opinión / Criterio",
+        "usage_example": "I trust your judgment.",
+        "pronunciation_guide_es": "/ai_TROST_iur_YOCH-ment/",
+        "usage_example_es": "Confío en tu criterio.",
+        "char_count": "4",
+        "usage_context_en": "The ability to make considered decisions or come to sensible conclusions.",
+        "usage_context_es": "La habilidad de tomar decisiones consideradas o llegar a conclusiones sensatas."
+      }
+    ]
+  },
+  {
+    "name": "legislation",
+    "phonetic": "/ˌlɛdʒɪsˈleɪʃən/",
+    "spoken_phonetic_us": "/ˌlɛdʒɪsˈleɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Government & Society",
+    "definitions": [
+      {
+        "meaning": "Legislación / Leyes",
+        "usage_example": "The government passed new legislation.",
+        "pronunciation_guide_es": "/de_GO-vern-ment_PAST_niu_le-yis-LEI-shon/",
+        "usage_example_es": "El gobierno aprobó nueva legislación.",
+        "char_count": "5",
+        "usage_context_en": "Laws, considered collectively.",
+        "usage_context_es": "Leyes, consideradas colectivamente."
+      }
+    ]
+  },
+  {
+    "name": "limitation",
+    "phonetic": "/ˌlɪmɪˈteɪʃən/",
+    "spoken_phonetic_us": "/ˌlɪmɪˈteɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Limitación",
+        "usage_example": "We all have our limitations.",
+        "pronunciation_guide_es": "/ui_OL_hav_AUR_li-mi-TEI-shons/",
+        "usage_example_es": "Todos tenemos nuestras limitaciones.",
+        "char_count": "5",
+        "usage_context_en": "A limiting rule or circumstance; a restriction.",
+        "usage_context_es": "Una regla o circunstancia limitante; una restricción."
+      }
+    ]
+  },
+  {
+    "name": "maintenance",
+    "phonetic": "/ˈmeɪntənəns/",
+    "spoken_phonetic_us": "/ˈmeɪntənəns/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Mantenimiento",
+        "usage_example": "The car needs regular maintenance.",
+        "pronunciation_guide_es": "/de_CAR_nids_RE-giu-lar_MEIN-te-nans/",
+        "usage_example_es": "El coche necesita mantenimiento regular.",
+        "char_count": "5",
+        "usage_context_en": "The process of preserving a condition or situation or the state of being preserved.",
+        "usage_context_es": "El proceso de preservar una condición o situación, o el estado de ser preservado."
+      }
+    ]
+  },
+  {
+    "name": "maturity",
+    "phonetic": "/məˈtʃʊərəti/",
+    "spoken_phonetic_us": "/məˈtʃʊrəti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Madurez",
+        "usage_example": "He showed great maturity.",
+        "pronunciation_guide_es": "/hi_SHOUD_greit_ma-CHU-ri-ti/",
+        "usage_example_es": "Él mostró gran madurez.",
+        "char_count": "4",
+        "usage_context_en": "The state, fact, or period of being fully developed or adult.",
+        "usage_context_es": "El estado, hecho o período de estar completamente desarrollado o ser adulto."
+      }
+    ]
+  },
+  {
+    "name": "mechanism",
+    "phonetic": "/ˈmɛkəˌnɪzəm/",
+    "spoken_phonetic_us": "/ˈmɛkəˌnɪzəm/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Mecanismo",
+        "usage_example": "The clock's mechanism is broken.",
+        "pronunciation_guide_es": "/de_CLOKS_ME-ka-ni-som_is_BROU-ken/",
+        "usage_example_es": "El mecanismo del reloj está roto.",
+        "char_count": "5",
+        "usage_context_en": "A system of parts working together in a machine; a piece of machinery.",
+        "usage_context_es": "Un sistema de partes que trabajan juntas en una máquina; una pieza de maquinaria."
+      }
+    ]
+  },
+  {
+    "name": "mentality",
+    "phonetic": "/mɛnˈtæləti/",
+    "spoken_phonetic_us": "/mɛnˈtæləti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Mentalidad",
+        "usage_example": "He has a positive mentality.",
+        "pronunciation_guide_es": "/hi_HAS_a_PO-si-tiv_men-TA-li-ti/",
+        "usage_example_es": "Él tiene una mentalidad positiva.",
+        "char_count": "5",
+        "usage_context_en": "The characteristic attitude of mind or way of thinking of a person or group.",
+        "usage_context_es": "La actitud mental característica o forma de pensar de una persona o grupo."
+      }
+    ]
+  },
+  {
+    "name": "methodology",
+    "phonetic": "/ˌmɛθəˈdɒlədʒi/",
+    "spoken_phonetic_us": "/ˌmɛθəˈdɑlədʒi/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Metodología",
+        "usage_example": "We are using a new methodology.",
+        "pronunciation_guide_es": "/ui_ar_IU-sing_a_NIU_me-zo-DO-lo-yi/",
+        "usage_example_es": "Estamos usando una nueva metodología.",
+        "char_count": "6",
+        "usage_context_en": "A system of methods used in a particular area of study or activity.",
+        "usage_context_es": "Un sistema de métodos utilizado en un área particular de estudio o actividad."
+      }
+    ]
+  },
+  {
+    "name": "misunderstanding",
+    "phonetic": "/ˌmɪsəndərˈstændɪŋ/",
+    "spoken_phonetic_us": "/ˌmɪsəndərˈstændɪŋ/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Malentendido",
+        "usage_example": "It was all a misunderstanding.",
+        "pronunciation_guide_es": "/it_uas_OL_a_mis-on-der-STAN-ding/",
+        "usage_example_es": "Todo fue un malentendido.",
+        "char_count": "5",
+        "usage_context_en": "A failure to understand something correctly.",
+        "usage_context_es": "Un fallo en entender algo correctamente."
+      }
+    ]
+  },
+  {
+    "name": "momentum",
+    "phonetic": "/moʊˈmɛntəm/",
+    "spoken_phonetic_us": "/moʊˈmɛntəm/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Impulso / Ímpetu",
+        "usage_example": "The campaign is gaining momentum.",
+        "pronunciation_guide_es": "/de_cam-PEIN_is_GUEI-ning_mo-MEN-tom/",
+        "usage_example_es": "La campaña está ganando impulso.",
+        "char_count": "5",
+        "usage_context_en": "The force or speed with which something moves or develops.",
+        "usage_context_es": "La fuerza o velocidad con la que algo se mueve o desarrolla."
+      }
+    ]
+  },
+  {
+    "name": "motivation",
+    "phonetic": "/ˌmoʊtɪˈveɪʃən/",
+    "spoken_phonetic_us": "/ˌmoʊtɪˈveɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Motivación",
+        "usage_example": "What is your motivation to study?",
+        "pronunciation_guide_es": "/uat_is_iur_mo-ti-VEI-shon_tu_STO-di/",
+        "usage_example_es": "¿Cuál es tu motivación para estudiar?",
+        "char_count": "6",
+        "usage_context_en": "The reason or reasons one has for acting or behaving in a particular way.",
+        "usage_context_es": "La razón o razones que uno tiene para actuar o comportarse de una manera particular."
+      }
+    ]
+  },
+  {
+    "name": "notion",
+    "phonetic": "/ˈnoʊʃən/",
+    "spoken_phonetic_us": "/ˈnoʊʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Noción / Idea",
+        "usage_example": "I have a vague notion of what happened.",
+        "pronunciation_guide_es": "/ai_HAV_a_VEIG_NOU-shon_of_uat_HA-pend/",
+        "usage_example_es": "Tengo una vaga noción de lo que pasó.",
+        "char_count": "8",
+        "usage_context_en": "A conception of or belief about something; an impulse or desire.",
+        "usage_context_es": "Una concepción o creencia sobre algo; un impulso o deseo."
+      }
+    ]
+  },
+  {
+    "name": "obligation",
+    "phonetic": "/ˌɒblɪˈɡeɪʃən/",
+    "spoken_phonetic_us": "/ˌɑblɪˈɡeɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Obligación",
+        "usage_example": "You have no obligation to stay.",
+        "pronunciation_guide_es": "/iu_HAV_no_o-bli-GUEI-shon_tu_STEI/",
+        "usage_example_es": "No tienes obligación de quedarte.",
+        "char_count": "6",
+        "usage_context_en": "An act or course of action to which a person is morally or legally bound; a duty.",
+        "usage_context_es": "Un acto o curso de acción al que una persona está moral o legalmente obligada; un deber."
+      }
+    ]
+  },
+  {
+    "name": "occupation",
+    "phonetic": "/ˌɒkjuˈpeɪʃən/",
+    "spoken_phonetic_us": "/ˌɑkjuˈpeɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Ocupación / Profesión",
+        "usage_example": "Please state your name and occupation.",
+        "pronunciation_guide_es": "/plis_STEIT_iur_NEIM_and_o-kiu-PEI-shon/",
+        "usage_example_es": "Por favor, indique su nombre y ocupación.",
+        "char_count": "6",
+        "usage_context_en": "A person's job or profession.",
+        "usage_context_es": "El trabajo o profesión de una persona."
+      }
+    ]
+  },
+  {
+    "name": "ownership",
+    "phonetic": "/ˈoʊnərʃɪp/",
+    "spoken_phonetic_us": "/ˈoʊnərʃɪp/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Propiedad / Posesión",
+        "usage_example": "Who has ownership of this car?",
+        "pronunciation_guide_es": "/HU_has_OU-ner-ship_of_dis_CAR/",
+        "usage_example_es": "¿Quién tiene la propiedad de este coche?",
+        "char_count": "6",
+        "usage_context_en": "The act, state, or right of possessing something.",
+        "usage_context_es": "El acto, estado o derecho de poseer algo."
+      }
+    ]
+  },
+  {
+    "name": "paradox",
+    "phonetic": "/ˈpærədɒks/",
+    "spoken_phonetic_us": "/ˈpærədɑks/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Paradoja",
+        "usage_example": "It's a curious paradox.",
+        "pronunciation_guide_es": "/its_a_KIU-ri-os_PA-ra-dox/",
+        "usage_example_es": "Es una paradoja curiosa.",
+        "char_count": "4",
+        "usage_context_en": "A seemingly absurd or self-contradictory statement that may be true.",
+        "usage_context_es": "Una declaración aparentemente absurda o autocontradictoria que puede ser cierta."
+      }
+    ]
+  },
+  {
+    "name": "participant",
+    "phonetic": "/pɑrˈtɪsəpənt/",
+    "spoken_phonetic_us": "/pɑrˈtɪsəpənt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Participante",
+        "usage_example": "Every participant received a medal.",
+        "pronunciation_guide_es": "/E-vri_par-TI-si-pant_ri-SIVD_a_ME-dal/",
+        "usage_example_es": "Cada participante recibió una medalla.",
+        "char_count": "5",
+        "usage_context_en": "A person who takes part in something.",
+        "usage_context_es": "Una persona que toma parte en algo."
+      }
+    ]
+  },
+  {
+    "name": "patience",
+    "phonetic": "/ˈpeɪʃəns/",
+    "spoken_phonetic_us": "/ˈpeɪʃəns/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Feelings & Emotions",
+    "definitions": [
+      {
+        "meaning": "Paciencia",
+        "usage_example": "You need a lot of patience.",
+        "pronunciation_guide_es": "/iu_NID_a_LOT_of_PEI-shens/",
+        "usage_example_es": "Necesitas mucha paciencia.",
+        "char_count": "6",
+        "usage_context_en": "The capacity to accept or tolerate delay, trouble, or suffering without getting angry.",
+        "usage_context_es": "La capacidad de aceptar o tolerar retrasos, problemas o sufrimiento sin enfadarse."
+      }
+    ]
+  },
+  {
+    "name": "penalty",
+    "phonetic": "/ˈpɛnlti/",
+    "spoken_phonetic_us": "/ˈpɛnlti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Multa / Castigo / Penal",
+        "usage_example": "The penalty for speeding is high.",
+        "pronunciation_guide_es": "/de_PE-nal-ti_for_SPI-ding_is_HAI/",
+        "usage_example_es": "La multa por exceso de velocidad es alta.",
+        "char_count": "6",
+        "usage_context_en": "A punishment imposed for breaking a law, rule, or contract.",
+        "usage_context_es": "Un castigo impuesto por infringir una ley, regla o contrato."
+      }
+    ]
+  },
+  {
+    "name": "perception",
+    "phonetic": "/pərˈsɛpʃən/",
+    "spoken_phonetic_us": "/pərˈsɛpʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Percepción",
+        "usage_example": "We need to change public perception.",
+        "pronunciation_guide_es": "/ui_NID_tu_CHEINCH_PO-blik_per-SEP-shon/",
+        "usage_example_es": "Necesitamos cambiar la percepción pública.",
+        "char_count": "5",
+        "usage_context_en": "The way in which something is regarded, understood, or interpreted.",
+        "usage_context_es": "La forma en que algo es considerado, entendido o interpretado."
+      }
+    ]
+  },
+  {
+    "name": "philosophy",
+    "phonetic": "/fɪˈlɒsəfi/",
+    "spoken_phonetic_us": "/fɪˈlɑsəfi/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Filosofía",
+        "usage_example": "What is your life philosophy?",
+        "pronunciation_guide_es": "/uat_is_iur_LAIF_fi-LO-so-fi/",
+        "usage_example_es": "¿Cuál es tu filosofía de vida?",
+        "char_count": "5",
+        "usage_context_en": "The study of the fundamental nature of knowledge, reality, and existence.",
+        "usage_context_es": "El estudio de la naturaleza fundamental del conocimiento, la realidad y la existencia."
+      }
+    ]
+  },
+  {
+    "name": "policy",
+    "phonetic": "/ˈpɒləsi/",
+    "spoken_phonetic_us": "/ˈpɑləsi/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Government & Society",
+    "definitions": [
+      {
+        "meaning": "Política (norma / plan)",
+        "usage_example": "It's a company policy.",
+        "pronunciation_guide_es": "/its_a_COM-pa-ni_PO-li-si/",
+        "usage_example_es": "Es una política de la empresa.",
+        "char_count": "4",
+        "usage_context_en": "A course or principle of action adopted or proposed by a government, party, business, or individual.",
+        "usage_context_es": "Un curso o principio de acción adoptado o propuesto por un gobierno, partido, negocio o individuo."
+      },
+      {
+        "meaning": "Póliza (de seguro)",
+        "usage_example": "She has a life insurance policy.",
+        "pronunciation_guide_es": "/shi_HAS_a_LAIF_in-SHU-rans_PO-li-si/",
+        "usage_example_es": "Ella tiene una póliza de seguro de vida.",
+        "char_count": "6",
+        "usage_context_en": "A contract of insurance.",
+        "usage_context_es": "Un contrato de seguro."
+      }
+    ]
+  },
+  {
+    "name": "politician",
+    "phonetic": "/ˌpɒlɪˈtɪʃən/",
+    "spoken_phonetic_us": "/ˌpɑləˈtɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Government & Society",
+    "definitions": [
+      {
+        "meaning": "Político/a",
+        "usage_example": "The politician gave a speech.",
+        "pronunciation_guide_es": "/de_po-li-TI-shan_GUEIV_a_SPICH/",
+        "usage_example_es": "El político dio un discurso.",
+        "char_count": "5",
+        "usage_context_en": "A person who is professionally involved in politics, especially as a holder of an elected office.",
+        "usage_context_es": "Una persona que está involucrada profesionalmente en la política, especialmente como titular de un cargo electo."
+      }
+    ]
+  },
+  {
+    "name": "pollution",
+    "phonetic": "/pəˈluʃən/",
+    "spoken_phonetic_us": "/pəˈluʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Nature & Environment",
+    "definitions": [
+      {
+        "meaning": "Contaminación",
+        "usage_example": "We need to reduce air pollution.",
+        "pronunciation_guide_es": "/ui_NID_tu_ri-DUS_ER_po-LU-shon/",
+        "usage_example_es": "Necesitamos reducir la contaminación del aire.",
+        "char_count": "6",
+        "usage_context_en": "The presence of harmful substances or contaminants in the environment.",
+        "usage_context_es": "La presencia de sustancias dañinas o contaminantes en el medio ambiente."
+      }
+    ]
+  },
+  {
+    "name": "potential",
+    "phonetic": "/pəˈtɛnʃəl/",
+    "spoken_phonetic_us": "/pəˈtɛnʃəl/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Potencial",
+        "usage_example": "She has the potential to succeed.",
+        "pronunciation_guide_es": "/shi_HAS_de_po-TEN-shal_tu_sok-SID/",
+        "usage_example_es": "Ella tiene el potencial para triunfar.",
+        "char_count": "6",
+        "usage_context_en": "Latent qualities or abilities that may be developed and lead to future success.",
+        "usage_context_es": "Cualidades o habilidades latentes que pueden desarrollarse y conducir al éxito futuro."
+      }
+    ]
+  },
+  {
+    "name": "privilege",
+    "phonetic": "/ˈprɪvəlɪdʒ/",
+    "spoken_phonetic_us": "/ˈprɪvəlɪdʒ/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Privilegio",
+        "usage_example": "Education is a privilege, not a right.",
+        "pronunciation_guide_es": "/e-diu-KEI-shon_is_a_PRI-vi-lech_not_a_RAIT/",
+        "usage_example_es": "La educación es un privilegio, no un derecho.",
+        "char_count": "7",
+        "usage_context_en": "A special right, advantage, or immunity granted or available only to a particular person or group.",
+        "usage_context_es": "Un derecho, ventaja o inmunidad especial concedido o disponible solo para una persona o grupo en particular."
+      }
+    ]
+  },
+  {
+    "name": "procedure",
+    "phonetic": "/prəˈsiːdʒər/",
+    "spoken_phonetic_us": "/prəˈsiːdʒər/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Procedimiento",
+        "usage_example": "Follow the standard procedure.",
+        "pronunciation_guide_es": "/FO-lou_de_STAN-dard_pro-SI-diyur/",
+        "usage_example_es": "Sigue el procedimiento estándar.",
+        "char_count": "4",
+        "usage_context_en": "An established or official way of doing something.",
+        "usage_context_es": "Una forma establecida u oficial de hacer algo."
+      }
+    ]
+  },
+  {
+    "name": "proportion",
+    "phonetic": "/prəˈpɔːʃən/",
+    "spoken_phonetic_us": "/prəˈpɔrʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Proporción / Parte",
+        "usage_example": "A large proportion of the budget.",
+        "pronunciation_guide_es": "/a_LARY_pro-POR-shon_of_de_BO-yet/",
+        "usage_example_es": "Una gran proporción del presupuesto.",
+        "char_count": "6",
+        "usage_context_en": "A part, share, or number considered in comparative relation to a whole.",
+        "usage_context_es": "Una parte, cuota o número considerado en relación comparativa con un todo."
+      }
+    ]
+  },
+  {
+    "name": "prospect",
+    "phonetic": "/ˈprɒspɛkt/",
+    "spoken_phonetic_us": "/ˈprɑspɛkt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Perspectiva / Posibilidad",
+        "usage_example": "The prospect of failure is low.",
+        "pronunciation_guide_es": "/de_PROS-pekt_of_FEI-liur_is_LOU/",
+        "usage_example_es": "La perspectiva de fracaso es baja.",
+        "char_count": "6",
+        "usage_context_en": "The possibility or likelihood of some future event occurring.",
+        "usage_context_es": "La posibilidad o probabilidad de que ocurra algún evento futuro."
+      },
+      {
+        "meaning": "Cliente potencial",
+        "usage_example": "He is a good prospect for the sales team.",
+        "pronunciation_guide_es": "/hi_is_a_GUD_PROS-pekt_for_de_SEILS_TIM/",
+        "usage_example_es": "Él es un buen cliente potencial para el equipo de ventas.",
+        "char_count": "9",
+        "usage_context_en": "A person regarded as likely to succeed or as a potential customer.",
+        "usage_context_es": "Una persona considerada como probable de tener éxito o como un cliente potencial."
+      }
+    ]
+  },
+  {
+    "name": "recommendation",
+    "phonetic": "/ˌrɛkəmenˈdeɪʃən/",
+    "spoken_phonetic_us": "/ˌrɛkəmenˈdeɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Recomendación",
+        "usage_example": "Do you have a recommendation?",
+        "pronunciation_guide_es": "/du_iu_HAV_a_re-co-men-DEI-shon/",
+        "usage_example_es": "¿Tienes alguna recomendación?",
+        "char_count": "5",
+        "usage_context_en": "A suggestion or proposal as to the best course of action.",
+        "usage_context_es": "Una sugerencia o propuesta sobre el mejor curso de acción."
+      }
+    ]
+  },
+  {
+    "name": "reliability",
+    "phonetic": "/rɪˌlaɪəˈbɪləti/",
+    "spoken_phonetic_us": "/rɪˌlaɪəˈbɪləti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Confiabilidad / Fiabilidad",
+        "usage_example": "The reliability of the data is low.",
+        "pronunciation_guide_es": "/de_ri-lai-a-BI-li-ti_of_de_DEI-ta_is_LOU/",
+        "usage_example_es": "La fiabilidad de los datos es baja.",
+        "char_count": "7",
+        "usage_context_en": "The quality of being trustworthy or of performing consistently well.",
+        "usage_context_es": "La cualidad de ser digno de confianza o de funcionar consistentemente bien."
+      }
+    ]
+  },
+  {
+    "name": "revenue",
+    "phonetic": "/ˈrɛvənjuː/",
+    "spoken_phonetic_us": "/ˈrɛvənuː/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Ingresos (de una empresa o estado)",
+        "usage_example": "The company's revenue grew last year.",
+        "pronunciation_guide_es": "/de_COM-pa-nis_RE-ve-niu_GRIU_last_YIR/",
+        "usage_example_es": "Los ingresos de la compañía crecieron el año pasado.",
+        "char_count": "6",
+        "usage_context_en": "Income, especially when of a company or organization and of a substantial nature.",
+        "usage_context_es": "Ingresos, especialmente de una compañía u organización y de naturaleza sustancial."
+      }
+    ]
+  },
+  {
+    "name": "schedule",
+    "phonetic": "/ˈʃɛdjuːl/",
+    "spoken_phonetic_us": "/ˈskɛdʒuːl/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Horario / Agenda / Programa",
+        "usage_example": "What is your schedule for today?",
+        "pronunciation_guide_es": "/uat_is_iur_SKE-yul_for_tu-DEI/",
+        "usage_example_es": "¿Cuál es tu horario para hoy?",
+        "char_count": "6",
+        "usage_context_en": "A plan for carrying out a process or procedure, giving lists of intended events and times.",
+        "usage_context_es": "Un plan para llevar a cabo un proceso, dando listas de eventos y horas previstas."
+      }
+    ]
+  },
+  {
+    "name": "sensation",
+    "phonetic": "/sɛnˈseɪʃən/",
+    "spoken_phonetic_us": "/sɛnˈseɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Sensación (física)",
+        "usage_example": "I have a tingling sensation.",
+        "pronunciation_guide_es": "/ai_HAV_a_TING-gling_sen-SEI-shon/",
+        "usage_example_es": "Tengo una sensación de hormigueo.",
+        "char_count": "5",
+        "usage_context_en": "A physical feeling resulting from something that happens to or comes into contact with the body.",
+        "usage_context_es": "Un sentimiento físico resultante de algo que le sucede o entra en contacto con el cuerpo."
+      },
+      {
+        "meaning": "Sensación (conmoción)",
+        "usage_example": "The new movie was a sensation.",
+        "pronunciation_guide_es": "/de_NIU_MU-vi_uas_a_sen-SEI-shon/",
+        "usage_example_es": "La nueva película fue una sensación.",
+        "char_count": "6",
+        "usage_context_en": "A widespread reaction of interest and excitement.",
+        "usage_context_es": "Una reacción generalizada de interés y emoción."
+      }
+    ]
+  },
+  {
+    "name": "stability",
+    "phonetic": "/stəˈbɪləti/",
+    "spoken_phonetic_us": "/stəˈbɪləti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Estabilidad",
+        "usage_example": "We need political stability.",
+        "pronunciation_guide_es": "/ui_NID_po-LI-ti-cal_sta-BI-li-ti/",
+        "usage_example_es": "Necesitamos estabilidad política.",
+        "char_count": "4",
+        "usage_context_en": "The state of being resistant to change and not likely to fall or collapse.",
+        "usage_context_es": "El estado de ser resistente al cambio y no propenso a caer o colapsar."
+      }
+    ]
+  },
+  {
+    "name": "strength",
+    "phonetic": "/strɛŋkθ/",
+    "spoken_phonetic_us": "/strɛŋkθ/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Fuerza",
+        "usage_example": "He has great physical strength.",
+        "pronunciation_guide_es": "/hi_HAS_GREIT_FI-si-cal_STRENKZ/",
+        "usage_example_es": "Él tiene una gran fuerza física.",
+        "char_count": "5",
+        "usage_context_en": "The quality or state of being physically strong.",
+        "usage_context_es": "La cualidad o estado de ser físicamente fuerte."
+      },
+      {
+        "meaning": "Fortaleza (cualidad)",
+        "usage_example": "Her main strength is her determination.",
+        "pronunciation_guide_es": "/her_MEIN_STRENKZ_is_her_de-ter-mi-NEI-shon/",
+        "usage_example_es": "Su principal fortaleza es su determinación.",
+        "char_count": "6",
+        "usage_context_en": "A good or beneficial quality or attribute of a person or thing.",
+        "usage_context_es": "Una cualidad o atributo bueno o beneficioso de una persona o cosa."
+      }
+    ]
+  },
+  {
+    "name": "substance",
+    "phonetic": "/ˈsʌbstəns/",
+    "spoken_phonetic_us": "/ˈsʌbstəns/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Sustancia / Material",
+        "usage_example": "It's a dangerous substance.",
+        "pronunciation_guide_es": "/its_a_DEIN-yer-os_SOBS-tans/",
+        "usage_example_es": "Es una sustancia peligrosa.",
+        "char_count": "4",
+        "usage_context_en": "A particular kind of matter with uniform properties.",
+        "usage_context_es": "Un tipo particular de materia con propiedades uniformes."
+      },
+      {
+        "meaning": "Sustancia (contenido / esencia)",
+        "usage_example": "The article lacks substance.",
+        "pronunciation_guide_es": "/di_AR-ti-col_LAKS_SOBS-tans/",
+        "usage_example_es": "El artículo carece de sustancia.",
+        "char_count": "4",
+        "usage_context_en": "The real or essential meaning; significance.",
+        "usage_context_es": "El significado real o esencial; significancia."
+      }
+    ]
+  },
+  {
+    "name": "summary",
+    "phonetic": "/ˈsʌməri/",
+    "spoken_phonetic_us": "/ˈsʌməri/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Resumen",
+        "usage_example": "Give me a brief summary.",
+        "pronunciation_guide_es": "/GIV_mi_a_BRIF_SO-ma-ri/",
+        "usage_example_es": "Dame un breve resumen.",
+        "char_count": "5",
+        "usage_context_en": "A brief statement or account of the main points of something.",
+        "usage_context_es": "Una breve declaración o relato de los puntos principales de algo."
+      }
+    ]
+  },
+  {
+    "name": "supervision",
+    "phonetic": "/ˌsuːpərˈvɪʒən/",
+    "spoken_phonetic_us": "/ˌsuːpərˈvɪʒən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Supervisión",
+        "usage_example": "Children need adult supervision.",
+        "pronunciation_guide_es": "/CHIL-dren_NID_a-DOLT_su-per-VI-shon/",
+        "usage_example_es": "Los niños necesitan supervisión de un adulto.",
+        "char_count": "4",
+        "usage_context_en": "The action of overseeing or monitoring a person or activity.",
+        "usage_context_es": "La acción de supervisar o monitorear a una persona o actividad."
+      }
+    ]
+  },
+  {
+    "name": "support",
+    "phonetic": "/səˈpɔːt/",
+    "spoken_phonetic_us": "/səˈpɔrt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Apoyo / Ayuda",
+        "usage_example": "Thank you for your support.",
+        "pronunciation_guide_es": "/ZANK_iu_for_iur_so-PORT/",
+        "usage_example_es": "Gracias por tu apoyo.",
+        "char_count": "5",
+        "usage_context_en": "Material assistance or emotional help given to someone.",
+        "usage_context_es": "Asistencia material o ayuda emocional dada a alguien."
+      },
+      {
+        "meaning": "Soporte (físico)",
+        "usage_example": "The bridge needs a new support.",
+        "pronunciation_guide_es": "/de_BRICH_nids_a_NIU_so-PORT/",
+        "usage_example_es": "El puente necesita un nuevo soporte.",
+        "char_count": "6",
+        "usage_context_en": "A structure that bears the weight of something from below.",
+        "usage_context_es": "Una estructura que soporta el peso de algo desde abajo."
+      }
+    ]
+  },
+  {
+    "name": "tendency",
+    "phonetic": "/ˈtɛndənsi/",
+    "spoken_phonetic_us": "/ˈtɛndənsi/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Tendencia / Inclinación",
+        "usage_example": "He has a tendency to be late.",
+        "pronunciation_guide_es": "/hi_HAS_a_TEN-den-si_tu_bi_LEIT/",
+        "usage_example_es": "Él tiene tendencia a llegar tarde.",
+        "char_count": "7",
+        "usage_context_en": "An inclination toward a particular characteristic or type of behavior.",
+        "usage_context_es": "Una inclinación hacia una característica o tipo de comportamiento particular."
+      }
+    ]
+  },
+  {
+    "name": "threat",
+    "phonetic": "/θrɛt/",
+    "spoken_phonetic_us": "/θrɛt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Amenaza",
+        "usage_example": "He made a threat.",
+        "pronunciation_guide_es": "/hi_MEID_a_ZRET/",
+        "usage_example_es": "Él hizo una amenaza.",
+        "char_count": "4",
+        "usage_context_en": "A statement of an intention to inflict pain, injury, damage, or other hostile action.",
+        "usage_context_es": "Una declaración de la intención de infligir dolor, lesión, daño u otra acción hostil."
+      },
+      {
+        "meaning": "Amenaza (peligro)",
+        "usage_example": "Pollution is a threat to wildlife.",
+        "pronunciation_guide_es": "/po-LU-shon_is_a_ZRET_tu_UAILD-laif/",
+        "usage_example_es": "La contaminación es una amenaza para la vida silvestre.",
+        "char_count": "6",
+        "usage_context_en": "A person or thing likely to cause damage or danger.",
+        "usage_context_es": "Una persona o cosa que probablemente cause daño o peligro."
+      }
+    ]
+  },
+  {
+    "name": "tradition",
+    "phonetic": "/trəˈdɪʃən/",
+    "spoken_phonetic_us": "/trəˈdɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Tradición",
+        "usage_example": "It's a family tradition.",
+        "pronunciation_guide_es": "/its_a_FA-mi-li_tra-DI-shon/",
+        "usage_example_es": "Es una tradición familiar.",
+        "char_count": "4",
+        "usage_context_en": "A long-established custom or belief passed down from one generation to another.",
+        "usage_context_es": "Una costumbre o creencia establecida desde hace tiempo y transmitida de una generación a otra."
+      }
+    ]
+  },
+  {
+    "name": "transaction",
+    "phonetic": "/trænˈzækʃən/",
+    "spoken_phonetic_us": "/trænˈzækʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Transacción",
+        "usage_example": "It was a simple transaction.",
+        "pronunciation_guide_es": "/it_uas_a_SIM-pol_tran-SAK-shon/",
+        "usage_example_es": "Fue una transacción simple.",
+        "char_count": "5",
+        "usage_context_en": "An instance of buying or selling something; a business deal.",
+        "usage_context_es": "Una instancia de comprar o vender algo; un acuerdo comercial."
+      }
+    ]
+  },
+  {
+    "name": "transition",
+    "phonetic": "/trænˈzɪʃən/",
+    "spoken_phonetic_us": "/trænˈzɪʃən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Transición",
+        "usage_example": "The transition was difficult.",
+        "pronunciation_guide_es": "/de_tran-SI-shon_uas_DI-fi-colt/",
+        "usage_example_es": "La transición fue difícil.",
+        "char_count": "4",
+        "usage_context_en": "The process or a period of changing from one state or condition to another.",
+        "usage_context_es": "El proceso o un período de cambio de un estado o condición a otro."
+      }
+    ]
+  },
+  {
+    "name": "treatment",
+    "phonetic": "/ˈtriːtmənt/",
+    "spoken_phonetic_us": "/ˈtriːtmənt/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Tratamiento (médico)",
+        "usage_example": "He is receiving treatment for cancer.",
+        "pronunciation_guide_es": "/hi_is_ri-SI-ving_TRIT-ment_for_CAN-ser/",
+        "usage_example_es": "Él está recibiendo tratamiento para el cáncer.",
+        "char_count": "6",
+        "usage_context_en": "Medical care given to a patient for an illness or injury.",
+        "usage_context_es": "Atención médica dada a un paciente por una enfermedad o lesión."
+      },
+      {
+        "meaning": "Trato (hacia alguien)",
+        "usage_example": "His treatment of his employees is bad.",
+        "pronunciation_guide_es": "/his_TRIT-ment_of_his_em-ploi-IS_is_BAD/",
+        "usage_example_es": "Su trato hacia sus empleados es malo.",
+        "char_count": "7",
+        "usage_context_en": "The way one behaves toward or deals with someone or something.",
+        "usage_context_es": "La forma en que uno se comporta o trata a alguien o algo."
+      }
+    ]
+  },
+  {
+    "name": "trust",
+    "phonetic": "/trʌst/",
+    "spoken_phonetic_us": "/trʌst/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Feelings & Emotions",
+    "definitions": [
+      {
+        "meaning": "Confianza",
+        "usage_example": "Trust is important in a relationship.",
+        "pronunciation_guide_es": "/TROST_is_im-POR-tant_in_a_ri-LEI-shon-ship/",
+        "usage_example_es": "La confianza es importante en una relación.",
+        "char_count": "6",
+        "usage_context_en": "Firm belief in the reliability, truth, ability, or strength of someone or something.",
+        "usage_context_es": "Creencia firme en la fiabilidad, verdad, habilidad o fuerza de alguien o algo."
+      }
+    ]
+  },
+  {
+    "name": "uncertainty",
+    "phonetic": "/ʌnˈsɜːtnti/",
+    "spoken_phonetic_us": "/ʌnˈsɜrtnti/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Incertidumbre",
+        "usage_example": "There is a lot of uncertainty.",
+        "pronunciation_guide_es": "/der_is_a_LOT_of_on-SER-ten-ti/",
+        "usage_example_es": "Hay mucha incertidumbre.",
+        "char_count": "6",
+        "usage_context_en": "The state of being unsure of something.",
+        "usage_context_es": "El estado de no estar seguro de algo."
+      }
+    ]
+  },
+  {
+    "name": "victory",
+    "phonetic": "/ˈvɪktəri/",
+    "spoken_phonetic_us": "/ˈvɪktəri/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Victoria",
+        "usage_example": "It was a great victory.",
+        "pronunciation_guide_es": "/it_UAS_a_GREIT_VIK-to-ri/",
+        "usage_example_es": "Fue una gran victoria.",
+        "char_count": "5",
+        "usage_context_en": "An act of defeating an enemy or opponent in a battle, game, or other competition.",
+        "usage_context_es": "Un acto de derrotar a un enemigo u oponente en una batalla, juego u otra competición."
+      }
+    ]
+  },
+  {
+    "name": "violence",
+    "phonetic": "/ˈvaɪələns/",
+    "spoken_phonetic_us": "/ˈvaɪələns/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Violencia",
+        "usage_example": "We must stop the violence.",
+        "pronunciation_guide_es": "/ui_MOST_STOP_de_VAI-o-lens/",
+        "usage_example_es": "Debemos detener la violencia.",
+        "char_count": "5",
+        "usage_context_en": "Behavior involving physical force intended to hurt, damage, or kill someone.",
+        "usage_context_es": "Comportamiento que implica fuerza física con la intención de herir, dañar o matar a alguien."
+      }
+    ]
+  },
+  {
+    "name": "vision",
+    "phonetic": "/ˈvɪʒən/",
+    "spoken_phonetic_us": "/ˈvɪʒən/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Visión (vista)",
+        "usage_example": "He has poor vision.",
+        "pronunciation_guide_es": "/hi_HAS_PUR_VI-shon/",
+        "usage_example_es": "Él tiene mala visión.",
+        "char_count": "4",
+        "usage_context_en": "The faculty or state of being able to see.",
+        "usage_context_es": "La facultad o estado de poder ver."
+      },
+      {
+        "meaning": "Visión (idea/futuro)",
+        "usage_example": "The CEO shared his vision for the company.",
+        "pronunciation_guide_es": "/de_SI-I-OU_SHERD_his_VI-shon_for_de_COM-pa-ni/",
+        "usage_example_es": "El CEO compartió su visión para la compañía.",
+        "char_count": "8",
+        "usage_context_en": "The ability to think about or plan the future with imagination or wisdom.",
+        "usage_context_es": "La habilidad de pensar o planificar el futuro con imaginación o sabiduría."
+      }
+    ]
+  },
+  {
+    "name": "wisdom",
+    "phonetic": "/ˈwɪzdəm/",
+    "spoken_phonetic_us": "/ˈwɪzdəm/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Sabiduría",
+        "usage_example": "He spoke with great wisdom.",
+        "pronunciation_guide_es": "/hi_SPOUK_uiz_GREIT_UIS-dom/",
+        "usage_example_es": "Habló con gran sabiduría.",
+        "char_count": "5",
+        "usage_context_en": "The quality of having experience, knowledge, and good judgment.",
+        "usage_context_es": "La cualidad de tener experiencia, conocimiento y buen juicio."
+      }
+    ]
+  },
+  {
+    "name": "witness",
+    "phonetic": "/ˈwɪtnəs/",
+    "spoken_phonetic_us": "/ˈwɪtnəs/",
+    "search_term": "noun/concept/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "General Concepts",
+    "definitions": [
+      {
+        "meaning": "Testigo",
+        "usage_example": "She was a witness to the crime.",
+        "pronunciation_guide_es": "/shi_UAS_a_UIT-nes_tu_de_CRAIM/",
+        "usage_example_es": "Ella fue testigo del crimen.",
+        "char_count": "7",
+        "usage_context_en": "A person who sees an event, typically a crime or accident, take place.",
+        "usage_context_es": "Una persona que ve ocurrir un evento, típicamente un crimen o accidente."
+      }
+    ]
+  }
+]

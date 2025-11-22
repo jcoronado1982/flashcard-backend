@@ -1,0 +1,326 @@
+[
+  {
+    "name": "according to",
+    "phonetic": "/əˈkɔːrdɪŋ tuː/",
+    "spoken_phonetic_us": "/əˈkɔrdɪŋ tuː/",
+    "search_term": "preposition/source",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Prepositions",
+    "definitions": [
+      {
+        "meaning": "Según / De acuerdo con",
+        "usage_example": "According to the news, it will rain tomorrow.",
+        "pronunciation_guide_es": "/a-COR-ding_tu_de_NIUS_it_uil_REIN_tu-MO-rou/",
+        "usage_example_es": "Según las noticias, lloverá mañana.",
+        "char_count": "7",
+        "usage_context_en": "Used to cite the source of information.",
+        "usage_context_es": "Usado para citar la fuente de la información."
+      }
+    ]
+  },
+  {
+    "name": "due to",
+    "phonetic": "/djuː tuː/",
+    "spoken_phonetic_us": "/duː tuː/",
+    "search_term": "preposition/reason",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Cause & Effect",
+    "definitions": [
+      {
+        "meaning": "Debido a",
+        "usage_example": "The game was canceled due to the rain.",
+        "pronunciation_guide_es": "/de_GUEIM_uas_CAN-seld_DU_tu_de_REIN/",
+        "usage_example_es": "El partido fue cancelado debido a la lluvia.",
+        "char_count": "7",
+        "usage_context_en": "Used to give the reason for something (synonym of 'because of').",
+        "usage_context_es": "Usado para dar la razón de algo (sinónimo de 'because of')."
+      }
+    ]
+  },
+  {
+    "name": "because of",
+    "phonetic": "/bɪˈkɔz əv/",
+    "spoken_phonetic_us": "/bɪˈkɔz əv/",
+    "search_term": "preposition/reason",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Cause & Effect",
+    "definitions": [
+      {
+        "meaning": "Debido a / A causa de",
+        "usage_example": "He was late because of the traffic.",
+        "pronunciation_guide_es": "/hi_uas_LEIT_bi-COZ_of_de_TRA-fik/",
+        "usage_example_es": "Llegó tarde a causa del tráfico.",
+        "char_count": "7",
+        "usage_context_en": "Used to give the reason for something (synonym of 'due to').",
+        "usage_context_es": "Usado para dar la razón de algo (sinónimo de 'due to')."
+      }
+    ]
+  },
+  {
+    "name": "in spite of",
+    "phonetic": "/ɪn spaɪt əv/",
+    "spoken_phonetic_us": "/ɪn spaɪt əv/",
+    "search_term": "preposition/contrast",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Contrast",
+    "definitions": [
+      {
+        "meaning": "A pesar de",
+        "usage_example": "He went out in spite of the rain.",
+        "pronunciation_guide_es": "/hi_UENT_AUT_in_SPAIT_of_de_REIN/",
+        "usage_example_es": "Salió a pesar de la lluvia.",
+        "char_count": "7",
+        "usage_context_en": "Used to show a contrast or unexpected outcome (synonym of 'despite').",
+        "usage_context_es": "Usado para mostrar un contraste o resultado inesperado (sinónimo de 'despite')."
+      }
+    ]
+  },
+  {
+    "name": "despite",
+    "phonetic": "/dɪˈspaɪt/",
+    "spoken_phonetic_us": "/dɪˈspaɪt/",
+    "search_term": "preposition/contrast",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Contrast",
+    "definitions": [
+      {
+        "meaning": "A pesar de",
+        "usage_example": "He went out despite the rain.",
+        "pronunciation_guide_es": "/hi_UENT_AUT_dis-PAIT_de_REIN/",
+        "usage_example_es": "Salió a pesar de la lluvia.",
+        "char_count": "6",
+        "usage_context_en": "Used to show a contrast or unexpected outcome (synonym of 'in spite of').",
+        "usage_context_es": "Usado para mostrar un contraste o resultado inesperado (sinónimo de 'in spite of')."
+      }
+    ]
+  },
+  {
+    "name": "instead of",
+    "phonetic": "/ɪnˈstɛd əv/",
+    "spoken_phonetic_us": "/ɪnˈstɛd əv/",
+    "search_term": "preposition/replacement",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Prepositions",
+    "definitions": [
+      {
+        "meaning": "En lugar de",
+        "usage_example": "I will have tea instead of coffee.",
+        "pronunciation_guide_es": "/ai_uil_HAV_TI_in-STED_of_CO-fi/",
+        "usage_example_es": "Tomaré té en lugar de café.",
+        "char_count": "7",
+        "usage_context_en": "Used to indicate a replacement or alternative.",
+        "usage_context_es": "Usado para indicar un reemplazo o alternativa."
+      }
+    ]
+  },
+  {
+    "name": "in front of",
+    "phonetic": "/ɪn frʌnt əv/",
+    "spoken_phonetic_us": "/ɪn frʌnt əv/",
+    "search_term": "preposition/place",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Prepositions",
+    "definitions": [
+      {
+        "meaning": "Delante de / En frente de",
+        "usage_example": "The car is in front of the house.",
+        "pronunciation_guide_es": "/de_CAR_is_in_FRONT_of_de_HAUS/",
+        "usage_example_es": "El carro está en frente de la casa.",
+        "char_count": "8",
+        "usage_context_en": "Positioned directly ahead or at the front of something.",
+        "usage_context_es": "Posicionado directamente adelante o al frente de algo."
+      }
+    ]
+  },
+  {
+    "name": "on behalf of",
+    "phonetic": "/ɒn bɪˈhɑːf əv/",
+    "spoken_phonetic_us": "/ɑn bɪˈhæf əv/",
+    "search_term": "phrase/representation",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Prepositions",
+    "definitions": [
+      {
+        "meaning": "En nombre de / De parte de",
+        "usage_example": "I am speaking on behalf of my team.",
+        "pronunciation_guide_es": "/ai_am_SPI-king_on_bi-HAF_of_mai_TIM/",
+        "usage_example_es": "Estoy hablando en nombre de mi equipo.",
+        "char_count": "8",
+        "usage_context_en": "As a representative of someone or for someone's benefit.",
+        "usage_context_es": "Como representante de alguien o para el beneficio de alguien."
+      }
+    ]
+  },
+  {
+    "name": "in addition to",
+    "phonetic": "/ɪn əˈdɪʃən tuː/",
+    "spoken_phonetic_us": "/ɪn əˈdɪʃən tuː/",
+    "search_term": "phrase/addition",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Addition",
+    "definitions": [
+      {
+        "meaning": "Además de",
+        "usage_example": "In addition to English, he speaks French.",
+        "pronunciation_guide_es": "/in_a-DI-shon_tu_ING-glish_hi_SPIKS_FRENCH/",
+        "usage_example_es": "Además de inglés, él habla francés.",
+        "char_count": "7",
+        "usage_context_en": "Used to add another item or piece of information.",
+        "usage_context_es": "Usado para añadir otro ítem o pieza de información."
+      }
+    ]
+  },
+  {
+    "name": "prior to",
+    "phonetic": "/ˈpraɪər tuː/",
+    "spoken_phonetic_us": "/ˈpraɪər tuː/",
+    "search_term": "preposition/time/formal",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Prepositions",
+    "definitions": [
+      {
+        "meaning": "Antes de / Previo a (formal)",
+        "usage_example": "Please finish the report prior to the meeting.",
+        "pronunciation_guide_es": "/PLIS_FI-nish_de_ri-PORT_PRAI-or_tu_de_MI-ting/",
+        "usage_example_es": "Por favor termina el informe antes de la reunión.",
+        "char_count": "8",
+        "usage_context_en": "A formal way to say 'before' a specific time or event.",
+        "usage_context_es": "Una forma formal de decir 'antes de' un tiempo o evento específico."
+      }
+    ]
+  },
+  {
+    "name": "as for",
+    "phonetic": "/æz fɔr/",
+    "spoken_phonetic_us": "/æz fɔr/",
+    "search_term": "phrase/topic",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Clarification",
+    "definitions": [
+      {
+        "meaning": "En cuanto a / Con respecto a",
+        "usage_example": "As for the money, we will pay you tomorrow.",
+        "pronunciation_guide_es": "/as_FOR_de_MO-ni_ui_uil_PEI_iu_tu-MO-rou/",
+        "usage_example_es": "En cuanto al dinero, te pagaremos mañana.",
+        "char_count": "8",
+        "usage_context_en": "Used to introduce a new topic or change the subject.",
+        "usage_context_es": "Usado para introducir un nuevo tema o cambiar de tema."
+      }
+    ]
+  },
+  {
+    "name": "as opposed to",
+    "phonetic": "/æz əˈpoʊzd tuː/",
+    "spoken_phonetic_us": "/æz əˈpoʊzd tuː/",
+    "search_term": "phrase/contrast",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Contrast",
+    "definitions": [
+      {
+        "meaning": "A diferencia de / En lugar de",
+        "usage_example": "I prefer tea, as opposed to coffee.",
+        "pronunciation_guide_es": "/ai_pri-FER_TI_as_a-POUSD_tu_CO-fi/",
+        "usage_example_es": "Prefiero el té, a diferencia del café.",
+        "char_count": "6",
+        "usage_context_en": "Used to make a direct contrast between two things.",
+        "usage_context_es": "Usado para hacer un contraste directo entre dos cosas."
+      }
+    ]
+  },
+  {
+    "name": "apart from",
+    "phonetic": "/əˈpɑːrt frɒm/",
+    "spoken_phonetic_us": "/əˈpɑrt frʌm/",
+    "search_term": "preposition/exclusion/addition",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Prepositions",
+    "definitions": [
+      {
+        "meaning": "Aparte de / Excepto",
+        "usage_example": "The store is open every day apart from Sunday.",
+        "pronunciation_guide_es": "/de_STOR_is_OU-pen_E-vri_DEI_a-PART_from_SON-dei/",
+        "usage_example_es": "La tienda está abierta todos los días excepto el domingo.",
+        "char_count": "9",
+        "usage_context_en": "Used to mean 'except for' or 'not including'.",
+        "usage_context_es": "Usado para significar 'excepto por' o 'sin incluir'."
+      },
+      {
+        "meaning": "Aparte de / Además de",
+        "usage_example": "Apart from the salary, the job is great.",
+        "pronunciation_guide_es": "/a-PART_from_de_SA-la-ri_de_YOB_is_GREIT/",
+        "usage_example_es": "Además del salario, el trabajo es genial.",
+        "char_count": "7",
+        "usage_context_en": "Used to mean 'in addition to'.",
+        "usage_context_es": "Usado para significar 'además de'."
+      }
+    ]
+  },
+  {
+    "name": "regardless of",
+    "phonetic": "/rɪˈɡɑːdləs əv/",
+    "spoken_phonetic_us": "/rɪˈɡɑrdləs əv/",
+    "search_term": "preposition/contrast",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Contrast",
+    "definitions": [
+      {
+        "meaning": "Sin importar / Independientemente de",
+        "usage_example": "He bought the car regardless of the cost.",
+        "pronunciation_guide_es": "/hi_BOT_de_CAR_ri-GARD-les_of_de_COST/",
+        "usage_example_es": "Compró el carro sin importar el costo.",
+        "char_count": "7",
+        "usage_context_en": "Used to mean 'without paying attention to' or 'despite'.",
+        "usage_context_es": "Usado para significar 'sin prestar atención a' o 'a pesar de'."
+      }
+    ]
+  },
+  {
+    "name": "thanks to",
+    "phonetic": "/θæŋks tuː/",
+    "spoken_phonetic_us": "/θæŋks tuː/",
+    "search_term": "preposition/reason",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Cause & Effect",
+    "definitions": [
+      {
+        "meaning": "Gracias a",
+        "usage_example": "We succeeded thanks to your help.",
+        "pronunciation_guide_es": "/ui_sok-SI-ded_ZANKS_tu_iur_HELP/",
+        "usage_example_es": "Tuvimos éxito gracias a tu ayuda.",
+        "char_count": "6",
+        "usage_context_en": "Used to show a positive reason for a good outcome.",
+        "usage_context_es": "Usado para mostrar una razón positiva para un buen resultado."
+      }
+    ]
+  }
+]

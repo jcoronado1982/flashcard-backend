@@ -1,0 +1,126 @@
+[
+  {
+    "name": "pick up",
+    "phonetic": "/pɪk ʌp/",
+    "spoken_phonetic_us": "/pɪk ʌp/",
+    "search_term": "phrasal verb/lift/collect/learn/tidy/answer phone",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Levantar (del suelo, de una superficie)",
+        "usage_example": "Can you pick up that pencil for me?",
+        "pronunciation_guide_es": "/kæn_iu_pik_AP_dat_PENsil_for_mi/",
+        "alternative_example": "Can you lift that pencil for me?",
+        "usage_example_es": "¿Puedes levantar ese lápiz por mí?",
+        "char_count": "one",
+        "usage_context_en": "physical action/lifting",
+        "usage_context_es": "acción física/levantar"
+      },
+      {
+        "meaning": "Recoger (a alguien, usualmente en auto)",
+        "usage_example": "I need to pick up my kids from school.",
+        "pronunciation_guide_es": "/ai_NID_tu_pik_AP_mai_KIDS_from_SKUL/",
+        "alternative_example": "I need to collect my kids from school.",
+        "usage_example_es": "Tengo que recoger a mis hijos del colegio.",
+        "char_count": "one",
+        "usage_context_en": "daily routine/transport",
+        "usage_context_es": "rutina diaria/transporte"
+      },
+      {
+        "meaning": "Contestar (el teléfono)",
+        "usage_example": "The phone is ringing. Please pick it up.",
+        "pronunciation_guide_es": "/de_FOUN_is_RINGing. plis_pik_it_AP/",
+        "alternative_example": "The phone is ringing. Please answer it.",
+        "usage_example_es": "El teléfono está sonando. Por favor, contéstalo.",
+        "char_count": "one",
+        "usage_context_en": "phone call",
+        "usage_context_es": "llamada telefónica"
+      },
+      {
+        "meaning": "Ordenar, recoger (un desorden)",
+        "usage_example": "You need to pick up your room.",
+        "pronunciation_guide_es": "/iu_NID_tu_pik_AP_iur_RUM/",
+        "alternative_example": "You need to tidy your room.",
+        "usage_example_es": "Necesitas ordenar tu cuarto.",
+        "char_count": "one",
+        "usage_context_en": "chores/tidying up",
+        "usage_context_es": "quehaceres/ordenar"
+      },
+      {
+        "meaning": "Aprender (un idioma, habilidad, sin esfuerzo)",
+        "usage_example": "I picked up some Spanish in Medellín.",
+        "pronunciation_guide_es": "/ai_pikt_AP_sam_SPAnish_in_medeYIN/",
+        "alternative_example": "I learned some Spanish (casually) in Medellín.",
+        "usage_example_es": "Aprendí algo de español en Medellín.",
+        "char_count": "one",
+        "usage_context_en": "learning/skills",
+        "usage_context_es": "aprender/habilidades"
+      }
+    ]
+  },
+  {
+    "name": "pick out",
+    "phonetic": "/pɪk aʊt/",
+    "spoken_phonetic_us": "/pɪ 'kaʊt/",
+    "search_term": "phrasal verb/choose/select",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Elegir, seleccionar (de un grupo)",
+        "usage_example": "I need to pick out a gift for my mom.",
+        "pronunciation_guide_es": "/ai_NID_tu_pi_KAUT_a_GIFT_for_mai_MOM/",
+        "alternative_example": "I need to choose a gift for my mom.",
+        "usage_example_es": "Necesito elegir un regalo para mi mamá.",
+        "char_count": "one",
+        "usage_context_en": "shopping/decisions",
+        "usage_context_es": "compras/decisiones"
+      }
+    ]
+  },
+  {
+    "name": "pick on",
+    "phonetic": "/pɪk ɑn/",
+    "spoken_phonetic_us": "/pɪk ɑn/",
+    "search_term": "phrasal verb/bully/tease",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Molestar, meterse con (persistentemente)",
+        "usage_example": "He always picks on his little brother.",
+        "pronunciation_guide_es": "/hi_OLueis_piks_ON_his_LItol_BROder/",
+        "alternative_example": "He always teases his little brother.",
+        "usage_example_es": "Él siempre se mete con su hermano pequeño.",
+        "char_count": "one",
+        "usage_context_en": "bullying/behavior",
+        "usage_context_es": "acoso/comportamiento"
+      }
+    ]
+  },
+  {
+    "name": "pick at",
+    "phonetic": "/pɪk æt/",
+    "spoken_phonetic_us": "/pɪ 'kæt/",
+    "search_term": "phrasal verb/eat/food",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Picotear (comida, comer sin ganas)",
+        "usage_example": "She is just picking at her food.",
+        "pronunciation_guide_es": "/shis_yost_PIking_AT_her_FUD/",
+        "alternative_example": "She is eating her food without appetite.",
+        "usage_example_es": "Ella solo está picoteando su comida.",
+        "char_count": "one",
+        "usage_context_en": "eating/health",
+        "usage_context_es": "comer/salud"
+      }
+    ]
+  }
+]

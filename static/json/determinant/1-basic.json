@@ -1,0 +1,674 @@
+[
+    {
+        "name": "a",
+        "phonetic": "/eɪ/",
+        "spoken_phonetic_us": "/ə/",
+        "search_term": "determiner/article",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Determiners: Articles",
+        "definitions": [
+            {
+                "meaning": "Un / Una",
+                "usage_example": "I need a pen.",
+                "pronunciation_guide_es": "/ai_NID_a_PEN/",
+                "usage_example_es": "Necesito un bolígrafo.",
+                "char_count": "4",
+                "usage_context_en": "Used before a singular countable noun that begins with a consonant sound.",
+                "usage_context_es": "Usado antes de un sustantivo contable singular que empieza con sonido de consonante."
+            }
+        ]
+    },
+    {
+        "name": "an",
+        "phonetic": "/æn/",
+        "spoken_phonetic_us": "/ən/",
+        "search_term": "determiner/article",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Determiners: Articles",
+        "definitions": [
+            {
+                "meaning": "Un / Una",
+                "usage_example": "I want an apple.",
+                "pronunciation_guide_es": "/ai_UANT_an_A-pol/",
+                "usage_example_es": "Quiero una manzana.",
+                "char_count": "4",
+                "usage_context_en": "Used before a singular countable noun that begins with a vowel sound.",
+                "usage_context_es": "Usado antes de un sustantivo contable singular que empieza con sonido de vocal."
+            }
+        ]
+    },
+    {
+        "name": "the",
+        "phonetic": "/ðə/",
+        "spoken_phonetic_us": "/ði/",
+        "search_term": "determiner/article",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Articles",
+        "definitions": [
+            {
+                "meaning": "El / La / Los / Las",
+                "usage_example": "The car is red. The apples are green.",
+                "pronunciation_guide_es": "/de_CAR_is_RED_de_A-pols_ar_GRIN/",
+                "usage_example_es": "El carro es rojo. Las manzanas son verdes.",
+                "char_count": "7",
+                "usage_context_en": "Used to refer to a specific, known noun (singular or plural).",
+                "usage_context_es": "Usado para referirse a un sustantivo específico y conocido (singular o plural).",
+                "imagePath": null
+            }
+        ]
+    },
+    {
+        "name": "this",
+        "phonetic": "/ðɪs/",
+        "spoken_phonetic_us": "/ðɪs/",
+        "search_term": "determiner/demonstrative",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Demonstratives",
+        "definitions": [
+            {
+                "meaning": "Este / Esta",
+                "usage_example": "I like this book.",
+                "pronunciation_guide_es": "/ai_LAIK_dis_BUK/",
+                "usage_example_es": "Me gusta este libro.",
+                "char_count": "4",
+                "usage_context_en": "Used for a singular item that is near the speaker.",
+                "usage_context_es": "Usado para un objeto singular que está cerca del hablante.",
+                "imagePath": null
+            }
+        ]
+    },
+    {
+        "name": "that",
+        "phonetic": "/ðæt/",
+        "spoken_phonetic_us": "/ðæt/",
+        "search_term": "determiner/demonstrative",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Demonstratives",
+        "definitions": [
+            {
+                "meaning": "Ese / Esa / Aquel / Aquella",
+                "usage_example": "I want that book.",
+                "pronunciation_guide_es": "/ai_UANT_dat_BUK/",
+                "usage_example_es": "Quiero ese libro.",
+                "char_count": "4",
+                "usage_context_en": "Used for a singular item that is far from the speaker.",
+                "usage_context_es": "Usado para un objeto singular que está lejos del hablante.",
+                "imagePath": null
+            }
+        ]
+    },
+    {
+        "name": "these",
+        "phonetic": "/ðiːz/",
+        "spoken_phonetic_us": "/ðiːz/",
+        "search_term": "determiner/demonstrative",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Demonstratives",
+        "definitions": [
+            {
+                "meaning": "Estos / Estas",
+                "usage_example": "I like these shoes.",
+                "pronunciation_guide_es": "/ai_LAIK_dis_SHUS/",
+                "usage_example_es": "Me gustan estos zapatos.",
+                "char_count": "4",
+                "usage_context_en": "Used for plural items that are near the speaker.",
+                "usage_context_es": "Usado para objetos plurales que están cerca del hablante.",
+                "imagePath": null
+            }
+        ]
+    },
+    {
+        "name": "those",
+        "phonetic": "/ðoʊz/",
+        "spoken_phonetic_us": "/ðoʊz/",
+        "search_term": "determiner/demonstrative",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Demonstratives",
+        "definitions": [
+            {
+                "meaning": "Esos / Esas / Aquellos / Aquellas",
+                "usage_example": "I want those shoes.",
+                "pronunciation_guide_es": "/ai_UANT_dous_SHUS/",
+                "usage_example_es": "Quiero esos zapatos.",
+                "char_count": "4",
+                "usage_context_en": "Used for plural items that are far from the speaker.",
+                "usage_context_es": "Usado para objetos plurales que están lejos del hablante.",
+                "imagePath": "/card_images/determinant/1-basic/1-basic_card_6_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "my",
+        "phonetic": "/maɪ/",
+        "spoken_phonetic_us": "/maɪ/",
+        "search_term": "determiner/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Possessives",
+        "definitions": [
+            {
+                "meaning": "Mi / Mis",
+                "usage_example": "This is my house.",
+                "pronunciation_guide_es": "/dis_is_MAI_HAUS/",
+                "usage_example_es": "Esta es mi casa.",
+                "char_count": "4",
+                "usage_context_en": "Belonging to me (the speaker).",
+                "usage_context_es": "Perteneciente a mí (el hablante).",
+                "imagePath": "/card_images/determinant/1-basic/1-basic_card_7_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "your",
+        "phonetic": "/jɔːr/",
+        "spoken_phonetic_us": "/jʊr/",
+        "search_term": "determiner/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Possessives",
+        "definitions": [
+            {
+                "meaning": "Tu / Tus (informal) / Su / Sus (de usted)",
+                "usage_example": "Is this your key?",
+                "pronunciation_guide_es": "/is_dis_IUR_KI/",
+                "usage_example_es": "¿Es esta tu llave?",
+                "char_count": "4",
+                "usage_context_en": "Belonging to you (the listener).",
+                "usage_context_es": "Perteneciente a ti (el oyente).",
+                "imagePath": "/card_images/determinant/1-basic/1-basic_card_8_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "his",
+        "phonetic": "/hɪz/",
+        "spoken_phonetic_us": "/hɪz/",
+        "search_term": "determiner/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Possessives",
+        "definitions": [
+            {
+                "meaning": "Su / Sus (de él)",
+                "usage_example": "That is his car.",
+                "pronunciation_guide_es": "/dat_is_HIS_CAR/",
+                "usage_example_es": "Ese es su carro (el carro de él).",
+                "char_count": "4",
+                "usage_context_en": "Belonging to a male person.",
+                "usage_context_es": "Perteneciente a una persona masculina.",
+                "imagePath": "/card_images/determinant/1-basic/1-basic_card_9_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "her",
+        "phonetic": "/hɜːr/",
+        "spoken_phonetic_us": "/hər/",
+        "search_term": "determiner/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Possessives",
+        "definitions": [
+            {
+                "meaning": "Su / Sus (de ella)",
+                "usage_example": "I like her new jacket.",
+                "pronunciation_guide_es": "/ai_LAIK_her_NIU_YA-ket/",
+                "usage_example_es": "Me gusta su chaqueta nueva (la de ella).",
+                "char_count": "5",
+                "usage_context_en": "Belonging to a female person.",
+                "usage_context_es": "Perteneciente a una persona femenina.",
+                "imagePath": "/card_images/determinant/1-basic/1-basic_card_10_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "its",
+        "phonetic": "/ɪts/",
+        "spoken_phonetic_us": "/ɪts/",
+        "search_term": "determiner/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Possessives",
+        "definitions": [
+            {
+                "meaning": "Su / Sus (de un objeto, animal o cosa)",
+                "usage_example": "The dog wagged its tail.",
+                "pronunciation_guide_es": "/de_DOG_UAGD_its_TEIL/",
+                "usage_example_es": "El perro movió su cola.",
+                "char_count": "5",
+                "usage_context_en": "Belonging to a thing or animal.",
+                "usage_context_es": "Perteneciente a una cosa o animal.",
+                "imagePath": "/card_images/determinant/1-basic/1-basic_card_11_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "our",
+        "phonetic": "/ˈaʊər/",
+        "spoken_phonetic_us": "/ˈaʊər/",
+        "search_term": "determiner/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Possessives",
+        "definitions": [
+            {
+                "meaning": "Nuestro / Nuestra / Nuestros / Nuestras",
+                "usage_example": "This is our classroom.",
+                "pronunciation_guide_es": "/dis_is_AUR_CLAS-rum/",
+                "usage_example_es": "Este es nuestro salón de clases.",
+                "char_count": "4",
+                "usage_context_en": "Belonging to us (the speaker and others).",
+                "usage_context_es": "Perteneciente a nosotros (el hablante y otros).",
+                "imagePath": "/card_images/determinant/1-basic/1-basic_card_12_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "their",
+        "phonetic": "/ðɛər/",
+        "spoken_phonetic_us": "/ðɛr/",
+        "search_term": "determiner/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Possessives",
+        "definitions": [
+            {
+                "meaning": "Su / Sus (de ellos/ellas)",
+                "usage_example": "It is their house.",
+                "pronunciation_guide_es": "/it_is_DER_HAUS/",
+                "usage_example_es": "Es su casa (la casa de ellos/ellas).",
+                "char_count": "4",
+                "usage_context_en": "Belonging to them (other people).",
+                "usage_context_es": "Perteneciente a ellos (otras personas).",
+                "imagePath": "/card_images/determinant/1-basic/1-basic_card_13_def0.jpg"
+            }
+        ]
+    },
+    {
+        "name": "some",
+        "phonetic": "/sʌm/",
+        "spoken_phonetic_us": "/səm/",
+        "search_term": "determiner/quantifier",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Quantifiers",
+        "definitions": [
+            {
+                "meaning": "Algo de / Unos / Algunas",
+                "usage_example": "I need some water. / I need some apples.",
+                "pronunciation_guide_es": "/ai_NID_som_UA-ter_ai_NID_som_A-pols/",
+                "usage_example_es": "Necesito algo de agua. / Necesito unas manzanas.",
+                "char_count": "4",
+                "usage_context_en": "Used for an unspecified amount in affirmative sentences.",
+                "usage_context_es": "Usado para una cantidad no especificada en oraciones afirmativas."
+            }
+        ]
+    },
+    {
+        "name": "any",
+        "phonetic": "/ˈɛni/",
+        "spoken_phonetic_us": "/ˈɛni/",
+        "search_term": "determiner/quantifier",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Quantifiers",
+        "definitions": [
+            {
+                "meaning": "Algo de / Algún / Alguna (preguntas)",
+                "usage_example": "Do you have any money?",
+                "pronunciation_guide_es": "/du_iu_HAV_E-ni_MO-ni/",
+                "usage_example_es": "¿Tienes (algo de) dinero?",
+                "char_count": "5",
+                "usage_context_en": "Used for an unspecified amount in questions.",
+                "usage_context_es": "Usado para una cantidad no especificada en preguntas."
+            },
+            {
+                "meaning": "Nada de / Ningún / Ninguna (negativos)",
+                "usage_example": "I don't have any money.",
+                "pronunciation_guide_es": "/ai_DONT_HAV_E-ni_MO-ni/",
+                "usage_example_es": "No tengo (nada de) dinero.",
+                "char_count": "5",
+                "usage_context_en": "Used for a zero amount in negative sentences.",
+                "usage_context_es": "Usado para una cantidad cero en oraciones negativas."
+            }
+        ]
+    },
+    {
+        "name": "no",
+        "phonetic": "/noʊ/",
+        "spoken_phonetic_us": "/noʊ/",
+        "search_term": "determiner/quantifier",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Quantifiers",
+        "definitions": [
+            {
+                "meaning": "No / Ningún / Ninguna",
+                "usage_example": "I have no money.",
+                "pronunciation_guide_es": "/ai_HAV_NOU_MO-ni/",
+                "usage_example_es": "No tengo dinero. (Tengo cero dinero).",
+                "char_count": "4",
+                "usage_context_en": "Used to indicate zero amount (stronger than 'not any').",
+                "usage_context_es": "Usado para indicar cantidad cero (más fuerte que 'not any')."
+            }
+        ]
+    },
+    {
+        "name": "each",
+        "phonetic": "/iːtʃ/",
+        "spoken_phonetic_us": "/iːtʃ/",
+        "search_term": "determiner/distributive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Distributives",
+        "definitions": [
+            {
+                "meaning": "Cada",
+                "usage_example": "Each student received a book.",
+                "pronunciation_guide_es": "/ICH_STU-dent_ri-SIVD_a_BUK/",
+                "usage_example_es": "Cada estudiante recibió un libro.",
+                "char_count": "5",
+                "usage_context_en": "Used to refer to every individual member of a group (separately).",
+                "usage_context_es": "Usado para referirse a cada miembro individual de un grupo (por separado)."
+            }
+        ]
+    },
+    {
+        "name": "every",
+        "phonetic": "/ˈɛvri/",
+        "spoken_phonetic_us": "/ˈɛvri/",
+        "search_term": "determiner/distributive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Distributives",
+        "definitions": [
+            {
+                "meaning": "Cada / Todos los/as",
+                "usage_example": "I work every day.",
+                "pronunciation_guide_es": "/ai_UORK_E-vri_DEI/",
+                "usage_example_es": "Trabajo todos los días (cada día).",
+                "char_count": "4",
+                "usage_context_en": "Used to refer to all members of a group collectively.",
+                "usage_context_es": "Usado para referirse a todos los miembros de un grupo colectivamente."
+            }
+        ]
+    },
+    {
+        "name": "much",
+        "phonetic": "/mʌtʃ/",
+        "spoken_phonetic_us": "/mʌtʃ/",
+        "search_term": "determiner/quantifier",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Quantifiers",
+        "definitions": [
+            {
+                "meaning": "Mucho / Mucha",
+                "usage_example": "I don't have much time.",
+                "pronunciation_guide_es": "/ai_DONT_HAV_moch_TAIM/",
+                "usage_example_es": "No tengo mucho tiempo.",
+                "char_count": "5",
+                "usage_context_en": "Used for a large amount of an uncountable noun (mainly in questions/negatives).",
+                "usage_context_es": "Usado para una gran cantidad de un sustantivo incontable (principalmente en preguntas/negativos)."
+            }
+        ]
+    },
+    {
+        "name": "many",
+        "phonetic": "/ˈmɛni/",
+        "spoken_phonetic_us": "/ˈmɛni/",
+        "search_term": "determiner/quantifier",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Quantifiers",
+        "definitions": [
+            {
+                "meaning": "Muchos / Muchas",
+                "usage_example": "I have many friends.",
+                "pronunciation_guide_es": "/ai_HAV_ME-ni_FRENDS/",
+                "usage_example_es": "Tengo muchos amigos.",
+                "char_count": "4",
+                "usage_context_en": "Used for a large number of a countable noun.",
+                "usage_context_es": "Usado para un gran número de un sustantivo contable."
+            }
+        ]
+    },
+    {
+        "name": "a lot of",
+        "phonetic": "/ə lɒt əv/",
+        "spoken_phonetic_us": "/ə lɑt əv/",
+        "search_term": "determiner/quantifier",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Quantifiers",
+        "definitions": [
+            {
+                "meaning": "Mucho / Mucha / Muchos / Muchas",
+                "usage_example": "I have a lot of friends. / I have a lot of time.",
+                "pronunciation_guide_es": "/ai_HAV_a_LOT_of_FRENDS_ai_HAV_a_LOT_of_TAIM/",
+                "usage_example_es": "Tengo muchos amigos. / Tengo mucho tiempo.",
+                "char_count": 5,
+                "usage_context_en": "A large amount or number (used with both countable and uncountable nouns).",
+                "usage_context_es": "Una gran cantidad o número (usado con sustantivos contables e incontables)."
+            }
+        ]
+    },
+    {
+        "name": "lots of",
+        "phonetic": "/lɒts əv/",
+        "spoken_phonetic_us": "/lɑts əv/",
+        "search_term": "determiner/quantifier",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Quantifiers",
+        "definitions": [
+            {
+                "meaning": "Mucho / Mucha / Muchos / Muchas (Informal)",
+                "usage_example": "She has lots of money.",
+                "pronunciation_guide_es": "/shi_HAS_LOTS_of_MO-ni/",
+                "usage_example_es": "Ella tiene mucho dinero.",
+                "char_count": 5,
+                "usage_context_en": "An informal version of 'a lot of'.",
+                "usage_context_es": "Una versión informal de 'a lot of'."
+            }
+        ]
+    },
+    {
+        "name": "few",
+        "phonetic": "/fjuː/",
+        "spoken_phonetic_us": "/fjuː/",
+        "search_term": "determiner/quantifier",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Quantifiers",
+        "definitions": [
+            {
+                "meaning": "Pocos / Pocas (casi nada)",
+                "usage_example": "He has few friends.",
+                "pronunciation_guide_es": "/hi_HAS_FIU_FRENDS/",
+                "usage_example_es": "Él tiene pocos amigos. (sentido negativo)",
+                "char_count": "4",
+                "usage_context_en": "Used for a small number of a countable noun (implies a negative quantity, 'not enough').",
+                "usage_context_es": "Usado para un pequeño número de un sustantivo contable (implica cantidad negativa, 'no suficientes')."
+            }
+        ]
+    },
+    {
+        "name": "little",
+        "phonetic": "/ˈlɪtəl/",
+        "spoken_phonetic_us": "/ˈlɪtəl/",
+        "search_term": "determiner/quantifier",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Quantifiers",
+        "definitions": [
+            {
+                "meaning": "Poco / Poca (casi nada)",
+                "usage_example": "He has little time.",
+                "pronunciation_guide_es": "/hi_HAS_LI-tol_TAIM/",
+                "usage_example_es": "Él tiene poco tiempo. (sentido negativo)",
+                "char_count": "4",
+                "usage_context_en": "Used for a small amount of an uncountable noun (implies a negative quantity, 'not enough').",
+                "usage_context_es": "Usado para una pequeña cantidad de un sustantivo incontable (implica cantidad negativa, 'no suficiente')."
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "phonetic": "/wʌn/",
+        "spoken_phonetic_us": "/wʌn/",
+        "search_term": "determiner/number",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Numbers",
+        "definitions": [
+            {
+                "meaning": "Un / Uno / Una",
+                "usage_example": "I have one brother.",
+                "pronunciation_guide_es": "/ai_HAV_UAN_BRO-der/",
+                "usage_example_es": "Tengo un hermano.",
+                "char_count": "4",
+                "usage_context_en": "The number 1.",
+                "usage_context_es": "El número 1."
+            }
+        ]
+    },
+    {
+        "name": "two",
+        "phonetic": "/tuː/",
+        "spoken_phonetic_us": "/tuː/",
+        "search_term": "determiner/number",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Numbers",
+        "definitions": [
+            {
+                "meaning": "Dos",
+                "usage_example": "She has two cats.",
+                "pronunciation_guide_es": "/shi_HAS_TU_CATS/",
+                "usage_example_es": "Ella tiene dos gatos.",
+                "char_count": "4",
+                "usage_context_en": "The number 2.",
+                "usage_context_es": "El número 2."
+            }
+        ]
+    },
+    {
+        "name": "three",
+        "phonetic": "/θriː/",
+        "spoken_phonetic_us": "/θriː/",
+        "search_term": "determiner/number",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Numbers",
+        "definitions": [
+            {
+                "meaning": "Tres",
+                "usage_example": "I need three eggs.",
+                "pronunciation_guide_es": "/ai_NID_ZRI_EGS/",
+                "usage_example_es": "Necesito tres huevos.",
+                "char_count": "4",
+                "usage_context_en": "The number 3.",
+                "usage_context_es": "El número 3."
+            }
+        ]
+    },
+    {
+        "name": "first",
+        "phonetic": "/fɜːrst/",
+        "spoken_phonetic_us": "/fɜrst/",
+        "search_term": "determiner/ordinal",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Numbers",
+        "definitions": [
+            {
+                "meaning": "Primer / Primero / Primera",
+                "usage_example": "It is the first day of the month.",
+                "pronunciation_guide_es": "/it_is_de_FIRST_DEI_of_de_MONZ/",
+                "usage_example_es": "Es el primer día del mes.",
+                "char_count": "7",
+                "usage_context_en": "The ordinal number 1st; coming before all others.",
+                "usage_context_es": "El número ordinal 1°; que viene antes que todos los demás."
+            }
+        ]
+    },
+    {
+        "name": "next",
+        "phonetic": "/nɛkst/",
+        "spoken_phonetic_us": "/nɛkst/",
+        "search_term": "determiner/ordinal",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Numbers",
+        "definitions": [
+            {
+                "meaning": "Siguiente / Próximo/a",
+                "usage_example": "See you next week.",
+                "pronunciation_guide_es": "/SI_iu_NEKST_UIK/",
+                "usage_example_es": "Nos vemos la próxima semana.",
+                "char_count": "4",
+                "usage_context_en": "Coming immediately after the present one.",
+                "usage_context_es": "Que viene inmediatamente después del presente."
+            }
+        ]
+    },
+    {
+        "name": "last",
+        "phonetic": "/læst/",
+        "spoken_phonetic_us": "/læst/",
+        "search_term": "determiner/ordinal",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Numbers",
+        "definitions": [
+            {
+                "meaning": "Último/a / Pasado/a",
+                "usage_example": "It was the last day. / I saw him last week.",
+                "pronunciation_guide_es": "/it_uas_de_LAST_DEI_ai_SO_him_LAST_UIK/",
+                "usage_example_es": "Fue el último día. / Lo vi la semana pasada.",
+                "char_count": 4,
+                "usage_context_en": "Coming after all others; the most recent one.",
+                "usage_context_es": "Que viene después de todos los demás; el más reciente."
+            }
+        ]
+    }
+]

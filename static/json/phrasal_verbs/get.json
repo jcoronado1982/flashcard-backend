@@ -1,0 +1,703 @@
+[
+    {
+        "name": "get up",
+        "phonetic": "/ɡɛt ʌp/",
+        "spoken_phonetic_us": "/ɡɛɾ ʌp/",
+        "search_term": "phrasal verb daily routine/physical movement",
+        "is_phrasal_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "levantarse de la cama",
+                "usage_example": "I get up from my bed every morning.",
+                "pronunciation_guide_es": "/ai_guer_AP_from_mai_bed_EV-ri_MOR-ning/",
+                "alternative_example": "I rise from my bed every morning.",
+                "usage_example_es": "Me levanto de mi cama cada mañana.",
+                "char_count": "one",
+                "usage_context_en": "daily routine",
+                "usage_context_es": "rutina diaria",
+                "imagePath": null
+            },
+            {
+                "meaning": "ponerse de pie",
+                "usage_example": "He got up quickly when the boss entered the room.",
+                "pronunciation_guide_es": "/ji_gar_AP_KUÍK-li_uen_da_bos_EN-terd_da_rum/",
+                "alternative_example": "He rose quickly when the boss entered the room.",
+                "usage_example_es": "Él se levantó rápidamente cuando el jefe entró a la habitación.",
+                "char_count": "one",
+                "usage_context_en": "physical movement",
+                "usage_context_es": "movimiento físico",
+                "imagePath": null
+            }
+        ]
+    },
+    {
+        "name": "get out",
+        "phonetic": "/ɡɛt aʊt/",
+        "spoken_phonetic_us": "/ɡɛɾ aʊt/",
+        "search_term": "phrasal verb movement/escape/diffuse news",
+        "is_phrasal_verb": true,
+        "learned": true,
+        "definitions": [
+            {
+                "meaning": "salir (de un lugar), irse",
+                "usage_example": "I get out of the house through the front door.",
+                "pronunciation_guide_es": "/ai_guer_ÁU-rov_da_jaus_zru_da_front_dor/",
+                "alternative_example": "I exit the house through the front door.",
+                "usage_example_es": "Salgo de la casa por la puerta principal.",
+                "char_count": "one",
+                "usage_context_en": "movement",
+                "usage_context_es": "movimiento"
+            },
+            {
+                "meaning": "hacer que una noticia se sepa o difundir",
+                "usage_example": "The news about the scandal soon got out.",
+                "pronunciation_guide_es": "/da_nius_aBAU_da_SKAN-dal_sun_gar_ÁUT/",
+                "alternative_example": "The news about the scandal soon became public.",
+                "usage_example_es": "La noticia sobre el escándalo pronto se difundió.",
+                "char_count": "one",
+                "usage_context_en": "diffuse news",
+                "usage_context_es": "difundir noticias"
+            }
+        ]
+    },
+    {
+        "name": "get on",
+        "phonetic": "/ɡɛt ɑn/",
+        "spoken_phonetic_us": "/ɡɛɾ ɑn/",
+        "search_term": "phrasal verb transport/relationships/progress",
+        "is_phrasal_verb": true,
+        "learned": true,
+        "definitions": [
+            {
+                "meaning": "subirse (a un transporte)",
+                "usage_example": "The family gets on the train at the station.",
+                "pronunciation_guide_es": "/da_FA-mi-li_guets_ON_da_trein_at_da_STEI-shon/",
+                "alternative_example": "The family boards the train at the station.",
+                "usage_example_es": "La familia se sube al tren en la estación.",
+                "char_count": "multiple",
+                "usage_context_en": "transport",
+                "usage_context_es": "transporte"
+            },
+            {
+                "meaning": "llevarse bien con alguien",
+                "usage_example": "How are you getting on with your new flatmate?",
+                "pronunciation_guide_es": "/jau_ar_iu_GUER-in_on_uiz_iur_niu_FLAT-meit/",
+                "alternative_example": "Do you have a good relationship with your new flatmate?",
+                "usage_example_es": "¿Cómo te llevas con tu nuevo compañero de piso?",
+                "char_count": "two",
+                "usage_context_en": "relationships",
+                "usage_context_es": "relaciones"
+            },
+            {
+                "meaning": "arreglárselas o hacer progreso",
+                "usage_example": "How are you getting on with your homework?",
+                "pronunciation_guide_es": "/jau_ar_iu_GUER-in_on_uiz_iur_JOM-uork/",
+                "alternative_example": "How are you progressing with your homework?",
+                "usage_example_es": "¿Cómo estás progresando con tu tarea?",
+                "char_count": "one",
+                "usage_context_en": "progress",
+                "usage_context_es": "progreso"
+            }
+        ]
+    },
+    {
+        "name": "get off",
+        "phonetic": "/ɡɛt ɑf/",
+        "spoken_phonetic_us": "/ɡɛɾ ɑf/",
+        "search_term": "phrasal verb transport/work/escape punishment",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "definitions": [
+            {
+                "meaning": "bajarse (de un transporte)",
+                "usage_example": "The student gets off the bus at the school stop.",
+                "pronunciation_guide_es": "/da_STIU-dent_guets_OF_da_bos_at_da_skul_STOP/",
+                "alternative_example": "The student exits the bus at the school stop.",
+                "usage_example_es": "El estudiante se baja del autobús en la parada de la escuela.",
+                "char_count": "one",
+                "usage_context_en": "transport",
+                "usage_context_es": "transporte"
+            },
+            {
+                "meaning": "terminar el trabajo",
+                "usage_example": "He got off work early on Friday.",
+                "pronunciation_guide_es": "/ji_gar_OF_uork_ER-li_on_FRAI-dei/",
+                "alternative_example": "He finished work early on Friday.",
+                "usage_example_es": "Él salió temprano del trabajo el viernes.",
+                "char_count": "one",
+                "usage_context_en": "work",
+                "usage_context_es": "trabajo"
+            },
+            {
+                "meaning": "librarse de un castigo",
+                "usage_example": "The lawyer helped him get off with only a fine.",
+                "pronunciation_guide_es": "/da_LO-yer_jelpt_jim_guer_OF_uiz_ON-li_a_fain/",
+                "alternative_example": "The lawyer helped him avoid punishment with only a fine.",
+                "usage_example_es": "El abogado le ayudó a librarse con solo una multa.",
+                "char_count": "one",
+                "usage_context_en": "escape punishment",
+                "usage_context_es": "evitar castigo"
+            }
+        ]
+    },
+    {
+        "name": "get along",
+        "phonetic": "/ɡɛt əˈlɑŋ/",
+        "spoken_phonetic_us": "/ɡɛɾ əˈlɑŋ/",
+        "search_term": "phrasal verb relationships/coping",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "definitions": [
+            {
+                "meaning": "llevarse bien",
+                "usage_example": "My friends and I get along really well. We’re always laughing.",
+                "pronunciation_guide_es": "/mai_frends_en_ai_guer_aLONG_RI-li_uel_uir_OL-ueis_LAF-ing/",
+                "alternative_example": "My friends and I have a very good relationship. We’re always laughing.",
+                "usage_example_es": "Mis amigos y yo nos llevamos muy bien, siempre nos estamos riendo.",
+                "char_count": "two",
+                "usage_context_en": "relationships",
+                "usage_context_es": "relaciones"
+            },
+            {
+                "meaning": "arreglárselas o hacer progreso",
+                "usage_example": "Despite the problems, they are somehow getting along.",
+                "pronunciation_guide_es": "/des-PAIT_da_PROB-lems_dei_ar_SOM-jau_GUER-ing_aLONG/",
+                "alternative_example": "Despite the problems, they are somehow managing.",
+                "usage_example_es": "A pesar de los problemas, de alguna manera se las están arreglando.",
+                "char_count": "multiple",
+                "usage_context_en": "coping",
+                "usage_context_es": "sobrellevar/arreglárselas"
+            }
+        ]
+    },
+    {
+        "name": "get over",
+        "phonetic": "/ɡɛt ˈoʊvər/",
+        "spoken_phonetic_us": "/ɡɛɾ ˈoʊvər/",
+        "search_term": "phrasal verb overcome/recovery/physical movement",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "superar (una enfermedad o situación difícil)",
+                "usage_example": "It took him months to get over his breakup.",
+                "pronunciation_guide_es": "/it_tuk_jim_monts_tu_guer_O-ver_jis_BREIK-ap/",
+                "alternative_example": "It took him months to recover from his breakup.",
+                "usage_example_es": "Le tomó meses superar su ruptura.",
+                "char_count": "one",
+                "usage_context_en": "overcome",
+                "usage_context_es": "superar"
+            },
+            {
+                "meaning": "cruzar o pasar por encima de algo (físico)",
+                "usage_example": "I need to get over this high wall.",
+                "pronunciation_guide_es": "/ai_nid_tu_guer_O-ver_dis_jai_uol/",
+                "alternative_example": "I need to climb over this high wall.",
+                "usage_example_es": "Necesito pasar por encima de este muro alto.",
+                "char_count": "one",
+                "usage_context_en": "physical movement",
+                "usage_context_es": "movimiento físico"
+            }
+        ]
+    },
+    {
+        "name": "get by",
+        "phonetic": "/ɡɛt baɪ/",
+        "spoken_phonetic_us": "/ɡɛt baɪ/",
+        "search_term": "phrasal verb survival/finance/pass",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "arreglárselas, sobrevivir con lo mínimo",
+                "usage_example": "She needs to get by without money.",
+                "pronunciation_guide_es": "/shi_nids_tu_guet_bai_wi-daut_mani/",
+                "alternative_example": "She has to survive without money.",
+                "usage_example_es": "Ella necesita arreglárselas sin dinero.",
+                "char_count": "one",
+                "usage_context_en": "survival/finance",
+                "usage_context_es": "supervivencia/finanzas"
+            },
+            {
+                "meaning": "pasar por un lugar estrecho",
+                "usage_example": "Can you move so I can get by?",
+                "pronunciation_guide_es": "/ken_iu_muv_so_ai_ken_guer_BAI/",
+                "alternative_example": "Can you move so I can pass?",
+                "usage_example_es": "¿Puedes moverte para que yo pueda pasar?",
+                "char_count": "two",
+                "usage_context_en": "pass",
+                "usage_context_es": "pasar"
+            }
+        ]
+    },
+    {
+        "name": "get away",
+        "phonetic": "/ɡɛt əˈweɪ/",
+        "spoken_phonetic_us": "/ɡɛɾ əˈweɪ/",
+        "search_term": "phrasal verb travel/escape",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "irse de vacaciones o de fin de semana",
+                "usage_example": "I need to get away from work for a week.",
+                "pronunciation_guide_es": "/ai_nid_tu_guer_aUEI_from_uork_for_a_uik/",
+                "alternative_example": "I need to take a break from work for a week.",
+                "usage_example_es": "Necesito escaparme de la oficina por una semana de vacaciones.",
+                "char_count": "one",
+                "usage_context_en": "travel",
+                "usage_context_es": "viaje"
+            },
+            {
+                "meaning": "escapar (de un lugar o persona)",
+                "usage_example": "The prisoner managed to get away from the guard.",
+                "pronunciation_guide_es": "/da_PRI-so-ner_MA-nashd_tu_guer_aUEI_from_da_gard/",
+                "alternative_example": "The prisoner escaped from the guard.",
+                "usage_example_es": "El prisionero logró escapar del guardia.",
+                "char_count": "two",
+                "usage_context_en": "escape",
+                "usage_context_es": "escape"
+            }
+        ]
+    },
+    {
+        "name": "get back",
+        "phonetic": "/ɡɛt bæk/",
+        "spoken_phonetic_us": "/ɡɛt bæk/",
+        "search_term": "phrasal verb return/recover/retaliate",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "regresar a un lugar",
+                "usage_example": "I just got back from vacation.",
+                "pronunciation_guide_es": "/ai_yost_gat_BAK_from_ve-KEI-shon/",
+                "alternative_example": "When you get back, call me.",
+                "usage_example_es": "Acabo de regresar de vacaciones.",
+                "char_count": "one",
+                "usage_context_en": "return",
+                "usage_context_es": "regreso"
+            },
+            {
+                "meaning": "recuperar algo",
+                "usage_example": "I need to get my phone back.",
+                "pronunciation_guide_es": "/ai_nid_tu_get_mai_foun_BAK/",
+                "alternative_example": "Did you ever get your money back?",
+                "usage_example_es": "Necesito recuperar mi teléfono.",
+                "char_count": "one",
+                "usage_context_en": "recover",
+                "usage_context_es": "recuperar"
+            }
+        ]
+    },
+    {
+        "name": "get through",
+        "phonetic": "/ɡɛt θru/",
+        "spoken_phonetic_us": "/ɡɛt θru/",
+        "search_term": "phrasal verb overcome/contact/consume",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "superar o terminar (algo difícil)",
+                "usage_example": "It is hard to get through the thick jungle.",
+                "pronunciation_guide_es": "/ir_is_jard_tu_guet_ZRU_da_zik_JON-gol/",
+                "alternative_example": "It is hard to traverse the thick jungle.",
+                "usage_example_es": "Es difícil atravesar la espesa jungla.",
+                "char_count": "one",
+                "usage_context_en": "overcome",
+                "usage_context_es": "superar"
+            },
+            {
+                "meaning": "lograr contactar (por teléfono)",
+                "usage_example": "I tried calling, but I couldn't get through to her.",
+                "pronunciation_guide_es": "/ai_traid_COL-ing_bor_ai_CUD-ent_guet_ZRU_tu_jer/",
+                "alternative_example": "I tried calling, but I couldn't connect with her.",
+                "usage_example_es": "Intenté llamar, pero no pude comunicarme con ella.",
+                "char_count": "one",
+                "usage_context_en": "contact",
+                "usage_context_es": "contacto"
+            }
+        ]
+    },
+    {
+        "name": "get into",
+        "phonetic": "/ɡɛt ˈɪntu/",
+        "spoken_phonetic_us": "/ɡɛɾ ˈɪntu/",
+        "search_term": "phrasal verb interest/entry/habit",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "interesarse por algo o empezar un hobby",
+                "usage_example": "I want to get into a new hobby like painting.",
+                "pronunciation_guide_es": "/ai_uon_a_guer_IN-tu_a_niu_JO-bi_laik_PEIN-ting/",
+                "alternative_example": "I want to become interested in a new hobby like painting.",
+                "usage_example_es": "Quiero empezar un nuevo pasatiempo como la pintura.",
+                "char_count": "one",
+                "usage_context_en": "interest",
+                "usage_context_es": "interés"
+            },
+            {
+                "meaning": "entrar en un lugar (a menudo con dificultad)",
+                "usage_example": "How did the cat get into the locked cupboard?",
+                "pronunciation_guide_es": "/jau_did_da_kat_guer_IN-tu_da_lokt_KAB-ord/",
+                "alternative_example": "How did the cat enter the locked cupboard?",
+                "usage_example_es": "¿Cómo entró el gato en el armario cerrado con llave?",
+                "char_count": "one",
+                "usage_context_en": "entry",
+                "usage_context_es": "entrada"
+            }
+        ]
+    },
+    {
+        "name": "get across",
+        "phonetic": "/ɡɛt əˈkrɑs/",
+        "spoken_phonetic_us": "/ɡɛɾ əˈkrɑs/",
+        "search_term": "phrasal verb communication/physical movement",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "hacer entender o transmitir una idea",
+                "usage_example": "He used a simple drawing to get his idea across.",
+                "pronunciation_guide_es": "/ji_iusd_a_SIM-pol_DRO-ing_tu_guer_jis_ai-DIA_a-KROS/",
+                "alternative_example": "He used a simple drawing to communicate his idea.",
+                "usage_example_es": "Usó un dibujo simple para hacer entender su idea.",
+                "char_count": "one",
+                "usage_context_en": "communication",
+                "usage_context_es": "comunicación"
+            },
+            {
+                "meaning": "cruzar (una calle, río, etc.)",
+                "usage_example": "We need to get across the river before nightfall.",
+                "pronunciation_guide_es": "/ui_nid_tu_guer_a-KROS_da_RI-ver_bi-FOR_NAIT-fol/",
+                "alternative_example": "We need to cross the river before nightfall.",
+                "usage_example_es": "Necesitamos cruzar el río antes del anochecer.",
+                "char_count": "multiple",
+                "usage_context_en": "physical movement",
+                "usage_context_es": "movimiento físico"
+            }
+        ]
+    },
+    {
+        "name": "get rid of",
+        "phonetic": "/ɡɛt rɪd əv/",
+        "spoken_phonetic_us": "/ɡɛt rɪd əv/",
+        "search_term": "phrasal verb disposal",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "deshacerse de algo o alguien",
+                "usage_example": "I get rid of all my old junk.",
+                "pronunciation_guide_es": "/ai_guet_RID_ov_ol_mai_old_yonk/",
+                "alternative_example": "I discard all my old junk.",
+                "usage_example_es": "Me deshago de toda mi chatarra vieja.",
+                "char_count": "one",
+                "usage_context_en": "disposal",
+                "usage_context_es": "deshacerse"
+            }
+        ]
+    },
+    {
+        "name": "get ahead",
+        "phonetic": "/ɡɛt əˈhɛd/",
+        "spoken_phonetic_us": "/ɡɛɾ əˈhɛd/",
+        "search_term": "phrasal verb progress/career",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "progresar o tener éxito (en trabajo o vida)",
+                "usage_example": "She works very hard to get ahead in her career.",
+                "pronunciation_guide_es": "/shi_uorks_VE-ri_jard_tu_guer_a-JED_in_jer_ca-RIR/",
+                "alternative_example": "She works very hard to advance in her career.",
+                "usage_example_es": "Ella trabaja muy duro para progresar en su carrera.",
+                "char_count": "multiple",
+                "usage_context_en": "progress/career",
+                "usage_context_es": "progreso/carrera"
+            }
+        ]
+    },
+    {
+        "name": "get together",
+        "phonetic": "/ɡɛt təˈɡɛðər/",
+        "spoken_phonetic_us": "/ɡɛɾ təˈɡɛðər/",
+        "search_term": "phrasal verb meeting/social",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "reunirse (socialmente)",
+                "usage_example": "My whole family gets together in the living room.",
+                "pronunciation_guide_es": "/mai_jol_FA-mi-li_guets_tu-GUE-der_in_da_LIV-ing_rum/",
+                "alternative_example": "My whole family gathers in the living room.",
+                "usage_example_es": "Toda mi familia se reúne en la sala de estar.",
+                "char_count": "multiple",
+                "usage_context_en": "meeting/social",
+                "usage_context_es": "reunión/social"
+            },
+            {
+                "meaning": "reunir cosas (colección, documentos)",
+                "usage_example": "I need to get my documents together before the trip.",
+                "pronunciation_guide_es": "/ai_nid_tu_guet_mai_DO-kiu-ments_tu-GUE-der_bi-FOR_da_trip/",
+                "alternative_example": "I need to collect my documents before the trip.",
+                "usage_example_es": "Necesito reunir mis documentos antes del viaje.",
+                "char_count": "one",
+                "usage_context_en": "meeting/social",
+                "usage_context_es": "reunión/social"
+            }
+        ]
+    },
+    {
+        "name": "get hold of",
+        "phonetic": "/ɡɛt hoʊld əv/",
+        "spoken_phonetic_us": "/ɡɛt hoʊld əv/",
+        "search_term": "phrasal verb contact/acquire",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "conseguir o encontrar algo (a menudo difícil)",
+                "usage_example": "It’s hard to get hold of fresh herbs around here.",
+                "pronunciation_guide_es": "/its_jard_tu_guet_JOLD_ov_fresh_erbs_araun_jir/",
+                "alternative_example": "It’s hard to find fresh herbs around here.",
+                "usage_example_es": "Es difícil conseguir hierbas frescas por aquí.",
+                "char_count": "one",
+                "usage_context_en": "acquire",
+                "usage_context_es": "adquirir"
+            },
+            {
+                "meaning": "contactar a alguien",
+                "usage_example": "I’ve been trying to get hold of you all day.",
+                "pronunciation_guide_es": "/aiv_bin_TRAI-in_tu_guet_JOLD_ov_yu_ol_dei/",
+                "alternative_example": "I’ve been trying to contact you all day.",
+                "usage_example_es": "He estado intentando comunicarme contigo todo el día.",
+                "char_count": "one",
+                "usage_context_en": "contact",
+                "usage_context_es": "contacto"
+            }
+        ]
+    },
+    {
+        "name": "get down",
+        "phonetic": "/ɡɛt daʊn/",
+        "spoken_phonetic_us": "/ɡɛt daʊn/",
+        "search_term": "phrasal verb mood/physical",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "deprimir o desanimar",
+                "usage_example": "Don't let the rain get you down.",
+                "pronunciation_guide_es": "/dont_let_da_rein_guer_iu_DAUN/",
+                "alternative_example": "Don't let the rain discourage you.",
+                "usage_example_es": "No dejes que la lluvia te deprima.",
+                "char_count": "one",
+                "usage_context_en": "mood",
+                "usage_context_es": "estado de ánimo"
+            },
+            {
+                "meaning": "bajar de un lugar alto (físicamente)",
+                "usage_example": "He had to get down from the roof before the storm.",
+                "pronunciation_guide_es": "/ji_jad_tu_guet_DAUN_from_da_ruf_bi-FOR_da_storm/",
+                "alternative_example": "He had to descend from the roof before the storm.",
+                "usage_example_es": "Tuvo que bajar del techo antes de la tormenta.",
+                "char_count": "one",
+                "usage_context_en": "physical",
+                "usage_context_es": "físico"
+            }
+        ]
+    },
+    {
+        "name": "get around",
+        "phonetic": "/ɡɛt əˈraʊnd/",
+        "spoken_phonetic_us": "/ɡɛɾ əˈraʊnd/",
+        "search_term": "phrasal verb mobility/avoidance/news",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "moverse o viajar (en un área)",
+                "usage_example": "I use a bike to get around the city.",
+                "pronunciation_guide_es": "/ai_ius_a_baik_tu_guer_a-RAUND_da_SI-ri/",
+                "alternative_example": "I use a bicycle to move around the city.",
+                "usage_example_es": "Uso una bicicleta para moverme por la ciudad.",
+                "char_count": "one",
+                "usage_context_en": "mobility",
+                "usage_context_es": "movilidad"
+            },
+            {
+                "meaning": "evitar una regla o problema",
+                "usage_example": "They tried to get around the traffic officer",
+                "pronunciation_guide_es": "/dei TRAID tu guet a-RAUND de TRA-fik Ó-fi-ser/",
+                "alternative_example": "They tried to avoid the traffic officer",
+                "usage_example_es": "Intentaron evitar al agente de tránsito",
+                "char_count": "one",
+                "usage_context_en": "avoidance",
+                "usage_context_es": "evasión"
+            }
+        ]
+    },
+    {
+        "name": "get on with",
+        "phonetic": "/ɡɛt ɑn wɪð/",
+        "spoken_phonetic_us": "/ɡɛɾ ɑn wɪð/",
+        "search_term": "phrasal verb continuation/relationships",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "continuar haciendo algo, seguir adelante",
+                "usage_example": "Please get on with your work now.",
+                "pronunciation_guide_es": "/plis_guer_ON_uiz_iur_uork_NAU/",
+                "alternative_example": "Please continue with your work now.",
+                "usage_example_es": "Por favor, continúa con tu trabajo ahora.",
+                "char_count": "one",
+                "usage_context_en": "continuation",
+                "usage_context_es": "continuación"
+            },
+            {
+                "meaning": "llevarse bien con alguien",
+                "usage_example": "I get on with my brother most of the time.",
+                "pronunciation_guide_es": "/ai_guer_ON_uiz_mai_BRO-der_most_ov_da_taim/",
+                "alternative_example": "I have a good relationship with my brother most of the time.",
+                "usage_example_es": "Me llevo bien con mi hermano la mayor parte del tiempo.",
+                "char_count": "two",
+                "usage_context_en": "relationships",
+                "usage_context_es": "relaciones"
+            }
+        ]
+    },
+    {
+        "name": "get at",
+        "phonetic": "/ɡɛt æt/",
+        "spoken_phonetic_us": "/ɡɛɾ æt/",
+        "search_term": "phrasal verb communication/access",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "insinuar o intentar decir algo",
+                "usage_example": "What exactly are you getting at?",
+                "pronunciation_guide_es": "/uor_eg-ZAKT-li_ar_iu_GUER-ing_at/",
+                "alternative_example": "What exactly are you implying?",
+                "usage_example_es": "¿A qué quieres llegar exactamente?",
+                "char_count": "two",
+                "usage_context_en": "communication",
+                "usage_context_es": "comunicación"
+            },
+            {
+                "meaning": "alcanzar algo",
+                "usage_example": "The cat is trying to get at the fish on the table.",
+                "pronunciation_guide_es": "/da_kat_is_TRAI-ing_tu_guer_AT_da_fish_on_da_TEI-bol/",
+                "alternative_example": "The cat is trying to reach the fish on the table.",
+                "usage_example_es": "El gato está tratando de alcanzar el pescado en la mesa.",
+                "char_count": "one",
+                "usage_context_en": "access",
+                "usage_context_es": "acceso"
+            }
+        ]
+    },
+    {
+        "name": "get used to",
+        "phonetic": "/ɡɛt just tu/",
+        "spoken_phonetic_us": "/ɡɛt ˈjus tu/",
+        "search_term": "phrasal verb adaptation",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "acostumbrarse a algo",
+                "usage_example": "You'll get used to the noise soon.",
+                "pronunciation_guide_es": "/iul_guet_IUSD_tu_da_nois_sun/",
+                "alternative_example": "You'll become accustomed to the noise soon.",
+                "usage_example_es": "Pronto te acostumbrarás al ruido.",
+                "char_count": "one",
+                "usage_context_en": "adaptation",
+                "usage_context_es": "adaptación"
+            }
+        ]
+    },
+    {
+        "name": "get to",
+        "phonetic": "/ɡɛt tu/",
+        "spoken_phonetic_us": "/ɡɛt tu/",
+        "search_term": "phrasal verb opportunity/arrival/emotion",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "tener la oportunidad de hacer algo",
+                "usage_example": "I get to meet new people.",
+                "pronunciation_guide_es": "/ai_guet_tu_mit_niu_pipol/",
+                "alternative_example": "I have the opportunity to meet new people.",
+                "usage_example_es": "Tengo la oportunidad de conocer gente nueva.",
+                "char_count": "one",
+                "usage_context_en": "opportunity",
+                "usage_context_es": "oportunidad"
+            },
+            {
+                "meaning": "afectar o molestar emocionalmente",
+                "usage_example": "The noise is really getting to me.",
+                "pronunciation_guide_es": "/de_nois_is_rili_gerin_tu_mi/",
+                "alternative_example": "The noise is really bothering me.",
+                "usage_example_es": "El ruido realmente me está afectando.",
+                "char_count": "two",
+                "usage_context_en": "emotion",
+                "usage_context_es": "emoción"
+            }
+        ]
+    },
+    {
+        "name": "get in",
+        "phonetic": "/ɡɛt ɪn/",
+        "spoken_phonetic_us": "/ɡɛɾ ɪn/",
+        "search_term": "phrasal verb entry/arrival",
+        "is_phrasal_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "entrar (a un vehículo o edificio)",
+                "usage_example": "What time did you get in last night?",
+                "pronunciation_guide_es": "/uot_taim_did_iu_guer_IN_last_nait/",
+                "alternative_example": "What time did you enter last night?",
+                "usage_example_es": "¿A qué hora llegaste anoche?",
+                "char_count": "one",
+                "usage_context_en": "entry",
+                "usage_context_es": "entrada"
+            },
+            {
+                "meaning": "llegar (a casa o al trabajo)",
+                "usage_example": "I got in late because of the traffic.",
+                "pronunciation_guide_es": "/ai_gar_IN_leit_bi-COS_ov_da_TRA-fic/",
+                "alternative_example": "I arrived late because of the traffic.",
+                "usage_example_es": "Llegué tarde por el tráfico.",
+                "char_count": "one",
+                "usage_context_en": "arrival",
+                "usage_context_es": "llegada"
+            }
+        ]
+    }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "check in",
+    "phonetic": "/tʃɛk ɪn/",
+    "spoken_phonetic_us": "/tʃɛk ɪn/",
+    "search_term": "phrasal verb/travel/registration/contact",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Registrarse (en hotel, aeropuerto)",
+        "usage_example": "We need to check in at the hotel by 3 PM.",
+        "pronunciation_guide_es": "/ui_NID_tu_chek_IN_at_de_hoTEL_bai_thri_pi_EM/",
+        "alternative_example": "We need to register at the hotel by 3 PM.",
+        "usage_example_es": "Necesitamos registrarnos en el hotel antes de las 3 PM.",
+        "char_count": "one",
+        "usage_context_en": "travel/hotel",
+        "usage_context_es": "viajes/hotel"
+      },
+      {
+        "meaning": "Verificar (cómo está alguien), reportarse",
+        "usage_example": "I'm just calling to check in on you.",
+        "pronunciation_guide_es": "/aim_yost_KOling_tu_chek_IN_on_IU/",
+        "alternative_example": "I'm just calling to see how you are.",
+        "usage_example_es": "Solo llamo para saber cómo estás.",
+        "char_count": "one",
+        "usage_context_en": "communication/health",
+        "usage_context_es": "comunicación/salud"
+      }
+    ]
+  },
+  {
+    "name": "check out",
+    "phonetic": "/tʃɛk aʊt/",
+    "spoken_phonetic_us": "/tʃɛ 'kaʊt/",
+    "search_term": "phrasal verb/travel/payment/examine/social",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Pagar y salir (de un hotel)",
+        "usage_example": "We have to check out of the room by 11 AM.",
+        "pronunciation_guide_es": "/ui_HAV_tu_che_KAUT_ov_de_RUM_bai_iLEven_ei_EM/",
+        "alternative_example": "We have to leave and pay for the room by 11 AM.",
+        "usage_example_es": "Tenemos que dejar la habitación (hacer check-out) antes de las 11 AM.",
+        "char_count": "one",
+        "usage_context_en": "hotel/leaving",
+        "usage_context_es": "hotel/irse"
+      },
+      {
+        "meaning": "Echar un vistazo, mirar (informal)",
+        "usage_example": "Hey, check out that new restaurant!",
+        "pronunciation_guide_es": "/hei, che_KAUT_dat_NU_REStront/",
+        "alternative_example": "Hey, look at that new restaurant!",
+        "usage_example_es": "¡Oye, mira ese nuevo restaurante!",
+        "char_count": "one",
+        "usage_context_en": "social/looking (informal)",
+        "usage_context_es": "social/mirar (informal)"
+      },
+      {
+        "meaning": "Sacar prestado (ej. un libro de biblioteca)",
+        "usage_example": "I need to check out these books from the library.",
+        "pronunciation_guide_es": "/ai_NID_tu_che_KAUT_dis_BUKS_from_de_LAIbreri/",
+        "alternative_example": "I need to borrow these books from the library.",
+        "usage_example_es": "Necesito sacar prestados estos libros de la biblioteca.",
+        "char_count": "one",
+        "usage_context_en": "library/borrowing",
+        "usage_context_es": "biblioteca/pedir prestado"
+      }
+    ]
+  },
+  {
+    "name": "check on",
+    "phonetic": "/tʃɛk ɑn/",
+    "spoken_phonetic_us": "/tʃɛk ɑn/",
+    "search_term": "phrasal verb/verify/health/safety",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Verificar (que alguien o algo esté bien)",
+        "usage_example": "I'm going to check on the baby.",
+        "pronunciation_guide_es": "/aim_GOing_tu_chek_ON_de_BEIbi/",
+        "alternative_example": "I'm going to see if the baby is okay.",
+        "usage_example_es": "Voy a ver cómo está el bebé.",
+        "char_count": "one",
+        "usage_context_en": "family/safety/supervision",
+        "usage_context_es": "familia/seguridad/supervisión"
+      }
+    ]
+  },
+  {
+    "name": "check over",
+    "phonetic": "/tʃɛk ˈoʊvər/",
+    "spoken_phonetic_us": "/tʃɛk ˈoʊvər/",
+    "search_term": "phrasal verb/examine/review/inspect",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Revisar, examinar (buscando errores)",
+        "usage_example": "Can you check over my report before I submit it?",
+        "pronunciation_guide_es": "/kæn_iu_chek_Over_mai_riPORT_biFOR_ai_sabMIT_it/",
+        "alternative_example": "Can you review my report before I submit it?",
+        "usage_example_es": "¿Puedes revisar mi informe antes de que lo entregue?",
+        "char_count": "one",
+        "usage_context_en": "work/reviewing",
+        "usage_context_es": "trabajo/revisar"
+      }
+    ]
+  },
+  {
+    "name": "check off",
+    "phonetic": "/tʃɛk ɔf/",
+    "spoken_phonetic_us": "/tʃɛk ɔf/",
+    "search_term": "phrasal verb/list/mark/complete",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Marcar (como completado en una lista)",
+        "usage_example": "I love to check off items on my to-do list.",
+        "pronunciation_guide_es": "/ai_LOV_tu_chek_OF_AIrems_on_mai_tu_DU_list/",
+        "alternative_example": "I love to mark items as complete on my to-do list.",
+        "usage_example_es": "Me encanta marcar tareas (ítems) en mi lista de pendientes.",
+        "char_count": "one",
+        "usage_context_en": "tasks/lists",
+        "usage_context_es": "tareas/listas"
+      }
+    ]
+  }
+]

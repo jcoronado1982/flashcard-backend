@@ -1,0 +1,1178 @@
+[
+  {
+    "name": "another",
+    "phonetic": "/əˈnʌðər/",
+    "spoken_phonetic_us": "/əˈnʌðər/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "Otro/a (uno más, adicional)",
+        "usage_example": "Can I have another cookie?",
+        "pronunciation_guide_es": "/can_ai_HAV_a-NO-der_CU-ki/",
+        "usage_example_es": "¿Puedo tomar otra galleta?",
+        "char_count": "5",
+        "usage_context_en": "Used for one more, additional, singular countable noun.",
+        "usage_context_es": "Usado para uno más, adicional, sustantivo contable singular."
+      },
+      {
+        "meaning": "Otro/a (diferente)",
+        "usage_example": "Let's meet another day.",
+        "pronunciation_guide_es": "/lets_MIT_a-NO-der_DEI/",
+        "usage_example_es": "Reunámonos otro día.",
+        "char_count": "4",
+        "usage_context_en": "Used for a different singular countable noun.",
+        "usage_context_es": "Usado para un sustantivo contable singular diferente."
+      }
+    ]
+  },
+  {
+    "name": "other",
+    "phonetic": "/ˈʌðər/",
+    "spoken_phonetic_us": "/ˈʌðər/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "Otro/a / Otros/as (general)",
+        "usage_example": "Do you have other options?",
+        "pronunciation_guide_es": "/du_iu_HAV_O-der_OP-shons/",
+        "usage_example_es": "¿Tienes otras opciones?",
+        "char_count": "5",
+        "usage_context_en": "Used for different or additional plural or uncountable nouns.",
+        "usage_context_es": "Usado para sustantivos plurales o incontables diferentes o adicionales."
+      },
+      {
+        "meaning": "El/La otro/a (específico)",
+        "usage_example": "The other key is on the table.",
+        "pronunciation_guide_es": "/di_O-der_KI_is_on_de_TEI-bol/",
+        "usage_example_es": "La otra llave está en la mesa.",
+        "char_count": "7",
+        "usage_context_en": "Used with 'the' to refer to the second of two specific things.",
+        "usage_context_es": "Usado con 'the' para referirse al segundo de dos objetos específicos."
+      }
+    ]
+  },
+  {
+    "name": "each",
+    "phonetic": "/iːtʃ/",
+    "spoken_phonetic_us": "/iːtʃ/",
+    "search_term": "determiner/distributive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Distributives",
+    "definitions": [
+      {
+        "meaning": "Cada",
+        "usage_example": "Each student received a book.",
+        "pronunciation_guide_es": "/ICH_STU-dent_ri-SIVD_a_BUK/",
+        "usage_example_es": "Cada estudiante recibió un libro.",
+        "char_count": "5",
+        "usage_context_en": "Used to refer to every individual member of a group (of two or more) separately.",
+        "usage_context_es": "Usado para referirse a cada miembro individual de un grupo (de dos o más) por separado."
+      }
+    ]
+  },
+  {
+    "name": "either",
+    "phonetic": "/ˈaɪðər/",
+    "spoken_phonetic_us": "/ˈiːðər/",
+    "search_term": "determiner/distributive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Distributives",
+    "definitions": [
+      {
+        "meaning": "Cualquiera (de los dos)",
+        "usage_example": "You can take either road.",
+        "pronunciation_guide_es": "/iu_can_TEIK_AI-der_ROUD/",
+        "usage_example_es": "Puedes tomar cualquiera de los dos caminos.",
+        "char_count": "5",
+        "usage_context_en": "Used to mean 'one or the other' of two options.",
+        "usage_context_es": "Usado para significar 'uno u otro' de dos opciones."
+      }
+    ]
+  },
+  {
+    "name": "neither",
+    "phonetic": "/ˈnaɪðər/",
+    "spoken_phonetic_us": "/ˈniːðər/",
+    "search_term": "determiner/distributive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Distributives",
+    "definitions": [
+      {
+        "meaning": "Ninguno (de los dos)",
+        "usage_example": "Neither answer is correct.",
+        "pronunciation_guide_es": "/NAI-der_AN-ser_is_co-REKT/",
+        "usage_example_es": "Ninguna (de las dos) respuesta es correcta.",
+        "char_count": "4",
+        "usage_context_en": "Used to mean 'not one and not the other' of two options.",
+        "usage_context_es": "Usado para significar 'ni uno ni el otro' de dos opciones."
+      }
+    ]
+  },
+  {
+    "name": "both",
+    "phonetic": "/boʊθ/",
+    "spoken_phonetic_us": "/boʊθ/",
+    "search_term": "determiner/distributive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Distributives",
+    "definitions": [
+      {
+        "meaning": "Ambos/as / Los/Las dos",
+        "usage_example": "Both my parents are doctors.",
+        "pronunciation_guide_es": "/BOUZ_mai_PA-rents_ar_DOK-tors/",
+        "usage_example_es": "Ambos de mis padres son doctores.",
+        "char_count": "5",
+        "usage_context_en": "Used to refer to two people or things together.",
+        "usage_context_es": "Usado para referirse a dos personas o cosas juntas."
+      }
+    ]
+  },
+  {
+    "name": "all",
+    "phonetic": "/ɔːl/",
+    "spoken_phonetic_us": "/ɔːl/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "Todo/a / Todos/as",
+        "usage_example": "All the food is ready.",
+        "pronunciation_guide_es": "/OL_de_FUD_is_RE-di/",
+        "usage_example_es": "Toda la comida está lista.",
+        "char_count": "5",
+        "usage_context_en": "Used to refer to the whole quantity or extent of something.",
+        "usage_context_es": "Usado para referirse a la cantidad total o extensión de algo."
+      }
+    ]
+  },
+  {
+    "name": "several",
+    "phonetic": "/ˈsɛvərəl/",
+    "spoken_phonetic_us": "/ˈsɛvərəl/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "Varios/as",
+        "usage_example": "He made several mistakes.",
+        "pronunciation_guide_es": "/hi_MEID_SE-ve-ral_mis-TEIKS/",
+        "usage_example_es": "Él cometió varios errores.",
+        "char_count": "4",
+        "usage_context_en": "More than two but not many; a medium, indefinite number.",
+        "usage_context_es": "Más de dos pero no muchos; un número mediano e indefinido."
+      }
+    ]
+  },
+  {
+    "name": "plenty of",
+    "phonetic": "/ˈplɛnti əv/",
+    "spoken_phonetic_us": "/ˈplɛnti əv/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "Mucho/a / Muchos/as (de sobra)",
+        "usage_example": "We have plenty of time.",
+        "pronunciation_guide_es": "/ui_HAV_PLEN-ti_of_TAIM/",
+        "usage_example_es": "Tenemos mucho tiempo (de sobra).",
+        "char_count": "5",
+        "usage_context_en": "A large or sufficient amount or quantity; more than enough.",
+        "usage_context_es": "Una cantidad grande o suficiente; más que suficiente."
+      }
+    ]
+  },
+  {
+    "name": "enough",
+    "phonetic": "/ɪˈnʌf/",
+    "spoken_phonetic_us": "/ɪˈnʌf/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "Suficiente(s)",
+        "usage_example": "I don't have enough money.",
+        "pronunciation_guide_es": "/ai_DONT_HAV_i-NOF_MO-ni/",
+        "usage_example_es": "No tengo suficiente dinero.",
+        "char_count": "5",
+        "usage_context_en": "As much or as many as is necessary or required.",
+        "usage_context_es": "Tanto o tantos como sea necesario o requerido."
+      }
+    ]
+  },
+  {
+    "name": "more",
+    "phonetic": "/mɔːr/",
+    "spoken_phonetic_us": "/mɔr/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "Más",
+        "usage_example": "I need more time.",
+        "pronunciation_guide_es": "/ai_NID_MOR_TAIM/",
+        "usage_example_es": "Necesito más tiempo.",
+        "char_count": "4",
+        "usage_context_en": "A greater or additional amount or degree.",
+        "usage_context_es": "Una cantidad o grado mayor o adicional."
+      }
+    ]
+  },
+  {
+    "name": "most",
+    "phonetic": "/moʊst/",
+    "spoken_phonetic_us": "/moʊst/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "La mayoría (de)",
+        "usage_example": "Most people like music.",
+        "pronunciation_guide_es": "/MOUST_PI-pol_LAIK_MIU-sik/",
+        "usage_example_es": "A la mayoría de la gente le gusta la música.",
+        "char_count": "4",
+        "usage_context_en": "The greatest in amount, quantity, or degree; nearly all of.",
+        "usage_context_es": "El mayor en cantidad, cuantía o grado; casi todos."
+      }
+    ]
+  },
+  {
+    "name": "less",
+    "phonetic": "/lɛs/",
+    "spoken_phonetic_us": "/lɛs/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "Menos (incontable)",
+        "usage_example": "I have less money than you.",
+        "pronunciation_guide_es": "/ai_HAV_LES_MO-ni_dan_IU/",
+        "usage_example_es": "Tengo menos dinero que tú.",
+        "char_count": "6",
+        "usage_context_en": "A smaller amount of (used with uncountable nouns).",
+        "usage_context_es": "Una cantidad menor de (usado con sustantivos incontables)."
+      }
+    ]
+  },
+  {
+    "name": "fewer",
+    "phonetic": "/ˈfjuːər/",
+    "spoken_phonetic_us": "/ˈfjuːər/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "Menos (contable)",
+        "usage_example": "There are fewer students today.",
+        "pronunciation_guide_es": "/der_ar_FIU-er_STU-dents_tu-DEI/",
+        "usage_example_es": "Hay menos estudiantes hoy.",
+        "char_count": "5",
+        "usage_context_en": "A smaller number of (used with countable nouns).",
+        "usage_context_es": "Un número menor de (usado con sustantivos contables)."
+      }
+    ]
+  },
+  {
+    "name": "own",
+    "phonetic": "/oʊn/",
+    "spoken_phonetic_us": "/oʊn/",
+    "search_term": "determiner/possessive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Possessives",
+    "definitions": [
+      {
+        "meaning": "Propio/a",
+        "usage_example": "This is my own car.",
+        "pronunciation_guide_es": "/dis_is_mai_OUN_CAR/",
+        "usage_example_es": "Este es mi propio carro.",
+        "char_count": "5",
+        "usage_context_en": "Used with a possessive determiner (my, your, his) to emphasize ownership.",
+        "usage_context_es": "Usado con un determinante posesivo (mi, tu, su) para enfatizar posesión."
+      }
+    ]
+  },
+  {
+    "name": "such",
+    "phonetic": "/sʌtʃ/",
+    "spoken_phonetic_us": "/sʌtʃ/",
+    "search_term": "determiner/emphasis",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Tal / Semejante",
+        "usage_example": "I have never seen such a thing.",
+        "pronunciation_guide_es": "/ai_hav_NE-ver_SIN_soch_a_ZING/",
+        "usage_example_es": "Nunca he visto tal cosa.",
+        "char_count": "7",
+        "usage_context_en": "Used to mean 'of this/that kind' or 'to this degree'.",
+        "usage_context_es": "Usado para significar 'de este/ese tipo' o 'a este grado'."
+      },
+      {
+        "meaning": "Tan (énfasis)",
+        "usage_example": "It was such a good day.",
+        "pronunciation_guide_es": "/it_UAS_soch_a_GUD_DEI/",
+        "usage_example_es": "Fue un día tan bueno.",
+        "char_count": "6",
+        "usage_context_en": "Used for emphasis (similar to 'so').",
+        "usage_context_es": "Usado para énfasis (similar a 'so')."
+      }
+    ]
+  },
+  {
+    "name": "same",
+    "phonetic": "/seɪm/",
+    "spoken_phonetic_us": "/seɪm/",
+    "search_term": "determiner/demonstrative",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Mismo/a / Mismos/as",
+        "usage_example": "We have the same car.",
+        "pronunciation_guide_es": "/ui_HAV_de_SEIM_CAR/",
+        "usage_example_es": "Tenemos el mismo carro.",
+        "char_count": "5",
+        "usage_context_en": "Used to identify something as being identical; not different.",
+        "usage_context_es": "Usado para identificar algo como idéntico; no diferente."
+      }
+    ]
+  },
+  {
+    "name": "certain",
+    "phonetic": "/ˈsɜːrtən/",
+    "spoken_phonetic_us": "/ˈsɜrtən/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Cierto/a / Ciertos/as",
+        "usage_example": "A certain person told me.",
+        "pronunciation_guide_es": "/a_SER-ten_PER-son_TOLD_mi/",
+        "usage_example_es": "Cierta persona me dijo.",
+        "char_count": "5",
+        "usage_context_en": "Used to refer to a specific person or thing without naming it.",
+        "usage_context_es": "Usado para referirse a una persona o cosa específica sin nombrarla."
+      }
+    ]
+  },
+  {
+    "name": "next",
+    "phonetic": "/nɛkst/",
+    "spoken_phonetic_us": "/nɛkst/",
+    "search_term": "determiner/ordinal",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Numbers",
+    "definitions": [
+      {
+        "meaning": "Siguiente / Próximo/a",
+        "usage_example": "See you next week.",
+        "pronunciation_guide_es": "/SI_iu_NEKST_UIK/",
+        "usage_example_es": "Nos vemos la próxima semana.",
+        "char_count": "4",
+        "usage_context_en": "Coming immediately after the present one in time or order.",
+        "usage_context_es": "Que viene inmediatamente después del presente en tiempo u orden."
+      }
+    ]
+  },
+  {
+    "name": "last",
+    "phonetic": "/læst/",
+    "spoken_phonetic_us": "/læst/",
+    "search_term": "determiner/ordinal",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Numbers",
+    "definitions": [
+      {
+        "meaning": "Último/a",
+        "usage_example": "It was the last day of the month.",
+        "pronunciation_guide_es": "/it_uas_de_LAST_DEI_of_de_MONZ/",
+        "usage_example_es": "Fue el último día del mes.",
+        "char_count": "7",
+        "usage_context_en": "Coming after all others in time or order.",
+        "usage_context_es": "Que viene después de todos los demás en tiempo u orden."
+      },
+      {
+        "meaning": "Pasado/a",
+        "usage_example": "I saw him last week.",
+        "pronunciation_guide_es": "/ai_SO_him_LAST_UIK/",
+        "usage_example_es": "Lo vi la semana pasada.",
+        "char_count": "5",
+        "usage_context_en": "Referring to the most recent one before the present.",
+        "usage_context_es": "Refiriéndose al más reciente antes del presente."
+      }
+    ]
+  },
+  {
+    "name": "whole",
+    "phonetic": "/hoʊl/",
+    "spoken_phonetic_us": "/hoʊl/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "Todo/a / Entero/a",
+        "usage_example": "I ate the whole pizza.",
+        "pronunciation_guide_es": "/ai_EIT_de_HOUL_PIT-sa/",
+        "usage_example_es": "Me comí la pizza entera.",
+        "char_count": "5",
+        "usage_context_en": "All of; entire (used with singular nouns).",
+        "usage_context_es": "Todo/a; entero/a (usado con sustantivos singulares)."
+      }
+    ]
+  },
+  {
+    "name": "entire",
+    "phonetic": "/ɪnˈtaɪər/",
+    "spoken_phonetic_us": "/ɪnˈtaɪər/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "Entero/a / Completo/a",
+        "usage_example": "I read the entire book.",
+        "pronunciation_guide_es": "/ai_RED_di_en-TAIR_BUK/",
+        "usage_example_es": "Leí el libro entero.",
+        "char_count": "5",
+        "usage_context_en": "With no part left out; whole (often for emphasis).",
+        "usage_context_es": "Sin dejar ninguna parte fuera; todo (a menudo para énfasis)."
+      }
+    ]
+  },
+  {
+    "name": "various",
+    "phonetic": "/ˈvɛəriəs/",
+    "spoken_phonetic_us": "/ˈvɛriəs/",
+    "search_term": "determiner/quantifier",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "Varios/as / Diversos/as",
+        "usage_example": "There are various options available.",
+        "pronunciation_guide_es": "/der_ar_VE-ri-os_OP-shons_a-VEI-la-bol/",
+        "usage_example_es": "Hay varias opciones disponibles.",
+        "char_count": "5",
+        "usage_context_en": "More than one; different kinds of.",
+        "usage_context_es": "Más de uno; diferentes tipos de."
+      }
+    ]
+  },
+  {
+    "name": "different",
+    "phonetic": "/ˈdɪfərənt/",
+    "spoken_phonetic_us": "/ˈdɪfərənt/",
+    "search_term": "adjective/describing",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Diferente / Distinto/a",
+        "usage_example": "I have a different opinion.",
+        "pronunciation_guide_es": "/ai_HAV_a_DI-fe-rent_o-PI-nion/",
+        "usage_example_es": "Tengo una opinión diferente.",
+        "char_count": "5",
+        "usage_context_en": "Not the same as another or each other.",
+        "usage_context_es": "No igual a otro o entre sí."
+      }
+    ]
+  },
+  {
+    "name": "whichever",
+    "phonetic": "/wɪtʃˈɛvər/",
+    "spoken_phonetic_us": "/wɪtʃˈɛvər/",
+    "search_term": "determiner/relative",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Cualquiera (que)",
+        "usage_example": "Choose whichever one you like.",
+        "pronunciation_guide_es": "/CHUS_uich-E-ver_UAN_iu_LAIK/",
+        "usage_example_es": "Elige cualquiera que te guste.",
+        "char_count": "5",
+        "usage_context_en": "Used to refer to any one from a limited set.",
+        "usage_context_es": "Usado para referirse a cualquiera de un conjunto limitado."
+      }
+    ]
+  },
+  {
+    "name": "whatever",
+    "phonetic": "/wɒtˈɛvər/",
+    "spoken_phonetic_us": "/wʌtˈɛvər/",
+    "search_term": "determiner/relative",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Cualquier/a (cosa que)",
+        "usage_example": "Take whatever you need.",
+        "pronunciation_guide_es": "/TEIK_uat-E-ver_iu_NID/",
+        "usage_example_es": "Toma cualquier cosa que necesites.",
+        "char_count": "4",
+        "usage_context_en": "Used to refer to any thing or amount, no matter what.",
+        "usage_context_es": "Usado para referirse a cualquier cosa o cantidad, sin importar cuál."
+      },
+      {
+        "meaning": "En absoluto (énfasis)",
+        "usage_example": "I have no money whatever.",
+        "pronunciation_guide_es": "/ai_HAV_NOU_MO-ni_uat-E-ver/",
+        "usage_example_es": "No tengo dinero en absoluto.",
+        "char_count": "5",
+        "usage_context_en": "Used after 'no' or 'none' for emphasis (meaning 'at all').",
+        "usage_context_es": "Usado después de 'no' o 'none' para dar énfasis (significa 'en absoluto')."
+      }
+    ]
+  },
+  {
+    "name": "whose",
+    "phonetic": "/huːz/",
+    "spoken_phonetic_us": "/huːz/",
+    "search_term": "determiner/possessive/interrogative",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Possessives",
+    "definitions": [
+      {
+        "meaning": "¿De quién?",
+        "usage_example": "Whose keys are these?",
+        "pronunciation_guide_es": "/HUS_KIS_ar_DIS/",
+        "usage_example_es": "¿De quién son estas llaves?",
+        "char_count": "4",
+        "usage_context_en": "Used to ask about possession.",
+        "usage_context_es": "Usado para preguntar sobre posesión."
+      },
+      {
+        "meaning": "Cuyo/a / Cuyos/as",
+        "usage_example": "The man whose car was stolen.",
+        "pronunciation_guide_es": "/de_MAN_HUS_CAR_uas_STO-len/",
+        "usage_example_es": "El hombre cuyo carro fue robado.",
+        "char_count": "6",
+        "usage_context_en": "Used as a relative pronoun to show possession.",
+        "usage_context_es": "Usado como pronombre relativo para mostrar posesión."
+      }
+    ]
+  },
+  {
+    "name": "whosoever",
+    "phonetic": "/ˌhuːsoʊˈɛvər/",
+    "spoken_phonetic_us": "/ˌhuːsoʊˈɛvər/",
+    "search_term": "pronoun/relative/formal",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Quienquiera que (formal)",
+        "usage_example": "Whosoever finds this is lucky.",
+        "pronunciation_guide_es": "/hu-sou-E-ver_FAINDS_dis_is_LO-ki/",
+        "usage_example_es": "Quienquiera que encuentre esto es afortunado.",
+        "char_count": "5",
+        "usage_context_en": "A formal or archaic word for 'whoever'.",
+        "usage_context_es": "Una palabra formal o arcaica para 'quien sea'."
+      }
+    ]
+  },
+  {
+    "name": "either of",
+    "phonetic": "/ˈaɪðər əv/",
+    "spoken_phonetic_us": "/ˈiːðər əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "Cualquiera de (los dos)",
+        "usage_example": "Either of the books is fine.",
+        "pronunciation_guide_es": "/AI-der_of_de_BUKS_is_FAIN/",
+        "usage_example_es": "Cualquiera de los dos libros está bien.",
+        "char_count": "6",
+        "usage_context_en": "One or the other of two specific things (used before 'the', 'my', 'them').",
+        "usage_context_es": "Uno u otro de dos cosas específicas (usado antes de 'the', 'my', 'them')."
+      }
+    ]
+  },
+  {
+    "name": "neither of",
+    "phonetic": "/ˈnaɪðər əv/",
+    "spoken_phonetic_us": "/ˈniːðər əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "Ninguno de (los dos)",
+        "usage_example": "Neither of them came.",
+        "pronunciation_guide_es": "/NAI-der_of_dem_KEIM/",
+        "usage_example_es": "Ninguno de los dos vino.",
+        "char_count": "4",
+        "usage_context_en": "Not one and not the other of two specific things (used before 'the', 'my', 'them').",
+        "usage_context_es": "Ni uno ni el otro de dos cosas específicas (usado antes de 'the', 'my', 'them')."
+      }
+    ]
+  },
+  {
+    "name": "each of",
+    "phonetic": "/iːtʃ əv/",
+    "spoken_phonetic_us": "/iːtʃ əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "Cada uno de",
+        "usage_example": "Each of the students passed.",
+        "pronunciation_guide_es": "/ICH_of_de_STU-dents_PAST/",
+        "usage_example_es": "Cada uno de los estudiantes aprobó.",
+        "char_count": "5",
+        "usage_context_en": "Used to refer to every individual member of a specific group.",
+        "usage_context_es": "Usado para referirse a cada miembro individual de un grupo específico."
+      }
+    ]
+  },
+  {
+    "name": "both of",
+    "phonetic": "/boʊθ əv/",
+    "spoken_phonetic_us": "/boʊθ əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "Ambos/as / Los/Las dos (de)",
+        "usage_example": "Both of them are correct.",
+        "pronunciation_guide_es": "/BOUZ_of_dem_ar_co-REKT/",
+        "usage_example_es": "Ambos (de ellos) son correctos.",
+        "char_count": "5",
+        "usage_context_en": "Used to refer to two specific people or things together.",
+        "usage_context_es": "Usado para referirse a dos personas o cosas específicas juntas."
+      }
+    ]
+  },
+  {
+    "name": "none of",
+    "phonetic": "/nʌn əv/",
+    "spoken_phonetic_us": "/nʌn əv/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "Ninguno/a (de)",
+        "usage_example": "None of the students failed.",
+        "pronunciation_guide_es": "/NON_of_de_STU-dents_FEILD/",
+        "usage_example_es": "Ninguno de los estudiantes reprobó.",
+        "char_count": "5",
+        "usage_context_en": "Not one of a group of three or more.",
+        "usage_context_es": "Ni uno solo de un grupo de tres o más."
+      }
+    ]
+  },
+  {
+    "name": "all of",
+    "phonetic": "/ɔːl əv/",
+    "spoken_phonetic_us": "/ɔːl əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "Todos/as (de)",
+        "usage_example": "All of the people left.",
+        "pronunciation_guide_es": "/OL_of_de_PI-pol_LEFT/",
+        "usage_example_es": "Todas las personas se fueron.",
+        "char_count": "5",
+        "usage_context_en": "The entire quantity of a specific group.",
+        "usage_context_es": "La cantidad total de un grupo específico."
+      }
+    ]
+  },
+  {
+    "name": "most of",
+    "phonetic": "/moʊst əv/",
+    "spoken_phonetic_us": "/moʊst əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "La mayoría de",
+        "usage_example": "Most of the food is gone.",
+        "pronunciation_guide_es": "/MOUST_of_de_FUD_is_GON/",
+        "usage_example_es": "La mayoría de la comida se acabó.",
+        "char_count": "6",
+        "usage_context_en": "The largest part or number of a specific group.",
+        "usage_context_es": "La mayor parte o número de un grupo específico."
+      }
+    ]
+  },
+  {
+    "name": "much of",
+    "phonetic": "/mʌtʃ əv/",
+    "spoken_phonetic_us": "/mʌtʃ əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "Mucho de",
+        "usage_example": "Much of the time was wasted.",
+        "pronunciation_guide_es": "/MOCH_of_de_TAIM_uas_UEIS-ted/",
+        "usage_example_es": "Mucho del tiempo fue desperdiciado.",
+        "char_count": "6",
+        "usage_context_en": "A large amount of a specific uncountable noun.",
+        "usage_context_es": "Una gran cantidad de un sustantivo incontable específico."
+      }
+    ]
+  },
+  {
+    "name": "several of",
+    "phonetic": "/ˈsɛvərəl əv/",
+    "spoken_phonetic_us": "/ˈsɛvərəl əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "Varios de",
+        "usage_example": "Several of them are broken.",
+        "pronunciation_guide_es": "/SE-ve-ral_of_dem_ar_BROU-ken/",
+        "usage_example_es": "Varios de ellos están rotos.",
+        "char_count": "5",
+        "usage_context_en": "A medium number of a specific countable group.",
+        "usage_context_es": "Un número mediano de un grupo contable específico."
+      }
+    ]
+  },
+  {
+    "name": "some of",
+    "phonetic": "/sʌm əv/",
+    "spoken_phonetic_us": "/səm əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "Algunos de / Algo de",
+        "usage_example": "Some of the students are here.",
+        "pronunciation_guide_es": "/SOM_of_de_STU-dents_ar_HIR/",
+        "usage_example_es": "Algunos de los estudiantes están aquí.",
+        "char_count": "6",
+        "usage_context_en": "An unspecified amount or number of a specific group.",
+        "usage_context_es": "Una cantidad o número no especificado de un grupo específico."
+      }
+    ]
+  },
+  {
+    "name": "part of",
+    "phonetic": "/pɑːrt əv/",
+    "spoken_phonetic_us": "/pɑrt əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "Parte de",
+        "usage_example": "Part of the problem is communication.",
+        "pronunciation_guide_es": "/PART_of_de_PRO-blem_is_co-miu-ni-KEI-shon/",
+        "usage_example_es": "Parte del problema es la comunicación.",
+        "char_count": "6",
+        "usage_context_en": "A piece or section of a whole.",
+        "usage_context_es": "Una pieza o sección de un todo."
+      }
+    ]
+  },
+  {
+    "name": "the rest of",
+    "phonetic": "/ðə rɛst əv/",
+    "spoken_phonetic_us": "/ðə rɛst əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "El resto de (lo que queda)",
+        "usage_example": "I will work for the rest of the day.",
+        "pronunciation_guide_es": "/ai_uil_UORK_for_de_REST_of_de_DEI/",
+        "usage_example_es": "Trabajaré por el resto del día.",
+        "char_count": "8",
+        "usage_context_en": "The remaining part of something.",
+        "usage_context_es": "La parte restante de algo."
+      },
+      {
+        "meaning": "El resto de (los demás)",
+        "usage_example": "The rest of the group is here.",
+        "pronunciation_guide_es": "/de_REST_of_de_GRUP_is_HIR/",
+        "usage_example_es": "El resto del grupo está aquí.",
+        "char_count": "7",
+        "usage_context_en": "The other people or things in a group.",
+        "usage_context_es": "Las otras personas o cosas en un grupo."
+      }
+    ]
+  },
+  {
+    "name": "the majority of",
+    "phonetic": "/ðə məˈdʒɒrəti əv/",
+    "spoken_phonetic_us": "/ðə məˈdʒɔrəti əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "La mayoría de",
+        "usage_example": "The majority of the students agreed.",
+        "pronunciation_guide_es": "/de_ma-YOR-i-ti_of_de_STU-dents_a-GRID/",
+        "usage_example_es": "La mayoría de los estudiantes estuvieron de acuerdo.",
+        "char_count": "6",
+        "usage_context_en": "The largest part of a group (synonym for 'most of').",
+        "usage_context_es": "La parte más grande de un grupo (sinónimo de 'most of')."
+      }
+    ]
+  },
+  {
+    "name": "the whole of",
+    "phonetic": "/ðə hoʊl əv/",
+    "spoken_phonetic_us": "/ðə hoʊl əv/",
+    "search_term": "determiner/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Partitives",
+    "definitions": [
+      {
+        "meaning": "Todo/a / Entero/a (enfático)",
+        "usage_example": "He read the whole of the book.",
+        "pronunciation_guide_es": "/hi_RED_de_HOUL_of_de_BUK/",
+        "usage_example_es": "Leyó todo el libro (el libro entero).",
+        "char_count": "7",
+        "usage_context_en": "An emphatic way to say 'the entire' or 'all of'.",
+        "usage_context_es": "Una forma enfática de decir 'el entero' o 'todo de'."
+      }
+    ]
+  },
+  {
+    "name": "certain other",
+    "phonetic": "/ˈsɜrtən ˈʌðər/",
+    "spoken_phonetic_us": "/ˈsɜrtən ˈʌðər/",
+    "search_term": "determiner/compound",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Otros/as ciertos/as",
+        "usage_example": "Certain other factors were involved.",
+        "pronunciation_guide_es": "/SER-ten_O-der_FAC-tors_uer_in-VOLVD/",
+        "usage_example_es": "Ciertos otros factores estuvieron involucrados.",
+        "char_count": "5",
+        "usage_context_en": "A specific but unnamed additional group.",
+        "usage_context_es": "Un grupo adicional específico pero no nombrado."
+      }
+    ]
+  },
+  {
+    "name": "various other",
+    "phonetic": "/ˈvɛəriəs ˈʌðər/",
+    "spoken_phonetic_us": "/ˈvɛriəs ˈʌðər/",
+    "search_term": "determiner/compound",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Varios/as otros/as",
+        "usage_example": "He has various other reasons.",
+        "pronunciation_guide_es": "/hi_HAS_VE-ri-os_O-der_RI-sons/",
+        "usage_example_es": "Él tiene varias otras razones.",
+        "char_count": "5",
+        "usage_context_en": "Several additional and different items.",
+        "usage_context_es": "Varios ítems adicionales y diferentes."
+      }
+    ]
+  },
+  {
+    "name": "each individual",
+    "phonetic": "/iːtʃ ˌɪndɪˈvɪdʒuəl/",
+    "spoken_phonetic_us": "/iːtʃ ˌɪndɪˈvɪdʒuəl/",
+    "search_term": "determiner/compound/emphasis",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Cada individuo / Cada",
+        "usage_example": "Each individual student must sign up.",
+        "pronunciation_guide_es": "/ICH_in-di-VI-du-al_STU-dent_most_SAIN_OP/",
+        "usage_example_es": "Cada estudiante individual debe inscribirse.",
+        "char_count": "6",
+        "usage_context_en": "An emphatic way to say 'each'.",
+        "usage_context_es": "Una forma enfática de decir 'cada uno'."
+      }
+    ]
+  },
+  {
+    "name": "every single",
+    "phonetic": "/ˈɛvri ˈsɪŋɡəl/",
+    "spoken_phonetic_us": "/ˈɛvri ˈsɪŋɡəl/",
+    "search_term": "determiner/compound/emphasis",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Todos y cada uno / Absolutamente cada",
+        "usage_example": "I checked every single page.",
+        "pronunciation_guide_es": "/ai_CHEKT_E-vri_SIN-gol_PEICH/",
+        "usage_example_es": "Revisé todas y cada una de las páginas.",
+        "char_count": "5",
+        "usage_context_en": "A very emphatic way to say 'every'.",
+        "usage_context_es": "Una forma muy enfática de decir 'cada' o 'todos'."
+      }
+    ]
+  },
+  {
+    "name": "the entire",
+    "phonetic": "/ði ɪnˈtaɪər/",
+    "spoken_phonetic_us": "/ði ɪnˈtaɪər/",
+    "search_term": "determiner/compound",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Quantifiers",
+    "definitions": [
+      {
+        "meaning": "El/La ... entero/a",
+        "usage_example": "I read the entire book.",
+        "pronunciation_guide_es": "/ai_RED_di_en-TAIR_BUK/",
+        "usage_example_es": "Leí el libro entero.",
+        "char_count": "5",
+        "usage_context_en": "Used to mean 'the whole of'.",
+        "usage_context_es": "Usado para significar 'el todo de'."
+      }
+    ]
+  },
+  {
+    "name": "such a",
+    "phonetic": "/sʌtʃ eɪ/",
+    "spoken_phonetic_us": "/sʌtʃ ə/",
+    "search_term": "determiner/compound/emphasis",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Un/Una ... tan",
+        "usage_example": "It was such a hot day.",
+        "pronunciation_guide_es": "/it_UAS_soch_a_HOT_DEI/",
+        "usage_example_es": "Fue un día tan caluroso.",
+        "char_count": "6",
+        "usage_context_en": "Used for emphasis with a singular noun.",
+        "usage_context_es": "Usado para énfasis con un sustantivo singular."
+      }
+    ]
+  },
+  {
+    "name": "a certain",
+    "phonetic": "/eɪ ˈsɜrtən/",
+    "spoken_phonetic_us": "/ə ˈsɜrtən/",
+    "search_term": "determiner/compound",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Un/Una cierto/a",
+        "usage_example": "A certain person told me.",
+        "pronunciation_guide_es": "/a_SER-ten_PER-son_TOLD_mi/",
+        "usage_example_es": "Cierta persona me dijo.",
+        "char_count": "5",
+        "usage_context_en": "Used to refer to a specific but unnamed person or thing.",
+        "usage_context_es": "Usado para referirse a una persona o cosa específica pero no nombrada."
+      }
+    ]
+  },
+  {
+    "name": "an additional",
+    "phonetic": "/ən əˈdɪʃənəl/",
+    "spoken_phonetic_us": "/ən əˈdɪʃənəl/",
+    "search_term": "determiner/compound",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "Un/Una adicional",
+        "usage_example": "We need an additional chair.",
+        "pronunciation_guide_es": "/ui_NID_an_a-DI-sho-nal_CHER/",
+        "usage_example_es": "Necesitamos una silla adicional.",
+        "char_count": "5",
+        "usage_context_en": "One more; an extra one.",
+        "usage_context_es": "Uno más; uno extra."
+      }
+    ]
+  },
+  {
+    "name": "the following",
+    "phonetic": "/ðə ˈfɒloʊɪŋ/",
+    "spoken_phonetic_us": "/ðə ˈfɑloʊɪŋ/",
+    "search_term": "determiner/demonstrative",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "El/La/Los/Las siguiente(s)",
+        "usage_example": "Please read the following text.",
+        "pronunciation_guide_es": "/PLIS_RID_de_FO-lo-uing_TEKST/",
+        "usage_example_es": "Por favor lee el siguiente texto.",
+        "char_count": "5",
+        "usage_context_en": "Used to introduce a list, example, or statement.",
+        "usage_context_es": "Usado para introducir una lista, ejemplo o declaración."
+      }
+    ]
+  },
+  {
+    "name": "the same",
+    "phonetic": "/ðə seɪm/",
+    "spoken_phonetic_us": "/ðə seɪm/",
+    "search_term": "determiner/demonstrative",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Determiners: Other",
+    "definitions": [
+      {
+        "meaning": "El/La mismo/a",
+        "usage_example": "We have the same car.",
+        "pronunciation_guide_es": "/ui_HAV_de_SEIM_CAR/",
+        "usage_example_es": "Tenemos el mismo carro.",
+        "char_count": "5",
+        "usage_context_en": "Used to identify something as being identical.",
+        "usage_context_es": "Usado para identificar algo como idéntico."
+      }
+    ]
+  },
+  {
+    "name": "respective",
+    "phonetic": "/rɪˈspɛktɪv/",
+    "spoken_phonetic_us": "/rɪˈspɛktɪv/",
+    "search_term": "adjective/describing",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Respectivo/a",
+        "usage_example": "They went to their respective homes.",
+        "pronunciation_guide_es": "/dei_UENT_tu_der_ris-PEK-tiv_HOUMS/",
+        "usage_example_es": "Se fueron a sus respectivos hogares.",
+        "char_count": "6",
+        "usage_context_en": "Belonging or relating separately to each of two or more people or things.",
+        "usage_context_es": "Perteneciente o relativo por separado a cada una de dos o más personas o cosas."
+      }
+    ]
+  }
+]

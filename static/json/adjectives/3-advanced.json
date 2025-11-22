@@ -1,0 +1,683 @@
+[
+  {
+    "name": "confident",
+    "phonetic": "/ˈkɒnfɪdənt/",
+    "spoken_phonetic_us": "/ˈkɑnfɪdənt/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Seguro/a (de sí mismo)",
+        "usage_example": "She is confident about the presentation.",
+        "pronunciation_guide_es": "/shi_is_CON-fi-dent_a-BAUT_de_pre-sen-TEI-shon/",
+        "usage_example_es": "Ella está segura de la presentación.",
+        "char_count": "6",
+        "usage_context_en": "Feeling or showing self-assurance and certainty.",
+        "usage_context_es": "Sentir o mostrar seguridad en uno mismo y certeza."
+      }
+    ]
+  },
+  {
+    "name": "reliable",
+    "phonetic": "/rɪˈlaɪəbəl/",
+    "spoken_phonetic_us": "/rɪˈlaɪəbəl/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Fiable / Confiable",
+        "usage_example": "He is a reliable employee.",
+        "pronunciation_guide_es": "/hi_is_a_ri-LAI-a-bol_em-ploi-I/",
+        "usage_example_es": "Él es un empleado confiable.",
+        "char_count": "5",
+        "usage_context_en": "Consistently good in quality or performance; trustworthy.",
+        "usage_context_es": "Consistentemente bueno en calidad o desempeño; digno de confianza."
+      }
+    ]
+  },
+  {
+    "name": "honest",
+    "phonetic": "/ˈɒnɪst/",
+    "spoken_phonetic_us": "/ˈɑnɪst/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Honesto/a / Sincero/a",
+        "usage_example": "Please be honest with me.",
+        "pronunciation_guide_es": "/PLIS_bi_O-nest_uiz_MI/",
+        "usage_example_es": "Por favor, sé honesto conmigo.",
+        "char_count": "5",
+        "usage_context_en": "Truthful and sincere; not lying or cheating.",
+        "usage_context_es": "Veraz y sincero; que no miente ni engaña."
+      }
+    ]
+  },
+  {
+    "name": "responsible",
+    "phonetic": "/rɪˈspɒnsəbəl/",
+    "spoken_phonetic_us": "/rɪˈspɑnsəbəl/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Responsable",
+        "usage_example": "You are responsible for this task.",
+        "pronunciation_guide_es": "/iu_ar_ris-PON-si-bol_for_dis_TASK/",
+        "usage_example_es": "Tú eres responsable de esta tarea.",
+        "char_count": "6",
+        "usage_context_en": "Having a duty to deal with something; accountable.",
+        "usage_context_es": "Tener el deber de lidiar con algo; ser responsable."
+      }
+    ]
+  },
+  {
+    "name": "independent",
+    "phonetic": "/ˌɪndɪˈpɛndənt/",
+    "spoken_phonetic_us": "/ˌɪndɪˈpɛndənt/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Independiente",
+        "usage_example": "He is a very independent person.",
+        "pronunciation_guide_es": "/hi_is_a_VE-ri_in-di-PEN-dent_PER-son/",
+        "usage_example_es": "Él es una persona muy independiente.",
+        "char_count": "6",
+        "usage_context_en": "Not depending on another for help or money.",
+        "usage_context_es": "Que no depende de otro para ayuda o dinero."
+      }
+    ]
+  },
+  {
+    "name": "creative",
+    "phonetic": "/kriˈeɪtɪv/",
+    "spoken_phonetic_us": "/kriˈeɪtɪv/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Creativo/a",
+        "usage_example": "The artist is very creative.",
+        "pronunciation_guide_es": "/di_AR-tist_is_VE-ri_cri-EI-tiv/",
+        "usage_example_es": "El artista es muy creativo.",
+        "char_count": "5",
+        "usage_context_en": "Involving imagination or original ideas.",
+        "usage_context_es": "Que involucra imaginación o ideas originales."
+      }
+    ]
+  },
+  {
+    "name": "generous",
+    "phonetic": "/ˈdʒɛnərəs/",
+    "spoken_phonetic_us": "/ˈdʒɛnərəs/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Generoso/a",
+        "usage_example": "Thank you, that is very generous.",
+        "pronunciation_guide_es": "/ZANK_iu_dat_is_VE-ri_YE-ne-ros/",
+        "usage_example_es": "Gracias, eso es muy generoso.",
+        "char_count": "6",
+        "usage_context_en": "Willing to give more money, help, or time than is usual or expected.",
+        "usage_context_es": "Dispuesto a dar más dinero, ayuda o tiempo de lo habitual o esperado."
+      }
+    ]
+  },
+  {
+    "name": "selfish",
+    "phonetic": "/ˈsɛlfɪʃ/",
+    "spoken_phonetic_us": "/ˈsɛlfɪʃ/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Egoísta",
+        "usage_example": "Don't be selfish, share your toys.",
+        "pronunciation_guide_es": "/DONT_bi_SEL-fish_SHER_iur_TOIS/",
+        "usage_example_es": "No seas egoísta, comparte tus juguetes.",
+        "char_count": "6",
+        "usage_context_en": "Lacking consideration for others; concerned chiefly with one's own profit or pleasure.",
+        "usage_context_es": "Falto de consideración por los demás; preocupado principalmente por el beneficio o placer propio."
+      }
+    ]
+  },
+  {
+    "name": "ambitious",
+    "phonetic": "/æmˈbɪʃəs/",
+    "spoken_phonetic_us": "/æmˈbɪʃəs/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Ambicioso/a",
+        "usage_example": "She is an ambitious student.",
+        "pronunciation_guide_es": "/shi_is_an_am-BI-shos_STU-dent/",
+        "usage_example_es": "Ella es una estudiante ambiciosa.",
+        "char_count": "5",
+        "usage_context_en": "Having or showing a strong desire and determination to succeed.",
+        "usage_context_es": "Tener o mostrar un fuerte deseo y determinación para triunfar."
+      }
+    ]
+  },
+  {
+    "name": "organized",
+    "phonetic": "/ˈɔːɡənaɪzd/",
+    "spoken_phonetic_us": "/ˈɔrɡənaɪzd/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Organizado/a",
+        "usage_example": "Her desk is always organized.",
+        "pronunciation_guide_es": "/her_DESK_is_OL-ueis_OR-ga-naizd/",
+        "usage_example_es": "Su escritorio está siempre organizado.",
+        "char_count": "5",
+        "usage_context_en": "Arranged or structured in a systematic way.",
+        "usage_context_es": "Arreglado o estructurado de forma sistemática."
+      }
+    ]
+  },
+  {
+    "name": "sensitive",
+    "phonetic": "/ˈsɛnsɪtɪv/",
+    "spoken_phonetic_us": "/ˈsɛnsɪtɪv/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Sensible (emocionalmente)",
+        "usage_example": "He is very sensitive to criticism.",
+        "pronunciation_guide_es": "/hi_is_VE-ri_SEN-si-tiv_tu_CRI-ti-si-som/",
+        "usage_example_es": "Él es muy sensible a las críticas.",
+        "char_count": "6",
+        "usage_context_en": "Quick to detect or respond to slight changes; easily hurt or offended.",
+        "usage_context_es": "Rápido para detectar o responder a pequeños cambios; fácil de herir u ofender."
+      }
+    ]
+  },
+  {
+    "name": "sensible",
+    "phonetic": "/ˈsɛnsəbəl/",
+    "spoken_phonetic_us": "/ˈsɛnsəbəl/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Sensato/a / Razonable",
+        "usage_example": "That is a sensible decision.",
+        "pronunciation_guide_es": "/dat_is_a_SEN-si-bol_de-SI-shon/",
+        "usage_example_es": "Esa es una decisión sensata.",
+        "char_count": "5",
+        "usage_context_en": "Having or showing common sense and good judgment; practical.",
+        "usage_context_es": "Tener o mostrar sentido común y buen juicio; práctico."
+      }
+    ]
+  },
+  {
+    "name": "hardworking",
+    "phonetic": "/ˌhɑːdˈwɜːkɪŋ/",
+    "spoken_phonetic_us": "/ˌhɑrdˈwɜrkɪŋ/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Trabajador/a",
+        "usage_example": "She is a hardworking employee.",
+        "pronunciation_guide_es": "/shi_is_a_HARD-uor-king_em-ploi-I/",
+        "usage_example_es": "Ella es una empleada trabajadora.",
+        "char_count": "5",
+        "usage_context_en": "Tending to work with energy and commitment.",
+        "usage_context_es": "Que tiende a trabajar con energía y compromiso."
+      }
+    ]
+  },
+  {
+    "name": "careful",
+    "phonetic": "/ˈkɛəfəl/",
+    "spoken_phonetic_us": "/ˈkɛrfəl/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Cuidadoso/a",
+        "usage_example": "Please be careful with the glass.",
+        "pronunciation_guide_es": "/PLIS_bi_KER-ful_uiz_de_GLAS/",
+        "usage_example_es": "Por favor, sé cuidadoso con el vaso.",
+        "char_count": "6",
+        "usage_context_en": "Making sure to avoid potential danger, harm, or mistakes.",
+        "usage_context_es": "Asegurarse de evitar peligros, daños o errores potenciales."
+      }
+    ]
+  },
+  {
+    "name": "relaxed",
+    "phonetic": "/rɪˈlækst/",
+    "spoken_phonetic_us": "/rɪˈlækst/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Relajado/a",
+        "usage_example": "I feel relaxed after the vacation.",
+        "pronunciation_guide_es": "/ai_FIL_ri-LAKST_AF-ter_de_ve-KEI-shon/",
+        "usage_example_es": "Me siento relajado después de las vacaciones.",
+        "char_count": "6",
+        "usage_context_en": "Free from tension and anxiety.",
+        "usage_context_es": "Libre de tensión y ansiedad."
+      }
+    ]
+  },
+  {
+    "name": "worried",
+    "phonetic": "/ˈwʌrid/",
+    "spoken_phonetic_us": "/ˈwɜrid/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Preocupado/a",
+        "usage_example": "He is worried about the test.",
+        "pronunciation_guide_es": "/hi_is_UOR-rid_a-BAUT_de_TEST/",
+        "usage_example_es": "Él está preocupado por el examen.",
+        "char_count": "6",
+        "usage_context_en": "Feeling or showing anxiety about actual or potential problems.",
+        "usage_context_es": "Sentir o mostrar ansiedad por problemas reales o potenciales."
+      }
+    ]
+  },
+  {
+    "name": "surprised",
+    "phonetic": "/səˈpraɪzd/",
+    "spoken_phonetic_us": "/sərˈpraɪzd/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Sorprendido/a",
+        "usage_example": "I was surprised by the news.",
+        "pronunciation_guide_es": "/ai_uas_sor-PRAISD_bai_de_NIUS/",
+        "usage_example_es": "Me sorprendieron las noticias.",
+        "char_count": "6",
+        "usage_context_en": "Feeling or showing mild shock or astonishment.",
+        "usage_context_es": "Sentir o mostrar un leve shock o asombro."
+      }
+    ]
+  },
+  {
+    "name": "disappointed",
+    "phonetic": "/ˌdɪsəˈpɔɪntɪd/",
+    "spoken_phonetic_us": "/ˌdɪsəˈpɔɪntɪd/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Decepcionado/a",
+        "usage_example": "She was disappointed with her grade.",
+        "pronunciation_guide_es": "/shi_uas_dis-a-POIN-ted_uiz_her_GREID/",
+        "usage_example_es": "Ella estaba decepcionada con su nota.",
+        "char_count": "6",
+        "usage_context_en": "Sad or displeased because someone or something has failed to fulfill one's hopes or expectations.",
+        "usage_context_es": "Triste o disgustado porque alguien o algo no ha cumplido las esperanzas o expectativas."
+      }
+    ]
+  },
+  {
+    "name": "confused",
+    "phonetic": "/kənˈfjuːzd/",
+    "spoken_phonetic_us": "/kənˈfjuːzd/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Confundido/a",
+        "usage_example": "I am confused by the instructions.",
+        "pronunciation_guide_es": "/ai_am_con-FIUSD_bai_de_in-STROK-shons/",
+        "usage_example_es": "Estoy confundido por las instrucciones.",
+        "char_count": "6",
+        "usage_context_en": "Unable to think clearly or to understand something.",
+        "usage_context_es": "Incapaz de pensar con claridad o de entender algo."
+      }
+    ]
+  },
+  {
+    "name": "curious",
+    "phonetic": "/ˈkjʊəriəs/",
+    "spoken_phonetic_us": "/ˈkjʊriəs/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Curioso/a",
+        "usage_example": "The cat is curious about the box.",
+        "pronunciation_guide_es": "/de_CAT_is_KIU-ri-os_a-BAUT_de_BOX/",
+        "usage_example_es": "El gato tiene curiosidad por la caja.",
+        "char_count": "7",
+        "usage_context_en": "Eager to know or learn something.",
+        "usage_context_es": "Ansioso por saber o aprender algo."
+      }
+    ]
+  },
+  {
+    "name": "lucky",
+    "phonetic": "/ˈlʌki/",
+    "spoken_phonetic_us": "/ˈlʌki/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Afortunado/a / Con suerte",
+        "usage_example": "You are lucky to win.",
+        "pronunciation_guide_es": "/iu_ar_LO-ki_tu_UIN/",
+        "usage_example_es": "Eres afortunado de ganar.",
+        "char_count": "5",
+        "usage_context_en": "Having, bringing, or resulting from good luck.",
+        "usage_context_es": "Tener, traer o resultar de la buena suerte."
+      }
+    ]
+  },
+  {
+    "name": "unlucky",
+    "phonetic": "/ʌnˈlʌki/",
+    "spoken_phonetic_us": "/ʌnˈlʌki/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Desafortunado/a / Sin suerte",
+        "usage_example": "He was unlucky in the game.",
+        "pronunciation_guide_es": "/hi_uas_on-LO-ki_in_de_GUEIM/",
+        "usage_example_es": "Él tuvo mala suerte en el juego.",
+        "char_count": "6",
+        "usage_context_en": "Having, bringing, or resulting from bad luck.",
+        "usage_context_es": "Tener, traer o resultar de la mala suerte."
+      }
+    ]
+  },
+  {
+    "name": "afraid",
+    "phonetic": "/əˈfreɪd/",
+    "spoken_phonetic_us": "/əˈfreɪd/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Asustado/a / Con miedo (de)",
+        "usage_example": "The child is afraid of the dark.",
+        "pronunciation_guide_es": "/de_CHAILD_is_a-FREID_of_de_DARK/",
+        "usage_example_es": "El niño le tiene miedo a la oscuridad.",
+        "char_count": "7",
+        "usage_context_en": "Feeling fear or anxiety; frightened.",
+        "usage_context_es": "Sentir miedo o ansiedad; asustado."
+      }
+    ]
+  },
+  {
+    "name": "interested",
+    "phonetic": "/ˈɪntrəstɪd/",
+    "spoken_phonetic_us": "/ˈɪntrəstɪd/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Interesado/a",
+        "usage_example": "I am interested in history.",
+        "pronunciation_guide_es": "/ai_am_IN-tres-ted_in_HIS-to-ri/",
+        "usage_example_es": "Estoy interesado en la historia.",
+        "char_count": "5",
+        "usage_context_en": "Showing curiosity or concern about something or someone.",
+        "usage_context_es": "Mostrar curiosidad o preocupación por algo o alguien."
+      }
+    ]
+  },
+  {
+    "name": "thoughtful",
+    "phonetic": "/ˈθɔːtfəl/",
+    "spoken_phonetic_us": "/ˈθɔtfəl/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Considerado/a / Atento/a",
+        "usage_example": "That was a thoughtful gift.",
+        "pronunciation_guide_es": "/dat_uas_a_ZOT-ful_GUIFT/",
+        "usage_example_es": "Ese fue un regalo muy considerado.",
+        "char_count": "5",
+        "usage_context_en": "Showing consideration for the needs of other people.",
+        "usage_context_es": "Mostrar consideración por las necesidades de otras personas."
+      }
+    ]
+  },
+  {
+    "name": "serious",
+    "phonetic": "/ˈsɪəriəs/",
+    "spoken_phonetic_us": "/ˈsɪriəs/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Serio/a (personalidad)",
+        "usage_example": "Why are you so serious?",
+        "pronunciation_guide_es": "/uai_ar_iu_sou_SI-ri-os/",
+        "usage_example_es": "¿Por qué estás tan serio?",
+        "char_count": "5",
+        "usage_context_en": "Not joking or lighthearted; thoughtful.",
+        "usage_context_es": "Que no bromea o es alegre; pensativo."
+      },
+      {
+        "meaning": "Grave (situación)",
+        "usage_example": "This is a serious problem.",
+        "pronunciation_guide_es": "/dis_is_a_SI-ri-os_PRO-blem/",
+        "usage_example_es": "Este es un problema grave.",
+        "char_count": "5",
+        "usage_context_en": "Important; demanding consideration; not trivial.",
+        "usage_context_es": "Importante; que exige consideración; no trivial."
+      }
+    ]
+  },
+  {
+    "name": "patient",
+    "phonetic": "/ˈpeɪʃənt/",
+    "spoken_phonetic_us": "/ˈpeɪʃənt/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Paciente",
+        "usage_example": "The teacher is patient with the students.",
+        "pronunciation_guide_es": "/de_TI-cher_is_PEI-shent_uiz_de_STU-dents/",
+        "usage_example_es": "La profesora es paciente con los estudiantes.",
+        "char_count": "7",
+        "usage_context_en": "Able to accept or tolerate delays or problems without becoming annoyed or anxious.",
+        "usage_context_es": "Capaz de aceptar o tolerar retrasos o problemas sin molestarse o ponerse ansioso."
+      }
+    ]
+  },
+  {
+    "name": "shy",
+    "phonetic": "/ʃaɪ/",
+    "spoken_phonetic_us": "/ʃaɪ/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Tímido/a",
+        "usage_example": "The shy child hid behind his mother.",
+        "pronunciation_guide_es": "/de_SHAI_CHAILD_hid_bi-HAIND_his_MO-der/",
+        "usage_example_es": "El niño tímido se escondió detrás de su madre.",
+        "char_count": "7",
+        "usage_context_en": "Being nervous or timid in the company of other people.",
+        "usage_context_es": "Estar nervioso o tímido en compañía de otras personas."
+      }
+    ]
+  },
+  {
+    "name": "proud",
+    "phonetic": "/praʊd/",
+    "spoken_phonetic_us": "/praʊd/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Orgulloso/a",
+        "usage_example": "I am proud of your work.",
+        "pronunciation_guide_es": "/ai_am_PRAUD_of_iur_UORK/",
+        "usage_example_es": "Estoy orgulloso de tu trabajo.",
+        "char_count": "6",
+        "usage_context_en": "Feeling deep pleasure or satisfaction as a result of one's own achievements or qualities.",
+        "usage_context_es": "Sentir profundo placer o satisfacción como resultado de los propios logros o cualidades."
+      }
+    ]
+  },
+  {
+    "name": "embarrassed",
+    "phonetic": "/ɪmˈbærəst/",
+    "spoken_phonetic_us": "/ɪmˈbærəst/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Avergonzado/a",
+        "usage_example": "He was embarrassed by his mistake.",
+        "pronunciation_guide_es": "/hi_uas_em-BA-rast_bai_his_mis-TEIK/",
+        "usage_example_es": "Estaba avergonzado por su error.",
+        "char_count": "6",
+        "usage_context_en": "Feeling awkward, self-conscious, or ashamed.",
+        "usage_context_es": "Sentirse incómodo, cohibido o avergonzado."
+      }
+    ]
+  },
+  {
+    "name": "annoyed",
+    "phonetic": "/əˈnɔɪd/",
+    "spoken_phonetic_us": "/əˈnɔɪd/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Molesto/a / Irritado/a",
+        "usage_example": "She was annoyed by the noise.",
+        "pronunciation_guide_es": "/shi_uas_a-NOID_bai_de_NOIS/",
+        "usage_example_es": "Ella estaba molesta por el ruido.",
+        "char_count": "6",
+        "usage_context_en": "Slightly angry; irritated.",
+        "usage_context_es": "Ligeramente enojado; irritado."
+      }
+    ]
+  },
+  {
+    "name": "upset",
+    "phonetic": "/ʌpˈsɛt/",
+    "spoken_phonetic_us": "/ʌpˈsɛt/",
+    "search_term": "adjective/describing/essentials",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adjectives",
+    "definitions": [
+      {
+        "meaning": "Molesto/a / Afligido/a",
+        "usage_example": "He is upset about the bad news.",
+        "pronunciation_guide_es": "/hi_is_op-SET_a-BAUT_de_BAD_NIUS/",
+        "usage_example_es": "Él está molesto por las malas noticias.",
+        "char_count": "7",
+        "usage_context_en": "Unhappy, disappointed, or worried.",
+        "usage_context_es": "Infeliz, decepcionado o preocupado."
+      }
+    ]
+  }
+]

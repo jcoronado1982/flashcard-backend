@@ -1,0 +1,422 @@
+[
+    {
+        "name": "however",
+        "phonetic": "/haʊˈɛvər/",
+        "spoken_phonetic_us": "/haʊˈɛvər/",
+        "search_term": "adverb/contrast/formal",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Contrast",
+        "definitions": [
+            {
+                "meaning": "Sin embargo",
+                "usage_example": "He is rich. However, he is not happy.",
+                "pronunciation_guide_es": "/hi_is_RICH_hau-E-ver_hi_is_not_HA-pi/",
+                "usage_example_es": "Él es rico. Sin embargo, no es feliz.",
+                "char_count": "7",
+                "usage_context_en": "Used to introduce a statement that contrasts with something said previously.",
+                "usage_context_es": "Usado para introducir una declaración que contrasta con algo dicho previamente."
+            },
+            {
+                "meaning": "Como sea / De cualquier manera",
+                "usage_example": "However you look at it, it's a bad situation.",
+                "pronunciation_guide_es": "/hau-E-ver_iu_LUK_at_it_its_a_BAD_si-chu-EI-shon/",
+                "usage_example_es": "Como sea que lo mires, es una mala situación.",
+                "char_count": "9",
+                "usage_context_en": "In whatever way or manner.",
+                "usage_context_es": "De cualquier forma o manera."
+            }
+        ]
+    },
+    {
+        "name": "what",
+        "phonetic": "/wɒt/",
+        "spoken_phonetic_us": "/wʌt/",
+        "search_term": "pronoun/interrogative/relative",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Connectors: Relative",
+        "definitions": [
+            {
+                "meaning": "Lo que (pronombre relativo)",
+                "usage_example": "I don't know what to do.",
+                "pronunciation_guide_es": "/ai_DONT_NOU_uat_tu_DU/",
+                "usage_example_es": "No sé qué hacer. (No sé lo que debo hacer).",
+                "char_count": "6",
+                "usage_context_en": "Used as a relative pronoun to refer to 'the thing(s) that'.",
+                "usage_context_es": "Usado como pronombre relativo para referirse a 'la(s) cosa(s) que'."
+            }
+        ]
+    },
+    {
+        "name": "though",
+        "phonetic": "/ðoʊ/",
+        "spoken_phonetic_us": "/ðoʊ/",
+        "search_term": "conjunction/contrast",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Contrast",
+        "definitions": [
+            {
+                "meaning": "Aunque (menos formal)",
+                "usage_example": "Though it was cold, I went out.",
+                "pronunciation_guide_es": "/DOU_it_uas_COLD_ai_UENT_AUT/",
+                "usage_example_es": "Aunque hacía frío, salí.",
+                "char_count": "6",
+                "usage_context_en": "A less formal version of 'although'.",
+                "usage_context_es": "Una versión menos formal de 'although'."
+            },
+            {
+                "meaning": "Sin embargo (al final)",
+                "usage_example": "He is rich. He is not happy, though.",
+                "pronunciation_guide_es": "/hi_is_RICH_hi_is_not_HA-pi_DOU/",
+                "usage_example_es": "Él es rico. No es feliz, sin embargo.",
+                "char_count": "7",
+                "usage_context_en": "Used as an adverb at the end of a sentence, meaning 'however'.",
+                "usage_context_es": "Usado como adverbio al final de una oración, significando 'sin embargo'."
+            }
+        ]
+    },
+    {
+        "name": "even though",
+        "phonetic": "/ˈivɪn ðoʊ/",
+        "spoken_phonetic_us": "/ˈivɪn ðoʊ/",
+        "search_term": "phrase/contrast",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Contrast",
+        "definitions": [
+            {
+                "meaning": "Aunque / A pesar de que",
+                "usage_example": "Even though it was cold, I went out.",
+                "pronunciation_guide_es": "/I-ven_DOU_it_uas_COLD_ai_UENT_AUT/",
+                "usage_example_es": "A pesar de que hacía frío, salí.",
+                "char_count": "7",
+                "usage_context_en": "A stronger, more emphatic version of 'although'.",
+                "usage_context_es": "Una versión más fuerte y enfática de 'although'."
+            }
+        ]
+    },
+    {
+        "name": "while",
+        "phonetic": "/waɪl/",
+        "spoken_phonetic_us": "/waɪl/",
+        "search_term": "conjunction/contrast/time",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Connectors: Time & Contrast",
+        "definitions": [
+            {
+                "meaning": "Mientras que (contraste)",
+                "usage_example": "He likes coffee, while I prefer tea.",
+                "pronunciation_guide_es": "/hi_LAIKS_CO-fi_UAIL_ai_pri-FER_TI/",
+                "usage_example_es": "A él le gusta el café, mientras que yo prefiero el té.",
+                "char_count": "6",
+                "usage_context_en": "Used to contrast two different facts or situations.",
+                "usage_context_es": "Usado para contrastar dos hechos o situaciones diferentes."
+            },
+            {
+                "meaning": "Mientras (tiempo)",
+                "usage_example": "I read while I wait.",
+                "pronunciation_guide_es": "/ai_RID_UAIL_ai_UEIT/",
+                "usage_example_es": "Leo mientras espero.",
+                "char_count": "5",
+                "usage_context_en": "During the time that; at the same time as.",
+                "usage_context_es": "Durante el tiempo que; al mismo tiempo que."
+            }
+        ]
+    },
+    {
+        "name": "whereas",
+        "phonetic": "/wɛərˈæz/",
+        "spoken_phonetic_us": "/wɛrˈæz/",
+        "search_term": "conjunction/contrast/formal",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Contrast",
+        "definitions": [
+            {
+                "meaning": "Mientras que (formal)",
+                "usage_example": "She is young, whereas I am old.",
+                "pronunciation_guide_es": "/shi_is_IONG_uer-AS_ai_am_OLD/",
+                "usage_example_es": "Ella es joven, mientras que yo soy viejo.",
+                "char_count": "6",
+                "usage_context_en": "A formal way to contrast two facts (similar to 'while').",
+                "usage_context_es": "Una forma formal de contrastar dos hechos (similar a 'while')."
+            }
+        ]
+    },
+    {
+        "name": "since",
+        "phonetic": "/sɪns/",
+        "spoken_phonetic_us": "/sɪns/",
+        "search_term": "conjunction/reason/time",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Cause & Time",
+        "definitions": [
+            {
+                "meaning": "Ya que / Puesto que (causa)",
+                "usage_example": "Since you are here, you can help.",
+                "pronunciation_guide_es": "/SINS_iu_ar_HIR_iu_can_HELP/",
+                "usage_example_es": "Ya que estás aquí, puedes ayudar.",
+                "char_count": "6",
+                "usage_context_en": "Used to introduce a reason (similar to 'because').",
+                "usage_context_es": "Usado para introducir una razón (similar a 'because')."
+            },
+            {
+                "meaning": "Desde (tiempo)",
+                "usage_example": "I have been here since 9 AM.",
+                "pronunciation_guide_es": "/ai_hav_bin_HIR_SINS_NAIN_ei-EM/",
+                "usage_example_es": "He estado aquí desde las 9 AM.",
+                "char_count": "6",
+                "usage_context_en": "Used to indicate a starting point in time that continues to the present.",
+                "usage_context_es": "Usado para indicar un punto de inicio en el tiempo que continúa hasta el presente."
+            }
+        ]
+    },
+    {
+        "name": "as",
+        "phonetic": "/æz/",
+        "spoken_phonetic_us": "/æz/",
+        "search_term": "conjunction/reason/time/comparison",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: (Multiple)",
+        "definitions": [
+            {
+                "meaning": "Como / Ya que (causa)",
+                "usage_example": "As I was tired, I went to bed.",
+                "pronunciation_guide_es": "/as_ai_uas_TAI-erd_ai_UENT_tu_BED/",
+                "usage_example_es": "Como estaba cansado, me fui a la cama.",
+                "char_count": "7",
+                "usage_context_en": "Used to state a reason (similar to 'because' or 'since').",
+                "usage_context_es": "Usado para indicar una razón (similar a 'because' o 'since')."
+            },
+            {
+                "meaning": "Mientras (tiempo)",
+                "usage_example": "He sang as he walked.",
+                "pronunciation_guide_es": "/hi_SANG_as_hi_UOKT/",
+                "usage_example_es": "Cantaba mientras caminaba.",
+                "char_count": "5",
+                "usage_context_en": "Used to indicate that two actions are happening at the same time (similar to 'while').",
+                "usage_context_es": "Usado para indicar que dos acciones ocurren al mismo tiempo (similar a 'while')."
+            },
+            {
+                "meaning": "Como (comparación)",
+                "usage_example": "She is as tall as me.",
+                "pronunciation_guide_es": "/shi_is_as_TOL_as_MI/",
+                "usage_example_es": "Ella es tan alta como yo.",
+                "char_count": "5",
+                "usage_context_en": "Used to make a comparison of equality (as...as).",
+                "usage_context_es": "Usado para hacer una comparación de igualdad (tan...como)."
+            }
+        ]
+    },
+    {
+        "name": "for example",
+        "phonetic": "/fɔr ɪɡˈzæmpəl/",
+        "spoken_phonetic_us": "/fɔr ɪɡˈzæmpəl/",
+        "search_term": "phrase/example",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Connectors: Example",
+        "definitions": [
+            {
+                "meaning": "Por ejemplo",
+                "usage_example": "I like fruits, for example, apples.",
+                "pronunciation_guide_es": "/ai_LAIK_FRUTS_for_ex-AM-pol_A-pols/",
+                "usage_example_es": "Me gustan las frutas, por ejemplo, las manzanas.",
+                "char_count": "6",
+                "usage_context_en": "Used to introduce a specific item that illustrates a general point.",
+                "usage_context_es": "Usado para introducir un ítem específico que ilustra un punto general."
+            }
+        ]
+    },
+    {
+        "name": "for instance",
+        "phonetic": "/fɔr ˈɪnstəns/",
+        "spoken_phonetic_us": "/fɔr ˈɪnstəns/",
+        "search_term": "phrase/example",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Example",
+        "definitions": [
+            {
+                "meaning": "Por ejemplo",
+                "usage_example": "Many countries, for instance, Spain, have siestas.",
+                "pronunciation_guide_es": "/ME-ni_CON-tris_for_IN-stans_SPEIN_hav_si-ES-tas/",
+                "usage_example_es": "Muchos países, por ejemplo, España, tienen siestas.",
+                "char_count": "7",
+                "usage_context_en": "Used as a synonym for 'for example'.",
+                "usage_context_es": "Usado como sinónimo de 'for example'."
+            }
+        ]
+    },
+    {
+        "name": "such as",
+        "phonetic": "/sʌtʃ æz/",
+        "spoken_phonetic_us": "/sʌtʃ æz/",
+        "search_term": "phrase/example",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Example",
+        "definitions": [
+            {
+                "meaning": "Tal como / Tales como",
+                "usage_example": "I like citrus fruits, such as oranges.",
+                "pronunciation_guide_es": "/ai_LAIK_SI-trus_FRUTS_soch_as_OR-an-yes/",
+                "usage_example_es": "Me gustan las frutas cítricas, tales como las naranjas.",
+                "char_count": "6",
+                "usage_context_en": "Used to introduce one or more examples that belong to a category.",
+                "usage_context_es": "Usado para introducir uno o más ejemplos que pertenecen a una categoría."
+            }
+        ]
+    },
+    {
+        "name": "in other words",
+        "phonetic": "/ɪn ˈʌðər wɜrdz/",
+        "spoken_phonetic_us": "/ɪn ˈʌðər wɜrdz/",
+        "search_term": "phrase/clarification",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Clarification",
+        "definitions": [
+            {
+                "meaning": "En otras palabras",
+                "usage_example": "He is my father's brother. In other words, he is my uncle.",
+                "pronunciation_guide_es": "/hi_is_mai_FA-ders_BRO-der_in_O-der_UORDS_hi_is_mai_ON-col/",
+                "usage_example_es": "Es el hermano de mi padre. En otras palabras, es mi tío.",
+                "char_count": "10",
+                "usage_context_en": "Used to explain something in a simpler or different way.",
+                "usage_context_es": "Usado para explicar algo de una forma más simple o diferente."
+            }
+        ]
+    },
+    {
+        "name": "in short",
+        "phonetic": "/ɪn ʃɔrt/",
+        "spoken_phonetic_us": "/ɪn ʃɔrt/",
+        "search_term": "phrase/conclusion",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Conclusion",
+        "definitions": [
+            {
+                "meaning": "En resumen / En pocas palabras",
+                "usage_example": "The meeting was long and boring. In short, a waste of time.",
+                "pronunciation_guide_es": "/de_MI-ting_uas_LONG_and_BOR-ing_in_SHORT_a_UEIST_of_TAIM/",
+                "usage_example_es": "La reunión fue larga y aburrida. En resumen, una pérdida de tiempo.",
+                "char_count": "10",
+                "usage_context_en": "Used to summarize a situation briefly; in conclusion.",
+                "usage_context_es": "Usado para resumir una situación brevemente; en conclusión."
+            }
+        ]
+    },
+    {
+        "name": "unless",
+        "phonetic": "/ənˈlɛs/",
+        "spoken_phonetic_us": "/ənˈlɛs/",
+        "search_term": "conjunction/condition",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Condition",
+        "definitions": [
+            {
+                "meaning": "A menos que",
+                "usage_example": "I will stay home, unless it stops raining.",
+                "pronunciation_guide_es": "/ai_uil_STEI_HOUM_on-LES_it_STOPS_REI-ning/",
+                "usage_example_es": "Me quedaré en casa, a menos que deje de llover.",
+                "char_count": "7",
+                "usage_context_en": "Used to introduce a negative condition (same as 'if... not').",
+                "usage_context_es": "Usado para introducir una condición negativa (igual a 'si... no')."
+            }
+        ]
+    },
+    {
+        "name": "as long as",
+        "phonetic": "/æz lɔŋ æz/",
+        "spoken_phonetic_us": "/æz lɔŋ æz/",
+        "search_term": "phrase/condition",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Condition",
+        "definitions": [
+            {
+                "meaning": "Siempre y cuando / Con tal de que",
+                "usage_example": "You can go, as long as you finish your homework.",
+                "pronunciation_guide_es": "/iu_can_GOU_as_LONG_as_iu_FI-nish_iur_HOM-uork/",
+                "usage_example_es": "Puedes ir, siempre y cuando termines tu tarea.",
+                "char_count": "9",
+                "usage_context_en": "Used to introduce a condition that must be true for the main clause to be true.",
+                "usage_context_es": "Usado para introducir una condición que debe ser verdad para que la cláusula principal lo sea."
+            }
+        ]
+    },
+    {
+        "name": "besides",
+        "phonetic": "/bɪˈsaɪdz/",
+        "spoken_phonetic_us": "/bɪˈsaɪdz/",
+        "search_term": "adverb/addition",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Addition",
+        "definitions": [
+            {
+                "meaning": "Además",
+                "usage_example": "I don't want to go. Besides, I am tired.",
+                "pronunciation_guide_es": "/ai_DONT_UANT_tu_GOU_bi-SAIDS_ai_am_TAI-erd/",
+                "usage_example_es": "No quiero ir. Además, estoy cansado.",
+                "char_count": "7",
+                "usage_context_en": "In addition; moreover (used to add another reason).",
+                "usage_context_es": "Además; es más (usado para añadir otra razón)."
+            },
+            {
+                "meaning": "Además de",
+                "usage_example": "Who else was there besides you?",
+                "pronunciation_guide_es": "/HU_ELS_uas_DER_bi-SAIDS_IU/",
+                "usage_example_es": "¿Quién más estaba allí además de ti?",
+                "char_count": "6",
+                "usage_context_en": "In addition to; apart from.",
+                "usage_context_es": "En adición a; aparte de."
+            }
+        ]
+    },
+    {
+        "name": "overall",
+        "phonetic": "/ˈoʊvərɔl/",
+        "spoken_phonetic_us": "/ˈoʊvərɔl/",
+        "search_term": "adverb/conclusion",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Connectors: Conclusion",
+        "definitions": [
+            {
+                "meaning": "En general",
+                "usage_example": "Overall, the project was a success.",
+                "pronunciation_guide_es": "/ou-ver-OL_de_PRO-yekt_uas_a_sok-SES/",
+                "usage_example_es": "En general, el proyecto fue un éxito.",
+                "char_count": "5",
+                "usage_context_en": "Taking everything into account; in general.",
+                "usage_context_es": "Teniendo todo en cuenta; en general."
+            }
+        ]
+    }
+]

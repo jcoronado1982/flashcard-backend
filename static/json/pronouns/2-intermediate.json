@@ -1,0 +1,749 @@
+[
+    {
+        "name": "everybody",
+        "phonetic": "/ˈɛvribɒdi/",
+        "spoken_phonetic_us": "/ˈɛvribɑdi/",
+        "search_term": "pronoun/indefinite",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Todos / Todas (las personas)",
+                "usage_example": "Everybody is here.",
+                "pronunciation_guide_es": "/E-vri-ba-di_is_HIR/",
+                "usage_example_es": "Todos están aquí.",
+                "char_count": "3",
+                "usage_context_en": "All people in a group. (Synonym of 'everyone').",
+                "usage_context_es": "Todas las personas en un grupo. (Sinónimo de 'everyone')."
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "phonetic": "/ˈnoʊ wʌn/",
+        "spoken_phonetic_us": "/ˈnoʊ wʌn/",
+        "search_term": "pronoun/indefinite",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Nadie",
+                "usage_example": "No one is home.",
+                "pronunciation_guide_es": "/NOU_uan_is_HOUM/",
+                "usage_example_es": "No hay nadie en casa.",
+                "char_count": "4",
+                "usage_context_en": "No person; nobody. (Used as the subject in an affirmative verb structure).",
+                "usage_context_es": "Ninguna persona; nadie. (Usado como sujeto en una estructura verbal afirmativa)."
+            }
+        ]
+    },
+    {
+        "name": "anybody",
+        "phonetic": "/ˈɛnibɒdi/",
+        "spoken_phonetic_us": "/ˈɛnibɑdi/",
+        "search_term": "pronoun/indefinite",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Alguien (en preguntas)",
+                "usage_example": "Is anybody home?",
+                "pronunciation_guide_es": "/is_E-ni-ba-di_HOUM/",
+                "usage_example_es": "¿Hay alguien en casa?",
+                "char_count": "3",
+                "usage_context_en": "Used to ask if 'any person' exists. (Synonym of 'anyone').",
+                "usage_context_es": "Usado para preguntar si 'alguna persona' existe. (Sinónimo de 'anyone')."
+            },
+            {
+                "meaning": "Nadie (en negaciones)",
+                "usage_example": "I didn't see anybody.",
+                "pronunciation_guide_es": "/ai_DID-ent_SI_E-ni-ba-di/",
+                "usage_example_es": "No vi a nadie.",
+                "char_count": "4",
+                "usage_context_en": "Used to mean 'no person' in negative sentences. (Synonym of 'anyone').",
+                "usage_context_es": "Usado para significar 'ninguna persona' en oraciones negativas. (Sinónimo de 'anyone')."
+            },
+            {
+                "meaning": "Cualquiera",
+                "usage_example": "Anybody can do that.",
+                "pronunciation_guide_es": "/E-ni-ba-di_can_DU_dat/",
+                "usage_example_es": "Cualquiera puede hacer eso.",
+                "char_count": "4",
+                "usage_context_en": "Used in affirmative sentences to mean 'any person at all'.",
+                "usage_context_es": "Usado en oraciones afirmativas para significar 'cualquier persona'."
+            }
+        ]
+    },
+    {
+        "name": "each other",
+        "phonetic": "/iːtʃ ˈʌðər/",
+        "spoken_phonetic_us": "/iːtʃ ˈʌðər/",
+        "search_term": "pronoun/reciprocal",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Reciprocal",
+        "definitions": [
+            {
+                "meaning": "El uno al otro / Mutuamente (dos personas)",
+                "usage_example": "My parents love each other.",
+                "pronunciation_guide_es": "/mai_PA-rents_LOV_ich_O-der/",
+                "usage_example_es": "Mis padres se aman (el uno al otro).",
+                "char_count": "5",
+                "usage_context_en": "A reciprocal pronoun used when referring to two people or things.",
+                "usage_context_es": "Pronombre recíproco usado al referirse a dos personas o cosas."
+            }
+        ]
+    },
+    {
+        "name": "one another",
+        "phonetic": "/wʌn əˈnʌðər/",
+        "spoken_phonetic_us": "/wʌn əˈnʌðər/",
+        "search_term": "pronoun/reciprocal",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Reciprocal",
+        "definitions": [
+            {
+                "meaning": "Unos a otros / Mutuamente (más de dos)",
+                "usage_example": "The team members help one another.",
+                "pronunciation_guide_es": "/de_TIM_MEM-bers_HELP_uan_a-NO-der/",
+                "usage_example_es": "Los miembros del equipo se ayudan unos a otros.",
+                "char_count": "6",
+                "usage_context_en": "A reciprocal pronoun used when referring to more than two people or things.",
+                "usage_context_es": "Pronombre recíproco usado al referirse a más de dos personas o cosas."
+            }
+        ]
+    },
+    {
+        "name": "mine",
+        "phonetic": "/maɪn/",
+        "spoken_phonetic_us": "/maɪn/",
+        "search_term": "pronoun/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Possessive",
+        "definitions": [
+            {
+                "meaning": "Mío / Mía / Míos / Mías",
+                "usage_example": "This book is mine.",
+                "pronunciation_guide_es": "/dis_BUK_is_MAIN/",
+                "usage_example_es": "Este libro es mío.",
+                "char_count": "4",
+                "usage_context_en": "The possessive pronoun for 'I'. (It is not followed by a noun).",
+                "usage_context_es": "El pronombre posesivo para 'Yo'. (No va seguido de un sustantivo)."
+            }
+        ]
+    },
+    {
+        "name": "yours",
+        "phonetic": "/jɔːrz/",
+        "spoken_phonetic_us": "/jʊrz/",
+        "search_term": "pronoun/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Possessive",
+        "definitions": [
+            {
+                "meaning": "Tuyo / Tuya / Suyo / Suya (de usted)",
+                "usage_example": "Is this coat yours?",
+                "pronunciation_guide_es": "/is_dis_COUT_IURS/",
+                "usage_example_es": "¿Es este abrigo tuyo?",
+                "char_count": "4",
+                "usage_context_en": "The possessive pronoun for 'you'. (It is not followed by a noun).",
+                "usage_context_es": "El pronombre posesivo para 'tú/usted'. (No va seguido de un sustantivo)."
+            }
+        ]
+    },
+    {
+        "name": "his",
+        "phonetic": "/hɪz/",
+        "spoken_phonetic_us": "/hɪz/",
+        "search_term": "determiner/pronoun/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Possessive",
+        "definitions": [
+            {
+                "meaning": "Su / Sus (de él) (Determinante)",
+                "usage_example": "That is his car.",
+                "pronunciation_guide_es": "/dat_is_HIS_CAR/",
+                "usage_example_es": "Ese es su carro (el carro de él).",
+                "char_count": "4",
+                "usage_context_en": "The possessive determiner for 'he' (followed by a noun).",
+                "usage_context_es": "El determinante posesivo para 'él' (seguido de un sustantivo)."
+            },
+            {
+                "meaning": "Suyo / Suyos (de él) (Pronombre)",
+                "usage_example": "The red car is his.",
+                "pronunciation_guide_es": "/de_RED_CAR_is_HIS/",
+                "usage_example_es": "El carro rojo es suyo (de él).",
+                "char_count": "5",
+                "usage_context_en": "The possessive pronoun for 'he'. (It is not followed by a noun).",
+                "usage_context_es": "El pronombre posesivo para 'él'. (No va seguido de un sustantivo)."
+            }
+        ]
+    },
+    {
+        "name": "hers",
+        "phonetic": "/hɜːrz/",
+        "spoken_phonetic_us": "/hɜrz/",
+        "search_term": "pronoun/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Possessive",
+        "definitions": [
+            {
+                "meaning": "Suyo / Suya / Suyos / Suyas (de ella)",
+                "usage_example": "The blue coat is hers.",
+                "pronunciation_guide_es": "/de_BLU_COUT_is_HERS/",
+                "usage_example_es": "El abrigo azul es suyo (de ella).",
+                "char_count": "5",
+                "usage_context_en": "The possessive pronoun for 'she'. (It is not followed by a noun).",
+                "usage_context_es": "El pronombre posesivo para 'ella'. (No va seguido de un sustantivo)."
+            }
+        ]
+    },
+    {
+        "name": "ours",
+        "phonetic": "/ˈaʊərz/",
+        "spoken_phonetic_us": "/ˈaʊərz/",
+        "search_term": "pronoun/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Possessive",
+        "definitions": [
+            {
+                "meaning": "Nuestro / Nuestra / Nuestros / Nuestras",
+                "usage_example": "That house is ours.",
+                "pronunciation_guide_es": "/dat_HAUS_is_AURS/",
+                "usage_example_es": "Esa casa es nuestra.",
+                "char_count": "4",
+                "usage_context_en": "The possessive pronoun for 'we'. (It is not followed by a noun).",
+                "usage_context_es": "El pronombre posesivo para 'nosotros'. (No va seguido de un sustantivo)."
+            }
+        ]
+    },
+    {
+        "name": "theirs",
+        "phonetic": "/ðɛərz/",
+        "spoken_phonetic_us": "/ðɛrz/",
+        "search_term": "pronoun/possessive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Possessive",
+        "definitions": [
+            {
+                "meaning": "Suyo / Suya / Suyos / Suyas (de ellos/ellas)",
+                "usage_example": "The biggest car is theirs.",
+                "pronunciation_guide_es": "/de_BI-guest_CAR_is_DERS/",
+                "usage_example_es": "El carro más grande es suyo (de ellos).",
+                "char_count": "5",
+                "usage_context_en": "The possessive pronoun for 'they'. (It is not followed by a noun).",
+                "usage_context_es": "El pronombre posesivo para 'ellos/ellas'. (No va seguido de un sustantivo)."
+            }
+        ]
+    },
+    {
+        "name": "who",
+        "phonetic": "/huː/",
+        "spoken_phonetic_us": "/huː/",
+        "search_term": "pronoun/interrogative/relative",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Interrogative/Relative",
+        "definitions": [
+            {
+                "meaning": "¿Quién / Quiénes?",
+                "usage_example": "Who is that person?",
+                "pronunciation_guide_es": "/HU_is_dat_PER-son/",
+                "usage_example_es": "¿Quién es esa persona?",
+                "char_count": "4",
+                "usage_context_en": "Used as an interrogative pronoun to ask about a person.",
+                "usage_context_es": "Usado como pronombre interrogativo para preguntar sobre una persona."
+            },
+            {
+                "meaning": "Que / Quien / El cual (para personas)",
+                "usage_example": "The man who called me is here.",
+                "pronunciation_guide_es": "/de_MAN_hu_COLD_mi_is_HIR/",
+                "usage_example_es": "El hombre que me llamó está aquí.",
+                "char_count": "7",
+                "usage_context_en": "Used as a relative pronoun to introduce a clause about a person.",
+                "usage_context_es": "Usado como pronombre relativo para introducir una cláusula sobre una persona."
+            }
+        ]
+    },
+    {
+        "name": "whose",
+        "phonetic": "/huːz/",
+        "spoken_phonetic_us": "/huːz/",
+        "search_term": "determiner/interrogative/relative",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Interrogative/Relative",
+        "definitions": [
+            {
+                "meaning": "¿De quién?",
+                "usage_example": "Whose keys are these?",
+                "pronunciation_guide_es": "/HUS_KIS_ar_DIS/",
+                "usage_example_es": "¿De quién son estas llaves?",
+                "char_count": "4",
+                "usage_context_en": "Used as an interrogative determiner to ask about possession.",
+                "usage_context_es": "Usado como determinante interrogativo para preguntar sobre posesión."
+            },
+            {
+                "meaning": "Cuyo/a / Cuyos/as",
+                "usage_example": "The man whose car was stolen.",
+                "pronunciation_guide_es": "/de_MAN_HUS_CAR_uas_STO-len/",
+                "usage_example_es": "El hombre cuyo carro fue robado.",
+                "char_count": "6",
+                "usage_context_en": "Used as a relative determiner to show possession.",
+                "usage_context_es": "Usado como determinante relativo para mostrar posesión."
+            }
+        ]
+    },
+    {
+        "name": "which",
+        "phonetic": "/wɪtʃ/",
+        "spoken_phonetic_us": "/wɪtʃ/",
+        "search_term": "pronoun/interrogative/relative",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Interrogative/Relative",
+        "definitions": [
+            {
+                "meaning": "¿Cuál / Cuáles?",
+                "usage_example": "Which color do you prefer?",
+                "pronunciation_guide_es": "/UICH_CO-lor_du_iu_pri-FER/",
+                "usage_example_es": "¿Cuál color prefieres?",
+                "char_count": "5",
+                "usage_context_en": "Used as an interrogative word to ask about a limited choice.",
+                "usage_context_es": "Usado como palabra interrogativa para preguntar sobre una elección limitada."
+            },
+            {
+                "meaning": "Que / El cual / La cual",
+                "usage_example": "The car which is red is mine.",
+                "pronunciation_guide_es": "/de_CAR_uich_is_RED_is_MAIN/",
+                "usage_example_es": "El carro que es rojo es mío.",
+                "char_count": "7",
+                "usage_context_en": "Used as a relative pronoun to introduce a clause about a thing.",
+                "usage_context_es": "Usado como pronombre relativo para introducir una cláusula sobre una cosa."
+            }
+        ]
+    },
+    {
+        "name": "what",
+        "phonetic": "/wɒt/",
+        "spoken_phonetic_us": "/wʌt/",
+        "search_term": "pronoun/interrogative/relative",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Interrogative/Relative",
+        "definitions": [
+            {
+                "meaning": "Qué / Cuál (pregunta)",
+                "usage_example": "What is your name?",
+                "pronunciation_guide_es": "/UAT_is_iur_NEIM/",
+                "usage_example_es": "¿Cuál es tu nombre?",
+                "char_count": "4",
+                "usage_context_en": "Used as an interrogative word to ask for information (open choice).",
+                "usage_context_es": "Usado como palabra interrogativa para pedir información (elección abierta)."
+            },
+            {
+                "meaning": "Lo que (pronombre relativo)",
+                "usage_example": "I don't know what to do.",
+                "pronunciation_guide_es": "/ai_DONT_NOU_uat_tu_DU/",
+                "usage_example_es": "No sé qué hacer. (No sé lo que debo hacer).",
+                "char_count": "6",
+                "usage_context_en": "Used as a relative pronoun to refer to 'the thing(s) that'.",
+                "usage_context_es": "Usado como pronombre relativo para referirse a 'la(s) cosa(s) que'."
+            }
+        ]
+    },
+    {
+        "name": "both",
+        "phonetic": "/boʊθ/",
+        "spoken_phonetic_us": "/boʊθ/",
+        "search_term": "determiner/pronoun",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Ambos/as (Determinante)",
+                "usage_example": "Both parents are here.",
+                "pronunciation_guide_es": "/BOUZ_PA-rents_ar_HIR/",
+                "usage_example_es": "Ambos padres están aquí.",
+                "char_count": "4",
+                "usage_context_en": "Used as a determiner before a plural noun to mean 'the two'.",
+                "usage_context_es": "Usado como determinante antes de un sustantivo plural para significar 'los dos'."
+            },
+            {
+                "meaning": "Ambos/as (Pronombre)",
+                "usage_example": "Both are correct.",
+                "pronunciation_guide_es": "/BOUZ_ar_co-REKT/",
+                "usage_example_es": "Ambos son correctos.",
+                "char_count": "3",
+                "usage_context_en": "Used as a pronoun to mean 'the two of them'.",
+                "usage_context_es": "Usado como pronombre para significar 'los dos'."
+            }
+        ]
+    },
+    {
+        "name": "few",
+        "phonetic": "/fjuː/",
+        "spoken_phonetic_us": "/fjuː/",
+        "search_term": "determiner/pronoun",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Pocos / Pocas (Determinante)",
+                "usage_example": "He has few friends.",
+                "pronunciation_guide_es": "/hi_HAS_FIU_FRENDS/",
+                "usage_example_es": "Él tiene pocos amigos. (sentido negativo)",
+                "char_count": "4",
+                "usage_context_en": "Used as a determiner for a small number (countable, negative meaning).",
+                "usage_context_es": "Usado como determinante para un número pequeño (contable, sentido negativo)."
+            },
+            {
+                "meaning": "Pocos / Pocas (Pronombre)",
+                "usage_example": "Many tried, but few succeeded.",
+                "pronunciation_guide_es": "/ME-ni_TRAID_bot_FIU_sok-SI-ded/",
+                "usage_example_es": "Muchos lo intentaron, pero pocos lo lograron.",
+                "char_count": "5",
+                "usage_context_en": "Used as a pronoun for a small number of people or things.",
+                "usage_context_es": "Usado como pronombre para un número pequeño de personas o cosas."
+            }
+        ]
+    },
+    {
+        "name": "many",
+        "phonetic": "/ˈmɛni/",
+        "spoken_phonetic_us": "/ˈmɛni/",
+        "search_term": "determiner/pronoun",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Muchos / Muchas (Determinante)",
+                "usage_example": "I have many friends.",
+                "pronunciation_guide_es": "/ai_HAV_ME-ni_FRENDS/",
+                "usage_example_es": "Tengo muchos amigos.",
+                "char_count": "4",
+                "usage_context_en": "Used as a determiner for a large number (countable).",
+                "usage_context_es": "Usado como determinante para un gran número (contable)."
+            },
+            {
+                "meaning": "Muchos / Muchas (Pronombre)",
+                "usage_example": "Many are called, but few are chosen.",
+                "pronunciation_guide_es": "/ME-ni_ar_COLD_bot_FIU_ar_CHOU-sen/",
+                "usage_example_es": "Muchos son llamados, pero pocos son escogidos.",
+                "char_count": "7",
+                "usage_context_en": "Used as a pronoun for a large number of people or things.",
+                "usage_context_es": "Usado como pronombre para un gran número de personas o cosas."
+            }
+        ]
+    },
+    {
+        "name": "several",
+        "phonetic": "/ˈsɛvərəl/",
+        "spoken_phonetic_us": "/ˈsɛvərəl/",
+        "search_term": "determiner/pronoun",
+        "is_verb": false,
+        "learned": true,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Varios/as (Determinante)",
+                "usage_example": "He made several mistakes.",
+                "pronunciation_guide_es": "/hi_MEID_SE-ve-ral_mis-TEIKS/",
+                "usage_example_es": "Él cometió varios errores.",
+                "char_count": "4",
+                "usage_context_en": "Used as a determiner for a medium number (more than two, but not many).",
+                "usage_context_es": "Usado como determinante para un número mediano (más de dos, pero no muchos)."
+            },
+            {
+                "meaning": "Varios/as (Pronombre)",
+                "usage_example": "Several of them are broken.",
+                "pronunciation_guide_es": "/SE-ve-ral_of_dem_ar_BROU-ken/",
+                "usage_example_es": "Varios de ellos están rotos.",
+                "char_count": "5",
+                "usage_context_en": "Used as a pronoun for a medium number of people or things.",
+                "usage_context_es": "Usado como pronombre para un número mediano de personas o cosas."
+            }
+        ]
+    },
+    {
+        "name": "none",
+        "phonetic": "/nʌn/",
+        "spoken_phonetic_us": "/nʌn/",
+        "search_term": "pronoun/indefinite",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Ninguno / Ninguna / Nada",
+                "usage_example": "How much money is left? None.",
+                "pronunciation_guide_es": "/hau_MOCH_MO-ni_is_LEFT_NON/",
+                "usage_example_es": "¿Cuánto dinero queda? Nada.",
+                "char_count": "5",
+                "usage_context_en": "Used as a pronoun to mean 'not any' or 'no one'.",
+                "usage_context_es": "Usado como pronombre para significar 'nada' o 'ninguno'."
+            }
+        ]
+    },
+    {
+        "name": "either",
+        "phonetic": "/ˈaɪðər/",
+        "spoken_phonetic_us": "/ˈiːðər/",
+        "search_term": "determiner/pronoun",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Cualquiera (de dos) (Determinante)",
+                "usage_example": "You can take either road.",
+                "pronunciation_guide_es": "/iu_can_TEIK_AI-der_ROUD/",
+                "usage_example_es": "Puedes tomar cualquiera de los dos caminos.",
+                "char_count": "5",
+                "usage_context_en": "Used as a determiner to mean 'one or the other' of two.",
+                "usage_context_es": "Usado como determinante para significar 'uno u otro' de dos."
+            },
+            {
+                "meaning": "Cualquiera (de dos) (Pronombre)",
+                "usage_example": "Which one do you want? Either is fine.",
+                "pronunciation_guide_es": "/uich_UAN_du_iu_UANT_AI-der_is_FAIN/",
+                "usage_example_es": "¿Cuál quieres? Cualquiera está bien.",
+                "char_count": "7",
+                "usage_context_en": "Used as a pronoun to mean 'one or the other'.",
+                "usage_context_es": "Usado como pronombre para significar 'uno u otro'."
+            }
+        ]
+    },
+    {
+        "name": "neither",
+        "phonetic": "/ˈnaɪðər/",
+        "spoken_phonetic_us": "/ˈniːðər/",
+        "search_term": "determiner/pronoun",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Ninguno (de dos) (Determinante)",
+                "usage_example": "Neither answer is correct.",
+                "pronunciation_guide_es": "/NAI-der_AN-ser_is_co-REKT/",
+                "usage_example_es": "Ninguna de las dos respuestas es correcta.",
+                "char_count": "4",
+                "usage_context_en": "Used as a determiner to mean 'not one and not the other' of two.",
+                "usage_context_es": "Usado como determinante para significar 'ni uno ni el otro' de dos."
+            },
+            {
+                "meaning": "Ninguno (de dos) (Pronombre)",
+                "usage_example": "Neither is correct.",
+                "pronunciation_guide_es": "/NAI-der_is_co-REKT/",
+                "usage_example_es": "Ninguno es correcto.",
+                "char_count": "3",
+                "usage_context_en": "Used as a pronoun to mean 'not one and not the other'.",
+                "usage_context_es": "Usado como pronombre para significar 'ni uno ni el otro'."
+            }
+        ]
+    },
+    {
+        "name": "somebody",
+        "phonetic": "/ˈsʌmbɒdi/",
+        "spoken_phonetic_us": "/ˈsʌmbɑdi/",
+        "search_term": "pronoun/indefinite",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Alguien",
+                "usage_example": "Somebody is at the door.",
+                "pronunciation_guide_es": "/SOM-ba-di_is_at_de_DOR/",
+                "usage_example_es": "Alguien está en la puerta.",
+                "char_count": "5",
+                "usage_context_en": "An unspecified person (used in affirmative sentences). Synonym: 'someone'.",
+                "usage_context_es": "Una persona no especificada (usado en oraciones afirmativas). Sinónimo: 'someone'."
+            }
+        ]
+    },
+    {
+        "name": "someone else",
+        "phonetic": "/ˈsʌmwʌn ɛls/",
+        "spoken_phonetic_us": "/ˈsʌmwʌn ɛls/",
+        "search_term": "pronoun/indefinite",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Alguien más",
+                "usage_example": "This must be someone else's jacket.",
+                "pronunciation_guide_es": "/dis_most_bi_SOM-uan_EL-ses_YA-ket/",
+                "usage_example_es": "Esta debe ser la chaqueta de alguien más.",
+                "char_count": "6",
+                "usage_context_en": "A different or additional person.",
+                "usage_context_es": "Una persona diferente o adicional."
+            }
+        ]
+    },
+    {
+        "name": "anyone else",
+        "phonetic": "/ˈɛniwʌn ɛls/",
+        "spoken_phonetic_us": "/ˈɛniwʌn ɛls/",
+        "search_term": "pronoun/indefinite",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Alguien más (pregunta) / Nadie más (negación)",
+                "usage_example": "Is anyone else coming?",
+                "pronunciation_guide_es": "/is_E-ni-uan_ELS_CO-ming/",
+                "usage_example_es": "¿Viene alguien más?",
+                "char_count": "4",
+                "usage_context_en": "Any other person (used in questions and negatives).",
+                "usage_context_es": "Cualquier otra persona (usado en preguntas y negaciones)."
+            }
+        ]
+    },
+    {
+        "name": "something else",
+        "phonetic": "/ˈsʌmθɪŋ ɛls/",
+        "spoken_phonetic_us": "/ˈsʌmθɪŋ ɛls/",
+        "search_term": "pronoun/indefinite",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Indefinite",
+        "definitions": [
+            {
+                "meaning": "Algo más / Otra cosa",
+                "usage_example": "I need something else.",
+                "pronunciation_guide_es": "/ai_NID_SOM-zing_ELS/",
+                "usage_example_es": "Necesito algo más.",
+                "char_count": "4",
+                "usage_context_en": "A different or additional thing.",
+                "usage_context_es": "Una cosa diferente o adicional."
+            }
+        ]
+    },
+    {
+        "name": "themselves",
+        "phonetic": "/ðəmˈsɛlvz/",
+        "spoken_phonetic_us": "/ðəmˈsɛlvz/",
+        "search_term": "pronoun/reflexive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Reflexive",
+        "definitions": [
+            {
+                "meaning": "Se / A sí mismos (Reflexivo)",
+                "usage_example": "They hurt themselves.",
+                "pronunciation_guide_es": "/dei_HORT_dem-SELVS/",
+                "usage_example_es": "Se lastimaron (a sí mismos).",
+                "char_count": "3",
+                "usage_context_en": "Used when the subject and object of the verb are the same (They).",
+                "usage_context_es": "Usado cuando el sujeto y el objeto del verbo son el mismo (Ellos/Ellas)."
+            }
+        ]
+    },
+    {
+        "name": "ourselves",
+        "phonetic": "/ˌaʊərˈsɛlvz/",
+        "spoken_phonetic_us": "/ˌaʊərˈsɛlvz/",
+        "search_term": "pronoun/reflexive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Reflexive",
+        "definitions": [
+            {
+                "meaning": "Nos / A nosotros mismos (Reflexivo)",
+                "usage_example": "We enjoyed ourselves.",
+                "pronunciation_guide_es": "/ui_en-YOID_aur-SELVS/",
+                "usage_example_es": "Nos divertimos (a nosotros mismos).",
+                "char_count": "3",
+                "usage_context_en": "Used when the subject and object of the verb are the same (We).",
+                "usage_context_es": "Usado cuando el sujeto y el objeto del verbo son el mismo (Nosotros/as)."
+            }
+        ]
+    },
+    {
+        "name": "itself",
+        "phonetic": "/ɪtˈsɛlf/",
+        "spoken_phonetic_us": "/ɪtˈsɛlf/",
+        "search_term": "pronoun/reflexive",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Pronouns: Reflexive",
+        "definitions": [
+            {
+                "meaning": "Se / A sí mismo (Reflexivo, neutro)",
+                "usage_example": "The machine fixed itself.",
+                "pronunciation_guide_es": "/de_ma-SHIN_FIKST_it-SELF/",
+                "usage_example_es": "La máquina se arregló a sí misma.",
+                "char_count": "4",
+                "usage_context_en": "Used when the subject and object of the verb are the same (It).",
+                "usage_context_es": "Usado cuando el sujeto y el objeto del verbo son el mismo (Ello/Cosa)."
+            }
+        ]
+    },
+    {
+        "name": "my own",
+        "phonetic": "/maɪ oʊn/",
+        "spoken_phonetic_us": "/maɪ oʊn/",
+        "search_term": "determiner/possessive/emphasis",
+        "is_verb": false,
+        "learned": false,
+        "force_generation": false,
+        "group_name": "Determiners: Possessives",
+        "definitions": [
+            {
+                "meaning": "Mi propio/a",
+                "usage_example": "I saw it with my own eyes.",
+                "pronunciation_guide_es": "/ai_SO_it_uiz_mai_OUN_AIS/",
+                "usage_example_es": "Lo vi con mis propios ojos.",
+                "char_count": "6",
+                "usage_context_en": "Used to emphasize possession ('my').",
+                "usage_context_es": "Usado para enfatizar posesión ('mi')."
+            }
+        ]
+    }
+]

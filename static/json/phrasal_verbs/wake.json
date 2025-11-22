@@ -1,0 +1,43 @@
+[
+    {
+        "name": "wake up",
+        "phonetic": "/weɪk ʌp/",
+        "spoken_phonetic_us": "/weɪk ʌp/",
+        "search_term": "phrasal verb/daily routine/sleep/realize",
+        "is_phrasal_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Despertarse (dejar de dormir)",
+                "usage_example": "What time do you usually wake up?",
+                "pronunciation_guide_es": "/uat_TAIM_du_iu_IUyuali_ueik_AP/",
+                "alternative_example": "What time do you usually stop sleeping?",
+                "usage_example_es": "¿A qué hora te despiertas usualmente?",
+                "char_count": "one",
+                "usage_context_en": "daily routine",
+                "usage_context_es": "rutina diaria"
+            },
+            {
+                "meaning": "Despertar (a alguien)",
+                "usage_example": "Can you wake me up at 7 AM?",
+                "pronunciation_guide_es": "/kæn_iu_UEIK_mi_AP_at_SEven_ei_EM/",
+                "alternative_example": "Can you rouse me at 7 AM?",
+                "usage_example_es": "¿Me puedes despertar a las 7 AM?",
+                "char_count": "one",
+                "usage_context_en": "request/daily routine",
+                "usage_context_es": "petición/rutina diaria"
+            },
+            {
+                "meaning": "Espabilar, darse cuenta (metafórico)",
+                "usage_example": "You need to wake up and see the problem.",
+                "pronunciation_guide_es": "/iu_NID_tu_ueik_AP_and_SI_de_PROblem/",
+                "alternative_example": "You need to realize and see the problem.",
+                "usage_example_es": "Necesitas espabilar (despertar) y ver el problema.",
+                "char_count": "one",
+                "usage_context_en": "metaphorical/realization",
+                "usage_context_es": "metafórico/darse cuenta"
+            }
+        ]
+    }
+]

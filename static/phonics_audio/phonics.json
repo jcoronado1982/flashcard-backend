@@ -1,0 +1,380 @@
+[
+  {
+    "rule": "1. -tion / -sion / -cian",
+    "sounds_like": "(shon)",
+    "examples": [
+      "Nation",
+      "Education",
+      "Relation",
+      "Musician",
+      "Information"
+    ],
+    "ipa": [
+      "/ˈneɪ.ʃən/",
+      "/ˌɛdʒʊˈkeɪ.ʃən/",
+      "/rɪˈleɪ.ʃən/",
+      "/mjuˈzɪ.ʃən/",
+      "/ˌɪnfərˈmeɪ.ʃən/"
+    ]
+  },
+  {
+    "rule": "2. -cial / -tial",
+    "sounds_like": "(shol)",
+    "examples": [
+      "Social",
+      "Official",
+      "Partial",
+      "Financial",
+      "Essential"
+    ],
+    "ipa": [
+      "/ˈsoʊ.ʃəl/",
+      "/əˈfɪ.ʃəl/",
+      "/ˈpɑːr.ʃəl/",
+      "/faɪˈnæn.ʃəl/",
+      "/əˈsɛn.ʃəl/"
+    ]
+  },
+  {
+    "rule": "3. -sion (post-vocal)",
+    "sounds_like": "(zhon / yion)",
+    "examples": [
+      "Decision",
+      "Confusion",
+      "Television",
+      "Vision",
+      "Occasion"
+    ],
+    "ipa": [
+      "/dɪˈsɪ.ʒən/",
+      "/kənˈfjuː.ʒən/",
+      "/ˈtɛlɪvɪ.ʒən/",
+      "/ˈvɪ.ʒən/",
+      "/əˈkeɪ.ʒən/"
+    ]
+  },
+  {
+    "rule": "4. -sure / -zure",
+    "sounds_like": "(zher / yur)",
+    "examples": [
+      "Measure",
+      "Pleasure",
+      "Treasure",
+      "Closure",
+      "Exposure"
+    ],
+    "ipa": [
+      "/ˈmɛ.ʒər/",
+      "/ˈplɛ.ʒər/",
+      "/ˈtrɛ.ʒər/",
+      "/ˈkloʊ.ʒər/",
+      "/ɪkˈspoʊ.ʒər/"
+    ]
+  },
+  {
+    "rule": "5. -ture",
+    "sounds_like": "(cher)",
+    "examples": [
+      "Picture",
+      "Future",
+      "Nature",
+      "Structure",
+      "Culture"
+    ],
+    "ipa": [
+      "/ˈpɪk.tʃər/",
+      "/ˈfjuː.tʃər/",
+      "/ˈneɪ.tʃər/",
+      "/ˈstrʌk.tʃər/",
+      "/ˈkʌl.tʃər/"
+    ]
+  },
+  {
+    "rule": "6. -ge / -dge / -age",
+    "sounds_like": "(idch / edj)",
+    "examples": [
+      "Village",
+      "Courage",
+      "Image",
+      "Bridge",
+      "Knowledge"
+    ],
+    "ipa": [
+      "/ˈvɪl.ɪdʒ/",
+      "/ˈkɜːr.ɪdʒ/",
+      "/ˈɪm.ɪdʒ/",
+      "/brɪdʒ/",
+      "/ˈnɑːl.ɪdʒ/"
+    ]
+  },
+  {
+    "rule": "7. -gious / -geous",
+    "sounds_like": "(yus / chus)",
+    "examples": [
+      "Religious",
+      "Courageous",
+      "Contagious",
+      "Outrageous",
+      "Gorgeous"
+    ],
+    "ipa": [
+      "/rɪˈlɪ.dʒəs/",
+      "/kəˈreɪ.dʒəs/",
+      "/kənˈteɪ.dʒəs/",
+      "/aʊtˈreɪ.dʒəs/",
+      "/ˈɡɔːr.dʒəs/"
+    ]
+  },
+  {
+    "rule": "8. -ous / -us",
+    "sounds_like": "(es / as)",
+    "examples": [
+      "Famous",
+      "Dangerous",
+      "Nervous",
+      "Serious",
+      "Obvious"
+    ],
+    "ipa": [
+      "/ˈfeɪm.əs/",
+      "/ˈdeɪndʒər.əs/",
+      "/ˈnɜːrv.əs/",
+      "/ˈsɪri.əs/",
+      "/ˈɑːbvi.əs/"
+    ]
+  },
+  {
+    "rule": "9. -ure (some cases)",
+    "sounds_like": "(yur)",
+    "examples": [
+      "Pure",
+      "Cure",
+      "Secure",
+      "Obscure",
+      "Mature"
+    ],
+    "ipa": [
+      "/pjʊr/",
+      "/kjʊr/",
+      "/sɪˈkjʊr/",
+      "/əbˈskjʊr/",
+      "/məˈtʃʊr/"
+    ]
+  },
+  {
+    "rule": "10. -er / -or / -ur",
+    "sounds_like": "(er / ur)",
+    "examples": [
+      "Teacher",
+      "Doctor",
+      "Worker",
+      "Computer",
+      "Actor"
+    ],
+    "ipa": [
+      "/ˈtiːtʃ.ər/",
+      "/ˈdɑːkt.ər/",
+      "/ˈwɜːrk.ər/",
+      "/kəmˈpjuːt.ər/",
+      "/ˈækt.ər/"
+    ]
+  },
+  {
+    "rule": "11. -le (post-consonant)",
+    "sounds_like": "(ol / el)",
+    "examples": [
+      "Apple",
+      "Table",
+      "Simple",
+      "People",
+      "Little"
+    ],
+    "ipa": [
+      "/ˈæp.əl/",
+      "/ˈteɪb.əl/",
+      "/ˈsɪmp.əl/",
+      "/ˈpiːp.əl/",
+      "/ˈlɪt.əl/"
+    ]
+  },
+  {
+    "rule": "12. -y / -ey / -ie",
+    "sounds_like": "(long i)",
+    "examples": [
+      "Happy",
+      "Funny",
+      "Money",
+      "Baby",
+      "Key"
+    ],
+    "ipa": [
+      "/ˈhæp.i/",
+      "/ˈfʌn.i/",
+      "/ˈmʌn.i/",
+      "/ˈbeɪb.i/",
+      "/ki/"
+    ]
+  },
+  {
+    "rule": "13. -ed (regular past)",
+    "sounds_like": "(/t/, /d/, /ɪd/)",
+    "examples": [
+      "Worked",
+      "Played",
+      "Wanted",
+      "Looked",
+      "Called"
+    ],
+    "ipa": [
+      "/wɜːrkt/",
+      "/pleɪd/",
+      "/ˈwɑːnt.ɪd/",
+      "/lʊkt/",
+      "/kɔːld/"
+    ]
+  },
+  {
+    "rule": "14. -ing",
+    "sounds_like": "(in / nasal)",
+    "examples": [
+      "Running",
+      "Talking",
+      "Eating",
+      "Reading",
+      "Thinking"
+    ],
+    "ipa": [
+      "/ˈrʌn.ɪŋ/",
+      "/ˈtɔːk.ɪŋ/",
+      "/ˈiːt.ɪŋ/",
+      "/ˈriːd.ɪŋ/",
+      "/ˈθɪŋk.ɪŋ/"
+    ]
+  },
+  {
+    "rule": "15. -al",
+    "sounds_like": "(ol / el)",
+    "examples": [
+      "Normal",
+      "Hospital",
+      "Personal",
+      "Special",
+      "Final"
+    ],
+    "ipa": [
+      "/ˈnɔːrm.əl/",
+      "/ˈhɑːspɪt.əl/",
+      "/ˈpɜːrsən.əl/",
+      "/ˈspɛʃ.əl/",
+      "/ˈfaɪn.əl/"
+    ]
+  },
+  {
+    "rule": "16. -ment",
+    "sounds_like": "(mənt / ment)",
+    "examples": [
+      "Moment",
+      "Government",
+      "Improvement",
+      "Payment",
+      "Statement"
+    ],
+    "ipa": [
+      "/ˈmoʊ.mənt/",
+      "/ˈɡʌvərn.mənt/",
+      "/ɪmˈpruːv.mənt/",
+      "/ˈpeɪ.mənt/",
+      "/ˈsteɪt.mənt/"
+    ]
+  },
+  {
+    "rule": "17. -ism",
+    "sounds_like": "(izem)",
+    "examples": [
+      "Tourism",
+      "Racism",
+      "Capitalism",
+      "Organism",
+      "Socialism"
+    ],
+    "ipa": [
+      "/ˈtʊr.ɪzəm/",
+      "/ˈreɪs.ɪzəm/",
+      "/ˈkæpɪtəl.ɪzəm/",
+      "/ˈɔːrɡən.ɪzəm/",
+      "/ˈsoʊʃəl.ɪzəm/"
+    ]
+  },
+  {
+    "rule": "18. -ist",
+    "sounds_like": "(ist)",
+    "examples": [
+      "Artist",
+      "Scientist",
+      "Tourist",
+      "Optimist",
+      "Dentist"
+    ],
+    "ipa": [
+      "/ˈɑːrt.ɪst/",
+      "/ˈsaɪənt.ɪst/",
+      "/ˈtʊr.ɪst/",
+      "/ˈɑːptəm.ɪst/",
+      "/ˈdɛnt.ɪst/"
+    ]
+  },
+  {
+    "rule": "19. -ive",
+    "sounds_like": "(iv)",
+    "examples": [
+      "Active",
+      "Positive",
+      "Creative",
+      "Massive",
+      "Expensive"
+    ],
+    "ipa": [
+      "/ˈæk.tɪv/",
+      "/ˈpɑːzə.tɪv/",
+      "/kriˈeɪ.tɪv/",
+      "/ˈmæs.ɪv/",
+      "/ɪkˈspɛns.ɪv/"
+    ]
+  },
+  {
+    "rule": "20. -ful",
+    "sounds_like": "(fəl / ful)",
+    "examples": [
+      "Beautiful",
+      "Careful",
+      "Wonderful",
+      "Powerful",
+      "Helpful"
+    ],
+    "ipa": [
+      "/ˈbjuːtɪ.fəl/",
+      "/ˈkɛr.fəl/",
+      "/ˈwʌndər.fəl/",
+      "/ˈpaʊər.fəl/",
+      "/ˈhɛlp.fəl/"
+    ]
+  },
+  {
+    "rule": "Special: 'RT' (Flap T)",
+    "sounds_like": "(soft D / ri)",
+    "examples": [
+      "Party",
+      "Dirty",
+      "Thirty",
+      "Pretty",
+      "Internet"
+    ],
+    "ipa": [
+      "/ˈpɑːr.i/",
+      "/ˈdɜːr.i/",
+      "/ˈθɜːr.i/",
+      "/ˈprɪ.i/",
+      "/ˈɪn.ər.nɛt/"
+    ]
+  }
+]

@@ -1,0 +1,1010 @@
+[
+    {
+        "name": "achieve",
+        "phonetic": "/əˈʧiːv/",
+        "spoken_phonetic_us": "/əˈʧiːv/",
+        "search_term": "verb/accomplish/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Lograr/Alcanzar (un objetivo)",
+                "usage_example": "We worked hard to achieve our sales goals.",
+                "pronunciation_guide_es": "/ui_UORKT_JARD_tu_aCHIV_aur_SEILS_GOLS/",
+                "alternative_example": "She achieved great success in her career.",
+                "usage_example_es": "Trabajamos duro para lograr nuestros objetivos de ventas.",
+                "char_count": "two",
+                "usage_context_en": "goals/success",
+                "usage_context_es": "metas/éxito"
+            }
+        ]
+    },
+    {
+        "name": "analyze",
+        "phonetic": "/ˈænəlaɪz/",
+        "spoken_phonetic_us": "/ˈænəlaɪz/",
+        "search_term": "verb/examine/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Analizar",
+                "usage_example": "We need to analyze the data carefully.",
+                "pronunciation_guide_es": "/ui_NID_tu_ANalaiz_de_DEIta_KERfuli/",
+                "alternative_example": "She analyzed the causes of the problem.",
+                "usage_example_es": "Necesitamos analizar los datos con cuidado.",
+                "char_count": "three",
+                "usage_context_en": "data/examination",
+                "usage_context_es": "datos/examinación"
+            }
+        ]
+    },
+    {
+        "name": "evaluate",
+        "phonetic": "/ɪˈvæljueɪt/",
+        "spoken_phonetic_us": "/ɪˈvæljueɪt/",
+        "search_term": "verb/assess/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Evaluar/Valorar",
+                "usage_example": "We need to evaluate the performance of the team.",
+                "pronunciation_guide_es": "/ui_NID_tu_iVALiueit_de_perFORmans_of_de_TIM/",
+                "alternative_example": "It's hard to evaluate the long-term effects.",
+                "usage_example_es": "Necesitamos evaluar el desempeño del equipo.",
+                "char_count": "four",
+                "usage_context_en": "performance/judgment",
+                "usage_context_es": "desempeño/juicio"
+            }
+        ]
+    },
+    {
+        "name": "interpret",
+        "phonetic": "/ɪnˈtɜːrprɪt/",
+        "spoken_phonetic_us": "/ɪnˈtɜːrprɪt/",
+        "search_term": "verb/understand meaning/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Interpretar (entender el significado)",
+                "usage_example": "How do you interpret these results?",
+                "pronunciation_guide_es": "/jau_du_iu_inTORpret_dis_riSOLTS/",
+                "alternative_example": "I interpreted his silence as disagreement.",
+                "usage_example_es": "¿Cómo interpretas estos resultados?",
+                "char_count": "three",
+                "usage_context_en": "meaning/understanding",
+                "usage_context_es": "significado/comprensión"
+            }
+        ]
+    },
+    {
+        "name": "assume",
+        "phonetic": "/əˈsuːm/",
+        "spoken_phonetic_us": "/əˈsuːm/",
+        "search_term": "verb/suppose/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Asumir/Suponer (dar por hecho)",
+                "usage_example": "I assume you already know the news.",
+                "pronunciation_guide_es": "/ai_aSUM_iu_olREDI_NOU_de_NIUS/",
+                "alternative_example": "Let's assume the theory is correct.",
+                "usage_example_es": "Asumo que ya sabes la noticia.",
+                "char_count": "two",
+                "usage_context_en": "supposition/belief",
+                "usage_context_es": "suposición/creencia"
+            }
+        ]
+    },
+    {
+        "name": "comprehend",
+        "phonetic": "/ˌkɒmprɪˈhɛnd/",
+        "spoken_phonetic_us": "/ˌkɑːmprɪˈhɛnd/",
+        "search_term": "verb/understand fully/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Comprender (profundamente)",
+                "usage_example": "I cannot comprehend his motivations.",
+                "pronunciation_guide_es": "/ai_kanOT_kompriJEND_jis_motiVEIshons/",
+                "alternative_example": "She comprehends complex theories easily.",
+                "usage_example_es": "No puedo comprender sus motivaciones.",
+                "char_count": "three",
+                "usage_context_en": "understanding/depth",
+                "usage_context_es": "comprensión/profundidad"
+            }
+        ]
+    },
+    {
+        "name": "emphasize",
+        "phonetic": "/ˈɛmfəsaɪz/",
+        "spoken_phonetic_us": "/ˈɛmfəsaɪz/",
+        "search_term": "verb/stress/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Enfatizar/Recalcar",
+                "usage_example": "I want to emphasize the importance of this meeting.",
+                "pronunciation_guide_es": "/ai_UANT_tu_EMfasaiz_di_imPORtans_of_dis_MITing/",
+                "alternative_example": "He emphasized that the project must be finished.",
+                "usage_example_es": "Quiero enfatizar la importancia de esta reunión.",
+                "char_count": "three",
+                "usage_context_en": "importance/stress",
+                "usage_context_es": "importancia/recalcar"
+            }
+        ]
+    },
+    {
+        "name": "elaborate",
+        "phonetic": "/ɪˈlæbəreɪt/",
+        "spoken_phonetic_us": "/ɪˈlæbəreɪt/",
+        "search_term": "verb/give more detail/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Explicar en detalle/Elaborar",
+                "usage_example": "Could you elaborate on that point?",
+                "pronunciation_guide_es": "/kud_iu_iLABoreit_on_DAT_POINT/",
+                "alternative_example": "The teacher asked him to elaborate his answer.",
+                "usage_example_es": "¿Podrías explicar ese punto en más detalle?",
+                "char_count": "four",
+                "usage_context_en": "details/explanation",
+                "usage_context_es": "detalles/explicación"
+            }
+        ]
+    },
+    {
+        "name": "clarify",
+        "phonetic": "/ˈklærɪfaɪ/",
+        "spoken_phonetic_us": "/ˈklærəfaɪ/",
+        "search_term": "verb/make clear/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Aclarar/Clarificar",
+                "usage_example": "Please clarify what you mean.",
+                "pronunciation_guide_es": "/PLIS_KLARI fai_UAT_iu_MIN/",
+                "alternative_example": "I need to clarify a few details.",
+                "usage_example_es": "Por favor, aclara lo que quieres decir.",
+                "char_count": "three",
+                "usage_context_en": "understanding/explanation",
+                "usage_context_es": "comprensión/explicación"
+            }
+        ]
+    },
+    {
+        "name": "assert",
+        "phonetic": "/əˈsɜːrt/",
+        "spoken_phonetic_us": "/əˈsɜːrt/",
+        "search_term": "verb/state confidently/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Afirmar/Aseverar (con confianza)",
+                "usage_example": "He asserted that he was innocent.",
+                "pronunciation_guide_es": "/ji_aSORTid_DAT_ji_uas_INosent/",
+                "alternative_example": "She asserts her opinions strongly.",
+                "usage_example_es": "Él afirmó que era inocente.",
+                "char_count": "two",
+                "usage_context_en": "statement/confidence",
+                "usage_context_es": "declaración/confianza"
+            }
+        ]
+    },
+    {
+        "name": "imply",
+        "phonetic": "/ɪmˈplaɪ/",
+        "spoken_phonetic_us": "/ɪmˈplaɪ/",
+        "search_term": "verb/suggest indirectly/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Insinuar/Implicar (sugerir)",
+                "usage_example": "What are you trying to imply?",
+                "pronunciation_guide_es": "/uat_ar_iu_TRAIing_tu_imPLAI/",
+                "alternative_example": "His silence implied disagreement.",
+                "usage_example_es": "¿Qué estás tratando de insinuar?",
+                "char_count": "two",
+                "usage_context_en": "indirect/suggestion",
+                "usage_context_es": "indirecto/sugerencia"
+            }
+        ]
+    },
+    {
+        "name": "convey",
+        "phonetic": "/kənˈveɪ/",
+        "spoken_phonetic_us": "/kənˈveɪ/",
+        "search_term": "verb/communicate/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Transmitir/Comunicar (un mensaje, idea)",
+                "usage_example": "The movie conveys a powerful message.",
+                "pronunciation_guide_es": "/de_MUVI_konVEIS_a_PAUerful_MESiy/",
+                "alternative_example": "Please convey my apologies to her.",
+                "usage_example_es": "La película transmite un mensaje poderoso.",
+                "char_count": "two",
+                "usage_context_en": "message/feeling",
+                "usage_context_es": "mensaje/sentimiento"
+            }
+        ]
+    },
+    {
+        "name": "implement",
+        "phonetic": "/ˈɪmpləmɛnt/",
+        "spoken_phonetic_us": "/ˈɪmpləmɛnt/",
+        "search_term": "verb/execute/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Implementar/Ejecutar",
+                "usage_example": "We need to implement the new plan immediately.",
+                "pronunciation_guide_es": "/ui_NID_tu_IMplement_de_NIU_PLAN_iMIdiatli/",
+                "alternative_example": "The company implemented new policies.",
+                "usage_example_es": "Necesitamos implementar el nuevo plan inmediatamente.",
+                "char_count": "three",
+                "usage_context_en": "plan/execution",
+                "usage_context_es": "plan/ejecución"
+            }
+        ]
+    },
+    {
+        "name": "facilitate",
+        "phonetic": "/fəˈsɪlɪteɪt/",
+        "spoken_phonetic_us": "/fəˈsɪlɪteɪt/",
+        "search_term": "verb/make easier/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Facilitar",
+                "usage_example": "My job is to facilitate the discussion.",
+                "pronunciation_guide_es": "/mai_YOB_is_tu_faSILIteit_de_disKAShon/",
+                "alternative_example": "Technology facilitates communication.",
+                "usage_example_es": "Mi trabajo es facilitar la discusión.",
+                "char_count": "five",
+                "usage_context_en": "process/help",
+                "usage_context_es": "proceso/ayuda"
+            }
+        ]
+    },
+    {
+        "name": "enhance",
+        "phonetic": "/ɪnˈhæns/",
+        "spoken_phonetic_us": "/ɪnˈhæns/",
+        "search_term": "verb/improve/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Mejorar/Realzar",
+                "usage_example": "This sauce will enhance the flavor of the meat.",
+                "pronunciation_guide_es": "/dis_SOS_uil_inJANS_de_FLEIvor_of_de_MIT/",
+                "alternative_example": "You can enhance your skills with practice.",
+                "usage_example_es": "Esta salsa realzará el sabor de la carne.",
+                "char_count": "two",
+                "usage_context_en": "quality/improvement",
+                "usage_context_es": "calidad/mejora"
+            }
+        ]
+    },
+    {
+        "name": "modify",
+        "phonetic": "/ˈmɒdɪfaɪ/",
+        "spoken_phonetic_us": "/ˈmɑːdɪfaɪ/",
+        "search_term": "verb/change slightly/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Modificar/Alterar (ligeramente)",
+                "usage_example": "We may need to modify the design.",
+                "pronunciation_guide_es": "/ui_MEI_NID_tu_MODIfai_de_diSAIN/",
+                "alternative_example": "He modified his views on the topic.",
+                "usage_example_es": "Puede que necesitemos modificar el diseño.",
+                "char_count": "three",
+                "usage_context_en": "change/adjustment",
+                "usage_context_es": "cambio/ajuste"
+            }
+        ]
+    },
+    {
+        "name": "establish",
+        "phonetic": "/ɪˈstæblɪʃ/",
+        "spoken_phonetic_us": "/ɪˈstæblɪʃ/",
+        "search_term": "verb/set up/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Establecer/Fundar",
+                "usage_example": "The company was established in 1990.",
+                "pronunciation_guide_es": "/de_KOMpani_uas_isTABlisht_in_NAINtin_NAINti/",
+                "alternative_example": "We need to establish clear rules.",
+                "usage_example_es": "La compañía fue fundada en 1990.",
+                "char_count": "four",
+                "usage_context_en": "founding/creation",
+                "usage_context_es": "fundación/creación"
+            }
+        ]
+    },
+    {
+        "name": "influence",
+        "phonetic": "/ˈɪnfluəns/",
+        "spoken_phonetic_us": "/ˈɪnfluəns/",
+        "search_term": "verb/affect/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Influir/Influenciar",
+                "usage_example": "His opinion influenced my decision.",
+                "pronunciation_guide_es": "/jis_oPINion_INfluenst_mai_deSIshon/",
+                "alternative_example": "Don't let others influence you too much.",
+                "usage_example_es": "Su opinión influyó en mi decisión.",
+                "char_count": "three",
+                "usage_context_en": "effect/decision",
+                "usage_context_es": "efecto/decisión"
+            }
+        ]
+    },
+    {
+        "name": "persuade",
+        "phonetic": "/pərˈsweɪd/",
+        "spoken_phonetic_us": "/pərˈsweɪd/",
+        "search_term": "verb/convince/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Persuadir/Convencer",
+                "usage_example": "I persuaded him to come with us.",
+                "pronunciation_guide_es": "/ai_perSUEIdid_jim_tu_KAM_uith_AS/",
+                "alternative_example": "How can I persuade you to stay?",
+                "usage_example_es": "Lo persuadí de que viniera con nosotros.",
+                "char_count": "two",
+                "usage_context_en": "convince/argument",
+                "usage_context_es": "convencer/argumento"
+            }
+        ]
+    },
+    {
+        "name": "adapt",
+        "phonetic": "/əˈdæpt/",
+        "spoken_phonetic_us": "/əˈdæpt/",
+        "search_term": "verb/adjust/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Adaptar/Adaptarse",
+                "usage_example": "You need to adapt to the new system.",
+                "pronunciation_guide_es": "/iu_NID_tu_aDAPT_tu_de_NIU_SIStem/",
+                "alternative_example": "Animals adapt to their environment.",
+                "usage_example_es": "Necesitas adaptarte al nuevo sistema.",
+                "char_count": "two",
+                "usage_context_en": "change/adjustment",
+                "usage_context_es": "cambio/ajuste"
+            }
+        ]
+    },
+    {
+        "name": "alter",
+        "phonetic": "/ˈɔːltər/",
+        "spoken_phonetic_us": "/ˈɔːltər/",
+        "search_term": "verb/change/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Alterar/Cambiar",
+                "usage_example": "We had to alter our plans.",
+                "pronunciation_guide_es": "/ui_JAD_tu_OLter_aur_PLANS/",
+                "alternative_example": "This decision will alter the course of history.",
+                "usage_example_es": "Tuvimos que alterar nuestros planes.",
+                "char_count": "two",
+                "usage_context_en": "change/modification",
+                "usage_context_es": "cambio/modificación"
+            }
+        ]
+    },
+    {
+        "name": "acquire",
+        "phonetic": "/əˈkwaɪər/",
+        "spoken_phonetic_us": "/əˈkwaɪər/",
+        "search_term": "verb/get/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Adquirir (obtener, comprar)",
+                "usage_example": "The company acquired a new building.",
+                "pronunciation_guide_es": "/de_KOMpani_aKUAIERD_a_NIU_BILding/",
+                "alternative_example": "He acquired a taste for wine.",
+                "usage_example_es": "La compañía adquirió un nuevo edificio.",
+                "char_count": "two",
+                "usage_context_en": "purchase/gain",
+                "usage_context_es": "compra/obtención"
+            }
+        ]
+    },
+    {
+        "name": "resolve",
+        "phonetic": "/rɪˈzɒlv/",
+        "spoken_phonetic_us": "/rɪˈzɑːlv/",
+        "search_term": "verb/solve/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Resolver (un problema, conflicto)",
+                "usage_example": "We need to resolve this dispute.",
+                "pronunciation_guide_es": "/ui_NID_tu_riSOLV_dis_disPIUT/",
+                "alternative_example": "They resolved their differences.",
+                "usage_example_es": "Necesitamos resolver esta disputa.",
+                "char_count": "two",
+                "usage_context_en": "problem/solution",
+                "usage_context_es": "problema/solución"
+            }
+        ]
+    },
+    {
+        "name": "overcome",
+        "phonetic": "/ˌoʊvərˈkʌm/",
+        "spoken_phonetic_us": "/ˌoʊvərˈkʌm/",
+        "search_term": "verb/conquer/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Superar (un obstáculo, dificultad)",
+                "usage_example": "He overcame many challenges to succeed.",
+                "pronunciation_guide_es": "/ji_ouverKEIM_MENi_CHALenyis_tu_sakSID/",
+                "alternative_example": "She is trying to overcome her fear.",
+                "usage_example_es": "Él superó muchos desafíos para tener éxito.",
+                "char_count": "four",
+                "usage_context_en": "difficulty/success",
+                "usage_context_es": "dificultad/éxito"
+            }
+        ]
+    },
+    {
+        "name": "encounter",
+        "phonetic": "/ɪnˈkaʊntər/",
+        "spoken_phonetic_us": "/ɪnˈkaʊntər/",
+        "search_term": "verb/meet unexpectedly/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Encontrar/Toparse con (inesperadamente)",
+                "usage_example": "I encountered an old friend at the store.",
+                "pronunciation_guide_es": "/ai_inKAUNterd_an_OULD_FREND_at_de_STOR/",
+                "alternative_example": "We encountered some problems.",
+                "usage_example_es": "Me encontré con un viejo amigo en la tienda.",
+                "char_count": "three",
+                "usage_context_en": "unexpected/meeting",
+                "usage_context_es": "inesperado/encuentro"
+            }
+        ]
+    },
+    {
+        "name": "perceive",
+        "phonetic": "/pərˈsiːv/",
+        "spoken_phonetic_us": "/pərˈsiːv/",
+        "search_term": "verb/notice/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Percibir/Darse cuenta de",
+                "usage_example": "I perceived a change in his attitude.",
+                "pronunciation_guide_es": "/ai_perSIVD_a_CHEINY_in_jis_ATitiud/",
+                "alternative_example": "How do you perceive the situation?",
+                "usage_example_es": "Percibí un cambio en su actitud.",
+                "char_count": "two",
+                "usage_context_en": "awareness/senses",
+                "usage_context_es": "conciencia/sentidos"
+            }
+        ]
+    },
+    {
+        "name": "demonstrate",
+        "phonetic": "/ˈdɛmənstreɪt/",
+        "spoken_phonetic_us": "/ˈdɛmənstreɪt/",
+        "search_term": "verb/show/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Demostrar (mostrar cómo funciona)",
+                "usage_example": "Let me demonstrate how to use the software.",
+                "pronunciation_guide_es": "/let_mi_DEMonstreit_JAU_tu_IUS_de_SOFTuer/",
+                "alternative_example": "He demonstrated the new product.",
+                "usage_example_es": "Déjame demostrarte cómo usar el software.",
+                "char_count": "three",
+                "usage_context_en": "show/explain",
+                "usage_context_es": "mostrar/explicar"
+            }
+        ]
+    },
+    {
+        "name": "anticipate",
+        "phonetic": "/ænˈtɪsɪpeɪt/",
+        "spoken_phonetic_us": "/ænˈtɪsɪpeɪt/",
+        "search_term": "verb/expect/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Anticipar/Prever",
+                "usage_example": "We anticipate a large crowd at the event.",
+                "pronunciation_guide_es": "/ui_anTISIpeit_a_LARY_KRAUD_at_di_iVENT/",
+                "alternative_example": "I did not anticipate any problems.",
+                "usage_example_es": "Anticipamos una gran multitud en el evento.",
+                "char_count": "five",
+                "usage_context_en": "expectation/future",
+                "usage_context_es": "expectativa/futuro"
+            }
+        ]
+    },
+    {
+        "name": "investigate",
+        "phonetic": "/ɪnˈvɛstɪɡeɪt/",
+        "spoken_phonetic_us": "/ɪnˈvɛstɪɡeɪt/",
+        "search_term": "verb/examine/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Investigar (formalmente, un crimen)",
+                "usage_example": "The police are investigating the crime.",
+                "pronunciation_guide_es": "/de_poLIS_ar_inVESTIgeiting_de_KRAIM/",
+                "alternative_example": "They will investigate the cause of the accident.",
+                "usage_example_es": "La policía está investigando el crimen.",
+                "char_count": "five",
+                "usage_context_en": "crime/examination",
+                "usage_context_es": "crimen/examinación"
+            }
+        ]
+    },
+    {
+        "name": "maintain",
+        "phonetic": "/meɪnˈteɪn/",
+        "spoken_phonetic_us": "/meɪnˈteɪn/",
+        "search_term": "verb/keep/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Mantener (en buen estado, un nivel)",
+                "usage_example": "It is important to maintain your car.",
+                "pronunciation_guide_es": "/it_is_imPORtant_tu_meinTEIN_yor_KAR/",
+                "alternative_example": "We need to maintain high standards.",
+                "usage_example_es": "Es importante mantener tu coche.",
+                "char_count": "two",
+                "usage_context_en": "condition/upkeep",
+                "usage_context_es": "condición/mantenimiento"
+            }
+        ]
+    },
+    {
+        "name": "justify",
+        "phonetic": "/ˈʤʌstɪfaɪ/",
+        "spoken_phonetic_us": "/ˈʤʌstɪfaɪ/",
+        "search_term": "verb/give reason for/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Justificar",
+                "usage_example": "How can you justify your actions?",
+                "pronunciation_guide_es": "/jau_kan_iu_YOSTI fai_yor_AKshons/",
+                "alternative_example": "He tried to justify his mistake.",
+                "usage_example_es": "¿Cómo puedes justificar tus acciones?",
+                "char_count": "three",
+                "usage_context_en": "reason/excuse",
+                "usage_context_es": "razón/excusa"
+            }
+        ]
+    },
+    {
+        "name": "infer",
+        "phonetic": "/ɪnˈfɜːr/",
+        "spoken_phonetic_us": "/ɪnˈfɜːr/",
+        "search_term": "verb/deduce/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Inferir/Deducir",
+                "usage_example": "What can you infer from this data?",
+                "pronunciation_guide_es": "/uat_kan_iu_inFOR_from_dis_DEIta/",
+                "alternative_example": "I inferred from her smile that she was happy.",
+                "usage_example_es": "¿Qué puedes inferir de estos datos?",
+                "char_count": "two",
+                "usage_context_en": "conclusion/deduction",
+                "usage_context_es": "conclusión/deducción"
+            }
+        ]
+    },
+    {
+        "name": "regard",
+        "phonetic": "/rɪˈɡɑːrd/",
+        "spoken_phonetic_us": "/rɪˈɡɑːrd/",
+        "search_term": "verb/consider/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Considerar/Ver como",
+                "usage_example": "I regard him as a close friend.",
+                "pronunciation_guide_es": "/ai_riGARD_jim_as_a_KLOUS_FREND/",
+                "alternative_example": "She is highly regarded by her colleagues.",
+                "usage_example_es": "Lo considero un amigo cercano.",
+                "char_count": "two",
+                "usage_context_en": "opinion/judgment",
+                "usage_context_es": "opinión/juicio"
+            }
+        ]
+    },
+    {
+        "name": "advocate",
+        "phonetic": "/ˈædvəkeɪt/",
+        "spoken_phonetic_us": "/ˈædvəkeɪt/",
+        "search_term": "verb/support/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Abogar por/Defender (una idea)",
+                "usage_example": "She advocates for women's rights.",
+                "pronunciation_guide_es": "/shi_ADvokeits_for_UIMens_RAITS/",
+                "alternative_example": "I advocate a complete change in policy.",
+                "usage_example_es": "Ella aboga por los derechos de las mujeres.",
+                "char_count": "three",
+                "usage_context_en": "support/cause",
+                "usage_context_es": "apoyo/causa"
+            }
+        ]
+    },
+    {
+        "name": "negotiate",
+        "phonetic": "/nɪˈɡoʊʃieɪt/",
+        "spoken_phonetic_us": "/nɪˈɡoʊʃieɪt/",
+        "search_term": "verb/bargain/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Negociar",
+                "usage_example": "We need to negotiate a new contract.",
+                "pronunciation_guide_es": "/ui_NID_tu_niGOUSHieit_a_NIU_KONtrakt/",
+                "alternative_example": "They negotiated a peaceful settlement.",
+                "usage_example_es": "Necesitamos negociar un nuevo contrato.",
+                "char_count": "four",
+                "usage_context_en": "agreement/business",
+                "usage_context_es": "acuerdo/negocios"
+            }
+        ]
+    },
+    {
+        "name": "consult",
+        "phonetic": "/kənˈsʌlt/",
+        "spoken_phonetic_us": "/kənˈsʌlt/",
+        "search_term": "verb/ask advice/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Consultar (pedir consejo)",
+                "usage_example": "You should consult a doctor.",
+                "pronunciation_guide_es": "/iu_shud_konSOLT_a_DOKtor/",
+                "alternative_example": "I need to consult with my lawyer.",
+                "usage_example_es": "Deberías consultar a un médico.",
+                "char_count": "two",
+                "usage_context_en": "advice/expert",
+                "usage_context_es": "consejo/experto"
+            }
+        ]
+    },
+    {
+        "name": "propose",
+        "phonetic": "/prəˈpoʊz/",
+        "spoken_phonetic_us": "/prəˈpoʊz/",
+        "search_term": "verb/suggest/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Proponer (un plan, idea)",
+                "usage_example": "I propose a new solution to the problem.",
+                "pronunciation_guide_es": "/ai_proPOUZ_a_NIU_soLUshon_tu_de_PROblem/",
+                "alternative_example": "He proposed that we wait.",
+                "usage_example_es": "Propongo una nueva solución al problema.",
+                "char_count": "two",
+                "usage_context_en": "suggest/plan",
+                "usage_context_es": "sugerir/plan"
+            }
+        ]
+    },
+    {
+        "name": "criticize",
+        "phonetic": "/ˈkrɪtɪsaɪz/",
+        "spoken_phonetic_us": "/ˈkrɪtɪsaɪz/",
+        "search_term": "verb/judge negatively/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Criticar (juzgar negativamente)",
+                "usage_example": "He always criticizes my work.",
+                "pronunciation_guide_es": "/ji_OLueis_KRITisaizis_mai_UORK/",
+                "alternative_example": "The report was criticized for being inaccurate.",
+                "usage_example_es": "Él siempre critica mi trabajo.",
+                "char_count": "three",
+                "usage_context_en": "judgment/negative",
+                "usage_context_es": "juicio/negativo"
+            }
+        ]
+    },
+    {
+        "name": "prioritize",
+        "phonetic": "/praɪˈɒrɪtaɪz/",
+        "spoken_phonetic_us": "/praɪˈɔːrətaɪz/",
+        "search_term": "verb/rank importance/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Priorizar/Dar prioridad",
+                "usage_example": "You must prioritize your tasks.",
+                "pronunciation_guide_es": "/iu_MAST_praiORitaiz_yor_TASKS/",
+                "alternative_example": "We prioritize customer satisfaction.",
+                "usage_example_es": "Debes priorizar tus tareas.",
+                "char_count": "five",
+                "usage_context_en": "importance/order",
+                "usage_context_es": "importancia/orden"
+            }
+        ]
+    },
+    {
+        "name": "delegate",
+        "phonetic": "/ˈdɛlɪɡeɪt/",
+        "spoken_phonetic_us": "/ˈdɛləɡeɪt/",
+        "search_term": "verb/assign task/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Delegar (asignar tareas)",
+                "usage_example": "A good manager knows how to delegate.",
+                "pronunciation_guide_es": "/a_GUD_MANayer_NOUS_JAU_tu_DELegeit/",
+                "alternative_example": "He delegated the responsibility to his assistant.",
+                "usage_example_es": "Un buen gerente sabe cómo delegar.",
+                "char_count": "three",
+                "usage_context_en": "work/responsibility",
+                "usage_context_es": "trabajo/responsabilidad"
+            }
+        ]
+    },
+    {
+        "name": "launch",
+        "phonetic": "/lɔːnʧ/",
+        "spoken_phonetic_us": "/lɔːnʧ/",
+        "search_term": "verb/start product/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Lanzar (un producto, proyecto)",
+                "usage_example": "They will launch the new product next month.",
+                "pronunciation_guide_es": "/dei_uil_LONCH_de_NIU_PROdokt_NEKST_MONTH/",
+                "alternative_example": "The company launched a new marketing campaign.",
+                "usage_example_es": "Lanzarán el nuevo producto el próximo mes.",
+                "char_count": "one",
+                "usage_context_en": "business/start",
+                "usage_context_es": "negocios/inicio"
+            }
+        ]
+    },
+    {
+        "name": "transform",
+        "phonetic": "/trænsˈfɔːrm/",
+        "spoken_phonetic_us": "/trænsˈfɔːrm/",
+        "search_term": "verb/change completely/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Transformar (cambiar completamente)",
+                "usage_example": "The internet has transformed the way we live.",
+                "pronunciation_guide_es": "/di_INternet_jas_transFORMD_de_UEI_ui_LIV/",
+                "alternative_example": "The caterpillar transformed into a butterfly.",
+                "usage_example_es": "Internet ha transformado la forma en que vivimos.",
+                "char_count": "two",
+                "usage_context_en": "change/major",
+                "usage_context_es": "cambio/mayor"
+            }
+        ]
+    },
+    {
+        "name": "diminish",
+        "phonetic": "/dɪˈmɪnɪʃ/",
+        "spoken_phonetic_us": "/dɪˈmɪnɪʃ/",
+        "search_term": "verb/reduce/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Disminuir/Reducir",
+                "usage_example": "Our resources are diminishing.",
+                "pronunciation_guide_es": "/aur_RI-sorsis_ar_diMINIshing/",
+                "alternative_example": "The medicine will diminish the pain.",
+                "usage_example_es": "Nuestros recursos están disminuyendo.",
+                "char_count": "three",
+                "usage_context_en": "reduce/lessen",
+                "usage_context_es": "reducir/aminorar"
+            }
+        ]
+    },
+    {
+        "name": "escalate",
+        "phonetic": "/ˈɛskəleɪt/",
+        "spoken_phonetic_us": "/ˈɛskəleɪt/",
+        "search_term": "verb/increase rapidly/advanced",
+        "is_verb": true,
+        "learned": true,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Intensificar/Escalar (un conflicto, problema)",
+                "usage_example": "The conflict escalated quickly.",
+                "pronunciation_guide_es": "/de_KONflikt_ESkoleitid_KUICkli/",
+                "alternative_example": "We must not let the situation escalate.",
+                "usage_example_es": "El conflicto escaló rápidamente.",
+                "char_count": "three",
+                "usage_context_en": "increase/worsen",
+                "usage_context_es": "aumentar/empeorar"
+            }
+        ]
+    },
+    {
+        "name": "fluctuate",
+        "phonetic": "/ˈflʌkʧueɪt/",
+        "spoken_phonetic_us": "/ˈflʌkʧueɪt/",
+        "search_term": "verb/vary/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Fluctuar/Variar",
+                "usage_example": "Prices fluctuate depending on the season.",
+                "pronunciation_guide_es": "/PRAISis_FLOKchueit_diPENding_on_de_SIson/",
+                "alternative_example": "His mood seems to fluctuate daily.",
+                "usage_example_es": "Los precios fluctúan dependiendo de la temporada.",
+                "char_count": "three",
+                "usage_context_en": "vary/change",
+                "usage_context_es": "variar/cambiar"
+            }
+        ]
+    },
+    {
+        "name": "undermine",
+        "phonetic": "/ˌʌndərˈmaɪn/",
+        "spoken_phonetic_us": "/ˌʌndərˈmaɪn/",
+        "search_term": "verb/weaken/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Socavar/Debilitar (autoridad, confianza)",
+                "usage_example": "He tried to undermine my authority.",
+                "pronunciation_guide_es": "/ji_TRAID_tu_anderMAIN_mai_aTHORiti/",
+                "alternative_example": "Lack of sleep can undermine your health.",
+                "usage_example_es": "Él intentó socavar mi autoridad.",
+                "char_count": "four",
+                "usage_context_en": "weaken/damage",
+                "usage_context_es": "debilitar/dañar"
+            }
+        ]
+    },
+    {
+        "name": "reinforce",
+        "phonetic": "/ˌriːɪnˈfɔːrs/",
+        "spoken_phonetic_us": "/ˌriːɪnˈfɔːrs/",
+        "search_term": "verb/strengthen/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Reforzar/Fortalecer",
+                "usage_example": "We need to reinforce our security.",
+                "pronunciation_guide_es": "/ui_NID_tu_riinFORS_aur_seKIUriti/",
+                "alternative_example": "The event reinforced my beliefs.",
+                "usage_example_es": "Necesitamos reforzar nuestra seguridad.",
+                "char_count": "three",
+                "usage_context_en": "strengthen/support",
+                "usage_context_es": "fortalecer/apoyar"
+            }
+        ]
+    },
+    {
+        "name": "comply",
+        "phonetic": "/kəmˈplaɪ/",
+        "spoken_phonetic_us": "/kəmˈplaɪ/",
+        "search_term": "verb/obey/advanced",
+        "is_verb": true,
+        "learned": false,
+        "force_generation": false,
+        "definitions": [
+            {
+                "meaning": "Cumplir (con una regla, ley)",
+                "usage_example": "You must comply with the regulations.",
+                "pronunciation_guide_es": "/iu_MAST_komPLAI_uith_de_regiuLEIshons/",
+                "alternative_example": "The company failed to comply with the new law.",
+                "usage_example_es": "Debes cumplir con las regulaciones.",
+                "char_count": "two",
+                "usage_context_en": "obey/rules",
+                "usage_context_es": "obedecer/reglas"
+            }
+        ]
+    }
+]

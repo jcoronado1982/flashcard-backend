@@ -1,0 +1,147 @@
+[
+  {
+    "name": "set up",
+    "phonetic": "/sɛt ʌp/",
+    "spoken_phonetic_us": "/sɛɾ ʌp/",
+    "search_term": "phrasal verb/organize/establish/install/frame",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Montar, instalar, organizar (equipo, un negocio)",
+        "usage_example": "We need to set up the chairs for the meeting.",
+        "pronunciation_guide_es": "/ui_NID_tu_ser_AP_de_CHERS_for_de_MIring/",
+        "alternative_example": "We need to arrange the chairs for the meeting.",
+        "usage_example_es": "Necesitamos montar (colocar) las sillas para la reunión.",
+        "char_count": "one",
+        "usage_context_en": "organizing/installing",
+        "usage_context_es": "organizar/instalar"
+      },
+      {
+        "meaning": "Tender una trampa, incriminar (informal)",
+        "usage_example": "He said he was innocent and the police set him up.",
+        "pronunciation_guide_es": "/hi_SED_hi_uas_Inosent_and_de_poLIS_set_him_AP/",
+        "alternative_example": "He said he was innocent and the police framed him.",
+        "usage_example_es": "Dijo que era inocente y que la policía le tendió una trampa.",
+        "char_count": "one",
+        "usage_context_en": "deception/crime",
+        "usage_context_es": "engaño/crimen"
+      }
+    ]
+  },
+  {
+    "name": "set off",
+    "phonetic": "/sɛt ɔf/",
+    "spoken_phonetic_us": "/sɛɾ ɔf/",
+    "search_term": "phrasal verb/start journey/activate/explode",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Irse de viaje, ponerse en camino",
+        "usage_example": "We set off early in the morning.",
+        "pronunciation_guide_es": "/ui_set_OF_ERli_in_de_MORning/",
+        "alternative_example": "We started our journey early in the morning.",
+        "usage_example_es": "Salimos (de viaje) temprano en la mañana.",
+        "char_count": "one",
+        "usage_context_en": "travel/starting a journey",
+        "usage_context_es": "viajes/empezar un viaje"
+      },
+      {
+        "meaning": "Activar (una alarma, una bomba)",
+        "usage_example": "The smoke set off the fire alarm.",
+        "pronunciation_guide_es": "/de_SMOUK_set_OF_de_FAIr_aLARM/",
+        "alternative_example": "The smoke activated the fire alarm.",
+        "usage_example_es": "El humo activó la alarma de incendios.",
+        "char_count": "one",
+        "usage_context_en": "activate/trigger",
+        "usage_context_es": "activar/provocar"
+      }
+    ]
+  },
+  {
+    "name": "set back",
+    "phonetic": "/sɛt bæk/",
+    "spoken_phonetic_us": "/sɛt bæk/",
+    "search_term": "phrasal verb/delay/cost",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Retrasar (un proyecto, progreso)",
+        "usage_example": "The bad weather set back the construction.",
+        "pronunciation_guide_es": "/de_BAD_ueder_SET_bak_de_consTRAKshen/",
+        "alternative_example": "The bad weather delayed the construction.",
+        "usage_example_es": "El mal tiempo retrasó la construcción.",
+        "char_count": "one",
+        "usage_context_en": "delay/progress",
+        "usage_context_es": "retraso/progreso"
+      },
+      {
+        "meaning": "Costar (dinero, informal)",
+        "usage_example": "How much did that new car set you back?",
+        "pronunciation_guide_es": "/hau_MACH_did_dat_NU_CAR_set_iu_BAK/",
+        "alternative_example": "How much did that new car cost you?",
+        "usage_example_es": "¿Cuánto te costó ese auto nuevo?",
+        "char_count": "one",
+        "usage_context_en": "cost/money (informal)",
+        "usage_context_es": "costo/dinero (informal)"
+      }
+    ]
+  },
+  {
+    "name": "set in",
+    "phonetic": "/sɛt ɪn/",
+    "spoken_phonetic_us": "/sɛɾ ɪn/",
+    "search_term": "phrasal verb/begin/weather/illness",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Instalarse, empezar (algo negativo y duradero)",
+        "usage_example": "The rain has set in for the weekend.",
+        "pronunciation_guide_es": "/de_REIN_has_set_IN_for_de_UIkend/",
+        "alternative_example": "The rain has started and will likely continue.",
+        "usage_example_es": "La lluvia se ha instalado para (todo) el fin de semana.",
+        "char_count": "one",
+        "usage_context_en": "weather/illness/negative start",
+        "usage_context_es": "clima/enfermedad/inicio negativo"
+      }
+    ]
+  },
+  {
+    "name": "set aside",
+    "phonetic": "/sɛt əˈsaɪd/",
+    "spoken_phonetic_us": "/sɛɾ əˈsaɪd/",
+    "search_term": "phrasal verb/save/reserve/ignore",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Reservar, apartar (dinero, tiempo)",
+        "usage_example": "I set aside some money every month.",
+        "pronunciation_guide_es": "/ai_set_aSAID_sam_MOni_Everi_MONTH/",
+        "alternative_example": "I save some money every month.",
+        "usage_example_es": "Aparto (ahorro) algo de dinero todos los meses.",
+        "char_count": "one",
+        "usage_context_en": "saving/reserving",
+        "usage_context_es": "ahorrar/reservar"
+      },
+      {
+        "meaning": "Dejar a un lado (diferencias, problemas)",
+        "usage_example": "Let's set aside our differences and work together.",
+        "pronunciation_guide_es": "/lets_set_aSAID_aur_DIFrenses_and_uork_tuGUEDer/",
+        "alternative_example": "Let's ignore our differences and work together.",
+        "usage_example_es": "Dejemos a un lado nuestras diferencias y trabajemos juntos.",
+        "char_count": "one",
+        "usage_context_en": "problems/disagreements",
+        "usage_context_es": "problemas/desacuerdos"
+      }
+    ]
+  }
+]

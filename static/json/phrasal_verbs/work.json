@@ -1,0 +1,116 @@
+[
+  {
+    "name": "work out",
+    "phonetic": "/wɜrk aʊt/",
+    "spoken_phonetic_us": "/wɜr 'kaʊt/",
+    "search_term": "phrasal verb/exercise/solve/calculate/result",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Hacer ejercicio (en un gimnasio)",
+        "usage_example": "I try to work out three times a week.",
+        "pronunciation_guide_es": "/ai_TRAI_tu_uor_KAUT_thri_TAIMS_a_UIK/",
+        "alternative_example": "I try to exercise three times a week.",
+        "usage_example_es": "Intento hacer ejercicio tres veces por semana.",
+        "char_count": "one",
+        "usage_context_en": "exercise/health",
+        "usage_context_es": "ejercicio/salud"
+      },
+      {
+        "meaning": "Resolver (un problema), calcular",
+        "usage_example": "We need to work out a solution.",
+        "pronunciation_guide_es": "/ui_NID_tu_uor_KAUT_a_soLUshen/",
+        "alternative_example": "We need to find a solution.",
+        "usage_example_es": "Necesitamos encontrar (resolver) una solución.",
+        "char_count": "one",
+        "usage_context_en": "problem solving",
+        "usage_context_es": "resolver problemas"
+      },
+      {
+        "meaning": "Salir bien, funcionar (un plan)",
+        "usage_example": "I hope everything works out for you.",
+        "pronunciation_guide_es": "/ai_HOUP_Everithing_uorks_AUT_for_IU/",
+        "alternative_example": "I hope everything goes well for you.",
+        "usage_example_es": "Espero que todo te salga bien.",
+        "char_count": "one",
+        "usage_context_en": "results/outcome",
+        "usage_context_es": "resultados/desenlace"
+      }
+    ]
+  },
+  {
+    "name": "work on",
+    "phonetic": "/wɜrk ɑn/",
+    "spoken_phonetic_us": "/wɜrk ɑn/",
+    "search_term": "phrasal verb/develop/improve/project",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Trabajar en (un proyecto, una tarea)",
+        "usage_example": "What are you working on right now?",
+        "pronunciation_guide_es": "/uat_ar_iu_UORking_ON_rait_NAU/",
+        "alternative_example": "What project are you doing right now?",
+        "usage_example_es": "¿En qué estás trabajando ahora mismo?",
+        "char_count": "one",
+        "usage_context_en": "projects/tasks",
+        "usage_context_es": "proyectos/tareas"
+      },
+      {
+        "meaning": "Mejorar (una habilidad, un problema)",
+        "usage_example": "I need to work on my pronunciation.",
+        "pronunciation_guide_es": "/ai_NID_tu_uork_ON_mai_pronansiEIshen/",
+        "alternative_example": "I need to improve my pronunciation.",
+        "usage_example_es": "Necesito trabajar en (mejorar) mi pronunciación.",
+        "char_count": "one",
+        "usage_context_en": "self-improvement/skills",
+        "usage_context_es": "mejora personal/habilidades"
+      }
+    ]
+  },
+  {
+    "name": "work around",
+    "phonetic": "/wɜrk əˈraʊnd/",
+    "spoken_phonetic_us": "/wɜrk əˈraʊnd/",
+    "search_term": "phrasal verb/bypass/avoid problem/find alternative",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Evitar (un problema), encontrar una alternativa",
+        "usage_example": "The feature is broken, but we can work around it.",
+        "pronunciation_guide_es": "/de_FIcher_is_BROken, bat_ui_kan_uork_aRAUND_it/",
+        "alternative_example": "The feature is broken, but we can find an alternative solution.",
+        "usage_example_es": "La función está rota, pero podemos encontrar una alternativa.",
+        "char_count": "one",
+        "usage_context_en": "problem solving/bypass",
+        "usage_context_es": "resolver problemas/evitar"
+      }
+    ]
+  },
+  {
+    "name": "work up",
+    "phonetic": "/wɜrk ʌp/",
+    "spoken_phonetic_us": "/wɜrk ʌp/",
+    "search_term": "phrasal verb/develop feeling/generate",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Desarrollar, generar (un sentimiento, apetito)",
+        "usage_example": "We worked up a big appetite after the hike.",
+        "pronunciation_guide_es": "/ui_uorkt_AP_a_BIG_Apetait_after_de_HAIK/",
+        "alternative_example": "We developed a big appetite after the hike.",
+        "usage_example_es": "Nos dio mucha hambre después de la caminata.",
+        "char_count": "one",
+        "usage_context_en": "feelings/hunger",
+        "usage_context_es": "sentimientos/hambre"
+      }
+    ]
+  }
+]

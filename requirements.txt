@@ -1,0 +1,6 @@
+# Archivo: requirements.txt
+fastapi
+uvicorn
+google-cloud-aiplatform
+google-cloud-texttospeech
+pydantic-settings  # Usaremos esto para cargar el .env

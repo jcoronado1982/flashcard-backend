@@ -1,0 +1,230 @@
+[
+  {
+    "name": "go on",
+    "phonetic": "/ɡoʊ ɑn/",
+    "spoken_phonetic_us": "/ɡoʊ ɑn/",
+    "search_term": "phrasal verb/continue/happen",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Continuar (haciendo algo)",
+        "usage_example": "Please go on with your story.",
+        "pronunciation_guide_es": "/plis_go_ON_uith_iur_STORi/",
+        "alternative_example": "Please continue your story.",
+        "usage_example_es": "Por favor, continúa con tu historia.",
+        "char_count": "one",
+        "usage_context_en": "conversation/action",
+        "usage_context_es": "conversación/acción"
+      },
+      {
+        "meaning": "Pasar, estar ocurriendo",
+        "usage_example": "What's going on here?",
+        "pronunciation_guide_es": "/uats_GOing_ON_HIR/",
+        "alternative_example": "What's happening here?",
+        "usage_example_es": "¿Qué está pasando aquí?",
+        "char_count": "one",
+        "usage_context_en": "events/situation",
+        "usage_context_es": "eventos/situación"
+      }
+    ]
+  },
+  {
+    "name": "go out",
+    "phonetic": "/ɡoʊ aʊt/",
+    "spoken_phonetic_us": "/ɡoʊ 'waʊt/",
+    "search_term": "phrasal verb/social/leave/dating/stop working",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Salir (socialmente, de fiesta, a comer)",
+        "usage_example": "Let's go out for dinner tonight.",
+        "pronunciation_guide_es": "/lets_go_AUT_for_DIner_tuNAIT/",
+        "alternative_example": "Let's leave the house for dinner tonight.",
+        "usage_example_es": "Salgamos a cenar esta noche.",
+        "char_count": "one",
+        "usage_context_en": "social plans",
+        "usage_context_es": "planes sociales"
+      },
+      {
+        "meaning": "Salir con alguien (en plan romántico)",
+        "usage_example": "Are they still going out?",
+        "pronunciation_guide_es": "/ar_dey_STIL_GOing_AUT/",
+        "alternative_example": "Are they still dating?",
+        "usage_example_es": "¿Ellos siguen saliendo (como pareja)?",
+        "char_count": "one",
+        "usage_context_en": "dating/relationships",
+        "usage_context_es": "citas/relaciones"
+      },
+      {
+        "meaning": "Apagarse (luz, fuego)",
+        "usage_example": "The lights went out during the storm.",
+        "pronunciation_guide_es": "/de_LAITS_uent_AUT_DUring_de_STORM/",
+        "alternative_example": "The lights stopped working during the storm.",
+        "usage_example_es": "Las luces se apagaron durante la tormenta.",
+        "char_count": "one",
+        "usage_context_en": "power/failure",
+        "usage_context_es": "energía/fallo"
+      }
+    ]
+  },
+  {
+    "name": "go back",
+    "phonetic": "/ɡoʊ bæk/",
+    "spoken_phonetic_us": "/ɡoʊ bæk/",
+    "search_term": "phrasal verb/return/movement",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Regresar, volver (a un lugar)",
+        "usage_example": "I need to go back home to get my keys.",
+        "pronunciation_guide_es": "/ai_NID_tu_go_BAK_HOUM_tu_get_mai_KIS/",
+        "alternative_example": "I need to return home to get my keys.",
+        "usage_example_es": "Necesito regresar a casa a por mis llaves.",
+        "char_count": "one",
+        "usage_context_en": "returning/movement",
+        "usage_context_es": "regresar/movimiento"
+      }
+    ]
+  },
+  {
+    "name": "go over",
+    "phonetic": "/ɡoʊ ˈoʊvər/",
+    "spoken_phonetic_us": "/ɡoʊ ˈoʊvər/",
+    "search_term": "phrasal verb/review/check/visit",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Revisar, repasar (un documento, lección)",
+        "usage_example": "Let's go over the report before the meeting.",
+        "pronunciation_guide_es": "/lets_go_Over_de_riPORT_biFOR_de_MIring/",
+        "alternative_example": "Let's review the report before the meeting.",
+        "usage_example_es": "Repasemos el informe antes de la reunión.",
+        "char_count": "one",
+        "usage_context_en": "work/study",
+        "usage_context_es": "trabajo/estudio"
+      },
+      {
+        "meaning": "Ir (a casa de alguien), visitar",
+        "usage_example": "We're going over to John's house later.",
+        "pronunciation_guide_es": "/uir_GOing_Over_tu_YONS_haus_LEIrer/",
+        "alternative_example": "We're visiting John's house later.",
+        "usage_example_es": "Vamos a ir a casa de John más tarde.",
+        "char_count": "one",
+        "usage_context_en": "visiting/social",
+        "usage_context_es": "visitar/social"
+      }
+    ]
+  },
+  {
+    "name": "go through",
+    "phonetic": "/ɡoʊ θru/",
+    "spoken_phonetic_us": "/ɡoʊ θru/",
+    "search_term": "phrasal verb/experience/examine/search",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Atravesar (una situación difícil)",
+        "usage_example": "She is going through a tough time.",
+        "pronunciation_guide_es": "/shis_GOing_THRU_a_TAF_TAIM/",
+        "alternative_example": "She is experiencing a tough time.",
+        "usage_example_es": "Ella está atravesando un momento difícil.",
+        "char_count": "one",
+        "usage_context_en": "life/emotions",
+        "usage_context_es": "vida/emociones"
+      },
+      {
+        "meaning": "Revisar, rebuscar (entre cosas)",
+        "usage_example": "I went through my files but couldn't find it.",
+        "pronunciation_guide_es": "/ai_UENT_thru_mai_FAILS_bat_KUdent_FAINd_it/",
+        "alternative_example": "I searched my files but couldn't find it.",
+        "usage_example_es": "Revisé mis archivos pero no pude encontrarlo.",
+        "char_count": "one",
+        "usage_context_en": "searching/organizing",
+        "usage_context_es": "buscar/organizar"
+      }
+    ]
+  },
+  {
+    "name": "go with",
+    "phonetic": "/ɡoʊ wɪθ/",
+    "spoken_phonetic_us": "/ɡoʊ wɪθ/",
+    "search_term": "phrasal verb/match/choose",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Hacer juego, combinar (ropa, colores)",
+        "usage_example": "Does this shirt go with these pants?",
+        "pronunciation_guide_es": "/das_dis_SHERT_go_UITH_dis_PANTS/",
+        "alternative_example": "Does this shirt match these pants?",
+        "usage_example_es": "¿Esta camisa hace juego con estos pantalones?",
+        "char_count": "one",
+        "usage_context_en": "clothing/style",
+        "usage_context_es": "ropa/estilo"
+      },
+      {
+        "meaning": "Elegir, optar por (una opción)",
+        "usage_example": "I think I'll go with the blue one.",
+        "pronunciation_guide_es": "/ai_THINK_ail_go_UITH_de_BLU_uan/",
+        "alternative_example": "I think I'll choose the blue one.",
+        "usage_example_es": "Creo que elegiré el azul.",
+        "char_count": "one",
+        "usage_context_en": "making a choice",
+        "usage_context_es": "tomar una decisión"
+      }
+    ]
+  },
+  {
+    "name": "go up",
+    "phonetic": "/ɡoʊ ʌp/",
+    "spoken_phonetic_us": "/ɡoʊ ʌp/",
+    "search_term": "phrasal verb/increase/movement",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Subir, aumentar (precios, temperatura)",
+        "usage_example": "The price of gas went up again.",
+        "pronunciation_guide_es": "/de_PRAIS_of_GAS_uent_AP_aGUEN/",
+        "alternative_example": "The price of gas increased again.",
+        "usage_example_es": "El precio de la gasolina subió otra vez.",
+        "char_count": "one",
+        "usage_context_en": "prices/finance",
+        "usage_context_es": "precios/finanzas"
+      }
+    ]
+  },
+  {
+    "name": "go down",
+    "phonetic": "/ɡoʊ daʊn/",
+    "spoken_phonetic_us": "/ɡoʊ daʊn/",
+    "search_term": "phrasal verb/decrease/movement",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Bajar, disminuir (precios, temperatura)",
+        "usage_example": "His fever is finally going down.",
+        "pronunciation_guide_es": "/his_FIver_is_FAInali_GOing_DAUN/",
+        "alternative_example": "His fever is finally decreasing.",
+        "usage_example_es": "Su fiebre finalmente está bajando.",
+        "char_count": "one",
+        "usage_context_en": "health/prices",
+        "usage_context_es": "salud/precios"
+      }
+    ]
+  }
+]

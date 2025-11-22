@@ -1,0 +1,179 @@
+[
+  {
+    "name": "come on",
+    "phonetic": "/kʌm ɑn/",
+    "spoken_phonetic_us": "/kʌm ɑn/",
+    "search_term": "phrasal verb/encouragement/hurry",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "¡Vamos!, ¡Date prisa!",
+        "usage_example": "Come on! We're going to be late.",
+        "pronunciation_guide_es": "/kam_ON! uir_GOing_tu_bi_LEIT/",
+        "alternative_example": "Hurry up! We're going to be late.",
+        "usage_example_es": "¡Vamos! Vamos a llegar tarde.",
+        "char_count": "one",
+        "usage_context_en": "hurrying someone",
+        "usage_context_es": "apresurar a alguien"
+      },
+      {
+        "meaning": "¡Venga ya! (expresando incredulidad)",
+        "usage_example": "Oh, come on! You can't be serious.",
+        "pronunciation_guide_es": "/ou_kam_ON! iu_KANT_bi_SIrius/",
+        "alternative_example": "Oh, really! You can't be serious.",
+        "usage_example_es": "¡Oh, venga ya! No puedes hablar en serio.",
+        "char_count": "one",
+        "usage_context_en": "disbelief/annoyance",
+        "usage_context_es": "incredulidad/molestia"
+      },
+      {
+        "meaning": "Empezar (una enfermedad)",
+        "usage_example": "The show is coming on soon",
+        "pronunciation_guide_es": "/ðə SHÓU iz KÁ-ming ón sun/",
+        "alternative_example": "The show will start soon.",
+        "usage_example_es": "El programa empezará pronto",
+        "char_count": "one",
+        "usage_context_en": "comenzar",
+        "usage_context_es": "comenzar"
+      }
+    ]
+  },
+  {
+    "name": "come back",
+    "phonetic": "/kʌm bæk/",
+    "spoken_phonetic_us": "/kʌm bæk/",
+    "search_term": "phrasal verb/return/action",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Regresar, volver",
+        "usage_example": "What time did you come back home?",
+        "pronunciation_guide_es": "/uat_TAIM_did_iu_kam_BAK_HOUM/",
+        "alternative_example": "What time did you return home?",
+        "usage_example_es": "¿A qué hora regresaste a casa?",
+        "char_count": "one",
+        "usage_context_en": "daily routine/returning",
+        "usage_context_es": "rutina diaria/regresar"
+      }
+    ]
+  },
+  {
+    "name": "come over",
+    "phonetic": "/kʌm ˈoʊvər/",
+    "spoken_phonetic_us": "/kʌm ˈoʊvər/",
+    "search_term": "phrasal verb/visit/social",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Venir (a la casa de alguien), visitar",
+        "usage_example": "Do you want to come over for dinner?",
+        "pronunciation_guide_es": "/du_iu_UANT_tu_kam_Over_for_DIner/",
+        "alternative_example": "Do you want to visit my house for dinner?",
+        "usage_example_es": "¿Quieres venir (a mi casa) a cenar?",
+        "char_count": "one",
+        "usage_context_en": "invitation/social",
+        "usage_context_es": "invitación/social"
+      }
+    ]
+  },
+  {
+    "name": "come from",
+    "phonetic": "/kʌm frʌm/",
+    "spoken_phonetic_us": "/kʌm frəm/",
+    "search_term": "phrasal verb/origin/place",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Provenir de, ser de (origen)",
+        "usage_example": "Where does this food come from?",
+        "pronunciation_guide_es": "/uer_DAS_dis_FUD_kam_FROM/",
+        "alternative_example": "What is the origin of this food?",
+        "usage_example_es": "¿De dónde proviene esta comida?",
+        "char_count": "one",
+        "usage_context_en": "origin/location",
+        "usage_context_es": "origen/lugar"
+      }
+    ]
+  },
+  {
+    "name": "come up with",
+    "phonetic": "/kʌm ʌp wɪθ/",
+    "spoken_phonetic_us": "/kʌm ʌp wɪθ/",
+    "search_term": "phrasal verb/ideas/create",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Idear, proponer, ocurrirse (una idea)",
+        "usage_example": "He came up with a great idea.",
+        "pronunciation_guide_es": "/hi_keim_AP_uith_a_GREIT_aiDIa/",
+        "alternative_example": "He thought of a great idea.",
+        "usage_example_es": "Se le ocurrió una gran idea.",
+        "char_count": "one",
+        "usage_context_en": "ideas/planning",
+        "usage_context_es": "ideas/planificación"
+      }
+    ]
+  },
+  {
+    "name": "come in",
+    "phonetic": "/kʌm ɪn/",
+    "spoken_phonetic_us": "/kʌm ɪn/",
+    "search_term": "phrasal verb/entry/action",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Entrar, ¡Pasa!",
+        "usage_example": "Please, come in and sit down.",
+        "pronunciation_guide_es": "/plis_kam_IN_and_sit_DAUN/",
+        "alternative_example": "Please, enter and sit down.",
+        "usage_example_es": "Por favor, entra y siéntate.",
+        "char_count": "one",
+        "usage_context_en": "inviting someone inside",
+        "usage_context_es": "invitar a alguien a entrar"
+      }
+    ]
+  },
+  {
+    "name": "come out",
+    "phonetic": "/kʌm aʊt/",
+    "spoken_phonetic_us": "/kʌm aʊt/",
+    "search_term": "phrasal verb/release/appear",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Salir (un producto), publicarse, estrenarse",
+        "usage_example": "When does the new movie come out?",
+        "pronunciation_guide_es": "/uen_DAS_de_NU_muvi_kam_AUT/",
+        "alternative_example": "When is the new movie released?",
+        "usage_example_es": "¿Cuándo se estrena la nueva película?",
+        "char_count": "one",
+        "usage_context_en": "media/release",
+        "usage_context_es": "medios/lanzamiento"
+      },
+      {
+        "meaning": "Salir (el sol, las estrellas)",
+        "usage_example": "The sun came out after the rain.",
+        "pronunciation_guide_es": "/de_SAN_keim_AUT_after_de_REIN/",
+        "alternative_example": "The sun appeared after the rain.",
+        "usage_example_es": "El sol salió después de la lluvia.",
+        "char_count": "one",
+        "usage_context_en": "weather/nature",
+        "usage_context_es": "clima/naturaleza"
+      }
+    ]
+  }
+]

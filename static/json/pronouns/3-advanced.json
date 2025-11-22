@@ -1,0 +1,605 @@
+[
+  {
+    "name": "whoever",
+    "phonetic": "/huːˈɛvər/",
+    "spoken_phonetic_us": "/huːˈɛvər/",
+    "search_term": "pronoun/relative",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Indefinite",
+    "definitions": [
+      {
+        "meaning": "Quienquiera que / Quien sea",
+        "usage_example": "Whoever finishes first wins a prize.",
+        "pronunciation_guide_es": "/hu-E-ver_FI-ni-shes_FIRST_UINS_a_PRAIS/",
+        "usage_example_es": "Quienquiera que termine primero gana un premio.",
+        "char_count": "6",
+        "usage_context_en": "Used to mean 'any person who'.",
+        "usage_context_es": "Usado para significar 'cualquier persona que'."
+      }
+    ]
+  },
+  {
+    "name": "whatever",
+    "phonetic": "/wɒtˈɛvər/",
+    "spoken_phonetic_us": "/wʌtˈɛvər/",
+    "search_term": "pronoun/relative/determiner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Indefinite",
+    "definitions": [
+      {
+        "meaning": "Lo que sea / Cualquier cosa que",
+        "usage_example": "You can do whatever you want.",
+        "pronunciation_guide_es": "/iu_can_DU_uat-E-ver_iu_UANT/",
+        "usage_example_es": "Puedes hacer lo que sea que quieras.",
+        "char_count": "6",
+        "usage_context_en": "Used to mean 'anything or everything that'.",
+        "usage_context_es": "Usado para significar 'cualquier cosa o todo lo que'."
+      },
+      {
+        "meaning": "Lo que sea (informal, indiferencia)",
+        "usage_example": "Do you want pizza or pasta? Whatever.",
+        "pronunciation_guide_es": "/du_iu_UANT_PIT-sa_or_PAS-ta_uat-E-ver/",
+        "usage_example_es": "¿Quieres pizza o pasta? Lo que sea (No importa).",
+        "char_count": "6",
+        "usage_context_en": "Used informally to show indifference.",
+        "usage_context_es": "Usado informalmente para mostrar indiferencia."
+      }
+    ]
+  },
+  {
+    "name": "whichever",
+    "phonetic": "/wɪtʃˈɛvər/",
+    "spoken_phonetic_us": "/wɪtʃˈɛvər/",
+    "search_term": "pronoun/relative/determiner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Indefinite",
+    "definitions": [
+      {
+        "meaning": "Cualquiera (que) (opciones limitadas)",
+        "usage_example": "Choose whichever one you like.",
+        "pronunciation_guide_es": "/CHUS_uich-E-ver_UAN_iu_LAIK/",
+        "usage_example_es": "Elige cualquiera que te guste (de estas opciones).",
+        "char_count": "5",
+        "usage_context_en": "Used to mean 'any one from a limited set'.",
+        "usage_context_es": "Usado para significar 'cualquiera de un conjunto limitado'."
+      }
+    ]
+  },
+  {
+    "name": "each of us",
+    "phonetic": "/iːtʃ əv ʌs/",
+    "spoken_phonetic_us": "/iːtʃ əv əs/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Partitives",
+    "definitions": [
+      {
+        "meaning": "Cada uno de nosotros",
+        "usage_example": "Each of us has a different task.",
+        "pronunciation_guide_es": "/ICH_of_OS_has_a_DI-fe-rent_TASK/",
+        "usage_example_es": "Cada uno de nosotros tiene una tarea diferente.",
+        "char_count": "7",
+        "usage_context_en": "Every individual in the group 'we', considered separately.",
+        "usage_context_es": "Cada individuo en el grupo 'nosotros', considerado por separado."
+      }
+    ]
+  },
+  {
+    "name": "none of them",
+    "phonetic": "/nʌn əv ðəm/",
+    "spoken_phonetic_us": "/nʌn əv ðəm/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Partitives",
+    "definitions": [
+      {
+        "meaning": "Ninguno de ellos/as",
+        "usage_example": "None of them knew the answer.",
+        "pronunciation_guide_es": "/NON_of_dem_NIU_di_AN-ser/",
+        "usage_example_es": "Ninguno de ellos sabía la respuesta.",
+        "char_count": "5",
+        "usage_context_en": "Not one of a specific group of 'them'.",
+        "usage_context_es": "Ni uno solo de un grupo específico de 'ellos'."
+      }
+    ]
+  },
+  {
+    "name": "most of them",
+    "phonetic": "/moʊst əv ðəm/",
+    "spoken_phonetic_us": "/moʊst əv ðəm/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Partitives",
+    "definitions": [
+      {
+        "meaning": "La mayoría de ellos/as",
+        "usage_example": "Most of them are students.",
+        "pronunciation_guide_es": "/MOUST_of_dem_ar_STU-dents/",
+        "usage_example_es": "La mayoría de ellos son estudiantes.",
+        "char_count": "5",
+        "usage_context_en": "The largest part of a specific group of 'them'.",
+        "usage_context_es": "La parte más grande de un grupo específico de 'ellos'."
+      }
+    ]
+  },
+  {
+    "name": "some of us",
+    "phonetic": "/sʌm əv ʌs/",
+    "spoken_phonetic_us": "/səm əv əs/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Partitives",
+    "definitions": [
+      {
+        "meaning": "Algunos de nosotros",
+        "usage_example": "Some of us are tired.",
+        "pronunciation_guide_es": "/SOM_of_OS_ar_TAI-erd/",
+        "usage_example_es": "Algunos de nosotros estamos cansados.",
+        "char_count": "5",
+        "usage_context_en": "An unspecified number of the group 'we'.",
+        "usage_context_es": "Un número no especificado del grupo 'nosotros'."
+      }
+    ]
+  },
+  {
+    "name": "one of them",
+    "phonetic": "/wʌn əv ðəm/",
+    "spoken_phonetic_us": "/wʌn əv ðəm/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Partitives",
+    "definitions": [
+      {
+        "meaning": "Uno de ellos / Una de ellas",
+        "usage_example": "One of them is the leader.",
+        "pronunciation_guide_es": "/UAN_of_dem_is_de_LI-der/",
+        "usage_example_es": "Uno de ellos es el líder.",
+        "char_count": "5",
+        "usage_context_en": "A single member of a specific group of 'them'.",
+        "usage_context_es": "Un solo miembro de un grupo específico de 'ellos'."
+      }
+    ]
+  },
+  {
+    "name": "both of us",
+    "phonetic": "/boʊθ əv ʌs/",
+    "spoken_phonetic_us": "/boʊθ əv əs/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Partitives",
+    "definitions": [
+      {
+        "meaning": "Ambos / Nosotros dos",
+        "usage_example": "Both of us are ready.",
+        "pronunciation_guide_es": "/BOUZ_of_OS_ar_RE-di/",
+        "usage_example_es": "Ambos estamos listos.",
+        "char_count": "5",
+        "usage_context_en": "The two people in the group 'we'.",
+        "usage_context_es": "Las dos personas en el grupo 'nosotros'."
+      }
+    ]
+  },
+  {
+    "name": "neither of them",
+    "phonetic": "/ˈnaɪðər əv ðəm/",
+    "spoken_phonetic_us": "/ˈniːðər əv ðəm/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Partitives",
+    "definitions": [
+      {
+        "meaning": "Ninguno de ellos (dos)",
+        "usage_example": "Neither of them spoke.",
+        "pronunciation_guide_es": "/NAI-der_of_dem_SPOUK/",
+        "usage_example_es": "Ninguno de los dos habló.",
+        "char_count": "4",
+        "usage_context_en": "Not one and not the other of a specific group of two.",
+        "usage_context_es": "Ni uno ni el otro de un grupo específico de dos."
+      }
+    ]
+  },
+  {
+    "name": "either of them",
+    "phonetic": "/ˈaɪðər əv ðəm/",
+    "spoken_phonetic_us": "/ˈiːðər əv ðəm/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Partitives",
+    "definitions": [
+      {
+        "meaning": "Cualquiera de ellos (dos)",
+        "usage_example": "You can ask either of them.",
+        "pronunciation_guide_es": "/iu_can_ASK_AI-der_of_dem/",
+        "usage_example_es": "Puedes preguntarle a cualquiera de ellos dos.",
+        "char_count": "5",
+        "usage_context_en": "One or the other of a specific group of two.",
+        "usage_context_es": "Uno u otro de un grupo específico de dos."
+      }
+    ]
+  },
+  {
+    "name": "those who",
+    "phonetic": "/ðoʊz huː/",
+    "spoken_phonetic_us": "/ðoʊz huː/",
+    "search_term": "pronoun/relative",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Relative",
+    "definitions": [
+      {
+        "meaning": "Aquellos que / Los que",
+        "usage_example": "Help is available for those who need it.",
+        "pronunciation_guide_es": "/HELP_is_a-VEI-la-bol_for_DOUS_hu_NID_it/",
+        "usage_example_es": "Hay ayuda disponible para aquellos que la necesiten.",
+        "char_count": "8",
+        "usage_context_en": "A formal way to refer to 'the people who'.",
+        "usage_context_es": "Una forma formal de referirse a 'la gente que'."
+      }
+    ]
+  },
+  {
+    "name": "the one who",
+    "phonetic": "/ðə wʌn huː/",
+    "spoken_phonetic_us": "/ðə wʌn huː/",
+    "search_term": "pronoun/relative",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Relative",
+    "definitions": [
+      {
+        "meaning": "El que / La que",
+        "usage_example": "She is the one who called.",
+        "pronunciation_guide_es": "/shi_is_de_UAN_hu_COLD/",
+        "usage_example_es": "Ella es la que llamó.",
+        "char_count": "6",
+        "usage_context_en": "Used to specify a single person from a group.",
+        "usage_context_es": "Usado para especificar una sola persona de un grupo."
+      }
+    ]
+  },
+  {
+    "name": "the ones who",
+    "phonetic": "/ðə wʌnz huː/",
+    "spoken_phonetic_us": "/ðə wʌnz huː/",
+    "search_term": "pronoun/relative",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Relative",
+    "definitions": [
+      {
+        "meaning": "Los que / Las que",
+        "usage_example": "They are the ones who helped.",
+        "pronunciation_guide_es": "/dei_ar_de_UANS_hu_HELPT/",
+        "usage_example_es": "Ellos son los que ayudaron.",
+        "char_count": "6",
+        "usage_context_en": "Used to specify multiple people from a group.",
+        "usage_context_es": "Usado para especificar múltiples personas de un grupo."
+      }
+    ]
+  },
+  {
+    "name": "everyone else",
+    "phonetic": "/ˈɛvriwʌn ɛls/",
+    "spoken_phonetic_us": "/ˈɛvriwʌn ɛls/",
+    "search_term": "pronoun/indefinite",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Indefinite",
+    "definitions": [
+      {
+        "meaning": "Todos los demás",
+        "usage_example": "Everyone else is already here.",
+        "pronunciation_guide_es": "/E-vri-uan_ELS_is_ol-RE-di_HIR/",
+        "usage_example_es": "Todos los demás ya están aquí.",
+        "char_count": "5",
+        "usage_context_en": "All the other people in the group.",
+        "usage_context_es": "Todas las otras personas en el grupo."
+      }
+    ]
+  },
+  {
+    "name": "somebody else",
+    "phonetic": "/ˈsʌmbɒdi ɛls/",
+    "spoken_phonetic_us": "/ˈsʌmbɑdi ɛls/",
+    "search_term": "pronoun/indefinite",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Indefinite",
+    "definitions": [
+      {
+        "meaning": "Alguien más",
+        "usage_example": "This must be somebody else's coat.",
+        "pronunciation_guide_es": "/dis_most_bi_SOM-ba-di_EL-ses_COUT/",
+        "usage_example_es": "Este debe ser el abrigo de alguien más.",
+        "char_count": "6",
+        "usage_context_en": "A different or additional person.",
+        "usage_context_es": "Una persona diferente o adicional."
+      }
+    ]
+  },
+  {
+    "name": "anybody else",
+    "phonetic": "/ˈɛnibɒdi ɛls/",
+    "spoken_phonetic_us": "/ˈɛnibɑdi ɛls/",
+    "search_term": "pronoun/indefinite",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Indefinite",
+    "definitions": [
+      {
+        "meaning": "¿Alguien más?",
+        "usage_example": "Is anybody else coming?",
+        "pronunciation_guide_es": "/is_E-ni-ba-di_ELS_CO-ming/",
+        "usage_example_es": "¿Viene alguien más?",
+        "char_count": "4",
+        "usage_context_en": "Any other person (used in questions).",
+        "usage_context_es": "Cualquier otra persona (usado en preguntas)."
+      },
+      {
+        "meaning": "Nadie más",
+        "usage_example": "I didn't see anybody else.",
+        "pronunciation_guide_es": "/ai_DID-ent_SI_E-ni-ba-di_ELS/",
+        "usage_example_es": "No vi a nadie más.",
+        "char_count": "5",
+        "usage_context_en": "No other person (used in negatives).",
+        "usage_context_es": "Ninguna otra persona (usado en negaciones)."
+      }
+    ]
+  },
+  {
+    "name": "someone new",
+    "phonetic": "/ˈsʌmwʌn njuː/",
+    "spoken_phonetic_us": "/ˈsʌmwʌn nuː/",
+    "search_term": "pronoun/indefinite",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Indefinite",
+    "definitions": [
+      {
+        "meaning": "Alguien nuevo",
+        "usage_example": "I want to meet someone new.",
+        "pronunciation_guide_es": "/ai_UANT_tu_MIT_SOM-uan_NIU/",
+        "usage_example_es": "Quiero conocer a alguien nuevo.",
+        "char_count": "6",
+        "usage_context_en": "A new or different person.",
+        "usage_context_es": "Una persona nueva o diferente."
+      }
+    ]
+  },
+  {
+    "name": "something new",
+    "phonetic": "/ˈsʌmθɪŋ njuː/",
+    "spoken_phonetic_us": "/ˈsʌmθɪŋ nuː/",
+    "search_term": "pronoun/indefinite",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Indefinite",
+    "definitions": [
+      {
+        "meaning": "Algo nuevo",
+        "usage_example": "I learned something new today.",
+        "pronunciation_guide_es": "/ai_LERND_SOM-zing_NIU_tu-DEI/",
+        "usage_example_es": "Aprendí algo nuevo hoy.",
+        "char_count": "5",
+        "usage_context_en": "A new or different thing or fact.",
+        "usage_context_es": "Una cosa o hecho nuevo o diferente."
+      }
+    ]
+  },
+  {
+    "name": "anywhere",
+    "phonetic": "/ˈɛniwɛər/",
+    "spoken_phonetic_us": "/ˈɛniwɛr/",
+    "search_term": "adverb/place",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Place",
+    "definitions": [
+      {
+        "meaning": "A/En algún lugar (pregunta)",
+        "usage_example": "Are you going anywhere this summer?",
+        "pronunciation_guide_es": "/ar_iu_GO-ing_E-ni-uer_dis_SO-mer/",
+        "usage_example_es": "¿Vas a algún lugar este verano?",
+        "char_count": "6",
+        "usage_context_en": "Used in questions to mean 'any place'.",
+        "usage_context_es": "Usado en preguntas para significar 'algún lugar'."
+      },
+      {
+        "meaning": "A/En ningún lugar (negación)",
+        "usage_example": "I am not going anywhere.",
+        "pronunciation_guide_es": "/ai_am_NOT_GO-ing_E-ni-uer/",
+        "usage_example_es": "No voy a ningún lugar.",
+        "char_count": "5",
+        "usage_context_en": "Used in negative sentences to mean 'no place'.",
+        "usage_context_es": "Usado en oraciones negativas para significar 'ningún lugar'."
+      },
+      {
+        "meaning": "A/En cualquier lugar (afirmativo)",
+        "usage_example": "You can sit anywhere.",
+        "pronunciation_guide_es": "/iu_can_SIT_E-ni-uer/",
+        "usage_example_es": "Puedes sentarte en cualquier lugar.",
+        "char_count": "4",
+        "usage_context_en": "Used in affirmative sentences to mean 'any place, it doesn't matter which'.",
+        "usage_context_es": "Usado en oraciones afirmativas para significar 'cualquier lugar, no importa cuál'."
+      }
+    ]
+  },
+  {
+    "name": "somewhere",
+    "phonetic": "/ˈsʌmwɛər/",
+    "spoken_phonetic_us": "/ˈsʌmwɛr/",
+    "search_term": "adverb/place",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Place",
+    "definitions": [
+      {
+        "meaning": "En/A algún lugar",
+        "usage_example": "My keys must be somewhere.",
+        "pronunciation_guide_es": "/mai_KIS_most_bi_SOM-uer/",
+        "usage_example_es": "Mis llaves deben estar en algún lugar.",
+        "char_count": "5",
+        "usage_context_en": "In or to an unspecified or unknown place.",
+        "usage_context_es": "En o a un lugar no especificado o desconocido."
+      }
+    ]
+  },
+  {
+    "name": "nowhere",
+    "phonetic": "/ˈnoʊwɛər/",
+    "spoken_phonetic_us": "/ˈnoʊwɛr/",
+    "search_term": "adverb/place",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Place",
+    "definitions": [
+      {
+        "meaning": "A/En ningún lugar",
+        "usage_example": "This road leads nowhere.",
+        "pronunciation_guide_es": "/dis_ROUD_LIDS_NOU-uer/",
+        "usage_example_es": "Esta carretera no lleva a ningún lugar.",
+        "char_count": "4",
+        "usage_context_en": "Not in or to any place.",
+        "usage_context_es": "No en o a ningún lugar."
+      }
+    ]
+  },
+  {
+    "name": "everywhere",
+    "phonetic": "/ˈɛvriwɛər/",
+    "spoken_phonetic_us": "/ˈɛvriwɛr/",
+    "search_term": "adverb/place",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Place",
+    "definitions": [
+      {
+        "meaning": "En/A todos lados / Por todas partes",
+        "usage_example": "I looked everywhere for my keys.",
+        "pronunciation_guide_es": "/ai_LUKT_E-vri-uer_for_mai_KIS/",
+        "usage_example_es": "Busqué mis llaves por todos lados.",
+        "char_count": "6",
+        "usage_context_en": "In or to all places.",
+        "usage_context_es": "En o a todos los lugares."
+      }
+    ]
+  },
+  {
+    "name": "all of us",
+    "phonetic": "/ɔːl əv ʌs/",
+    "spoken_phonetic_us": "/ɔːl əv əs/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Partitives",
+    "definitions": [
+      {
+        "meaning": "Todos nosotros",
+        "usage_example": "All of us are ready.",
+        "pronunciation_guide_es": "/OL_of_OS_ar_RE-di/",
+        "usage_example_es": "Todos nosotros estamos listos.",
+        "char_count": "5",
+        "usage_context_en": "The entire group of 'we'.",
+        "usage_context_es": "El grupo entero de 'nosotros'."
+      }
+    ]
+  },
+  {
+    "name": "all of them",
+    "phonetic": "/ɔːl əv ðəm/",
+    "spoken_phonetic_us": "/ɔːl əv ðəm/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Partitives",
+    "definitions": [
+      {
+        "meaning": "Todos ellos/as",
+        "usage_example": "I invited all of them.",
+        "pronunciation_guide_es": "/ai_in-VAI-ted_OL_of_dem/",
+        "usage_example_es": "Los invité a todos ellos.",
+        "char_count": "5",
+        "usage_context_en": "The entire group of 'them'.",
+        "usage_context_es": "El grupo entero de 'ellos'."
+      }
+    ]
+  },
+  {
+    "name": "some of them",
+    "phonetic": "/sʌm əv ðəm/",
+    "spoken_phonetic_us": "/səm əv ðəm/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Partitives",
+    "definitions": [
+      {
+        "meaning": "Algunos de ellos/as",
+        "usage_example": "Some of them are late.",
+        "pronunciation_guide_es": "/SOM_of_dem_ar_LEIT/",
+        "usage_example_es": "Algunos de ellos llegan tarde.",
+        "char_count": "5",
+        "usage_context_en": "An unspecified number of a specific group of 'them'.",
+        "usage_context_es": "Un número no especificado de un grupo específico de 'ellos'."
+      }
+    ]
+  },
+  {
+    "name": "part of us",
+    "phonetic": "/pɑːrt əv ʌs/",
+    "spoken_phonetic_us": "/pɑrt əv əs/",
+    "search_term": "pronoun/partitive",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Pronouns: Partitives",
+    "definitions": [
+      {
+        "meaning": "Parte de nosotros",
+        "usage_example": "Part of us wanted to stay.",
+        "pronunciation_guide_es": "/PART_of_OS_UAN-ted_tu_STEI/",
+        "usage_example_es": "Parte de nosotros quería quedarse.",
+        "char_count": "6",
+        "usage_context_en": "A section or portion of the group 'we'.",
+        "usage_context_es": "Una sección o porción del grupo 'nosotros'."
+      }
+    ]
+  }
+]

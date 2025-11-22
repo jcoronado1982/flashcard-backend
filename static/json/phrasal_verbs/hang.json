@@ -1,0 +1,106 @@
+[
+  {
+    "name": "hang up",
+    "phonetic": "/hæŋ ʌp/",
+    "spoken_phonetic_us": "/hæŋ ʌp/",
+    "search_term": "phrasal verb/phone/clothing/stop",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Colgar (el teléfono)",
+        "usage_example": "I had to hang up because my battery died.",
+        "pronunciation_guide_es": "/ai_HAD_tu_hæing_AP_biCOS_mai_BAreri_DAID/",
+        "alternative_example": "I had to end the call because my battery died.",
+        "usage_example_es": "Tuve que colgar porque se me murió la batería.",
+        "char_count": "one",
+        "usage_context_en": "ending a phone call",
+        "usage_context_es": "terminar una llamada telefónica"
+      },
+      {
+        "meaning": "Colgar (ropa en un gancho/percha)",
+        "usage_example": "Please hang up your coat in the closet.",
+        "pronunciation_guide_es": "/plis_hæing_AP_iur_KOUT_in_de_KLOset/",
+        "alternative_example": "Please put your coat on a hanger in the closet.",
+        "usage_example_es": "Por favor, cuelga tu abrigo en el clóset.",
+        "char_count": "one",
+        "usage_context_en": "clothing/tidying up",
+        "usage_context_es": "ropa/ordenar"
+      }
+    ]
+  },
+  {
+    "name": "hang out",
+    "phonetic": "/hæŋ aʊt/",
+    "spoken_phonetic_us": "/hæŋ 'ŋaʊt/",
+    "search_term": "phrasal verb/social/relax/spend time",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Pasar el rato, parchar (informal)",
+        "usage_example": "Let's hang out at my place this weekend.",
+        "pronunciation_guide_es": "/lets_hæing_AUT_at_mai_PLEIS_dis_UIkend/",
+        "alternative_example": "Let's spend time relaxing at my place this weekend.",
+        "usage_example_es": "Pasemos el rato en mi casa este fin de semana.",
+        "char_count": "one",
+        "usage_context_en": "socializing/relaxing (informal)",
+        "usage_context_es": "socializar/relajarse (informal)"
+      }
+    ]
+  },
+  {
+    "name": "hang on",
+    "phonetic": "/hæŋ ɑn/",
+    "spoken_phonetic_us": "/hæŋ ɑn/",
+    "search_term": "phrasal verb/wait/hold",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Esperar (un momento, informal)",
+        "usage_example": "Hang on, I'll be right there.",
+        "pronunciation_guide_es": "/hæing_ON, ail_bi_RAIT_DER/",
+        "alternative_example": "Wait, I'll be right there.",
+        "usage_example_es": "Espera, ya voy.",
+        "char_count": "one",
+        "usage_context_en": "waiting/phone call",
+        "usage_context_es": "esperar/llamada telefónica"
+      },
+      {
+        "meaning": "Agarrarse fuerte",
+        "usage_example": "Hang on tight! This ride is fast.",
+        "pronunciation_guide_es": "/hæing_ON_TAIT! dis_RAID_is_FAST/",
+        "alternative_example": "Hold on tightly! This ride is fast.",
+        "usage_example_es": "¡Agárrate fuerte! Esta atracción es rápida.",
+        "char_count": "one",
+        "usage_context_en": "holding/physical action",
+        "usage_context_es": "agarrar/acción física"
+      }
+    ]
+  },
+  {
+    "name": "hang in (there)",
+    "phonetic": "/hæŋ ɪn ðɛr/",
+    "spoken_phonetic_us": "/hæŋ ɪn ðɛr/",
+    "search_term": "phrasal verb/idiom/persevere/endure",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Aguantar, resistir, no rendirse",
+        "usage_example": "I know it's hard, but just hang in there.",
+        "pronunciation_guide_es": "/ai_NOU_its_HARD, bat_yost_hæing_IN_DER/",
+        "alternative_example": "I know it's hard, but just persevere.",
+        "usage_example_es": "Sé que es difícil, pero aguanta (resiste).",
+        "char_count": "one",
+        "usage_context_en": "encouragement/perseverance",
+        "usage_context_es": "dar ánimo/perseverancia"
+      }
+    ]
+  }
+]

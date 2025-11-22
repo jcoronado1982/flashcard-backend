@@ -1,0 +1,219 @@
+[
+  {
+    "name": "take off",
+    "phonetic": "/teɪk ɔf/",
+    "spoken_phonetic_us": "/teɪk ɔf/",
+    "search_term": "phrasal verb/remove clothing/airplane/leave",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Quitarse (ropa, zapatos)",
+        "usage_example": "Please take off your shoes at the door.",
+        "pronunciation_guide_es": "/plis_teik_OF_iur_SHUS_at_de_DOR/",
+        "alternative_example": "Please remove your shoes at the door.",
+        "usage_example_es": "Por favor, quítate los zapatos en la puerta.",
+        "char_count": "one",
+        "usage_context_en": "clothing/instructions",
+        "usage_context_es": "ropa/instrucciones"
+      },
+      {
+        "meaning": "Despegar (un avión)",
+        "usage_example": "What time does the plane take off?",
+        "pronunciation_guide_es": "/uat_TAIM_das_de_PLEIN_teik_OF/",
+        "alternative_example": "What time does the plane depart/leave?",
+        "usage_example_es": "¿A qué hora despega el avión?",
+        "char_count": "one",
+        "usage_context_en": "travel/aviation",
+        "usage_context_es": "viajes/aviación"
+      },
+      {
+        "meaning": "Irse (repentinamente, informal)",
+        "usage_example": "He saw the police and took off.",
+        "pronunciation_guide_es": "/hi_SO_de_poLIS_and_tuk_OF/",
+        "alternative_example": "He saw the police and ran away.",
+        "usage_example_es": "Él vio a la policía y se fue (huyó).",
+        "char_count": "one",
+        "usage_context_en": "leaving quickly/informal",
+        "usage_context_es": "irse rápido/informal"
+      }
+    ]
+  },
+  {
+    "name": "take out",
+    "phonetic": "/teɪk aʊt/",
+    "spoken_phonetic_us": "/teɪ 'kaʊt/",
+    "search_term": "phrasal verb/remove/trash/dating/food",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Sacar (la basura)",
+        "usage_example": "It's your turn to take out the trash.",
+        "pronunciation_guide_es": "/its_iur_TERN_tu_teik_AUT_de_TRASH/",
+        "alternative_example": "It's your turn to remove the trash.",
+        "usage_example_es": "Es tu turno de sacar la basura.",
+        "char_count": "one",
+        "usage_context_en": "chores/household",
+        "usage_context_es": "quehaceres/hogar"
+      },
+      {
+        "meaning": "Llevar (a alguien) a salir (cena, cine)",
+        "usage_example": "He's taking me out for dinner on Friday.",
+        "pronunciation_guide_es": "/his_TEIking_mi_AUT_for_DIner_on_FRAIdei/",
+        "alternative_example": "He's inviting me to dinner on Friday.",
+        "usage_example_es": "Él me va a llevar a cenar el viernes.",
+        "char_count": "one",
+        "usage_context_en": "dating/social",
+        "usage_context_es": "citas/social"
+      },
+      {
+        "meaning": "Pedir comida (para llevar)",
+        "usage_example": "Let's just get take out tonight.",
+        "pronunciation_guide_es": "/lets_yost_get_TEIK_aut_tuNAIT/",
+        "alternative_example": "Let's just get food to go tonight.",
+        "usage_example_es": "Simplemente pidamos comida para llevar esta noche.",
+        "char_count": "one",
+        "usage_context_en": "food/ordering",
+        "usage_context_es": "comida/pedir"
+      }
+    ]
+  },
+  {
+    "name": "take up",
+    "phonetic": "/teɪk ʌp/",
+    "spoken_phonetic_us": "/teɪk ʌp/",
+    "search_term": "phrasal verb/start hobby/occupy space",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Empezar (un hobby, actividad)",
+        "usage_example": "I'm thinking of taking up yoga.",
+        "pronunciation_guide_es": "/aim_THINking_ov_TEIking_AP_IOga/",
+        "alternative_example": "I'm thinking of starting yoga.",
+        "usage_example_es": "Estoy pensando en empezar a hacer yoga.",
+        "char_count": "one",
+        "usage_context_en": "hobbies/starting",
+        "usage_context_es": "pasatiempos/empezar"
+      },
+      {
+        "meaning": "Ocupar (espacio o tiempo)",
+        "usage_example": "This new sofa takes up a lot of space.",
+        "pronunciation_guide_es": "/dis_NU_SOFa_teiks_AP_a_LOT_ov_SPEIS/",
+        "alternative_example": "This new sofa occupies a lot of space.",
+        "usage_example_es": "Este nuevo sofá ocupa mucho espacio.",
+        "char_count": "one",
+        "usage_context_en": "space/time/occupation",
+        "usage_context_es": "espacio/tiempo/ocupar"
+      }
+    ]
+  },
+  {
+    "name": "take over",
+    "phonetic": "/teɪk ˈoʊvər/",
+    "spoken_phonetic_us": "/teɪk ˈoʊvər/",
+    "search_term": "phrasal verb/control/assume responsibility",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Asumir el control, tomar el relevo",
+        "usage_example": "She will take over the company next year.",
+        "pronunciation_guide_es": "/shi_uil_teik_Over_de_KOMpani_nekst_YIR/",
+        "alternative_example": "She will assume control of the company next year.",
+        "usage_example_es": "Ella asumirá el control de la empresa el próximo año.",
+        "char_count": "one",
+        "usage_context_en": "work/control/business",
+        "usage_context_es": "trabajo/control/negocios"
+      }
+    ]
+  },
+  {
+    "name": "take after",
+    "phonetic": "/teɪk ˈæftər/",
+    "spoken_phonetic_us": "/teɪk ˈæfɾər/",
+    "search_term": "phrasal verb/resemble/family",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Parecerse a (alguien de la familia)",
+        "usage_example": "You really take after your father.",
+        "pronunciation_guide_es": "/iu_RIli_teik_AFter_iur_FAder/",
+        "alternative_example": "You really resemble your father.",
+        "usage_example_es": "Realmente te pareces a tu padre.",
+        "char_count": "one",
+        "usage_context_en": "family/resemblance",
+        "usage_context_es": "familia/parecido"
+      }
+    ]
+  },
+  {
+    "name": "take back",
+    "phonetic": "/teɪk bæk/",
+    "spoken_phonetic_us": "/teɪk bæk/",
+    "search_term": "phrasal verb/return/retract",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Retirar (lo dicho), retractarse",
+        "usage_example": "I take back what I said. I was wrong.",
+        "pronunciation_guide_es": "/ai_teik_BAK_uat_ai_SED. ai_uas_RONG/",
+        "alternative_example": "I retract what I said. I was wrong.",
+        "usage_example_es": "Retiro lo dicho. Estaba equivocado.",
+        "char_count": "one",
+        "usage_context_en": "conversation/apology",
+        "usage_context_es": "conversación/disculpa"
+      },
+      {
+        "meaning": "Devolver (algo a una tienda)",
+        "usage_example": "I need to take back these shoes. They don't fit.",
+        "pronunciation_guide_es": "/ai_NID_tu_teik_BAK_dis_SHUS. dey_dont_FIT/",
+        "alternative_example": "I need to return these shoes. They don't fit.",
+        "usage_example_es": "Necesito devolver estos zapatos. No me quedan.",
+        "char_count": "one",
+        "usage_context_en": "shopping/returning",
+        "usage_context_es": "compras/devolver"
+      }
+    ]
+  },
+  {
+    "name": "take down",
+    "phonetic": "/teɪk daʊn/",
+    "spoken_phonetic_us": "/teɪk daʊn/",
+    "search_term": "phrasal verb/write/record/disassemble",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Anotar, tomar nota",
+        "usage_example": "Can you take down my phone number?",
+        "pronunciation_guide_es": "/kæn_iu_teik_DAUN_mai_FOUN_namber/",
+        "alternative_example": "Can you write down my phone number?",
+        "usage_example_es": "¿Puedes anotar mi número de teléfono?",
+        "char_count": "one",
+        "usage_context_en": "writing/information",
+        "usage_context_es": "escribir/información"
+      },
+      {
+        "meaning": "Desmontar, quitar (algo colgado)",
+        "usage_example": "It's time to take down the Christmas lights.",
+        "pronunciation_guide_es": "/its_TAIM_tu_teik_DAUN_de_KRISmas_LAITS/",
+        "alternative_example": "It's time to remove the Christmas lights.",
+        "usage_example_es": "Es hora de quitar las luces de Navidad.",
+        "char_count": "one",
+        "usage_context_en": "disassemble/remove",
+        "usage_context_es": "desmontar/quitar"
+      }
+    ]
+  }
+]

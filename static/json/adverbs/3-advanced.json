@@ -1,0 +1,659 @@
+[
+  {
+    "name": "actually",
+    "phonetic": "/ˈæktʃuəli/",
+    "spoken_phonetic_us": "/ˈæktʃuəli/",
+    "search_term": "adverb/sentence/emphasis",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Sentence",
+    "definitions": [
+      {
+        "meaning": "En realidad / De hecho",
+        "usage_example": "He seems rude, but he is actually very nice.",
+        "pronunciation_guide_es": "/hi_SIMS_RUD_bot_hi_is_AK-chu-a-li_VE-ri_NAIS/",
+        "usage_example_es": "Él parece grosero, pero en realidad es muy amable.",
+        "char_count": "8",
+        "usage_context_en": "Used to emphasize that something is true or a fact.",
+        "usage_context_es": "Usado para enfatizar que algo es verdad o un hecho."
+      }
+    ]
+  },
+  {
+    "name": "basically",
+    "phonetic": "/ˈbeɪsɪkli/",
+    "spoken_phonetic_us": "/ˈbeɪsɪkli/",
+    "search_term": "adverb/sentence/summary",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Sentence",
+    "definitions": [
+      {
+        "meaning": "Básicamente / En esencia",
+        "usage_example": "Basically, we need more time.",
+        "pronunciation_guide_es": "/BEI-sik-li_ui_NID_mor_TAIM/",
+        "usage_example_es": "Básicamente, necesitamos más tiempo.",
+        "char_count": "5",
+        "usage_context_en": "Used to introduce the most important or fundamental point.",
+        "usage_context_es": "Usado para introducir el punto más importante o fundamental."
+      }
+    ]
+  },
+  {
+    "name": "literally",
+    "phonetic": "/ˈlɪtərəli/",
+    "spoken_phonetic_us": "/ˈlɪtərəli/",
+    "search_term": "adverb/manner/emphasis",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Literalmente (al pie de la letra)",
+        "usage_example": "I literally translated the text word for word.",
+        "pronunciation_guide_es": "/ai_LI-te-ra-li_trans-LEI-ted_de_TEKST_UORD_for_UORD/",
+        "usage_example_es": "Traduje literalmente el texto palabra por palabra.",
+        "char_count": 7,
+        "usage_context_en": "In the exact, literal sense of the words.",
+        "usage_context_es": "En el sentido exacto y literal de las palabras."
+      },
+      {
+        "meaning": "Literalmente (énfasis informal)",
+        "usage_example": "I was so scared, I literally froze.",
+        "pronunciation_guide_es": "/ai_uas_SOU_SKERD_ai_LI-te-ra-li_FROUS/",
+        "usage_example_es": "Estaba tan asustado que literalmente me congelé.",
+        "char_count": 6,
+        "usage_context_en": "Used informally to add strong emphasis (even if not 100% true).",
+        "usage_context_es": "Usado informalmente para añadir un fuerte énfasis (incluso si no es 100% real)."
+      }
+    ]
+  },
+  {
+    "name": "obviously",
+    "phonetic": "/ˈɒbviəsli/",
+    "spoken_phonetic_us": "/ˈɑbviəsli/",
+    "search_term": "adverb/sentence/certainty",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Sentence",
+    "definitions": [
+      {
+        "meaning": "Obviamente / Evidentemente",
+        "usage_example": "He is tired. Obviously, he needs sleep.",
+        "pronunciation_guide_es": "/hi_is_TAI-erd_OB-vi-os-li_hi_NIDS_SLIP/",
+        "usage_example_es": "Está cansado. Obviamente, necesita dormir.",
+        "char_count": 6,
+        "usage_context_en": "In a way that is easy to see, understand, or be certain of.",
+        "usage_context_es": "De una manera que es fácil de ver, entender o estar seguro."
+      }
+    ]
+  },
+  {
+    "name": "apparently",
+    "phonetic": "/əˈpærəntli/",
+    "spoken_phonetic_us": "/əˈpærəntli/",
+    "search_term": "adverb/sentence/certainty",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Sentence",
+    "definitions": [
+      {
+        "meaning": "Aparentemente / Por lo visto",
+        "usage_example": "Apparently, the meeting was canceled.",
+        "pronunciation_guide_es": "/a-PA-rent-li_de_MI-ting_uas_CAN-seld/",
+        "usage_example_es": "Aparentemente, la reunión fue cancelada.",
+        "char_count": 5,
+        "usage_context_en": "Used to say that something seems true based on what you heard or read.",
+        "usage_context_es": "Usado para decir que algo parece verdad basado en lo que oíste o leíste."
+      }
+    ]
+  },
+  {
+    "name": "particularly",
+    "phonetic": "/pəˈtɪkjələli/",
+    "spoken_phonetic_us": "/pərˈtɪkjələrli/",
+    "search_term": "adverb/degree/focus",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Degree",
+    "definitions": [
+      {
+        "meaning": "Particularmente / Especialmente",
+        "usage_example": "I am not particularly busy today.",
+        "pronunciation_guide_es": "/ai_am_NOT_par-TI-kiu-lar-li_BI-si_tu-DEI/",
+        "usage_example_es": "No estoy particularmente ocupado hoy.",
+        "char_count": 6,
+        "usage_context_en": "More than usual; especially.",
+        "usage_context_es": "Más de lo usual; especialmente."
+      }
+    ]
+  },
+  {
+    "name": "specifically",
+    "phonetic": "/spəˈsɪfɪkli/",
+    "spoken_phonetic_us": "/spəˈsɪfɪkli/",
+    "search_term": "adverb/manner/focus",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Específicamente / En concreto",
+        "usage_example": "I specifically asked for a green one.",
+        "pronunciation_guide_es": "/ai_spe-SI-fik-li_ASKT_for_a_GRIN_UAN/",
+        "usage_example_es": "Pedí específicamente uno verde.",
+        "char_count": 7,
+        "usage_context_en": "In a way that is exact and detailed.",
+        "usage_context_es": "De una manera que es exacta y detallada."
+      }
+    ]
+  },
+  {
+    "name": "generally",
+    "phonetic": "/ˈdʒɛnərəli/",
+    "spoken_phonetic_us": "/ˈdʒɛnərəli/",
+    "search_term": "adverb/frequency",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Frequency",
+    "definitions": [
+      {
+        "meaning": "Generalmente / Por lo general",
+        "usage_example": "I generally wake up early.",
+        "pronunciation_guide_es": "/ai_YE-ne-ra-li_UEIK_OP_ER-li/",
+        "usage_example_es": "Generalmente me despierto temprano.",
+        "char_count": 5,
+        "usage_context_en": "Usually; in most cases.",
+        "usage_context_es": "Usualmente; en la mayoría de los casos."
+      }
+    ]
+  },
+  {
+    "name": "normally",
+    "phonetic": "/ˈnɔːməli/",
+    "spoken_phonetic_us": "/ˈnɔrməli/",
+    "search_term": "adverb/frequency",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Frequency",
+    "definitions": [
+      {
+        "meaning": "Normalmente",
+        "usage_example": "I normally take the bus.",
+        "pronunciation_guide_es": "/ai_NOR-ma-li_TEIK_de_BOS/",
+        "usage_example_es": "Normalmente tomo el autobús.",
+        "char_count": 5,
+        "usage_context_en": "Under normal or usual conditions; typically.",
+        "usage_context_es": "Bajo condiciones normales o usuales; típicamente."
+      }
+    ]
+  },
+  {
+    "name": "technically",
+    "phonetic": "/ˈtɛknɪkli/",
+    "spoken_phonetic_us": "/ˈtɛknɪkli/",
+    "search_term": "adverb/sentence/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Sentence",
+    "definitions": [
+      {
+        "meaning": "Técnicamente / En teoría",
+        "usage_example": "Technically, a tomato is a fruit.",
+        "pronunciation_guide_es": "/TEK-nik-li_a_to-MEI-to_is_a_FRUT/",
+        "usage_example_es": "Técnicamente, un tomate es una fruta.",
+        "char_count": 6,
+        "usage_context_en": "According to the exact facts or a strict interpretation.",
+        "usage_context_es": "Según los hechos exactos o una interpretación estricta."
+      }
+    ]
+  },
+  {
+    "name": "frankly",
+    "phonetic": "/ˈfræŋkli/",
+    "spoken_phonetic_us": "/ˈfræŋkli/",
+    "search_term": "adverb/sentence/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Sentence",
+    "definitions": [
+      {
+        "meaning": "Francamente / Sinceramente",
+        "usage_example": "Frankly, I don't care.",
+        "pronunciation_guide_es": "/FRANK-li_ai_DONT_KER/",
+        "usage_example_es": "Francamente, no me importa.",
+        "char_count": 4,
+        "usage_context_en": "In an open, honest, and direct manner.",
+        "usage_context_es": "De una manera abierta, honesta y directa."
+      }
+    ]
+  },
+  {
+    "name": "surprisingly",
+    "phonetic": "/səˈpraɪzɪŋli/",
+    "spoken_phonetic_us": "/sərˈpraɪzɪŋli/",
+    "search_term": "adverb/sentence",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Sentence",
+    "definitions": [
+      {
+        "meaning": "Sorprendentemente",
+        "usage_example": "Surprisingly, the test was easy.",
+        "pronunciation_guide_es": "/sor-PRAI-sing-li_de_TEST_uas_I-si/",
+        "usage_example_es": "Sorprendentemente, el examen fue fácil.",
+        "char_count": 5,
+        "usage_context_en": "In a way that causes surprise; unexpectedly.",
+        "usage_context_es": "De una manera que causa sorpresa; inesperadamente."
+      }
+    ]
+  },
+  {
+    "name": "additionally",
+    "phonetic": "/əˈdɪʃənəli/",
+    "spoken_phonetic_us": "/əˈdɪʃənəli/",
+    "search_term": "adverb/connector/addition",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Addition",
+    "definitions": [
+      {
+        "meaning": "Adicionalmente / Además",
+        "usage_example": "Additionally, we need to buy milk.",
+        "pronunciation_guide_es": "/a-DI-sho-na-li_ui_NID_tu_BAI_MILK/",
+        "usage_example_es": "Adicionalmente, necesitamos comprar leche.",
+        "char_count": 6,
+        "usage_context_en": "As an extra factor or reason; in addition.",
+        "usage_context_es": "Como un factor o razón extra; además."
+      }
+    ]
+  },
+  {
+    "name": "approximately",
+    "phonetic": "/əˈprɒksɪmətli/",
+    "spoken_phonetic_us": "/əˈprɑksɪmətli/",
+    "search_term": "adverb/degree",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Degree",
+    "definitions": [
+      {
+        "meaning": "Aproximadamente",
+        "usage_example": "It costs approximately 10 dollars.",
+        "pronunciation_guide_es": "/it_COSTS_a-PROK-si-met-li_TEN_DO-lars/",
+        "usage_example_es": "Cuesta aproximadamente 10 dólares.",
+        "char_count": 5,
+        "usage_context_en": "Used to show that something is close to accurate; about.",
+        "usage_context_es": "Usado para mostrar que algo es cercano a lo exacto; alrededor de."
+      }
+    ]
+  },
+  {
+    "name": "constantly",
+    "phonetic": "/ˈkɒnstəntli/",
+    "spoken_phonetic_us": "/ˈkɑnstəntli/",
+    "search_term": "adverb/frequency/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Frequency",
+    "definitions": [
+      {
+        "meaning": "Constantemente",
+        "usage_example": "He is constantly checking his phone.",
+        "pronunciation_guide_es": "/hi_is_CON-stant-li_CHE-king_his_FOUN/",
+        "usage_example_es": "Él está constantemente revisando su teléfono.",
+        "char_count": 6,
+        "usage_context_en": "Continuously over a period of time; always.",
+        "usage_context_es": "Continuamente durante un período de tiempo; siempre."
+      }
+    ]
+  },
+  {
+    "name": "deliberately",
+    "phonetic": "/dɪˈlɪbərətli/",
+    "spoken_phonetic_us": "/dɪˈlɪbərətli/",
+    "search_term": "adverb/manner",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Deliberadamente / A propósito",
+        "usage_example": "He deliberately broke the glass.",
+        "pronunciation_guide_es": "/hi_de-LI-be-ret-li_BROUK_de_GLAS/",
+        "usage_example_es": "Él rompió el vaso a propósito.",
+        "char_count": 5,
+        "usage_context_en": "Consciously and intentionally; on purpose.",
+        "usage_context_es": "Consciente e intencionalmente; a propósito."
+      }
+    ]
+  },
+  {
+    "name": "frequently",
+    "phonetic": "/ˈfriːkwəntli/",
+    "spoken_phonetic_us": "/ˈfriːkwəntli/",
+    "search_term": "adverb/frequency",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Frequency",
+    "definitions": [
+      {
+        "meaning": "Frecuentemente / A menudo",
+        "usage_example": "We frequently visit this park.",
+        "pronunciation_guide_es": "/ui_FRI-cuent-li_VI-sit_dis_PARK/",
+        "usage_example_es": "Visitamos este parque frecuentemente.",
+        "char_count": 5,
+        "usage_context_en": "Regularly or habitually; often.",
+        "usage_context_es": "Regularmente o habitualmente; a menudo."
+      }
+    ]
+  },
+  {
+    "name": "mostly",
+    "phonetic": "/ˈmoʊstli/",
+    "spoken_phonetic_us": "/ˈmoʊstli/",
+    "search_term": "adverb/degree",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Degree",
+    "definitions": [
+      {
+        "meaning": "Mayormente / Principalmente",
+        "usage_example": "The team is mostly young players.",
+        "pronunciation_guide_es": "/de_TIM_is_MOUST-li_IONG_PLEI-ers/",
+        "usage_example_es": "El equipo es mayormente jugadores jóvenes.",
+        "char_count": 6,
+        "usage_context_en": "Mainly; for the most part.",
+        "usage_context_es": "Principalmente; en su mayor parte."
+      }
+    ]
+  },
+  {
+    "name": "otherwise",
+    "phonetic": "/ˈʌðərwaɪz/",
+    "spoken_phonetic_us": "/ˈʌðərwaɪz/",
+    "search_term": "adverb/connector/condition",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Condition",
+    "definitions": [
+      {
+        "meaning": "De lo contrario / Si no",
+        "usage_example": "Study hard, otherwise you will fail.",
+        "pronunciation_guide_es": "/STO-di_HARD_O-der-uais_iu_uil_FEIL/",
+        "usage_example_es": "Estudia duro, de lo contrario reprobarás.",
+        "char_count": 6,
+        "usage_context_en": "Used to state the consequence if a condition is not met.",
+        "usage_context_es": "Usado para indicar la consecuencia si no se cumple una condición."
+      },
+      {
+        "meaning": "De otra manera / Diferente",
+        "usage_example": "He is quiet, but she is otherwise.",
+        "pronunciation_guide_es": "/hi_is_CUAI-et_bot_shi_is_O-der-uais/",
+        "usage_example_es": "Él es callado, pero ella es diferente.",
+        "char_count": 7,
+        "usage_context_en": "In a different way; differently.",
+        "usage_context_es": "De una manera diferente; diferentemente."
+      }
+    ]
+  },
+  {
+    "name": "precisely",
+    "phonetic": "/prɪˈsaɪsli/",
+    "spoken_phonetic_us": "/prɪˈsaɪsli/",
+    "search_term": "adverb/manner/degree",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Precisamente / Exactamente",
+        "usage_example": "The meeting starts at 9 AM precisely.",
+        "pronunciation_guide_es": "/de_MI-ting_STARTS_at_NAIN_ei-EM_pri-SAIS-li/",
+        "usage_example_es": "La reunión empieza a las 9 AM precisamente.",
+        "char_count": 7,
+        "usage_context_en": "In an exact way; exactly.",
+        "usage_context_es": "De manera exacta; exactamente."
+      }
+    ]
+  },
+  {
+    "name": "relatively",
+    "phonetic": "/ˈrɛlətɪvli/",
+    "spoken_phonetic_us": "/ˈrɛlətɪvli/",
+    "search_term": "adverb/degree",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Degree",
+    "definitions": [
+      {
+        "meaning": "Relativamente",
+        "usage_example": "The test was relatively easy.",
+        "pronunciation_guide_es": "/de_TEST_uas_RE-la-tiv-li_I-si/",
+        "usage_example_es": "El examen fue relativamente fácil.",
+        "char_count": 5,
+        "usage_context_en": "In relation or comparison to something else.",
+        "usage_context_es": "En relación o comparación con algo más."
+      }
+    ]
+  },
+  {
+    "name": "significantly",
+    "phonetic": "/sɪɡˈnɪfɪkəntli/",
+    "spoken_phonetic_us": "/sɪɡˈnɪfɪkəntli/",
+    "search_term": "adverb/degree",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Degree",
+    "definitions": [
+      {
+        "meaning": "Significativamente / Considerablemente",
+        "usage_example": "The price increased significantly.",
+        "pronunciation_guide_es": "/de_PRAIS_in-CRIST_sig-NI-fi-cant-li/",
+        "usage_example_es": "El precio aumentó significativamente.",
+        "char_count": 4,
+        "usage_context_en": "In a way that is large or important enough to be noticeable.",
+        "usage_context_es": "De una manera que es lo suficientemente grande o importante como para ser notable."
+      }
+    ]
+  },
+  {
+    "name": "similarly",
+    "phonetic": "/ˈsɪmɪlərli/",
+    "spoken_phonetic_us": "/ˈsɪmɪlərli/",
+    "search_term": "adverb/manner/sentence",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Addition",
+    "definitions": [
+      {
+        "meaning": "Similarmente / Del mismo modo",
+        "usage_example": "The sisters dress similarly.",
+        "pronunciation_guide_es": "/de_SIS-ters_DRES_SI-mi-lar-li/",
+        "usage_example_es": "Las hermanas visten de forma similar.",
+        "char_count": 4,
+        "usage_context_en": "In a similar way.",
+        "usage_context_es": "De una manera similar."
+      }
+    ]
+  },
+  {
+    "name": "simply",
+    "phonetic": "/ˈsɪmpli/",
+    "spoken_phonetic_us": "/ˈsɪmpli/",
+    "search_term": "adverb/manner/degree",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Manner",
+    "definitions": [
+      {
+        "meaning": "Simplemente (modo)",
+        "usage_example": "You must explain it simply.",
+        "pronunciation_guide_es": "/iu_MOST_ex-PLEIN_it_SIM-pli/",
+        "usage_example_es": "Debes explicarlo simplemente.",
+        "char_count": 5,
+        "usage_context_en": "In a plain or easy-to-understand way.",
+        "usage_context_es": "De una manera llana o fácil de entender."
+      },
+      {
+        "meaning": "Simplemente / Solo (énfasis)",
+        "usage_example": "It is simply a matter of time.",
+        "pronunciation_guide_es": "/it_is_SIM-pli_a_MA-ter_of_TAIM/",
+        "usage_example_es": "Es simplemente una cuestión de tiempo.",
+        "char_count": 6,
+        "usage_context_en": "Used to mean 'only', 'just', or 'absolutely'.",
+        "usage_context_es": "Usado para significar 'solo', 'solamente' o 'absolutamente'."
+      }
+    ]
+  },
+  {
+    "name": "truly",
+    "phonetic": "/ˈtruːli/",
+    "spoken_phonetic_us": "/ˈtruːli/",
+    "search_term": "adverb/degree/emphasis",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Degree",
+    "definitions": [
+      {
+        "meaning": "Verdaderamente / Realmente",
+        "usage_example": "He is a truly good person.",
+        "pronunciation_guide_es": "/hi_is_a_TRU-li_GUD_PER-son/",
+        "usage_example_es": "Él es una persona verdaderamente buena.",
+        "char_count": 6,
+        "usage_context_en": "In a truthful way; genuinely or really.",
+        "usage_context_es": "De una manera veraz; genuinamente o realmente."
+      }
+    ]
+  },
+  {
+    "name": "commonly",
+    "phonetic": "/ˈkɒmənli/",
+    "spoken_phonetic_us": "/ˈkɑmənli/",
+    "search_term": "adverb/frequency",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Frequency",
+    "definitions": [
+      {
+        "meaning": "Comúnmente / Habitualmente",
+        "usage_example": "This is a commonly used phrase.",
+        "pronunciation_guide_es": "/dis_is_a_CO-mon-li_IUSD_FREIS/",
+        "usage_example_es": "Esta es una frase comúnmente usada.",
+        "char_count": 6,
+        "usage_context_en": "Very often; by most people.",
+        "usage_context_es": "Muy a menudo; por la mayoría de la gente."
+      }
+    ]
+  },
+  {
+    "name": "nevertheless",
+    "phonetic": "/ˌnɛvərðəˈlɛs/",
+    "spoken_phonetic_us": "/ˌnɛvərðəˈlɛs/",
+    "search_term": "adverb/connector/contrast",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Contrast",
+    "definitions": [
+      {
+        "meaning": "Sin embargo / No obstante (formal)",
+        "usage_example": "It was cold. Nevertheless, he went swimming.",
+        "pronunciation_guide_es": "/it_uas_COLD_ne-ver-de-LES_hi_UENT_SUI-ming/",
+        "usage_example_es": "Hacía frío. Sin embargo, fue a nadar.",
+        "char_count": 6,
+        "usage_context_en": "In spite of that; nonetheless (a very formal version of 'however').",
+        "usage_context_es": "A pesar de eso; no obstante (una versión muy formal de 'however')."
+      }
+    ]
+  },
+  {
+    "name": "nonetheless",
+    "phonetic": "/ˌnʌnðəˈlɛs/",
+    "spoken_phonetic_us": "/ˌnʌnðəˈlɛs/",
+    "search_term": "adverb/connector/contrast",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Contrast",
+    "definitions": [
+      {
+        "meaning": "Sin embargo / No obstante (formal)",
+        "usage_example": "The results are bad. Nonetheless, we must continue.",
+        "pronunciation_guide_es": "/de_ri-SOLTS_ar_BAD_non-de-LES_ui_most_con-TI-niu/",
+        "usage_example_es": "Los resultados son malos. No obstante, debemos continuar.",
+        "char_count": 7,
+        "usage_context_en": "In spite of that; nevertheless (also very formal).",
+        "usage_context_es": "A pesar de eso; sin embargo (también muy formal)."
+      }
+    ]
+  },
+  {
+    "name": "therefore",
+    "phonetic": "/ˈðɛərˌfɔr/",
+    "spoken_phonetic_us": "/ˈðɛrˌfɔr/",
+    "search_term": "adverb/connector/result",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Connectors: Cause & Effect",
+    "definitions": [
+      {
+        "meaning": "Por lo tanto / Por consiguiente (formal)",
+        "usage_example": "He is sick; therefore, he will not come.",
+        "pronunciation_guide_es": "/hi_is_SIK_DER-for_hi_uil_not_COM/",
+        "usage_example_es": "Él está enfermo; por lo tanto, no vendrá.",
+        "char_count": 7,
+        "usage_context_en": "For that reason; consequently (used in formal speech or writing).",
+        "usage_context_es": "Por esa razón; consecuentemente (usado en habla o escritura formal)."
+      }
+    ]
+  },
+  {
+    "name": "meanwhile",
+    "phonetic": "/ˈmiːnwaɪl/",
+    "spoken_phonetic_us": "/ˈmiːnwaɪl/",
+    "search_term": "adverb/time",
+    "is_verb": false,
+    "learned": false,
+    "force_generation": false,
+    "group_name": "Adverbs: Time",
+    "definitions": [
+      {
+        "meaning": "Mientras tanto",
+        "usage_example": "You cook dinner. Meanwhile, I will set the table.",
+        "pronunciation_guide_es": "/iu_CUK_DI-ner_MIN-uail_ai_uil_SET_de_TEI-bol/",
+        "usage_example_es": "Tú prepara la cena. Mientras tanto, yo pondré la mesa.",
+        "char_count": 8,
+        "usage_context_en": "In the intervening period of time; at the same time.",
+        "usage_context_es": "En el período de tiempo intermedio; al mismo tiempo."
+      }
+    ]
+  }
+]

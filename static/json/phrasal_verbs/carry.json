@@ -1,0 +1,75 @@
+[
+  {
+    "name": "carry on",
+    "phonetic": "/ˈkɛri ɑn/",
+    "spoken_phonetic_us": "/ˈkɛri ɑn/",
+    "search_term": "phrasal verb/continue/action",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Continuar (haciendo algo)",
+        "usage_example": "Please carry on with your work.",
+        "pronunciation_guide_es": "/plis_KEri_ON_uith_iur_UORK/",
+        "alternative_example": "Please continue with your work.",
+        "usage_example_es": "Por favor, continúa con tu trabajo.",
+        "char_count": "one",
+        "usage_context_en": "work/instructions",
+        "usage_context_es": "trabajo/instrucciones"
+      },
+      {
+        "meaning": "Comportarse mal, hacer un escándalo",
+        "usage_example": "He was carrying on about the noise.",
+        "pronunciation_guide_es": "/hi_uas_KEri-ing_ON_aBAUT_de_NOIS/",
+        "alternative_example": "He was complaining loudly about the noise.",
+        "usage_example_es": "Estaba haciendo un escándalo por el ruido.",
+        "char_count": "one",
+        "usage_context_en": "complaining/behavior",
+        "usage_context_es": "quejarse/comportamiento"
+      }
+    ]
+  },
+  {
+    "name": "carry out",
+    "phonetic": "/ˈkɛri aʊt/",
+    "spoken_phonetic_us": "/ˈkɛri aʊt/",
+    "search_term": "phrasal verb/execute/complete task",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Llevar a cabo, realizar (una tarea, un plan)",
+        "usage_example": "The team will carry out the plan.",
+        "pronunciation_guide_es": "/de_TIM_uil_KEri_AUT_de_PLAN/",
+        "alternative_example": "The team will execute the plan.",
+        "usage_example_es": "El equipo llevará a cabo el plan.",
+        "char_count": "one",
+        "usage_context_en": "work/project",
+        "usage_context_es": "trabajo/proyecto"
+      }
+    ]
+  },
+  {
+    "name": "carry over",
+    "phonetic": "/ˈkɛri ˈoʊvər/",
+    "spoken_phonetic_us": "/ˈkɛri ˈoʊvər/",
+    "search_term": "phrasal verb/transfer/continue",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Transferir (a un nuevo período o lugar)",
+        "usage_example": "Will my vacation days carry over to next year?",
+        "pronunciation_guide_es": "/uil_mai_veKEIshen_deis_KEri_Over_tu_nekst_YIR?/",
+        "alternative_example": "Will my vacation days transfer to next year?",
+        "usage_example_es": "¿Mis días de vacaciones se transferirán al próximo año?",
+        "char_count": "one",
+        "usage_context_en": "work/rules/finance",
+        "usage_context_es": "trabajo/reglas/finanzas"
+      }
+    ]
+  }
+]

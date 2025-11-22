@@ -1,0 +1,137 @@
+[
+  {
+    "name": "give up",
+    "phonetic": "/ɡɪv ʌp/",
+    "spoken_phonetic_us": "/ɡɪv ʌp/",
+    "search_term": "phrasal verb/quit/stop trying/surrender",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Rendirse, dejar de intentar",
+        "usage_example": "Don't give up. You can do it!",
+        "pronunciation_guide_es": "/dont_giv_AP. iu_kan_DU_it/",
+        "alternative_example": "Don't quit. You can do it!",
+        "usage_example_es": "No te rindas. ¡Tú puedes hacerlo!",
+        "char_count": "one",
+        "usage_context_en": "motivation/effort",
+        "usage_context_es": "motivación/esfuerzo"
+      },
+      {
+        "meaning": "Dejar (un vicio o hábito)",
+        "usage_example": "I need to give up smoking.",
+        "pronunciation_guide_es": "/ai_NID_tu_giv_AP_SMOking/",
+        "alternative_example": "I need to quit smoking.",
+        "usage_example_es": "Necesito dejar de fumar.",
+        "char_count": "one",
+        "usage_context_en": "habits/health",
+        "usage_context_es": "hábitos/salud"
+      }
+    ]
+  },
+  {
+    "name": "give back",
+    "phonetic": "/ɡɪv bæk/",
+    "spoken_phonetic_us": "/ɡɪv bæk/",
+    "search_term": "phrasal verb/return/repay",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Devolver (algo prestado)",
+        "usage_example": "You need to give back the money you borrowed.",
+        "pronunciation_guide_es": "/iu_NID_tu_giv_BAK_de_MOni_iu_BOrroud/",
+        "alternative_example": "You need to return the money you borrowed.",
+        "usage_example_es": "Necesitas devolver el dinero que pediste prestado.",
+        "char_count": "one",
+        "usage_context_en": "returning items/money",
+        "usage_context_es": "devolver objetos/dinero"
+      }
+    ]
+  },
+  {
+    "name": "give in",
+    "phonetic": "/ɡɪv ɪn/",
+    "spoken_phonetic_us": "/ɡɪv ɪn/",
+    "search_term": "phrasal verb/surrender/yield",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Ceder, darse por vencido (ante presión)",
+        "usage_example": "He argued for a while, but finally gave in.",
+        "pronunciation_guide_es": "/hi_ARguid_for_a_UAIL, bat_FAInali_gueiv_IN/",
+        "alternative_example": "He argued for a while, but finally yielded.",
+        "usage_example_es": "Discutió un rato, pero finalmente cedió.",
+        "char_count": "one",
+        "usage_context_en": "argument/pressure",
+        "usage_context_es": "discusión/presión"
+      }
+    ]
+  },
+  {
+    "name": "give away",
+    "phonetic": "/ɡɪv əˈweɪ/",
+    "spoken_phonetic_us": "/ɡɪv əˈweɪ/",
+    "search_term": "phrasal verb/donate/reveal secret",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Regalar, donar (algo gratis)",
+        "usage_example": "I'm giving away my old books.",
+        "pronunciation_guide_es": "/aim_GIving_aUEI_mai_OLD_BUKS/",
+        "alternative_example": "I'm donating my old books.",
+        "usage_example_es": "Estoy regalando (donando) mis libros viejos.",
+        "char_count": "one",
+        "usage_context_en": "donating items",
+        "usage_context_es": "donar objetos"
+      },
+      {
+        "meaning": "Revelar (un secreto, una sorpresa)",
+        "usage_example": "Don't give away the secret!",
+        "pronunciation_guide_es": "/dont_giv_aUEI_de_SIkret/",
+        "alternative_example": "Don't reveal the secret!",
+        "usage_example_es": "¡No reveles el secreto!",
+        "char_count": "one",
+        "usage_context_en": "secrets/information",
+        "usage_context_es": "secretos/información"
+      }
+    ]
+  },
+  {
+    "name": "give out",
+    "phonetic": "/ɡɪv aʊt/",
+    "spoken_phonetic_us": "/ɡɪ 'vaʊt/",
+    "search_term": "phrasal verb/distribute/fail",
+    "is_phrasal_verb": true,
+    "learned": false,
+    "force_generation": false,
+    "definitions": [
+      {
+        "meaning": "Repartir, distribuir (gratis)",
+        "usage_example": "The store is giving out free samples.",
+        "pronunciation_guide_es": "/de_STOR_is_GIving_AUT_fri_SAMpols/",
+        "alternative_example": "The store is distributing free samples.",
+        "usage_example_es": "La tienda está repartiendo muestras gratis.",
+        "char_count": "one",
+        "usage_context_en": "distributing items",
+        "usage_context_es": "repartir objetos"
+      },
+      {
+        "meaning": "Dejar de funcionar, fallar (un motor, batería)",
+        "usage_example": "The batteries are about to give out.",
+        "pronunciation_guide_es": "/de_BAreris_ar_aBAUT_tu_giv_AUT/",
+        "alternative_example": "The batteries are about to fail.",
+        "usage_example_es": "Las baterías están a punto de agotarse (fallar).",
+        "char_count": "one",
+        "usage_context_en": "failure/machines",
+        "usage_context_es": "fallo/máquinas"
+      }
+    ]
+  }
+]
