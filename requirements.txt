@@ -3,6 +3,7 @@ uvicorn
 python-multipart
 google-cloud-storage
 google-cloud-aiplatform
+google-cloud-texttospeech
 python-dotenv
 pydantic-settings
 requests
