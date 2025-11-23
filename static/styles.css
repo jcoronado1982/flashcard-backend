@@ -15,7 +15,7 @@ body {
 .flashcard-container {
     width: 95%;
     max-width: 600px;
-    height: 650px; 
+    height: 650px;
     margin-bottom: 20px;
 }
 
@@ -33,20 +33,21 @@ body {
     transform: rotateY(180deg);
 }
 
-.card-front, .card-back {
+.card-front,
+.card-back {
     position: absolute;
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
     background-color: #ffffff;
     border-radius: 20px;
-    padding: 30px 30px 20px 30px; 
+    padding: 30px 30px 20px 30px;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    overflow: hidden; 
+    overflow: hidden;
 }
 
 .card-back {
@@ -73,37 +74,225 @@ body {
 #allExamplesContainer {
     width: 100%;
     text-align: left;
-    flex-grow: 0; 
-    flex-shrink: 0; 
-    overflow-y: hidden; 
+    flex-grow: 0;
+    flex-shrink: 0;
+    overflow-y: hidden;
     margin-bottom: 0;
     padding-bottom: 15px;
 }
 
-#allExamplesContainer ul { list-style-type: none; padding: 0; margin: 0; }
-#allExamplesContainer li { display: flex; align-items: flex-start; margin-bottom: 15px; padding: 0; border-radius: 10px; 
-    transition: background-color 0.3s ease; position: relative; }
-#allExamplesContainer li:last-child { margin-bottom: 0; }
-#allExamplesContainer li button { background-color: #E6F0FF; border: none; border-radius: 50%; width: 40px; height: 40px; font-size: 1.2em; cursor: pointer; flex-shrink: 0; margin-right: 15px; display: flex; align-items: center; justify-content: center; margin-top: 3px; }
-#allExamplesContainer li div { line-height: 1.6; font-size: 1.3em; white-space: normal; overflow: hidden; text-overflow: ellipsis; }
-#allExamplesContainer li div span { transition: transform 0.05s ease; padding: 1px 0px; color: #333; font-weight: 500; font-size: 1.15em; }
+#allExamplesContainer ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
 
-#imagePlaceholder { width: 100%; flex-grow: 1; min-height: 200px; margin-top: auto; border-radius: 15px; overflow: hidden; display: flex; justify-content: center; align-items: center; background-color: #e9ecef; position: relative; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05); }
-#image { width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.5s ease; }
-#loadingGif { position: absolute; width: 100px; height: 100px; display: none; }
-#soundButton, #deleteImageButton { padding: 10px; font-size: 1.2em; border: none; border-radius: 50%; cursor: pointer; box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2); z-index: 10; position: absolute; background-color: #ffffff; transition: all 0.2s; }
-#soundButton { top: 20px; right: 20px; color: #007bff; }
-#deleteImageButton { padding: 10px; font-size: 1.2em; border: none; border-radius: 50%; cursor: pointer; box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2); z-index: 10; position: absolute; background-color: transparent; transition: all 0.2s; color: #dc3545; display: none; opacity: 1; pointer-events: auto; top: 10px; right: 10px; }
-.active-example-line { background-color: #E3F2FD; border: none; padding: 8px 1px !important; transition: all 0.3s ease-in-out; }
-.highlighted-word { background-color: #FFC107; color: #333333; font-weight: 900; font-size: 1.25em; text-shadow: none; transform: scale(1.05); display: inline-block; padding: 7px 7px !important; margin: 0 3px; border-radius: 4px; transition: all 0.2s ease-out; }
-#exampleBackContainer { width: 100%; }
-.definition-block-back { margin-bottom: 30px; text-align: center; border-bottom: 1px solid #e0e0e0; padding-bottom: 25px; }
-.definition-block-back:last-child { border-bottom: none; margin-bottom: 0; }
-.meaning-sentence { font-size: 1.5em; font-weight: 400; color: #333; margin-bottom: 15px; }
-.phrasal-verb-back { font-weight: 700; color: #007bff; text-transform: capitalize; }
-.meaning-back { font-weight: 700; color: #28a745; }
-.usage-example-en { font-size: 1.2em; color: #212529; font-style: italic; margin: 0 0 8px 0; }
-.usage-example-es { font-size: 1.1em; color: #6c757d; margin: 0; }
+#allExamplesContainer li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 15px;
+    padding: 0;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    position: relative;
+}
+
+#allExamplesContainer li:last-child {
+    margin-bottom: 0;
+}
+
+#allExamplesContainer li button {
+    background-color: #E6F0FF;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 1.2em;
+    cursor: pointer;
+    flex-shrink: 0;
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3px;
+}
+
+#allExamplesContainer li div {
+    line-height: 1.6;
+    font-size: 1.3em;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#allExamplesContainer li div span {
+    transition: transform 0.05s ease;
+    padding: 1px 0px;
+    color: #333;
+    font-weight: 500;
+    font-size: 1.15em;
+}
+
+#imagePlaceholder {
+    width: 100%;
+    flex-grow: 1;
+    min-height: 200px;
+    margin-top: auto;
+    border-radius: 15px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e9ecef;
+    position: relative;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+#image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+/* Modern CSS Spinner */
+.spinner {
+    display: none;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    z-index: 5;
+}
+
+.spinner:after {
+    content: " ";
+    display: block;
+    width: 96px;
+    height: 96px;
+    margin: 12px;
+    border-radius: 50%;
+    border: 8px solid #007bff;
+    border-color: #007bff transparent #007bff transparent;
+    animation: spinner-ring 1.2s linear infinite;
+}
+
+@keyframes spinner-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+#soundButton,
+#deleteImageButton {
+    padding: 10px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+    position: absolute;
+    background-color: #ffffff;
+    transition: all 0.2s;
+}
+
+#soundButton {
+    top: 20px;
+    right: 20px;
+    color: #007bff;
+}
+
+#deleteImageButton {
+    padding: 10px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+    position: absolute;
+    background-color: transparent;
+    transition: all 0.2s;
+    color: #dc3545;
+    display: none;
+    opacity: 1;
+    pointer-events: auto;
+    top: 10px;
+    right: 10px;
+}
+
+.active-example-line {
+    background-color: #E3F2FD;
+    border: none;
+    padding: 8px 1px !important;
+    transition: all 0.3s ease-in-out;
+}
+
+.highlighted-word {
+    background-color: #FFC107;
+    color: #333333;
+    font-weight: 900;
+    font-size: 1.25em;
+    text-shadow: none;
+    transform: scale(1.05);
+    display: inline-block;
+    padding: 7px 7px !important;
+    margin: 0 3px;
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+}
+
+#exampleBackContainer {
+    width: 100%;
+}
+
+.definition-block-back {
+    margin-bottom: 30px;
+    text-align: center;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 25px;
+}
+
+.definition-block-back:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.meaning-sentence {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.phrasal-verb-back {
+    font-weight: 700;
+    color: #007bff;
+    text-transform: capitalize;
+}
+
+.meaning-back {
+    font-weight: 700;
+    color: #28a745;
+}
+
+.usage-example-en {
+    font-size: 1.2em;
+    color: #212529;
+    font-style: italic;
+    margin: 0 0 8px 0;
+}
+
+.usage-example-es {
+    font-size: 1.1em;
+    color: #6c757d;
+    margin: 0;
+}
 
 #message {
     margin-top: 10px;
@@ -113,25 +302,232 @@ body {
     transition: color 0.3s ease;
 }
 
-.loading-audio::before { content: '⏳ Cargando audio...'; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(227, 242, 253, 0.95); color: #007bff; font-weight: 600; font-size: 1.1em; display: flex; justify-content: center; align-items: center; border-radius: 10px; z-index: 10; pointer-events: none; }
-.phonetic-container { display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 5px; }
-.phonetic-container .phonetic { margin: 0; }
-#ipaChartBtn { background-color: transparent; border: none; border-radius: 50%; width: 32px; height: 32px; font-size: 1.2em; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: transform 0.2s; }
-#ipaChartBtn:hover { background-color: #d0e8ff; transform: scale(1.2); }
-.modal { display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.6); }
-.modal-content { background-color: #fefefe; margin: 10% auto; padding: 0px 0px 10px 0px; border: 1px solid #888; width: 80%; max-width: 580px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); position: relative; animation: fadeIn 0.3s; }
-@keyframes fadeIn { from {opacity: 0; transform: scale(0.9);} to {opacity: 1; transform: scale(1);} }
-.close-button { color: #aaa; float: right; font-size: 28px; font-weight: bold; position: absolute; top: 10px; right: 20px; cursor: pointer; }
-#ipa-chart { position: relative; width: 530px; height: 370px; background-image: url('/static/vowel_trapezoid.png'); background-repeat: no-repeat; background-size: contain; margin: 15px auto 0 auto; }
-.ipa-btn { position: absolute; background: #7CFC00; border: 1px solid rgba(0,0,0,0.3); border-radius: 8px; font-weight: bold; font-size: 16px; padding: 4px 8px; cursor: pointer; box-shadow: 0 2px 5px rgba(0,0,0,0.2); transition: transform 0.2s ease, background-color 0.2s ease; text-align: center; min-width: 25px; }
-.ipa-btn:hover { background-color: #32CD32; transform: scale(1.15); }
-#ipa-i-long { top: 13px; left: 40px; } #ipa-i-short { top: 60px; left: 130px; } #ipa-e { top: 224px; left: 180px; } #ipa-ae { top: 328px; left: 248px; } #ipa-schwa { top: 165px; left: 300px; } #ipa-uh { top: 224px; left: 354px; } #ipa-a-long { top: 330px; left: 460px; } #ipa-o-long { top: 164px; left: 462px; } #ipa-u-short { top: 60px; left: 410px; } #ipa-u-long { top: 13px; left: 462px; } #ipa-o-short { top: 330px; left: 400px; } #ipa-er { top: 224px; left: 318px; }
-.alternative-example { font-size: 1.2em; font-style: italic; color: #343a40; margin-top: 12px; margin-bottom: 12px; }
-.alternative-example em { font-weight: 600; color: #6c757d; font-style: normal; }
-.usage-example-en strong { color: #0d6efd; font-weight: 700; }
-#allExamplesContainer li div.blurred-text { filter: blur(4px); transition: filter 0.3s ease-in-out; cursor: pointer; pointer-events: auto; color: #666; }
-#allExamplesContainer li div.blurred-text span { color: #666; }
-.all-done-message { font-size: 1.8em; font-weight: 600; color: #28a745; text-align: center; padding: 50px; }
+.loading-audio::before {
+    content: '⏳ Cargando audio...';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(227, 242, 253, 0.95);
+    color: #007bff;
+    font-weight: 600;
+    font-size: 1.1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    z-index: 10;
+    pointer-events: none;
+}
+
+.phonetic-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 5px;
+}
+
+.phonetic-container .phonetic {
+    margin: 0;
+}
+
+#ipaChartBtn {
+    background-color: transparent;
+    border: none;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    font-size: 1.2em;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s;
+}
+
+#ipaChartBtn:hover {
+    background-color: #d0e8ff;
+    transform: scale(1.2);
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 10% auto;
+    padding: 0px 0px 10px 0px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 580px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    position: relative;
+    animation: fadeIn 0.3s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.close-button {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    cursor: pointer;
+}
+
+#ipa-chart {
+    position: relative;
+    width: 530px;
+    height: 370px;
+    background-image: url('/static/vowel_trapezoid.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 15px auto 0 auto;
+}
+
+.ipa-btn {
+    position: absolute;
+    background: #7CFC00;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 4px 8px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease, background-color 0.2s ease;
+    text-align: center;
+    min-width: 25px;
+}
+
+.ipa-btn:hover {
+    background-color: #32CD32;
+    transform: scale(1.15);
+}
+
+#ipa-i-long {
+    top: 13px;
+    left: 40px;
+}
+
+#ipa-i-short {
+    top: 60px;
+    left: 130px;
+}
+
+#ipa-e {
+    top: 224px;
+    left: 180px;
+}
+
+#ipa-ae {
+    top: 328px;
+    left: 248px;
+}
+
+#ipa-schwa {
+    top: 165px;
+    left: 300px;
+}
+
+#ipa-uh {
+    top: 224px;
+    left: 354px;
+}
+
+#ipa-a-long {
+    top: 330px;
+    left: 460px;
+}
+
+#ipa-o-long {
+    top: 164px;
+    left: 462px;
+}
+
+#ipa-u-short {
+    top: 60px;
+    left: 410px;
+}
+
+#ipa-u-long {
+    top: 13px;
+    left: 462px;
+}
+
+#ipa-o-short {
+    top: 330px;
+    left: 400px;
+}
+
+#ipa-er {
+    top: 224px;
+    left: 318px;
+}
+
+.alternative-example {
+    font-size: 1.2em;
+    font-style: italic;
+    color: #343a40;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.alternative-example em {
+    font-weight: 600;
+    color: #6c757d;
+    font-style: normal;
+}
+
+.usage-example-en strong {
+    color: #0d6efd;
+    font-weight: 700;
+}
+
+#allExamplesContainer li div.blurred-text {
+    filter: blur(4px);
+    transition: filter 0.3s ease-in-out;
+    cursor: pointer;
+    pointer-events: auto;
+    color: #666;
+}
+
+#allExamplesContainer li div.blurred-text span {
+    color: #666;
+}
+
+.all-done-message {
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #28a745;
+    text-align: center;
+    padding: 50px;
+}
 
 
 /****************************************************************/
@@ -141,20 +537,28 @@ body {
 #controls {
     display: flex;
     justify-content: center;
-    align-items: center; /* Centra verticalmente todos los elementos */
-    gap: 20px; /* Aumenta el espacio entre elementos */
+    align-items: center;
+    /* Centra verticalmente todos los elementos */
+    gap: 20px;
+    /* Aumenta el espacio entre elementos */
     margin-top: 15px;
     width: 100%;
-    max-width: 600px; /* Consistente con el ancho de la tarjeta */
+    max-width: 600px;
+    /* Consistente con el ancho de la tarjeta */
 }
 
 /* --- ESTILOS MODIFICADOS PARA BOTONES DE NAVEGACIÓN (.nav) --- */
 .nav {
-    width: 60px; /* Ancho fijo */
-    height: 60px; /* Alto fijo */
-    padding: 0; /* Eliminar padding para que el SVG se centre bien */
-    border-radius: 50%; /* Círculo perfecto */
-    display: flex; /* Para centrar el SVG */
+    width: 60px;
+    /* Ancho fijo */
+    height: 60px;
+    /* Alto fijo */
+    padding: 0;
+    /* Eliminar padding para que el SVG se centre bien */
+    border-radius: 50%;
+    /* Círculo perfecto */
+    display: flex;
+    /* Para centrar el SVG */
     align-items: center;
     justify-content: center;
     font-size: 1.1em;
@@ -171,7 +575,8 @@ body {
 }
 
 #prevCardBtn svg {
-    stroke: #333; /* Color de la flecha */
+    stroke: #333;
+    /* Color de la flecha */
 }
 
 #nextCardBtn {
@@ -179,7 +584,8 @@ body {
 }
 
 #nextCardBtn svg {
-    stroke: white; /* Color de la flecha */
+    stroke: white;
+    /* Color de la flecha */
 }
 
 .nav:hover:not(:disabled) {
@@ -197,7 +603,8 @@ body {
 .action-btn {
     background-color: #ffffff;
     border: 1px solid #ddd;
-    border-radius: 50%; /* Círculo perfecto */
+    border-radius: 50%;
+    /* Círculo perfecto */
     width: 50px;
     height: 50px;
     cursor: pointer;
@@ -222,7 +629,8 @@ body {
 }
 
 #resetButton svg {
-    stroke: #ff4757; /* Rojo */
+    stroke: #ff4757;
+    /* Rojo */
 }
 
 #correctButton {
@@ -230,7 +638,8 @@ body {
 }
 
 #correctButton svg {
-    stroke: #28a745; /* Verde */
+    stroke: #28a745;
+    /* Verde */
 }
 
 #cardCounter {
@@ -238,6 +647,7 @@ body {
     font-weight: 700;
     color: #333;
     margin: 0;
-    min-width: 60px; /* Espacio mínimo para el contador */
+    min-width: 60px;
+    /* Espacio mínimo para el contador */
     text-align: center;
 }

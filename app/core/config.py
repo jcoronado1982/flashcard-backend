@@ -13,6 +13,13 @@ class Settings(BaseSettings):
     PROJECT_ID: str
     REGION: str = "us-central1"
     
+    # GCS Configuration
+    GCS_BUCKET_NAME: str = "theruby-assets"
+    GCS_JSON_PREFIX: str = "json"
+    GCS_IMAGES_PREFIX: str = "card_images"
+    GCS_AUDIO_PREFIX: str = "card_audio"
+    
+    # Legacy local paths (kept for phonics data only)
     CARD_IMAGES_BASE_DIR: str = "card_images"
     AUDIO_DIR: str = "card_audio"
     STATIC_DIR: str = "static"
@@ -46,13 +53,12 @@ class Settings(BaseSettings):
 
 settings = Settings()
 
-# --- Crear Directorios (¡CORREGIDO!) ---
-# Usamos las propiedades de ruta calculadas para asegurar que se creen
-# en la raíz del proyecto (relativo a BASE_DIR)
-os.makedirs(settings.AUDIO_DIR_PATH, exist_ok=True)
-os.makedirs(settings.JSON_DIR_PATH, exist_ok=True)
-os.makedirs(settings.IMAGES_BASE_PATH, exist_ok=True)
-logging.info(f"Directorios asegurados en: {settings.BASE_DIR}")
+# --- Crear Directorios Locales (Solo para Phonics) ---
+# Los datos de JSON, imágenes y audio ahora están en GCS
+# Solo mantenemos el directorio de phonics que es data estática local
+phonics_dir = settings.BASE_DIR / settings.STATIC_DIR / "phonics_audio"
+os.makedirs(phonics_dir, exist_ok=True)
+logging.info(f"Directorio de phonics asegurado en: {phonics_dir}")
 
 
 # --- Inicialización de Clientes de Google ---

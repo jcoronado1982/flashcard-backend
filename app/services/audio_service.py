@@ -3,29 +3,24 @@ import hashlib
 import logging
 import re
 from typing import Optional, Tuple
-from pathlib import Path
 from starlette.concurrency import run_in_threadpool
 from google.cloud import texttospeech
 from google.api_core.exceptions import InvalidArgument
 
 # Importaciones reales
 from app.core.config import settings, tts_client
+from app.services.gcs_helper import GCSHelper
 
 
 # ============================================================
 # --- FUNCIONES AUXILIARES ---
 # ============================================================
 
-# --- ¡MODIFICADA! ---
-def _get_audio_dir_for_deck(category: str, deck_name: str) -> Path:
-    """Retorna la ruta al directorio de audio para un deck y asegura que exista."""
+# --- ¡REFACTORIZADA PARA GCS! ---
+def _get_audio_blob_prefix(category: str, deck_name: str) -> str:
+    """Retorna el prefijo del blob en GCS para los archivos de audio de un deck."""
     folder_name = deck_name.replace(".json", "")
-    
-    # Crea la ruta incluyendo la categoría
-    deck_audio_dir = settings.BASE_DIR / settings.AUDIO_DIR / category / folder_name
-    
-    os.makedirs(deck_audio_dir, exist_ok=True)
-    return deck_audio_dir
+    return f"{settings.GCS_AUDIO_PREFIX}/{category}/{folder_name}"
 
 
 def _to_safe_filename(text: str) -> str:
@@ -36,31 +31,32 @@ def _to_safe_filename(text: str) -> str:
     return safe_text[:50].strip('_')
 
 
-# --- ¡MODIFICADA! ---
-def get_audio_filepath(category: str, deck_name: str, filename: str) -> Path:
-    """Construye la ruta completa para un archivo de audio usando el nombre de archivo final."""
-    # Pasa la categoría a la función helper
-    audio_dir = _get_audio_dir_for_deck(category, deck_name)
-    return audio_dir / filename
+# --- ¡REFACTORIZADA PARA GCS! ---
+def get_audio_blob_path(category: str, deck_name: str, filename: str) -> str:
+    """Construye la ruta completa del blob en GCS para un archivo de audio."""
+    prefix = _get_audio_blob_prefix(category, deck_name)
+    return f"{prefix}/{filename}"
 
 
 # ============================================================
 # --- FUNCIÓN PRINCIPAL ---
 # ============================================================
 
-# --- ¡MODIFICADA! ---
+# --- ¡REFACTORIZADA PARA GCS! ---
 async def synthesize_speech_file(
-    category: str,  # <-- ¡AÑADIDO!
+    category: str,
     deck_name: str,
     text: str,
     voice_name: str,
     model_name: Optional[str],
     tone: str,
     verb_name: str,
-) -> Tuple[bool, Path | None, str]:
+) -> Tuple[bool, str | None, str]:
     """
-    Genera (o reutiliza) un archivo de audio para la frase indicada.
+    Genera (o reutiliza) un archivo de audio para la frase indicada y lo sube a GCS.
+    Retorna (success, blob_path_or_url, error_message)
     """
+    gcs = GCSHelper()
     original_text = text.strip()
 
     # 1️⃣ Preparar texto para el modelo TTS
@@ -85,41 +81,40 @@ async def synthesize_speech_file(
     # Nombre del archivo final
     new_filename = f"{deck_prefix}_{safe_verb_name}_{safe_text}_{tone_prefix}_{current_hash}.mp3"
     
-    # --- ¡MODIFICADO! ---
-    # Pasa la categoría a las funciones helper
-    filepath_current = get_audio_filepath(category, deck_name, new_filename)
-    deck_dir = _get_audio_dir_for_deck(category, deck_name)
-    # --- FIN MODIFICACIÓN ---
-
+    # Ruta del blob en GCS
+    blob_path_current = get_audio_blob_path(category, deck_name, new_filename)
+    blob_prefix = _get_audio_blob_prefix(category, deck_name)
 
     # ============================================================
-    # --- VALIDACIÓN: EXISTE AUDIO DE LA MISMA FRASE ---
+    # --- VALIDACIÓN: EXISTE AUDIO DE LA MISMA FRASE EN GCS ---
     # ============================================================
-    pattern = f"{deck_prefix}_{safe_verb_name}_{safe_text}_*.mp3"
-    existing_files = list(deck_dir.glob(pattern))
+    pattern = f"{deck_prefix}_{safe_verb_name}_{safe_text}_"
+    
+    # Listar blobs con el prefijo del deck
+    existing_blobs = gcs.list_blobs_with_prefix(blob_prefix, extension=".mp3")
+    
+    # Filtrar por el patrón de la frase específica
+    matching_blobs = [blob for blob in existing_blobs if pattern in blob]
 
-    if existing_files:
-        # Tomamos el archivo más reciente (último generado)
-        latest_file = max(existing_files, key=lambda f: f.stat().st_mtime)
-        filename = latest_file.name
+    if matching_blobs:
+        # Tomamos el primer archivo encontrado (en GCS no tenemos timestamps fáciles)
+        latest_blob = matching_blobs[0]
+        filename = latest_blob.split("/")[-1]
 
         # Extraer el tono actual del archivo existente
         match = re.search(rf"{deck_prefix}_{safe_verb_name}_{safe_text}_(.+?)_[0-9a-f]+\.mp3$", filename)
         tone_from_filename = match.group(1).replace("_", " ") if match else "default"
 
-        logging.info(f"🎧 Audio existente encontrado: {filename} (tono: {tone_from_filename})")
+        logging.info(f"🎧 Audio existente encontrado en GCS: {filename} (tono: {tone_from_filename})")
 
         # Comparar tono actual con el nuevo
         if tone_from_filename.lower() == tone_prefix.replace("_", " ").lower():
             logging.info(f"🔁 Misma frase y mismo tono — reutilizando audio existente.")
-            return True, latest_file, ""
+            return True, gcs.get_public_url(latest_blob), ""
         else:
             logging.info(f"⚠️ Misma frase pero tono distinto ('{tone_from_filename}' → '{tone_prefix}') — regenerando.")
-            try:
-                os.remove(latest_file)
-                logging.info(f"🗑️ Eliminado audio anterior: {latest_file.name}")
-            except OSError as e:
-                logging.warning(f"No se pudo eliminar el archivo anterior: {e}")
+            gcs.delete_blob(latest_blob)
+            logging.info(f"🗑️ Eliminado audio anterior de GCS: {filename}")
 
     # ============================================================
     # --- GENERACIÓN NUEVA ---
@@ -150,20 +145,23 @@ async def synthesize_speech_file(
             audio_config=audio_config
         )
 
-        with open(filepath_current, "wb") as out:
-            out.write(response.audio_content)
-
-        logging.info(f"✅ Audio creado: {filepath_current.name}")
-        return True, filepath_current, ""
+        # Subir audio directamente a GCS
+        success = gcs.upload_blob_from_bytes(
+            blob_path_current, 
+            response.audio_content, 
+            content_type="audio/mpeg"
+        )
+        
+        if success:
+            logging.info(f"✅ Audio creado y subido a GCS: {new_filename}")
+            return True, gcs.get_public_url(blob_path_current), ""
+        else:
+            return False, None, "Error al subir audio a GCS."
 
     except InvalidArgument as e:
         logging.error(f"❌ Error 400 en TTS: {e}")
-        if filepath_current.exists():
-            os.remove(filepath_current)
         return False, None, f"Error 400: Parámetros de voz/modelo inválidos. Detalle: {e}"
 
     except Exception as e:
         logging.error(f"❌ Error general al generar audio: {e}")
-        if filepath_current.exists():
-            os.remove(filepath_current)
         return False, None, f"Error de síntesis de voz: {e}"

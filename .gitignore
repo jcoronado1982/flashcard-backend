@@ -24,3 +24,5 @@ venv/
 build/
 dist/
 *.egg-info/
+credentials.json
+credentials.json

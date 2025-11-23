@@ -52,7 +52,7 @@ async function playAudioFromApi(text, itemElement = null) {
 
     toggleNavigation(true);
     if (itemElement) itemElement.classList.add('active-example-line');
-    
+
     if (itemElement && itemElement.tagName === 'LI') {
         itemElement.classList.add('loading-audio');
     } else {
@@ -66,7 +66,15 @@ async function playAudioFromApi(text, itemElement = null) {
         const response = await fetch(`${API_URL}/api/synthesize-speech`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ text, voice_name, model_name })
+            body: JSON.stringify({
+                text,
+                voice_name,
+                model_name,
+                category: filteredFlashcardsData[currentIndex].category || "phrasal_verbs", // Fallback seguro
+                deck: filteredFlashcardsData[currentIndex].deck_name || "unknown",
+                verb_name: filteredFlashcardsData[currentIndex].name,
+                tone: "Read this like a news anchor"
+            })
         });
 
         if (!response.ok) {
@@ -74,49 +82,63 @@ async function playAudioFromApi(text, itemElement = null) {
             throw new Error(error.detail || 'Error en la API de voz.');
         }
 
-        const audioBlob = await response.blob();
-        const audioUrl = URL.createObjectURL(audioBlob);
-        audioPlayer.src = audioUrl;
+        // --- CAMBIO CLAVE: Manejar respuesta JSON con URL en lugar de Blob ---
+        const data = await response.json();
 
-        if (itemElement) {
-            const textContainer = itemElement.id === 'name' ? itemElement : itemElement.querySelector('div');
-            const wordSpans = textContainer ? Array.from(textContainer.children).filter(el => el.tagName === 'SPAN') : [];
-            let lastHighlightedIndex = -1;
+        if (data.success && data.audio_url) {
+            // Convertir URL absoluta de GCS a ruta relativa para usar el redirect del backend
+            // GCS URL: https://storage.googleapis.com/bucket/card_audio/category/deck/file.mp3
+            // Ruta relativa: /card_audio/category/deck/file.mp3
 
-            audioPlayer.onloadedmetadata = () => {
-                const audioDuration = audioPlayer.duration;
-                if (!audioDuration || wordSpans.length === 0) return;
-                const timePerWord = audioDuration / wordSpans.length;
+            let audioSrc = data.audio_url;
+            if (audioSrc.includes('/card_audio/')) {
+                const relativePath = audioSrc.split('/card_audio/')[1];
+                audioSrc = `${API_URL}/card_audio/${relativePath}`;
+            }
 
-                audioPlayer.ontimeupdate = () => {
-                    const currentTime = audioPlayer.currentTime + SYNC_OFFSET;
-                    const currentWordIndex = Math.floor(currentTime / timePerWord);
+            audioPlayer.src = audioSrc;
 
-                    if (currentWordIndex !== lastHighlightedIndex) {
-                        if (lastHighlightedIndex >= 0 && wordSpans[lastHighlightedIndex]) {
-                            wordSpans[lastHighlightedIndex].classList.remove('highlighted-word');
+            if (itemElement) {
+                const textContainer = itemElement.id === 'name' ? itemElement : itemElement.querySelector('div');
+                const wordSpans = textContainer ? Array.from(textContainer.children).filter(el => el.tagName === 'SPAN') : [];
+                let lastHighlightedIndex = -1;
+
+                audioPlayer.onloadedmetadata = () => {
+                    const audioDuration = audioPlayer.duration;
+                    if (!audioDuration || wordSpans.length === 0) return;
+                    const timePerWord = audioDuration / wordSpans.length;
+
+                    audioPlayer.ontimeupdate = () => {
+                        const currentTime = audioPlayer.currentTime + SYNC_OFFSET;
+                        const currentWordIndex = Math.floor(currentTime / timePerWord);
+
+                        if (currentWordIndex !== lastHighlightedIndex) {
+                            if (lastHighlightedIndex >= 0 && wordSpans[lastHighlightedIndex]) {
+                                wordSpans[lastHighlightedIndex].classList.remove('highlighted-word');
+                            }
+                            if (currentWordIndex >= 0 && currentWordIndex < wordSpans.length) {
+                                wordSpans[currentWordIndex].classList.add('highlighted-word');
+                            }
+                            lastHighlightedIndex = currentWordIndex;
                         }
-                        if (currentWordIndex >= 0 && currentWordIndex < wordSpans.length) {
-                            wordSpans[currentWordIndex].classList.add('highlighted-word');
-                        }
-                        lastHighlightedIndex = currentWordIndex;
-                    }
+                    };
                 };
+            }
+
+            await audioPlayer.play();
+            isAudioPlaying = true;
+            showAppMessage("▶️ Reproduciendo...");
+
+            audioPlayer.onended = () => {
+                if (itemElement) itemElement.classList.remove('active-example-line');
+                document.querySelectorAll('.highlighted-word').forEach(el => el.classList.remove('highlighted-word'));
+                showAppMessage("Audio finalizado.");
+                toggleNavigation(false);
+                isAudioPlaying = false;
             };
+        } else {
+            throw new Error("La respuesta de audio no contiene una URL válida.");
         }
-
-        await audioPlayer.play();
-        isAudioPlaying = true;
-        showAppMessage("▶️ Reproduciendo...");
-
-        audioPlayer.onended = () => {
-            if (itemElement) itemElement.classList.remove('active-example-line');
-            document.querySelectorAll('.highlighted-word').forEach(el => el.classList.remove('highlighted-word'));
-            showAppMessage("Audio finalizado.");
-            toggleNavigation(false);
-            isAudioPlaying = false;
-            URL.revokeObjectURL(audioUrl);
-        };
 
     } catch (error) {
         showAppMessage(`❌ Error de TTS: ${error.message}`, true);
@@ -167,7 +189,7 @@ function renderFrontExamples(card) {
             span.textContent = word + ' ';
             textContainer.appendChild(span);
         });
-        
+
         item.append(playButton, textContainer);
         list.appendChild(item);
     });
@@ -177,10 +199,10 @@ function renderFrontExamples(card) {
 function renderCardName(card) {
     const nameElement = document.getElementById('name');
     nameElement.innerHTML = '';
-    
+
     card.name.trim().split(/\s+/).forEach(word => {
         const span = document.createElement('span');
-        span.classList.add('card-name-word'); 
+        span.classList.add('card-name-word');
         span.textContent = word + ' ';
         nameElement.appendChild(span);
     });
@@ -196,7 +218,7 @@ function renderBackCard(card) {
 
         const verbRegex = new RegExp(`\\b(${card.name})\\b`, 'i');
         const highlightedExample = def.usage_example.replace(verbRegex, `<strong>$1</strong>`);
-        
+
         let alternativeExampleHTML = '';
         if (card.is_phrasal_verb && def.alternative_example) {
             alternativeExampleHTML = `<p class="alternative-example"><em>Alternativa:</em> "${def.alternative_example}"</p>`;
@@ -278,31 +300,31 @@ function generateAndLoadImage(card) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ index: card.id, def_index: 0, prompt })
     })
-    .then(res => res.ok ? res.json() : Promise.reject(res.json()))
-    .then(data => {
-        const newImagePath = `${API_URL}${data.path}?t=${Date.now()}`;
-        const tempImg = new Image();
-        tempImg.src = newImagePath;
-        
-        filteredFlashcardsData[currentIndex].imagePath = data.path;
+        .then(res => res.ok ? res.json() : Promise.reject(res.json()))
+        .then(data => {
+            const newImagePath = `${API_URL}${data.path}?t=${Date.now()}`;
+            const tempImg = new Image();
+            tempImg.src = newImagePath;
 
-        tempImg.onload = () => {
-            img.src = newImagePath;
-            img.style.opacity = '1';
-            deleteImageButton.style.display = 'flex';
+            filteredFlashcardsData[currentIndex].imagePath = data.path;
+
+            tempImg.onload = () => {
+                img.src = newImagePath;
+                img.style.opacity = '1';
+                deleteImageButton.style.display = 'flex';
+                loadingGif.style.display = 'none';
+                cardElement.classList.remove('loading');
+                showAppMessage("¡Imagen generada!");
+                toggleNavigation(false);
+            };
+        })
+        .catch(async (errorPromise) => {
+            const error = await errorPromise.catch(e => ({ detail: "Error de red o JSON inválido." }));
+            showAppMessage(`❌ Error de IA: ${error.detail}`, true);
             loadingGif.style.display = 'none';
-            cardElement.classList.remove('loading');
-            showAppMessage("¡Imagen generada!");
             toggleNavigation(false);
-        };
-    })
-    .catch(async (errorPromise) => {
-        const error = await errorPromise.catch(e => ({ detail: "Error de red o JSON inválido." }));
-        showAppMessage(`❌ Error de IA: ${error.detail}`, true);
-        loadingGif.style.display = 'none';
-        toggleNavigation(false);
-        cardElement.classList.remove('loading');
-    });
+            cardElement.classList.remove('loading');
+        });
 }
 
 async function deleteImage(event) {
@@ -322,7 +344,7 @@ async function deleteImage(event) {
                 body: JSON.stringify({ index: cardId, def_index: 0 })
             });
             if (!response.ok) throw new Error('No se pudo eliminar la imagen.');
-            
+
             filteredFlashcardsData[currentIndex].imagePath = null;
             loadCard(currentIndex, true);
         } catch (error) {
@@ -380,7 +402,7 @@ async function markAsLearned(event) {
         if (!response.ok) {
             throw new Error('Error al actualizar el estado en el servidor.');
         }
-        
+
         masterFlashcardsData[masterIndex].learned = true;
         filteredFlashcardsData = masterFlashcardsData.filter(card => !card.learned);
 
@@ -441,7 +463,7 @@ function flipCard() {
 // --- INICIO DE LA APLICACIÓN ---
 async function loadData() {
     cardElement = document.getElementById('flashcard');
-    loadingGif = document.getElementById('loadingGif');
+    loadingGif = document.getElementById('loadingSpinner'); // Reutilizamos la variable pero apuntamos al nuevo elemento
     deleteImageButton = document.getElementById('deleteImageButton');
     nextButton = document.getElementById('nextCardBtn');
     prevButton = document.getElementById('prevCardBtn');
@@ -453,7 +475,7 @@ async function loadData() {
         const response = await fetch(`${API_URL}/api/flashcards-data`);
         if (!response.ok) throw new Error('No se pudo cargar los datos desde la API.');
         const data = await response.json();
-        
+
         masterFlashcardsData = data.map((card, index) => ({ ...card, id: index }));
         filteredFlashcardsData = masterFlashcardsData.filter(card => !card.learned);
 
@@ -462,29 +484,29 @@ async function loadData() {
         } else {
             displayCompletionMessage();
         }
-        
+
         const modal = document.getElementById("ipaModal");
         const btn = document.getElementById("ipaChartBtn");
         const span = document.getElementsByClassName("close-button")[0];
 
-        btn.onclick = function(event) {
+        btn.onclick = function (event) {
             event.stopPropagation();
             modal.style.display = "block";
         }
-        span.onclick = function() {
+        span.onclick = function () {
             modal.style.display = "none";
         }
-        window.onclick = function(event) {
+        window.onclick = function (event) {
             if (event.target == modal) {
                 modal.style.display = "none";
             }
         }
-        
+
         function speakIPA(buttonElement) {
             const symbol = buttonElement.textContent;
             const fileName = symbol.replace(':', '-');
             const audio = new Audio(`/static/audio/${fileName}.mp4`);
-            
+
             audio.play().catch(error => {
                 console.error(`Error al reproducir ${fileName}.mp4:`, error);
                 showAppMessage(`❌ Audio para '${symbol}' no encontrado.`, true);

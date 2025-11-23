@@ -1,79 +1,99 @@
 import json
 import logging
 from typing import List, Dict, Any
-from pathlib import Path
 
-# Importamos la configuración central
+# Importamos la configuración central y el helper de GCS
 from app.core.config import settings
+from app.services.gcs_helper import GCSHelper
 
-# --- ¡FUNCIÓN MODIFICADA! ---
+# --- ¡FUNCIÓN REFACTORIZADA PARA GCS! ---
 def list_categories() -> List[str]:
-    """Lista todas las subcarpetas (categorías) en el directorio JSON, priorizando 'phrasal_verbs'."""
-    if not settings.JSON_DIR_PATH.exists():
+    """Lista todas las categorías (carpetas virtuales) desde GCS, priorizando 'phrasal_verbs'."""
+    gcs = GCSHelper()
+    
+    # Obtener los prefijos (directorios virtuales) desde GCS
+    prefixes = gcs.list_virtual_directories(f"{settings.GCS_JSON_PREFIX}/")
+    
+    if not prefixes:
+        logging.warning("No se encontraron categorías en GCS")
         return []
     
-    # 1. Obtener todas las categorías (carpetas)
-    categories = [p.name for p in settings.JSON_DIR_PATH.iterdir() if p.is_dir()]
+    # Extraer nombres de categorías de los prefijos
+    # Ejemplo: "data/json/phrasal_verbs/" -> "phrasal_verbs"
+    categories = [
+        prefix.replace(f"{settings.GCS_JSON_PREFIX}/", "").rstrip("/")
+        for prefix in prefixes
+    ]
     
-    # 2. Ordenarlas alfabéticamente para un orden base predecible
+    # Ordenarlas alfabéticamente para un orden base predecible
     categories.sort()
     
-    # 3. Mover 'phrasal_verbs' al inicio de la lista si existe
+    # Mover 'phrasal_verbs' al inicio de la lista si existe
     preferred_category = "phrasal_verbs"
     if preferred_category in categories:
         categories.remove(preferred_category)
         categories.insert(0, preferred_category)
         
-    logging.info(f"Categorías ordenadas: {categories}")
+    logging.info(f"Categorías encontradas en GCS: {categories}")
     return categories
 
-# --- ¡MODIFICADA! ---
-def _get_deck_path(category: str, deck_name: str) -> Path:
-    """Retorna la ruta completa al archivo JSON de un deck específico DENTRO de una categoría."""
+# --- ¡REFACTORIZADA PARA GCS! ---
+def _get_deck_blob_path(category: str, deck_name: str) -> str:
+    """Retorna la ruta del blob en GCS para un deck específico DENTRO de una categoría."""
     filename = deck_name if deck_name.endswith(".json") else f"{deck_name}.json"
     
-    # Construye la ruta usando la categoría
-    path = settings.JSON_DIR_PATH / category / filename
+    # Construye la ruta del blob en GCS
+    blob_path = f"{settings.GCS_JSON_PREFIX}/{category}/{filename}"
     
-    if not path.exists():
-        logging.warning(f"Archivo de deck no encontrado en: {path}")
+    # Verificar que existe en GCS
+    gcs = GCSHelper()
+    if not gcs.blob_exists(blob_path):
+        logging.warning(f"Blob de deck no encontrado en GCS: {blob_path}")
         raise FileNotFoundError(f"El archivo del deck '{filename}' no existe en la categoría '{category}'.")
-    return path
-
-# --- ¡MODIFICADA! ---
-def list_decks(category: str) -> List[str]:
-    """Lista todos los archivos JSON de decks disponibles DENTRO de una categoría."""
-    category_path = settings.JSON_DIR_PATH / category
     
-    if not category_path.exists() or not category_path.is_dir():
-        logging.warning(f"Categoría no encontrada o no es un directorio: {category_path}")
-        raise FileNotFoundError(f"La categoría '{category}' no existe.")
-        
-    # Lista los JSON dentro de la carpeta de la categoría
-    decks = [p.name for p in category_path.glob("*.json")]
-    logging.info(f"Decks encontrados en '{category}': {len(decks)}")
+    return blob_path
+
+# --- ¡REFACTORIZADA PARA GCS! ---
+def list_decks(category: str) -> List[str]:
+    """Lista todos los archivos JSON de decks disponibles DENTRO de una categoría desde GCS."""
+    gcs = GCSHelper()
+    prefix = f"{settings.GCS_JSON_PREFIX}/{category}/"
+    
+    # Listar todos los blobs con ese prefijo y extensión .json
+    blob_names = gcs.list_blobs_with_prefix(prefix, extension=".json")
+    
+    if not blob_names:
+        logging.warning(f"Categoría no encontrada o vacía en GCS: {category}")
+        raise FileNotFoundError(f"La categoría '{category}' no existe o está vacía.")
+    
+    # Extraer solo el nombre del archivo (sin la ruta completa)
+    decks = [blob.split("/")[-1] for blob in blob_names]
+    
+    logging.info(f"Decks encontrados en GCS para '{category}': {len(decks)}")
     return decks
 
-# --- ¡MODIFICADA! ---
+# --- ¡REFACTORIZADA PARA GCS! ---
 def get_deck_data(category: str, deck_name: str) -> List[Dict[str, Any]]:
-    """Lee y retorna todos los datos de un deck específico."""
-    # Pasa ambos parámetros al helper
-    current_path = _get_deck_path(category, deck_name)
-    try:
-        with open(current_path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except json.JSONDecodeError:
-        logging.error(f"Error al decodificar JSON en: {current_path}")
-        raise ValueError(f"No se pudo leer el archivo '{deck_name}.json'.")
-
-# --- ¡MODIFICADA! ---
-def update_card_status(category: str, deck_name: str, index: int, learned: bool):
-    """Actualiza el estado 'learned' de una tarjeta por índice en un deck."""
-    # Pasa ambos parámetros
-    current_path = _get_deck_path(category, deck_name)
+    """Lee y retorna todos los datos de un deck específico desde GCS."""
+    blob_path = _get_deck_blob_path(category, deck_name)
+    gcs = GCSHelper()
     
     try:
-        # Pasa ambos parámetros
+        json_content = gcs.download_blob_as_string(blob_path)
+        return json.loads(json_content)
+    except json.JSONDecodeError:
+        logging.error(f"Error al decodificar JSON desde GCS: {blob_path}")
+        raise ValueError(f"No se pudo leer el archivo '{deck_name}.json'.")
+    except Exception as e:
+        logging.error(f"Error al cargar deck desde GCS: {e}")
+        raise
+
+# --- ¡REFACTORIZADA PARA GCS! ---
+def update_card_status(category: str, deck_name: str, index: int, learned: bool):
+    """Actualiza el estado 'learned' de una tarjeta por índice en un deck en GCS."""
+    blob_path = _get_deck_blob_path(category, deck_name)
+    
+    try:
         data = get_deck_data(category, deck_name)
     except (FileNotFoundError, ValueError) as e:
         logging.error(f"No se pudo cargar {category}/{deck_name} para actualizar: {e}")
@@ -84,18 +104,20 @@ def update_card_status(category: str, deck_name: str, index: int, learned: bool)
     else:
         raise IndexError("Índice fuera de rango.")
     
-    # Escribir datos
-    with open(current_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+    # Subir datos actualizados a GCS
+    gcs = GCSHelper()
+    json_content = json.dumps(data, indent=4, ensure_ascii=False)
+    success = gcs.upload_blob_from_string(blob_path, json_content, content_type="application/json")
+    
+    if not success:
+        raise Exception(f"Error al actualizar el deck en GCS: {blob_path}")
 
-# --- ¡MODIFICADA! ---
+# --- ¡REFACTORIZADA PARA GCS! ---
 def reset_deck_status(category: str, deck_name: str):
-    """Marca todas las tarjetas como 'not learned' para un deck."""
-    # Pasa ambos parámetros
-    current_path = _get_deck_path(category, deck_name)
+    """Marca todas las tarjetas como 'not learned' para un deck en GCS."""
+    blob_path = _get_deck_blob_path(category, deck_name)
     
     try:
-        # Pasa ambos parámetros
         data = get_deck_data(category, deck_name)
     except (FileNotFoundError, ValueError) as e:
         logging.error(f"No se pudo cargar {category}/{deck_name} para resetear: {e}")
@@ -109,17 +131,21 @@ def reset_deck_status(category: str, deck_name: str):
                 if card['definitions'][i].get('imagePath') is not None:
                         card['definitions'][i]['imagePath'] = None 
             
-    # Escribir datos
-    with open(current_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+    # Subir datos reseteados a GCS
+    gcs = GCSHelper()
+    json_content = json.dumps(data, indent=4, ensure_ascii=False)
+    success = gcs.upload_blob_from_string(blob_path, json_content, content_type="application/json")
+    
+    if not success:
+        raise Exception(f"Error al resetear el deck en GCS: {blob_path}")
 
-# --- ¡FUNCIÓN NUEVA AÑADIDA! ---
+# --- ¡REFACTORIZADA PARA GCS! ---
 def update_image_path_in_card(category: str, deck_name: str, index: int, def_index: int, image_path: str | None):
     """
-    Actualiza el 'imagePath' de una definición específica dentro de una tarjeta en el deck.
+    Actualiza el 'imagePath' de una definición específica dentro de una tarjeta en el deck en GCS.
     Si image_path es None, borra la ruta.
     """
-    current_path = _get_deck_path(category, deck_name)
+    blob_path = _get_deck_blob_path(category, deck_name)
     
     try:
         data = get_deck_data(category, deck_name)
@@ -142,9 +168,13 @@ def update_image_path_in_card(category: str, deck_name: str, index: int, def_ind
     else:
         raise IndexError(f"Índice de tarjeta ({index}) fuera de rango.")
     
-    # Escribir datos
-    with open(current_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+    # Subir datos actualizados a GCS
+    gcs = GCSHelper()
+    json_content = json.dumps(data, indent=4, ensure_ascii=False)
+    success = gcs.upload_blob_from_string(blob_path, json_content, content_type="application/json")
+    
+    if not success:
+        raise Exception(f"Error al actualizar imagen en deck en GCS: {blob_path}")
 
 
 # --- (SIN CAMBIOS) ---
